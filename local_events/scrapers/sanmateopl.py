@@ -57,7 +57,10 @@ def fetch(ics_urls: list[str], city_tag: str, lookahead_days: int = 90) -> list[
                 cat_text = str(categories) if categories else ""
 
                 title = str(comp.get("SUMMARY", "")).strip()
+                desc = str(comp.get("DESCRIPTION", ""))
                 if _is_adult_only(title, cat_text):
+                    continue
+                if _is_under_six(title, desc, cat_text):
                     continue
 
                 events.append(
@@ -82,6 +85,23 @@ def fetch(ics_urls: list[str], city_tag: str, lookahead_days: int = 90) -> list[
 
 ADULT_TOKENS = ("adult", "18+", "21+", "seniors only", "grown-up book club")
 
+# Tokens that strongly imply the event's audience minimum is <6 years old.
+UNDER_SIX_TOKENS = (
+    "baby",
+    "babies",
+    "lapsit",
+    "toddler",
+    "preschool",         # covers "preschooler", "preschoolers"
+    "pre-school",
+    "prek",
+    "pre-k",
+    "0-5",
+    "0 to 5",
+    "birth to",
+    "under 5",
+    "under 6",
+)
+
 
 def _is_adult_only(title: str, categories: str) -> bool:
     hay = f"{title} {categories}".lower()
@@ -90,6 +110,36 @@ def _is_adult_only(title: str, categories: str) -> bool:
         if "family" in hay or "all ages" in hay or "kids" in hay or "children" in hay:
             return False
         return True
+    return False
+
+
+def _is_under_six(title: str, description: str, categories: str) -> bool:
+    """Exclude events whose minimum audience age is <6.
+
+    Uses token match against title/description/categories AND explicit
+    numeric-age patterns like "Ages 0-5", "ages 3-5", "ages 4 and up".
+    """
+    import re
+    hay = f"{title}\n{description}\n{categories}".lower()
+
+    # Token-based match (baby, toddler, preschool, etc.)
+    if any(t in hay for t in UNDER_SIX_TOKENS):
+        return True
+
+    # Numeric age range "Ages 0-5" / "ages 2-5" — exclude if lower bound <6
+    m = re.search(r"ages?\s+(\d+)\s*[-–]\s*(\d+)", hay)
+    if m and int(m.group(1)) < 6:
+        return True
+
+    # "Ages 3 and up" / "ages 4+" — exclude if starting age <6
+    m = re.search(r"ages?\s+(\d+)\s*(?:and up|\+)", hay)
+    if m and int(m.group(1)) < 6:
+        return True
+
+    # Grades starting at K or PreK
+    if re.search(r"grades?\s+(prek|pre-k|k)\b", hay):
+        return True
+
     return False
 
 

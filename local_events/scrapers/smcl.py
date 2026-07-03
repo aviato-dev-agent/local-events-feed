@@ -21,13 +21,15 @@ EVENT_PERMALINK = "https://smcl.bibliocommons.com/events/{event_id}"
 PAGE_LIMIT = 100
 TZ = "America/Los_Angeles"
 
-# Audiences that qualify for a family/kids calendar (ages 5-13 window)
+# Minimum starting age must be >= 6. Any event tagged Preschoolers (0-5) is
+# excluded even when co-tagged with Children (6-11) — those are baby-included
+# family storytimes we don't want.
 KID_AUDIENCES = {
-    "Preschoolers (0-5)",   # 6yo may still enjoy edge cases
     "Children (6-11)",
     "Teens (12-18)",
     "All Ages",
 }
+EXCLUDE_AUDIENCES = {"Preschoolers (0-5)"}
 ADULT_ONLY_AUDIENCES = {"Adults (19+)", "Adults (55+)"}
 
 
@@ -58,6 +60,8 @@ def fetch(branch_to_tag: dict[str, str], lookahead_days: int = 90) -> list[Event
                     continue
                 audience_names = {audience_lookup.get(a) for a in d0.get("audienceIds") or []}
                 if not audience_names & KID_AUDIENCES:
+                    continue
+                if audience_names & EXCLUDE_AUDIENCES:
                     continue
                 if audience_names and audience_names.issubset(ADULT_ONLY_AUDIENCES):
                     continue
@@ -103,8 +107,6 @@ def fetch(branch_to_tag: dict[str, str], lookahead_days: int = 90) -> list[Event
 
 def _pick_age_range(audience_names: set[str]) -> str:
     parts = []
-    if "Preschoolers (0-5)" in audience_names:
-        parts.append("0-5")
     if "Children (6-11)" in audience_names:
         parts.append("6-11")
     if "Teens (12-18)" in audience_names:
