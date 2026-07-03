@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.ics.prev
+*.ics.tmp
+.DS_Store

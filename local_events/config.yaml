@@ -1,0 +1,42 @@
+age_range:
+  min: 5
+  max: 13
+
+lookahead_days: 90
+
+output_path: ~/Dropbox/claude/calendars/local-events.ics
+cache_dir: ~/scripts/local-events/cache
+log_path: ~/Library/Logs/local-events-sync.log
+
+# Empty-source alarm: alert if today's count is 0 and yesterday's was >= this value
+empty_source_alarm_threshold: 2
+
+sources:
+  smcl:
+    enabled: true
+    # BiblioCommons library slug (smcl = San Mateo County Libraries)
+    library: smcl
+    # Branches we care about, mapped to our city tag
+    branches:
+      Atherton: ATH
+      Belmont: B
+      "Redwood City Downtown": RWC
+      "Redwood City Redwood Shores": RWC
+      "Redwood City Schaberg": RWC
+      "Redwood City Fair Oaks": RWC
+      "San Carlos": SC
+  sanmateopl:
+    enabled: true
+    # San Mateo Public Library (city library, LibCal). Native ICS feed.
+    ics_urls:
+      - "https://sanmateopublic.libcal.com/ical_subscribe.php?src=p&cid=16089"  # Children's & Family
+    city_tag: SM
+  redwoodcity:
+    enabled: false  # Phase 3
+    city_tag: RWC
+  menlopark:
+    enabled: false  # Phase 3
+    city_tag: MP
+  paloalto:
+    enabled: false  # Phase 3
+    city_tag: PA

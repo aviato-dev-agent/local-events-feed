@@ -1,0 +1,50 @@
+name: sync
+
+on:
+  schedule:
+    # 13:00 UTC = 6am PDT / 5am PST. Runs once a day.
+    - cron: '0 13 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Generate ICS
+        run: python -m local_events.sync --out local-events.ics
+
+      - name: Commit if changed
+        run: |
+          git config user.name "aviato-dev-agent[bot]"
+          git config user.email "bot@aviato-dev-agent.users.noreply.github.com"
+          git add local-events.ics
+          # Commit if the *event content* changed. We ignore DTSTAMP-only churn by
+          # diffing the file with those lines stripped.
+          if ! git diff --cached --quiet -- local-events.ics; then
+            # Suppress no-op runs where only DTSTAMP: lines changed
+            changed_lines=$(git diff --cached -U0 -- local-events.ics \
+              | grep -E '^[+-]' \
+              | grep -vE '^[+-]{3}' \
+              | grep -vE '^[+-]DTSTAMP:' \
+              | wc -l)
+            if [ "$changed_lines" -gt 0 ]; then
+              git commit -m "sync: $(date -u +%F) (${changed_lines} lines changed)"
+              git push
+            else
+              echo "Only DTSTAMP churn; skipping commit."
+              git reset HEAD -- local-events.ics
+            fi
+          else
+            echo "No changes to ICS file."
+          fi
