@@ -94,7 +94,7 @@ def main(argv: list[str] | None = None) -> int:
     # Prior-good fallback: only overwrite if we produced a non-empty ICS
     if len(events) == 0 and out_path.exists():
         log.warning("no events produced; preserving prior ICS at %s", out_path)
-        return 2
+        return 0
 
     # Atomic write
     tmp = out_path.with_suffix(out_path.suffix + ".tmp")
