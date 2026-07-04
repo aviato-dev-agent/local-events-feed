@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Paws for Tales
 DTSTART;TZID=America/Los_Angeles:20260806T170000
 DTEND;TZID=America/Los_Angeles:20260806T180000
-DTSTAMP:20260703T225103Z
+DTSTAMP:20260704T142322Z
 UID:smcl-69fd0f2117731928001837d7@local-events
 DESCRIPTION:Do you have a reluctant reader? Sign your child up for a sessi
  on to practice reading with a therapy dog at the library.\n\nStudies show 
@@ -24,403 +24,35 @@ DESCRIPTION:Do you have a reluctant reader? Sign your child up for a sessi
   your 10-minute slot at smcl.org/pawsfortales! We do our best to incorpora
  te drop-ins as much as possible\, so feel free to stop by!\n\nAges: 6-11\n
  Registration: none\nSource: https://smcl.bibliocommons.com/events/69fd0f21
- 17731928001837d7\nLast synced: 2026-07-03 15:51 PDT
+ 17731928001837d7\nLast synced: 2026-07-04 07:23 PDT
 LOCATION:Atherton
 URL:https://smcl.bibliocommons.com/events/69fd0f2117731928001837d7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] VolunTEEN Hour
-DTSTART;TZID=America/Los_Angeles:20260914T153000
-DTEND;TZID=America/Los_Angeles:20260914T163000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a0b744ee13d3b4603b4aead@local-events
-DESCRIPTION:Need some volunteer hours but don’t have a lot of time to co
- mmit? High school students can drop in to our library during this program 
- to help us with tasks such as program prep\, display help\, and research t
- asks. It’s a fun and easy way to make a difference in your community whi
- le hanging out with your friends. We’ll vouch for your time spent!\n\nAg
- es: 12-18\nRegistration: none\nSource: https://smcl.bibliocommons.com/even
- ts/6a0b744ee13d3b4603b4aead\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a0b744ee13d3b4603b4aead
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ATH] STEAM Team: Soap Carving
 DTSTART;TZID=America/Los_Angeles:20260720T160000
 DTEND;TZID=America/Los_Angeles:20260720T170000
-DTSTAMP:20260703T225103Z
+DTSTAMP:20260704T142322Z
 UID:smcl-6a31b20a72ddb736008171d7@local-events
 DESCRIPTION:Today\, we'll be scientists\, engineers and beyond! Join us at
   the library every month for a new STEAM activity for you to explore. This
   time\, we’ll be creating our own unique soap sculpture using a bar of s
  oap and upcycled carving tools! No registration\, as supplies last.\n\nAge
  s: 6-11\nRegistration: required\nSource: https://smcl.bibliocommons.com/ev
- ents/6a31b20a72ddb736008171d7\nLast synced: 2026-07-03 15:51 PDT
+ ents/6a31b20a72ddb736008171d7\nLast synced: 2026-07-04 07:23 PDT
 LOCATION:Atherton
 URL:https://smcl.bibliocommons.com/events/6a31b20a72ddb736008171d7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Tech Tutor Drop-In
-DTSTART;TZID=America/Los_Angeles:20260920T130000
-DTEND;TZID=America/Los_Angeles:20260920T140000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a42ea2541251a9e77c6f27f@local-events
-DESCRIPTION:Got burning questions about your phone or laptop? Whether you'
- re puzzled about sending email attachments or adding new contacts\, fear n
- ot! Swing by with your device and chat with our tech-savvy staff for pers
- onalized assistance that'll leave you feeling empowered and ready to conqu
- er the digital world! Please note that sessions are limited to 10 minutes.
- \n\nAges: 12-18\nRegistration: none\nSource: https://smcl.bibliocommons.co
- m/events/6a42ea2541251a9e77c6f27f\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a42ea2541251a9e77c6f27f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Tech Tutor Drop-In
-DTSTART;TZID=America/Los_Angeles:20260913T130000
-DTEND;TZID=America/Los_Angeles:20260913T140000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a42ea2541251a9e77c6f27e@local-events
-DESCRIPTION:Got burning questions about your phone or laptop? Whether you'
- re puzzled about sending email attachments or adding new contacts\, fear n
- ot! Swing by with your device and chat with our tech-savvy staff for pers
- onalized assistance that'll leave you feeling empowered and ready to conqu
- er the digital world! Please note that sessions are limited to 10 minutes.
- \n\nAges: 12-18\nRegistration: none\nSource: https://smcl.bibliocommons.co
- m/events/6a42ea2541251a9e77c6f27e\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a42ea2541251a9e77c6f27e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Tech Tutor Drop-In
-DTSTART;TZID=America/Los_Angeles:20260830T130000
-DTEND;TZID=America/Los_Angeles:20260830T140000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a42ea2541251a9e77c6f27d@local-events
-DESCRIPTION:Got burning questions about your phone or laptop? Whether you'
- re puzzled about sending email attachments or adding new contacts\, fear n
- ot! Swing by with your device and chat with our tech-savvy staff for pers
- onalized assistance that'll leave you feeling empowered and ready to conqu
- er the digital world! Please note that sessions are limited to 10 minutes.
- \n\nAges: 12-18\nRegistration: none\nSource: https://smcl.bibliocommons.co
- m/events/6a42ea2541251a9e77c6f27d\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a42ea2541251a9e77c6f27d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Tech Tutor Drop-In
-DTSTART;TZID=America/Los_Angeles:20260823T130000
-DTEND;TZID=America/Los_Angeles:20260823T140000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a42ea2541251a9e77c6f27c@local-events
-DESCRIPTION:Got burning questions about your phone or laptop? Whether you'
- re puzzled about sending email attachments or adding new contacts\, fear n
- ot! Swing by with your device and chat with our tech-savvy staff for pers
- onalized assistance that'll leave you feeling empowered and ready to conqu
- er the digital world! Please note that sessions are limited to 10 minutes.
- \n\nAges: 12-18\nRegistration: none\nSource: https://smcl.bibliocommons.co
- m/events/6a42ea2541251a9e77c6f27c\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a42ea2541251a9e77c6f27c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Tech Tutor Drop-In
-DTSTART;TZID=America/Los_Angeles:20260816T130000
-DTEND;TZID=America/Los_Angeles:20260816T140000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a42ea2541251a9e77c6f27b@local-events
-DESCRIPTION:Got burning questions about your phone or laptop? Whether you'
- re puzzled about sending email attachments or adding new contacts\, fear n
- ot! Swing by with your device and chat with our tech-savvy staff for pers
- onalized assistance that'll leave you feeling empowered and ready to conqu
- er the digital world! Please note that sessions are limited to 10 minutes.
- \n\nAges: 12-18\nRegistration: none\nSource: https://smcl.bibliocommons.co
- m/events/6a42ea2541251a9e77c6f27b\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a42ea2541251a9e77c6f27b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Tech Tutor Drop-In
-DTSTART;TZID=America/Los_Angeles:20260802T130000
-DTEND;TZID=America/Los_Angeles:20260802T140000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a42ea2541251a9e77c6f279@local-events
-DESCRIPTION:Got burning questions about your phone or laptop? Whether you'
- re puzzled about sending email attachments or adding new contacts\, fear n
- ot! Swing by with your device and chat with our tech-savvy staff for pers
- onalized assistance that'll leave you feeling empowered and ready to conqu
- er the digital world! Please note that sessions are limited to 10 minutes.
- \n\nAges: 12-18\nRegistration: none\nSource: https://smcl.bibliocommons.co
- m/events/6a42ea2541251a9e77c6f279\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a42ea2541251a9e77c6f279
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Tech Tutor Drop-In
-DTSTART;TZID=America/Los_Angeles:20260809T130000
-DTEND;TZID=America/Los_Angeles:20260809T140000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a42ea2541251a9e77c6f27a@local-events
-DESCRIPTION:Got burning questions about your phone or laptop? Whether you'
- re puzzled about sending email attachments or adding new contacts\, fear n
- ot! Swing by with your device and chat with our tech-savvy staff for pers
- onalized assistance that'll leave you feeling empowered and ready to conqu
- er the digital world! Please note that sessions are limited to 10 minutes.
- \n\nAges: 12-18\nRegistration: none\nSource: https://smcl.bibliocommons.co
- m/events/6a42ea2541251a9e77c6f27a\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a42ea2541251a9e77c6f27a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Tech Tutor Drop-In
-DTSTART;TZID=America/Los_Angeles:20260726T130000
-DTEND;TZID=America/Los_Angeles:20260726T140000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a42ea2541251a9e77c6f278@local-events
-DESCRIPTION:Got burning questions about your phone or laptop? Whether you'
- re puzzled about sending email attachments or adding new contacts\, fear n
- ot! Swing by with your device and chat with our tech-savvy staff for pers
- onalized assistance that'll leave you feeling empowered and ready to conqu
- er the digital world! Please note that sessions are limited to 10 minutes.
- \n\nAges: 12-18\nRegistration: none\nSource: https://smcl.bibliocommons.co
- m/events/6a42ea2541251a9e77c6f278\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a42ea2541251a9e77c6f278
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Tech Tutor Drop-In
-DTSTART;TZID=America/Los_Angeles:20260719T130000
-DTEND;TZID=America/Los_Angeles:20260719T140000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a42ea2541251a9e77c6f277@local-events
-DESCRIPTION:Got burning questions about your phone or laptop? Whether you'
- re puzzled about sending email attachments or adding new contacts\, fear n
- ot! Swing by with your device and chat with our tech-savvy staff for pers
- onalized assistance that'll leave you feeling empowered and ready to conqu
- er the digital world! Please note that sessions are limited to 10 minutes.
- \n\nAges: 12-18\nRegistration: none\nSource: https://smcl.bibliocommons.co
- m/events/6a42ea2541251a9e77c6f277\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a42ea2541251a9e77c6f277
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Tech Tutor Drop-In
-DTSTART;TZID=America/Los_Angeles:20260712T130000
-DTEND;TZID=America/Los_Angeles:20260712T140000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a42ea2541251a9e77c6f276@local-events
-DESCRIPTION:Got burning questions about your phone or laptop? Whether you'
- re puzzled about sending email attachments or adding new contacts\, fear n
- ot! Swing by with your device and chat with our tech-savvy staff for pers
- onalized assistance that'll leave you feeling empowered and ready to conqu
- er the digital world! Please note that sessions are limited to 10 minutes.
- \n\nAges: 12-18\nRegistration: none\nSource: https://smcl.bibliocommons.co
- m/events/6a42ea2541251a9e77c6f276\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a42ea2541251a9e77c6f276
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] VolunTEEN Hour
-DTSTART;TZID=America/Los_Angeles:20260810T153000
-DTEND;TZID=America/Los_Angeles:20260810T163000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a0b744ee13d3b4603b4aeac@local-events
-DESCRIPTION:Need some volunteer hours but don’t have a lot of time to co
- mmit? High school students can drop in to our library during this program 
- to help us with tasks such as program prep\, display help\, and research t
- asks. It’s a fun and easy way to make a difference in your community whi
- le hanging out with your friends. We’ll vouch for your time spent!\n\nAg
- es: 12-18\nRegistration: none\nSource: https://smcl.bibliocommons.com/even
- ts/6a0b744ee13d3b4603b4aeac\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a0b744ee13d3b4603b4aeac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Intro to Robotics and Circuitry With Team 5940 Bread
-DTSTART;TZID=America/Los_Angeles:20260801T140000
-DTEND;TZID=America/Los_Angeles:20260801T153000
-DTSTAMP:20260703T225103Z
-UID:smcl-69fb6f28c7d3cd58005769a8@local-events
-DESCRIPTION:Join award-winning high school and robotics group Team 5940 BR
- EAD as \nthey demonstrate the foundations of robotics and circuitry. This 
- hands-on program will let participants code robots and learn the science o
- f \ncircuits.\n\nThis program is limited to the first 15 participants. Onl
- ine Registration required.\n\nAges: 6-11\, 12-18\nRegistration: required\n
- Source: https://smcl.bibliocommons.com/events/69fb6f28c7d3cd58005769a8\nLa
- st synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/69fb6f28c7d3cd58005769a8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260728T173000
-DTEND;TZID=America/Los_Angeles:20260728T183000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a3187dec7d3cd580060c922@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Haas Center for Public Service. Open to chil
- dren entering kindergarten through 3rd grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c
- 922\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c922
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260730T173000
-DTEND;TZID=America/Los_Angeles:20260730T183000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a3187dec7d3cd580060c923@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Haas Center for Public Service. Open to chil
- dren entering kindergarten through 3rd grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c
- 923\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c923
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260709T173000
-DTEND;TZID=America/Los_Angeles:20260709T183000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a3187dec7d3cd580060c91d@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Haas Center for Public Service. Open to chil
- dren entering kindergarten through 3rd grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c
- 91d\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c91d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260707T173000
-DTEND;TZID=America/Los_Angeles:20260707T183000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a3187dec7d3cd580060c91c@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Haas Center for Public Service. Open to chil
- dren entering kindergarten through 3rd grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c
- 91c\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c91c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260714T173000
-DTEND;TZID=America/Los_Angeles:20260714T183000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a3187dec7d3cd580060c91e@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Haas Center for Public Service. Open to chil
- dren entering kindergarten through 3rd grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c
- 91e\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c91e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] VolunTEEN Hour
-DTSTART;TZID=America/Los_Angeles:20260713T153000
-DTEND;TZID=America/Los_Angeles:20260713T163000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a0b744ee13d3b4603b4aeab@local-events
-DESCRIPTION:Need some volunteer hours but don’t have a lot of time to co
- mmit? High school students can drop in to our library during this program 
- to help us with tasks such as program prep\, display help\, and research t
- asks. It’s a fun and easy way to make a difference in your community whi
- le hanging out with your friends. We’ll vouch for your time spent!\n\nAg
- es: 12-18\nRegistration: none\nSource: https://smcl.bibliocommons.com/even
- ts/6a0b744ee13d3b4603b4aeab\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a0b744ee13d3b4603b4aeab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260805T160000
-DTEND;TZID=America/Los_Angeles:20260805T170000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a419fc4f0a66233671b5f95@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Hass Center for Public Service. Open to chil
- dren entering kindergarten through 5th grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5
- f95\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5f95
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260722T160000
-DTEND;TZID=America/Los_Angeles:20260722T170000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a419fc4f0a66233671b5f91@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Hass Center for Public Service. Open to chil
- dren entering kindergarten through 5th grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5
- f91\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5f91
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Mandarin Chinese Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260731T110000
-DTEND;TZID=America/Los_Angeles:20260731T120000
-DTSTAMP:20260703T225103Z
-UID:smcl-69bb393f81b67dfe32ad8f5b@local-events
-DESCRIPTION:Welcome to the Mandarin Chinese Conversation Club! This is a f
- riendly space where Mandarin learners and speakers can practice conversati
- on\, explore Chinese culture\, and connect with others in the community. P
- articipants should have a basic ability to communicate in Mandarin and be 
- comfortable carrying on simple conversations.\n\nAges: 12-18\nRegistration
- : none\nSource: https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad
- 8f5b\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad8f5b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Tech Tutor Drop-In
-DTSTART;TZID=America/Los_Angeles:20260927T130000
-DTEND;TZID=America/Los_Angeles:20260927T140000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a42ea2541251a9e77c6f280@local-events
-DESCRIPTION:Got burning questions about your phone or laptop? Whether you'
- re puzzled about sending email attachments or adding new contacts\, fear n
- ot! Swing by with your device and chat with our tech-savvy staff for pers
- onalized assistance that'll leave you feeling empowered and ready to conqu
- er the digital world! Please note that sessions are limited to 10 minutes.
- \n\nAges: 12-18\nRegistration: none\nSource: https://smcl.bibliocommons.co
- m/events/6a42ea2541251a9e77c6f280\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a42ea2541251a9e77c6f280
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ATH] Slime-Tastic Summer Series: Jelly Cube Slime
 DTSTART;TZID=America/Los_Angeles:20260831T160000
 DTEND;TZID=America/Los_Angeles:20260831T170000
-DTSTAMP:20260703T225103Z
+DTSTAMP:20260704T142322Z
 UID:smcl-6a0b812ea99bdd027d421b1c@local-events
 DESCRIPTION:Squish\, stretch\, and jelly-brate the fun with colorful Jelly
   Cube slime! Packed with soft\, squishy cubes that make every pull extra j
  elly-fying.\n\nAges: 6-11\nRegistration: none\nSource: https://smcl.biblio
- commons.com/events/6a0b812ea99bdd027d421b1c\nLast synced: 2026-07-03 15:51
+ commons.com/events/6a0b812ea99bdd027d421b1c\nLast synced: 2026-07-04 07:23
   PDT
 LOCATION:Atherton
 URL:https://smcl.bibliocommons.com/events/6a0b812ea99bdd027d421b1c
@@ -429,38 +61,22 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Slime-Tastic Summer Series:  Fluffy Floam Slime
 DTSTART;TZID=America/Los_Angeles:20260817T160000
 DTEND;TZID=America/Los_Angeles:20260817T170000
-DTSTAMP:20260703T225103Z
+DTSTAMP:20260704T142322Z
 UID:smcl-6a0b8007490f176f7dd59af5@local-events
 DESCRIPTION:Squish it\, stretch it\, crunch it! Fluffy Floam Slime combine
  s soft\, cloud-like slime with colorful foam beads for the ultimate textur
  ed slime experience. Enjoy endless pops\, satisfying crunches\, and extra 
  fluffy fun.\n\nAges: 6-11\nRegistration: none\nSource: https://smcl.biblio
- commons.com/events/6a0b8007490f176f7dd59af5\nLast synced: 2026-07-03 15:51
+ commons.com/events/6a0b8007490f176f7dd59af5\nLast synced: 2026-07-04 07:23
   PDT
 LOCATION:Atherton
 URL:https://smcl.bibliocommons.com/events/6a0b8007490f176f7dd59af5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[B] Mandarin Chinese Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260828T110000
-DTEND;TZID=America/Los_Angeles:20260828T120000
-DTSTAMP:20260703T225103Z
-UID:smcl-69bb393f81b67dfe32ad8f5f@local-events
-DESCRIPTION:Welcome to the Mandarin Chinese Conversation Club! This is a f
- riendly space where Mandarin learners and speakers can practice conversati
- on\, explore Chinese culture\, and connect with others in the community. P
- articipants should have a basic ability to communicate in Mandarin and be 
- comfortable carrying on simple conversations.\n\nAges: 12-18\nRegistration
- : none\nSource: https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad
- 8f5f\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad8f5f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[ATH] Library Green Team – Children's Garden Scavenger Hunt
 DTSTART;TZID=America/Los_Angeles:20260709T160000
 DTEND;TZID=America/Los_Angeles:20260709T170000
-DTSTAMP:20260703T225103Z
+DTSTAMP:20260704T142322Z
 UID:smcl-6a481d8af47779f28bbe1a5b@local-events
 DESCRIPTION:The Library Green Team is a collaborative Earth-forward progra
  m aiming to build enthusiasm for taking care of our planet and appreciatin
@@ -470,79 +86,15 @@ DESCRIPTION:The Library Green Team is a collaborative Earth-forward progra
  dren’s Garden for an outdoor scavenger hunt! Find all the hidden critter
  s in our garden to earn your Library Green Team badge!\n\nAges: 6-11\nRegi
  stration: none\nSource: https://smcl.bibliocommons.com/events/6a481d8af477
- 79f28bbe1a5b\nLast synced: 2026-07-03 15:51 PDT
+ 79f28bbe1a5b\nLast synced: 2026-07-04 07:23 PDT
 LOCATION:Atherton
 URL:https://smcl.bibliocommons.com/events/6a481d8af47779f28bbe1a5b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260715T160000
-DTEND;TZID=America/Los_Angeles:20260715T170000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a419fc4f0a66233671b5f8f@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Hass Center for Public Service. Open to chil
- dren entering kindergarten through 5th grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5
- f8f\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5f8f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260723T160000
-DTEND;TZID=America/Los_Angeles:20260723T170000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a419fc4f0a66233671b5f92@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Hass Center for Public Service. Open to chil
- dren entering kindergarten through 5th grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5
- f92\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5f92
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260716T160000
-DTEND;TZID=America/Los_Angeles:20260716T170000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a419fc4f0a66233671b5f90@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Hass Center for Public Service. Open to chil
- dren entering kindergarten through 5th grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5
- f90\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5f90
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Mandarin Chinese Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260911T110000
-DTEND;TZID=America/Los_Angeles:20260911T120000
-DTSTAMP:20260703T225103Z
-UID:smcl-69bb393f81b67dfe32ad8f61@local-events
-DESCRIPTION:Welcome to the Mandarin Chinese Conversation Club! This is a f
- riendly space where Mandarin learners and speakers can practice conversati
- on\, explore Chinese culture\, and connect with others in the community. P
- articipants should have a basic ability to communicate in Mandarin and be 
- comfortable carrying on simple conversations.\n\nAges: 12-18\nRegistration
- : none\nSource: https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad
- 8f61\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad8f61
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ATH] Messy Makers: DIY Bubbles
 DTSTART;TZID=America/Los_Angeles:20260728T160000
 DTEND;TZID=America/Los_Angeles:20260728T170000
-DTSTAMP:20260703T225103Z
+DTSTAMP:20260704T142322Z
 UID:smcl-6a2b3e2616554cd59fc82fbd@local-events
 DESCRIPTION:Let’s get messy this summer! Join us for a fun new experimen
  t that will explore the exciting and reactive sides of science. This week\
@@ -550,48 +102,16 @@ DESCRIPTION:Let’s get messy this summer! Join us for a fun new experimen
  eate our own homemade bubbles!\n\n\nAprons will be available upon request 
  for anyone looking to mitigate the mess. No registration required\, as su
  pplies last.\n\nAges: 6-11\nRegistration: none\nSource: https://smcl.bibli
- ocommons.com/events/6a2b3e2616554cd59fc82fbd\nLast synced: 2026-07-03 15:5
- 1 PDT
+ ocommons.com/events/6a2b3e2616554cd59fc82fbd\nLast synced: 2026-07-04 07:2
+ 3 PDT
 LOCATION:Atherton
 URL:https://smcl.bibliocommons.com/events/6a2b3e2616554cd59fc82fbd
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260730T160000
-DTEND;TZID=America/Los_Angeles:20260730T170000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a419fc4f0a66233671b5f94@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Hass Center for Public Service. Open to chil
- dren entering kindergarten through 5th grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5
- f94\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5f94
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Mandarin Chinese Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260925T110000
-DTEND;TZID=America/Los_Angeles:20260925T120000
-DTSTAMP:20260703T225103Z
-UID:smcl-69bb393f81b67dfe32ad8f63@local-events
-DESCRIPTION:Welcome to the Mandarin Chinese Conversation Club! This is a f
- riendly space where Mandarin learners and speakers can practice conversati
- on\, explore Chinese culture\, and connect with others in the community. P
- articipants should have a basic ability to communicate in Mandarin and be 
- comfortable carrying on simple conversations.\n\nAges: 12-18\nRegistration
- : none\nSource: https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad
- 8f63\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad8f63
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ATH] Summer Reading Buddies: World Cup!
 DTSTART;TZID=America/Los_Angeles:20260708T160000
 DTEND;TZID=America/Los_Angeles:20260708T170000
-DTSTAMP:20260703T225103Z
+DTSTAMP:20260704T142322Z
 UID:smcl-6a459a8c48c98c3600a3bcc9@local-events
 DESCRIPTION:Drop in and work on your reading skills this summer! Join us f
  or games\, activities and one-on-one reading practice with our supportive 
@@ -601,95 +121,15 @@ DESCRIPTION:Drop in and work on your reading skills this summer! Join us f
  ld Cup! Come along and create origami jerseys\, play fun games\, and grow 
  your reading skills!\n\nAges: 6-11\nRegistration: none\nSource: https://sm
  cl.bibliocommons.com/events/6a459a8c48c98c3600a3bcc9\nLast synced: 2026-07
- -03 15:51 PDT
+ -04 07:23 PDT
 LOCATION:Atherton
 URL:https://smcl.bibliocommons.com/events/6a459a8c48c98c3600a3bcc9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Mandarin Chinese Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260814T110000
-DTEND;TZID=America/Los_Angeles:20260814T120000
-DTSTAMP:20260703T225103Z
-UID:smcl-69bb393f81b67dfe32ad8f5d@local-events
-DESCRIPTION:Welcome to the Mandarin Chinese Conversation Club! This is a f
- riendly space where Mandarin learners and speakers can practice conversati
- on\, explore Chinese culture\, and connect with others in the community. P
- articipants should have a basic ability to communicate in Mandarin and be 
- comfortable carrying on simple conversations.\n\nAges: 12-18\nRegistration
- : none\nSource: https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad
- 8f5d\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad8f5d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Mandarin Chinese Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260807T110000
-DTEND;TZID=America/Los_Angeles:20260807T120000
-DTSTAMP:20260703T225103Z
-UID:smcl-69bb393f81b67dfe32ad8f5c@local-events
-DESCRIPTION:Welcome to the Mandarin Chinese Conversation Club! This is a f
- riendly space where Mandarin learners and speakers can practice conversati
- on\, explore Chinese culture\, and connect with others in the community. P
- articipants should have a basic ability to communicate in Mandarin and be 
- comfortable carrying on simple conversations.\n\nAges: 12-18\nRegistration
- : none\nSource: https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad
- 8f5c\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad8f5c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Mandarin Chinese Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260724T110000
-DTEND;TZID=America/Los_Angeles:20260724T120000
-DTSTAMP:20260703T225103Z
-UID:smcl-69bb393f81b67dfe32ad8f5a@local-events
-DESCRIPTION:Welcome to the Mandarin Chinese Conversation Club! This is a f
- riendly space where Mandarin learners and speakers can practice conversati
- on\, explore Chinese culture\, and connect with others in the community. P
- articipants should have a basic ability to communicate in Mandarin and be 
- comfortable carrying on simple conversations.\n\nAges: 12-18\nRegistration
- : none\nSource: https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad
- 8f5a\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad8f5a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Mandarin Chinese Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260717T110000
-DTEND;TZID=America/Los_Angeles:20260717T120000
-DTSTAMP:20260703T225103Z
-UID:smcl-69bb393f81b67dfe32ad8f59@local-events
-DESCRIPTION:Welcome to the Mandarin Chinese Conversation Club! This is a f
- riendly space where Mandarin learners and speakers can practice conversati
- on\, explore Chinese culture\, and connect with others in the community. P
- articipants should have a basic ability to communicate in Mandarin and be 
- comfortable carrying on simple conversations.\n\nAges: 12-18\nRegistration
- : none\nSource: https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad
- 8f59\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad8f59
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Mandarin Chinese Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260710T110000
-DTEND;TZID=America/Los_Angeles:20260710T120000
-DTSTAMP:20260703T225103Z
-UID:smcl-69bb393f81b67dfe32ad8f58@local-events
-DESCRIPTION:Welcome to the Mandarin Chinese Conversation Club! This is a f
- riendly space where Mandarin learners and speakers can practice conversati
- on\, explore Chinese culture\, and connect with others in the community. P
- articipants should have a basic ability to communicate in Mandarin and be 
- comfortable carrying on simple conversations.\n\nAges: 12-18\nRegistration
- : none\nSource: https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad
- 8f58\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad8f58
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ATH] Monday Vibe Check: Teen Hangout - Zen Garden
 DTSTART;TZID=America/Los_Angeles:20260803T180000
 DTEND;TZID=America/Los_Angeles:20260803T190000
-DTSTAMP:20260703T225103Z
+DTSTAMP:20260704T142322Z
 UID:smcl-6a3ad058f56bd86e00b89737@local-events
 DESCRIPTION:Customize a Zen garden with sand and fun decorations that tota
  lly match your vibe. Add mini charms\, fun accessories\, beads\, tiny figu
@@ -698,7 +138,7 @@ DESCRIPTION:Customize a Zen garden with sand and fun decorations that tota
  ll project for when you want to unplug\, get creative\, and add some peace
  ful energy to your space.\n\nAges: 12-18\nRegistration: none\nSource: http
  s://smcl.bibliocommons.com/events/6a3ad058f56bd86e00b89737\nLast synced: 2
- 026-07-03 15:51 PDT
+ 026-07-04 07:23 PDT
 LOCATION:Atherton
 URL:https://smcl.bibliocommons.com/events/6a3ad058f56bd86e00b89737
 END:VEVENT
@@ -706,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Monday Vibe Check: Teen Hangout - DIY Marble Paint Coasters
 DTSTART;TZID=America/Los_Angeles:20260706T180000
 DTEND;TZID=America/Los_Angeles:20260706T190000
-DTSTAMP:20260703T225103Z
+DTSTAMP:20260704T142322Z
 UID:smcl-6a3acd0ff56bd86e00b89626@local-events
 DESCRIPTION:Held on the first Monday of every month\, each session will fe
  ature a new theme with art projects\, music\, snacks\, and casual social t
@@ -717,269 +157,35 @@ DESCRIPTION:Held on the first Monday of every month\, each session will fe
  sters are a cool way to express your creativity while making something pra
  ctical\, you'll actually use.\n\nAges: 12-18\nRegistration: none\nSource: 
  https://smcl.bibliocommons.com/events/6a3acd0ff56bd86e00b89626\nLast synce
- d: 2026-07-03 15:51 PDT
+ d: 2026-07-04 07:23 PDT
 LOCATION:Atherton
 URL:https://smcl.bibliocommons.com/events/6a3acd0ff56bd86e00b89626
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] San Carlos Friends of the Library Book Sale
-DTSTART;TZID=America/Los_Angeles:20260920T130000
-DTEND;TZID=America/Los_Angeles:20260920T160000
-DTSTAMP:20260703T225103Z
-UID:smcl-69375c607ed7c62f00a97cb6@local-events
-DESCRIPTION:Choose from thousands of books\, CDs\, DVDs\, and more in gent
- ly-used and like-new condition. Items are for all ages in all genres at i
- ncredibly low prices—from 25 cents to  $2—plus a great selection of ra
- re books\, priced individually. Proceeds benefit the library. Sale occurs
-  the primarily on the 3rd Sunday of each month\, with some  exceptions.\
- n\nAges: All ages\nRegistration: none\nSource: https://smcl.bibliocommons.
- com/events/69375c607ed7c62f00a97cb6\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/69375c607ed7c62f00a97cb6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] San Carlos Friends of the Library Book Sale
-DTSTART;TZID=America/Los_Angeles:20260816T130000
-DTEND;TZID=America/Los_Angeles:20260816T160000
-DTSTAMP:20260703T225103Z
-UID:smcl-69375c607ed7c62f00a97cb5@local-events
-DESCRIPTION:Choose from thousands of books\, CDs\, DVDs\, and more in gent
- ly-used and like-new condition. Items are for all ages in all genres at i
- ncredibly low prices—from 25 cents to  $2—plus a great selection of ra
- re books\, priced individually. Proceeds benefit the library. Sale occurs
-  the primarily on the 3rd Sunday of each month\, with some  exceptions.\
- n\nAges: All ages\nRegistration: none\nSource: https://smcl.bibliocommons.
- com/events/69375c607ed7c62f00a97cb5\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/69375c607ed7c62f00a97cb5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] San Carlos Friends of the Library Book Sale
-DTSTART;TZID=America/Los_Angeles:20260719T130000
-DTEND;TZID=America/Los_Angeles:20260719T160000
-DTSTAMP:20260703T225103Z
-UID:smcl-69375c607ed7c62f00a97cb4@local-events
-DESCRIPTION:Choose from thousands of books\, CDs\, DVDs\, and more in gent
- ly-used and like-new condition. Items are for all ages in all genres at i
- ncredibly low prices—from 25 cents to  $2—plus a great selection of ra
- re books\, priced individually. Proceeds benefit the library. Sale occurs
-  the primarily on the 3rd Sunday of each month\, with some  exceptions.\
- n\nAges: All ages\nRegistration: none\nSource: https://smcl.bibliocommons.
- com/events/69375c607ed7c62f00a97cb4\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/69375c607ed7c62f00a97cb4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Mandarin Chinese Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260821T110000
-DTEND;TZID=America/Los_Angeles:20260821T120000
-DTSTAMP:20260703T225103Z
-UID:smcl-69bb393f81b67dfe32ad8f5e@local-events
-DESCRIPTION:Welcome to the Mandarin Chinese Conversation Club! This is a f
- riendly space where Mandarin learners and speakers can practice conversati
- on\, explore Chinese culture\, and connect with others in the community. P
- articipants should have a basic ability to communicate in Mandarin and be 
- comfortable carrying on simple conversations.\n\nAges: 12-18\nRegistration
- : none\nSource: https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad
- 8f5e\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad8f5e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ATH] Slime-Tastic Summer Series:  Colorful Sand Slime
 DTSTART;TZID=America/Los_Angeles:20260713T160000
 DTEND;TZID=America/Los_Angeles:20260713T170000
-DTSTAMP:20260703T225103Z
+DTSTAMP:20260704T142322Z
 UID:smcl-6a0b7b35a99bdd027d421a74@local-events
 DESCRIPTION:Mix up the ultimate beachy slime creation! Create vibrant sand
   slime bursting with colorful layers\, fun textures\, and stretchy sensory
   fun for a totally unique summer experience.\n\nAges: 6-11\nRegistration: 
  none\nSource: https://smcl.bibliocommons.com/events/6a0b7b35a99bdd027d421a
- 74\nLast synced: 2026-07-03 15:51 PDT
+ 74\nLast synced: 2026-07-04 07:23 PDT
 LOCATION:Atherton
 URL:https://smcl.bibliocommons.com/events/6a0b7b35a99bdd027d421a74
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Spanish Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260803T183000
-DTEND;TZID=America/Los_Angeles:20260803T193000
-DTSTAMP:20260703T225103Z
-UID:smcl-69177c5004e183f66038635b@local-events
-DESCRIPTION:Are you a beginner or intermediate-level Spanish student? If s
- o\, we invite you to join our weekly Spanish conversation club\, where you
-  can meet fellow Spanish learners while practicing your comprehension and 
- speaking skills. Heritage Spanish-speaking staff will be on hand to facili
- tate the group and assist in pronunciation.\n\nAges: 12-18\nRegistration: 
- required\nSource: https://smcl.bibliocommons.com/events/69177c5004e183f660
- 38635b\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/69177c5004e183f66038635b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260804T173000
-DTEND;TZID=America/Los_Angeles:20260804T183000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a3187dec7d3cd580060c924@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Haas Center for Public Service. Open to chil
- dren entering kindergarten through 3rd grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c
- 924\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c924
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260723T173000
-DTEND;TZID=America/Los_Angeles:20260723T183000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a3187dec7d3cd580060c921@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Haas Center for Public Service. Open to chil
- dren entering kindergarten through 3rd grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c
- 921\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c921
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260716T173000
-DTEND;TZID=America/Los_Angeles:20260716T183000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a3187dec7d3cd580060c91f@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Haas Center for Public Service. Open to chil
- dren entering kindergarten through 3rd grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c
- 91f\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c91f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Magic: The Gathering
-DTSTART;TZID=America/Los_Angeles:20260919T133000
-DTEND;TZID=America/Los_Angeles:20260919T153000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a21b916703c3363002c41b5@local-events
-DESCRIPTION:Learn how to play the fantasy card game Magic: The Gathering! 
- You will have the chance to sort cards\, build a deck and play a match. Th
- e best part? You get to keep the deck you build! For 4th-7th graders.\n\nM
- aterials for this program are generously supplied by MagiKids and their mi
- ssion to support the intellectual health of youth through Magic: The Gathe
- ring. Capacity limited to 12 kids\, so register online.\n\nAges: 6-11\, 12
- -18\nRegistration: required\nSource: https://smcl.bibliocommons.com/events
- /6a21b916703c3363002c41b5\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a21b916703c3363002c41b5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260806T160000
-DTEND;TZID=America/Los_Angeles:20260806T170000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a419fc4f0a66233671b5f96@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Hass Center for Public Service. Open to chil
- dren entering kindergarten through 5th grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5
- f96\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5f96
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260806T173000
-DTEND;TZID=America/Los_Angeles:20260806T183000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a3187dec7d3cd580060c925@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Haas Center for Public Service. Open to chil
- dren entering kindergarten through 3rd grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c
- 925\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c925
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Magic: The Gathering
-DTSTART;TZID=America/Los_Angeles:20260815T133000
-DTEND;TZID=America/Los_Angeles:20260815T153000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a21b916703c3363002c41b4@local-events
-DESCRIPTION:Learn how to play the fantasy card game Magic: The Gathering! 
- You will have the chance to sort cards\, build a deck and play a match. Th
- e best part? You get to keep the deck you build! For 4th-7th graders.\n\nM
- aterials for this program are generously supplied by MagiKids and their mi
- ssion to support the intellectual health of youth through Magic: The Gathe
- ring. Capacity limited to 12 kids\, so register online.\n\nAges: 6-11\, 12
- -18\nRegistration: required\nSource: https://smcl.bibliocommons.com/events
- /6a21b916703c3363002c41b4\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a21b916703c3363002c41b4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260709T160000
-DTEND;TZID=America/Los_Angeles:20260709T170000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a419fc4f0a66233671b5f8e@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Hass Center for Public Service. Open to chil
- dren entering kindergarten through 5th grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5
- f8e\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5f8e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Walk and Words: A Hike and Workshop With Belmont's Poet Laurea
- te
-DTSTART;TZID=America/Los_Angeles:20260720T170000
-DTEND;TZID=America/Los_Angeles:20260720T193000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a3eecb47e16a03d00e854d6@local-events
-DESCRIPTION:Join Belmont's Poet Laureate\, Greg McCulloh\, for a unique o
- utdoor experience that combines a scenic hike at Waterdog Lake with a poet
- ry workshop. Participants will draw inspiration from nature\, engage in gu
- ided writing exercises\, and explore the connection between movement\, obs
- ervation\, and storytelling. Whether you're an experienced writer or simpl
- y curious about poetry and creative expression\, all are welcome. Come enj
- oy the outdoors\, connect with fellow community members\, and discover new
-  ways to find words in the world around you. Please note we will be starti
- ng at the Belmont library. Please wear comfortable clothing and bring a wa
- ter bottle to stay hydrated. Notebooks and pens will be provided. This eve
- nt is open to teens and adults. Registration is required. Please check in
-  for this event in that Taube Room!\n\nAges: 12-18\nRegistration: require
- d\nSource: https://smcl.bibliocommons.com/events/6a3eecb47e16a03d00e854d6\
- nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a3eecb47e16a03d00e854d6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ATH] Slime-Tastic Summer Series: Color Changing Slime
 DTSTART;TZID=America/Los_Angeles:20260803T160000
 DTEND;TZID=America/Los_Angeles:20260803T170000
-DTSTAMP:20260703T225103Z
+DTSTAMP:20260704T142322Z
 UID:smcl-6a0b7ebf490f176f7dd59ad1@local-events
 DESCRIPTION:Watch as slime magically transforms before your eyes! Create a
  mazing color-changing slime that shifts shades with heat and touch for a f
  un surprise every time you play.\n\nAges: 6-11\nRegistration: none\nSource
  : https://smcl.bibliocommons.com/events/6a0b7ebf490f176f7dd59ad1\nLast syn
- ced: 2026-07-03 15:51 PDT
+ ced: 2026-07-04 07:23 PDT
 LOCATION:Atherton
 URL:https://smcl.bibliocommons.com/events/6a0b7ebf490f176f7dd59ad1
 END:VEVENT
@@ -987,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] World of Reptiles
 DTSTART;TZID=America/Los_Angeles:20260716T160000
 DTEND;TZID=America/Los_Angeles:20260716T170000
-DTSTAMP:20260703T225103Z
+DTSTAMP:20260704T142322Z
 UID:smcl-69e7fcdec1cf6f9a7586e447@local-events
 DESCRIPTION:Join us together with John Hale\, the “Reptile Guy\,” for 
  a chance to meet\, talk about\, and pet or hold tortoises\, lizards and sn
@@ -997,7 +203,7 @@ DESCRIPTION:Join us together with John Hale\, the “Reptile Guy\,” for
  ence!\n\nThis event will include two 30-minute shows (starting at 4pm and 
  4:30pm)\, with a capacity of up to 30 people per showing.\n\nAges: 6-11\n
  Registration: none\nSource: https://smcl.bibliocommons.com/events/69e7fcde
- c1cf6f9a7586e447\nLast synced: 2026-07-03 15:51 PDT
+ c1cf6f9a7586e447\nLast synced: 2026-07-04 07:23 PDT
 LOCATION:Atherton
 URL:https://smcl.bibliocommons.com/events/69e7fcdec1cf6f9a7586e447
 END:VEVENT
@@ -1005,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Wild Rainforest With Wildmind Science Learning
 DTSTART;TZID=America/Los_Angeles:20260806T150000
 DTEND;TZID=America/Los_Angeles:20260806T154500
-DTSTAMP:20260703T225103Z
+DTSTAMP:20260704T142322Z
 UID:smcl-69e7fd49b6c4ac1fedcde927@local-events
 DESCRIPTION:Bring a little wildlife into your Summer! Join us for a Wild R
  ainforest show at the library and meet the fascinating animals from around
@@ -1014,7 +220,7 @@ DESCRIPTION:Bring a little wildlife into your Summer! Join us for a Wild R
   \n\nSpecial animal guests may include:  ANTEATER • PREHENSILE-TAILED S
  KINK • COENDOU • MACAW\n\nAges: 6-11\, 12-18\nRegistration: none\nSour
  ce: https://smcl.bibliocommons.com/events/69e7fd49b6c4ac1fedcde927\nLast s
- ynced: 2026-07-03 15:51 PDT
+ ynced: 2026-07-04 07:23 PDT
 LOCATION:Atherton
 URL:https://smcl.bibliocommons.com/events/69e7fd49b6c4ac1fedcde927
 END:VEVENT
@@ -1022,85 +228,21 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Slime-Tastic Summer Series:  Galaxy Slime
 DTSTART;TZID=America/Los_Angeles:20260727T160000
 DTEND;TZID=America/Los_Angeles:20260727T170000
-DTSTAMP:20260703T225103Z
+DTSTAMP:20260704T142322Z
 UID:smcl-6a0b7e0946d5f64f7dcc2225@local-events
 DESCRIPTION:Blast off into a universe of fun! Create dazzling galaxy slime
   filled with swirling cosmic colors\, glittering stars\, and an out-of-thi
  s-world sparkle.\n\nAges: 6-11\nRegistration: none\nSource: https://smcl.b
- ibliocommons.com/events/6a0b7e0946d5f64f7dcc2225\nLast synced: 2026-07-03 
- 15:51 PDT
+ ibliocommons.com/events/6a0b7e0946d5f64f7dcc2225\nLast synced: 2026-07-04 
+ 07:23 PDT
 LOCATION:Atherton
 URL:https://smcl.bibliocommons.com/events/6a0b7e0946d5f64f7dcc2225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260721T173000
-DTEND;TZID=America/Los_Angeles:20260721T183000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a3187dec7d3cd580060c920@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Haas Center for Public Service. Open to chil
- dren entering kindergarten through 3rd grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c
- 920\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a3187dec7d3cd580060c920
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Mandarin Chinese Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260904T110000
-DTEND;TZID=America/Los_Angeles:20260904T120000
-DTSTAMP:20260703T225103Z
-UID:smcl-69bb393f81b67dfe32ad8f60@local-events
-DESCRIPTION:Welcome to the Mandarin Chinese Conversation Club! This is a f
- riendly space where Mandarin learners and speakers can practice conversati
- on\, explore Chinese culture\, and connect with others in the community. P
- articipants should have a basic ability to communicate in Mandarin and be 
- comfortable carrying on simple conversations.\n\nAges: 12-18\nRegistration
- : none\nSource: https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad
- 8f60\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad8f60
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260729T160000
-DTEND;TZID=America/Los_Angeles:20260729T170000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a419fc4f0a66233671b5f93@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Hass Center for Public Service. Open to chil
- dren entering kindergarten through 5th grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5
- f93\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5f93
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Mandarin Chinese Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260918T110000
-DTEND;TZID=America/Los_Angeles:20260918T120000
-DTSTAMP:20260703T225103Z
-UID:smcl-69bb393f81b67dfe32ad8f62@local-events
-DESCRIPTION:Welcome to the Mandarin Chinese Conversation Club! This is a f
- riendly space where Mandarin learners and speakers can practice conversati
- on\, explore Chinese culture\, and connect with others in the community. P
- articipants should have a basic ability to communicate in Mandarin and be 
- comfortable carrying on simple conversations.\n\nAges: 12-18\nRegistration
- : none\nSource: https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad
- 8f62\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/69bb393f81b67dfe32ad8f62
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ATH] Messy Makers: DIY Paper Mache Hot Air Balloons
 DTSTART;TZID=America/Los_Angeles:20260714T160000
 DTEND;TZID=America/Los_Angeles:20260714T170000
-DTSTAMP:20260703T225103Z
+DTSTAMP:20260704T142322Z
 UID:smcl-6a2b3c367550c8bf9f5cb2d5@local-events
 DESCRIPTION:Let’s get messy this summer! Join us for a fun new experimen
  t that will explore the exciting and reactive sides of science. This week\
@@ -1108,260 +250,15 @@ DESCRIPTION:Let’s get messy this summer! Join us for a fun new experimen
  alloons!\n\n\nAprons will be available upon request for anyone looking to 
  mitigate the mess. No registration required\, as supplies last.\n\nAges: 
  6-11\nRegistration: none\nSource: https://smcl.bibliocommons.com/events/6a
- 2b3c367550c8bf9f5cb2d5\nLast synced: 2026-07-03 15:51 PDT
+ 2b3c367550c8bf9f5cb2d5\nLast synced: 2026-07-04 07:23 PDT
 LOCATION:Atherton
 URL:https://smcl.bibliocommons.com/events/6a2b3c367550c8bf9f5cb2d5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Wild Rainforest With Wildmind Science Learning
-DTSTART;TZID=America/Los_Angeles:20260728T150000
-DTEND;TZID=America/Los_Angeles:20260728T154500
-DTSTAMP:20260703T225103Z
-UID:smcl-6a19ce6646d5f64f7dcd47ca@local-events
-DESCRIPTION:Bring a little wildlife into your Summer! Join us for a Wild R
- ainforest show at the library and meet the fascinating animals from around
-  the world that live throughout the endangered tropical rainforests. Learn
-  about their habitats\, lives\, and their roles in the great web of life.\
- n\nSpecial animal guests may include:  ANTEATER • PREHENSILE-TAILED SKIN
- K • COENDOU • MACAW\n\nAges: 6-11\, 12-18\nRegistration: none\nSource:
-  https://smcl.bibliocommons.com/events/6a19ce6646d5f64f7dcd47ca\nLast sync
- ed: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a19ce6646d5f64f7dcd47ca
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Summer Reading Buddies
-DTSTART;TZID=America/Los_Angeles:20260708T160000
-DTEND;TZID=America/Los_Angeles:20260708T170000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a419fc4f0a66233671b5f8d@local-events
-DESCRIPTION:Drop in and work on your reading skills this summer in a suppo
- rtive environment. Join us for games\, activities\, and one-on-one reading
-  practice with our summer high school interns. This program is offered in 
- partnership with the Stanford Hass Center for Public Service. Open to chil
- dren entering kindergarten through 5th grade.\n\nAges: 6-11\nRegistration:
-  none\nSource: https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5
- f8d\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a419fc4f0a66233671b5f8d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Dungeons and Dragons
-DTSTART;TZID=America/Los_Angeles:20260822T133000
-DTEND;TZID=America/Los_Angeles:20260822T153000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a21b95c703c3363002c41ec@local-events
-DESCRIPTION:Challenge yourself to a Dungeons & Dragons one-shot!   For new
-  players and old.  This one-shot is intended for middle and high school st
- udents.  Handbooks and dice are provided. Bring a level 5 character you c
- reated yourself\, or play with one of our premade slime characters!\n\n\n 
- Space is limited\, please register online to reserve your spot.\n\nAges: 1
- 2-18\nRegistration: required\nSource: https://smcl.bibliocommons.com/event
- s/6a21b95c703c3363002c41ec\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a21b95c703c3363002c41ec
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Dungeons and Dragons
-DTSTART;TZID=America/Los_Angeles:20260926T133000
-DTEND;TZID=America/Los_Angeles:20260926T153000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a21b95c703c3363002c41ed@local-events
-DESCRIPTION:Challenge yourself to a Dungeons & Dragons one-shot!   For new
-  players and old.  This one-shot is intended for middle and high school st
- udents.  Handbooks and dice are provided. Bring a level 5 character you c
- reated yourself\, or play with one of our premade slime characters!\n\n\n 
- Space is limited\, please register online to reserve your spot.\n\nAges: 1
- 2-18\nRegistration: required\nSource: https://smcl.bibliocommons.com/event
- s/6a21b95c703c3363002c41ed\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a21b95c703c3363002c41ed
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Dungeons and Dragons
-DTSTART;TZID=America/Los_Angeles:20260725T133000
-DTEND;TZID=America/Los_Angeles:20260725T153000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a21b95c703c3363002c41eb@local-events
-DESCRIPTION:Challenge yourself to a Dungeons & Dragons one-shot!   For new
-  players and old.  This one-shot is intended for middle and high school st
- udents.  Handbooks and dice are provided. Bring a level 5 character you c
- reated yourself\, or play with one of our premade slime characters!\n\n\n 
- Space is limited\, please register online to reserve your spot.\n\nAges: 1
- 2-18\nRegistration: required\nSource: https://smcl.bibliocommons.com/event
- s/6a21b95c703c3363002c41eb\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a21b95c703c3363002c41eb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Sewing Machine Basics JR: Leaf Drawstring Bag
-DTSTART;TZID=America/Los_Angeles:20260708T130000
-DTEND;TZID=America/Los_Angeles:20260708T150000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a41824541251a9e77c6d38c@local-events
-DESCRIPTION:Are you ready to dive into the wonderful world of sewing? We'l
- l teach you the basics\, from threading the needle to winding a bobbin. Ge
- t hands-on practice and see how easy and exciting sewing can be! \n\nDay 
- 1: Learn the basics of using a sewing machine and complete a small practic
- e project to build your new skills.\n\nDay 2: Learn how to read a sewing p
- attern\, properly prepare your fabric\, and begin assembling and adding de
- tails to your bag.\n\nDay 3: Put your bag together and complete a drawstr
- ing bag to take home.\n\n\nThis program is specifically designed for kids 
- ages 8+ that are able to work independently. No experience is needed. All 
- materials will be provided. Space is limited\, so be sure to sign up onlin
- e. \n\nThis is a series of three classes. Please register for all three s
- essions. Because each class builds on the previous one\, we ask that you r
- egister only if you are able to attend the entire series.\n\nAges: 6-11\, 
- 12-18\nRegistration: required\nSource: https://smcl.bibliocommons.com/even
- ts/6a41824541251a9e77c6d38c\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a41824541251a9e77c6d38c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Arduino JR: Remote Control Car
-DTSTART;TZID=America/Los_Angeles:20260723T130000
-DTEND;TZID=America/Los_Angeles:20260723T150000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a459b360e851028002e9371@local-events
-DESCRIPTION:Interested in electronics and coding? Combine the two with Ard
- uino! This series will result in an RC car that you'll get to take home!\n
- \n\n\nDay 1: Learn the basics using TinkerCAD to create prototype systems.
- Day 2: Build your car!Day 3: Build your code and play-test!\n\nThis progra
- m is specifically designed for kids ages 10+ that are able to work indepen
- dently. No experience is needed. All materials will be provided. Space is 
- limited\, so be sure to sign up online. \n\nThis is a series of three cla
- sses. Because each class builds on the previous one\, we ask that you regi
- ster only if you are able to attend the entire series.\n\nAges: 6-11\, 12-
- 18\nRegistration: required\nSource: https://smcl.bibliocommons.com/events/
- 6a459b360e851028002e9371\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a459b360e851028002e9371
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Arduino JR: Remote Control Car
-DTSTART;TZID=America/Los_Angeles:20260721T130000
-DTEND;TZID=America/Los_Angeles:20260721T150000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a459b360e851028002e936f@local-events
-DESCRIPTION:Interested in electronics and coding? Combine the two with Ard
- uino! This series will result in an RC car that you'll get to take home!\n
- \n\n\nDay 1: Learn the basics using TinkerCAD to create prototype systems.
- Day 2: Build your car!Day 3: Build your code and play-test!\n\nThis progra
- m is specifically designed for kids ages 10+ that are able to work indepen
- dently. No experience is needed. All materials will be provided. Space is 
- limited\, so be sure to sign up online. \n\nThis is a series of three cla
- sses. Because each class builds on the previous one\, we ask that you regi
- ster only if you are able to attend the entire series.\n\nAges: 6-11\, 12-
- 18\nRegistration: required\nSource: https://smcl.bibliocommons.com/events/
- 6a459b360e851028002e936f\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a459b360e851028002e936f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Arduino JR: Remote Control Car
-DTSTART;TZID=America/Los_Angeles:20260722T130000
-DTEND;TZID=America/Los_Angeles:20260722T150000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a459b360e851028002e9370@local-events
-DESCRIPTION:Interested in electronics and coding? Combine the two with Ard
- uino! This series will result in an RC car that you'll get to take home!\n
- \n\n\nDay 1: Learn the basics using TinkerCAD to create prototype systems.
- Day 2: Build your car!Day 3: Build your code and play-test!\n\nThis progra
- m is specifically designed for kids ages 10+ that are able to work indepen
- dently. No experience is needed. All materials will be provided. Space is 
- limited\, so be sure to sign up online. \n\nThis is a series of three cla
- sses. Because each class builds on the previous one\, we ask that you regi
- ster only if you are able to attend the entire series.\n\nAges: 6-11\, 12-
- 18\nRegistration: required\nSource: https://smcl.bibliocommons.com/events/
- 6a459b360e851028002e9370\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a459b360e851028002e9370
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Paws for Tales
-DTSTART;TZID=America/Los_Angeles:20260721T173000
-DTEND;TZID=America/Los_Angeles:20260721T183000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a4591f9a03157457d04f4ce@local-events
-DESCRIPTION:Do you have an enthusiastic reader? Or perhaps a bit more relu
- ctant one\, by chance? If so\, consider signing your child up for the fun 
- experience of reading to a therapy dog at our library!\n\nStudies show tha
- t children who may feel reluctant to read in front of their peers are much
-  less anxious when an animal is present\, as they don't perceive them as j
- udgmental. So\, reading aloud to them often helps children become much mor
- e comfortable with their reading.\n\nAnd with this highly experienced grou
- p of therapy dogs at Belmont...even children who are not yet reading thems
- elves can still join in\, as families are welcome to sit down together to 
- share a book and entertain these pups with a bedtime story.\n\nWe also hav
- e on tap each time a seasonal crafting activity for all ages & generations
-  to take part in & connect over!\nIt's a sweet way to pass the minutes\, w
- hile awaiting your child's scheduled time\, with one of these incredibly t
- rained dogs.\n\nDoes this sound like a fun evening for your family? Then d
- on't forget to sign up for your own 10-minute slot at smcl.org/pawsfortale
- s.\n\nSigning up ahead of time also helps us best plan for the number of d
- ogs to have on hand. Hope you can join us!\n\n(Our sincerest thanks go to 
- the amazing Pet Assisted Therapy teams\, who make this program possible - 
- certified by the Peninsula Humane Society & SPCA's Paws for Tales program)
- \n\nAges: 6-11\nRegistration: none\nSource: https://smcl.bibliocommons.com
- /events/6a4591f9a03157457d04f4ce\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a4591f9a03157457d04f4ce
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Cardboard Ramp Car Races
-DTSTART;TZID=America/Los_Angeles:20260804T153000
-DTEND;TZID=America/Los_Angeles:20260804T163000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a283edb7f943b520051b3bf@local-events
-DESCRIPTION:This learning workshop is designed for incoming 1st-4th grader
- s. Get ready to collaborate with other kids and try out new ideas! Capaci
- ty limited to 20 kids. \n\nLet's learn about inclined planes and gravity. 
- We'll build different ramps and obstacles to race cars and balls and see w
- hat constraints allow for the smoothest and fastest path. What will you bu
- ild?\n\nAges: 6-11\nRegistration: required\nSource: https://smcl.bibliocom
- mons.com/events/6a283edb7f943b520051b3bf\nLast synced: 2026-07-03 15:51 PD
- T
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a283edb7f943b520051b3bf
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Spanish Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260921T183000
-DTEND;TZID=America/Los_Angeles:20260921T193000
-DTSTAMP:20260703T225103Z
-UID:smcl-69177c5004e183f660386361@local-events
-DESCRIPTION:Are you a beginner or intermediate-level Spanish student? If s
- o\, we invite you to join our weekly Spanish conversation club\, where you
-  can meet fellow Spanish learners while practicing your comprehension and 
- speaking skills. Heritage Spanish-speaking staff will be on hand to facili
- tate the group and assist in pronunciation.\n\nAges: 12-18\nRegistration: 
- required\nSource: https://smcl.bibliocommons.com/events/69177c5004e183f660
- 386361\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/69177c5004e183f660386361
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Tween Book Club
-DTSTART;TZID=America/Los_Angeles:20260922T160000
-DTEND;TZID=America/Los_Angeles:20260922T170000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a231d73c7d3cd58005e50e1@local-events
-DESCRIPTION:Join us for a fun book club designed especially for tweens age
- s 9-12 who enjoy reading and discussing the story! \n\nIn the following m
- onths\, we’ll continue exploring books chosen by the group while talking
-  about favorite characters\, exciting storylines\, and different perspecti
- ves. Each meeting features a lively discussion and will include a fun acti
- vity connected to the book.\n\nAges: 6-11\nRegistration: required\nSource:
-  https://smcl.bibliocommons.com/events/6a231d73c7d3cd58005e50e1\nLast sync
- ed: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a231d73c7d3cd58005e50e1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ATH] Jr. Sewing Machine Basics (Ages 6-18)
 DTSTART;TZID=America/Los_Angeles:20260721T160000
 DTEND;TZID=America/Los_Angeles:20260721T170000
-DTSTAMP:20260703T225103Z
+DTSTAMP:20260704T142322Z
 UID:smcl-6a28871c43b41b3d006d2075@local-events
 DESCRIPTION:Are you ready to dive into the wonderful world of sewing? Join
   us in the Atherton Makerspace every third Tuesday of the month for Jr. Se
@@ -1374,7 +271,7 @@ DESCRIPTION:Are you ready to dive into the wonderful world of sewing? Join
  terials will be provided. Space is limited\, so be sure to sign up online 
  at smcl.org or ask a staff member to assist you with registration.\n\nAges
  : 6-11\, 12-18\nRegistration: required\nSource: https://smcl.bibliocommons
- .com/events/6a28871c43b41b3d006d2075\nLast synced: 2026-07-03 15:51 PDT
+ .com/events/6a28871c43b41b3d006d2075\nLast synced: 2026-07-04 07:23 PDT
 LOCATION:Atherton
 URL:https://smcl.bibliocommons.com/events/6a28871c43b41b3d006d2075
 END:VEVENT
@@ -1382,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Jurassic Jabber Paleontology
 DTSTART;TZID=America/Los_Angeles:20260730T160000
 DTEND;TZID=America/Los_Angeles:20260730T170000
-DTSTAMP:20260703T225103Z
+DTSTAMP:20260704T142322Z
 UID:smcl-69fb6edb703c33630025d57e@local-events
 DESCRIPTION:There is so much to learn about dinosaurs! Join dino expert Be
  n Manarello as he discusses 240 million years of information about these c
@@ -1393,360 +290,15 @@ DESCRIPTION:There is so much to learn about dinosaurs! Join dino expert Be
  ir own authentic fossil! Jurassic Jabber is scientific fun for the whole f
  amily\, and all ages are welcome.\n\nAges: 6-11\nRegistration: none\nSourc
  e: https://smcl.bibliocommons.com/events/69fb6edb703c33630025d57e\nLast sy
- nced: 2026-07-03 15:51 PDT
+ nced: 2026-07-04 07:23 PDT
 LOCATION:Atherton
 URL:https://smcl.bibliocommons.com/events/69fb6edb703c33630025d57e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Sewing Machine Basics JR: Leaf Drawstring Bag
-DTSTART;TZID=America/Los_Angeles:20260709T130000
-DTEND;TZID=America/Los_Angeles:20260709T150000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a41824541251a9e77c6d38d@local-events
-DESCRIPTION:Are you ready to dive into the wonderful world of sewing? We'l
- l teach you the basics\, from threading the needle to winding a bobbin. Ge
- t hands-on practice and see how easy and exciting sewing can be! \n\nDay 
- 1: Learn the basics of using a sewing machine and complete a small practic
- e project to build your new skills.\n\nDay 2: Learn how to read a sewing p
- attern\, properly prepare your fabric\, and begin assembling and adding de
- tails to your bag.\n\nDay 3: Put your bag together and complete a drawstr
- ing bag to take home.\n\n\nThis program is specifically designed for kids 
- ages 8+ that are able to work independently. No experience is needed. All 
- materials will be provided. Space is limited\, so be sure to sign up onlin
- e. \n\nThis is a series of three classes. Please register for all three s
- essions. Because each class builds on the previous one\, we ask that you r
- egister only if you are able to attend the entire series.\n\nAges: 6-11\, 
- 12-18\nRegistration: required\nSource: https://smcl.bibliocommons.com/even
- ts/6a41824541251a9e77c6d38d\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a41824541251a9e77c6d38d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Peninsula Ukulele Group
-DTSTART;TZID=America/Los_Angeles:20260923T180000
-DTEND;TZID=America/Los_Angeles:20260923T193000
-DTSTAMP:20260703T225103Z
-UID:smcl-692f672d884c6a3515bb57e5@local-events
-DESCRIPTION:Peninsula Ukulele Group\, a group of enthusiastic ukulele play
- ers\, will now be meeting at the San Carlos Library. This active musical g
- roup has fun together\, provides learning opportunities for new and contin
- uing players\, and builds a fun-loving community of ukulele players and si
- ngers. All skill levels are welcome to participate. They also welcome musi
- cians who play other instruments or those who just want to sing with the g
- roup.\n\nAges: 12-18\nRegistration: none\nSource: https://smcl.bibliocommo
- ns.com/events/692f672d884c6a3515bb57e5\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/692f672d884c6a3515bb57e5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Peninsula Ukulele Group
-DTSTART;TZID=America/Los_Angeles:20260826T180000
-DTEND;TZID=America/Los_Angeles:20260826T193000
-DTSTAMP:20260703T225103Z
-UID:smcl-692f672d884c6a3515bb57e4@local-events
-DESCRIPTION:Peninsula Ukulele Group\, a group of enthusiastic ukulele play
- ers\, will now be meeting at the San Carlos Library. This active musical g
- roup has fun together\, provides learning opportunities for new and contin
- uing players\, and builds a fun-loving community of ukulele players and si
- ngers. All skill levels are welcome to participate. They also welcome musi
- cians who play other instruments or those who just want to sing with the g
- roup.\n\nAges: 12-18\nRegistration: none\nSource: https://smcl.bibliocommo
- ns.com/events/692f672d884c6a3515bb57e4\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/692f672d884c6a3515bb57e4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Peninsula Ukulele Group
-DTSTART;TZID=America/Los_Angeles:20260722T180000
-DTEND;TZID=America/Los_Angeles:20260722T193000
-DTSTAMP:20260703T225103Z
-UID:smcl-692f672d884c6a3515bb57e3@local-events
-DESCRIPTION:Peninsula Ukulele Group\, a group of enthusiastic ukulele play
- ers\, will now be meeting at the San Carlos Library. This active musical g
- roup has fun together\, provides learning opportunities for new and contin
- uing players\, and builds a fun-loving community of ukulele players and si
- ngers. All skill levels are welcome to participate. They also welcome musi
- cians who play other instruments or those who just want to sing with the g
- roup.\n\nAges: 12-18\nRegistration: none\nSource: https://smcl.bibliocommo
- ns.com/events/692f672d884c6a3515bb57e3\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/692f672d884c6a3515bb57e3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Spanish Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260713T183000
-DTEND;TZID=America/Los_Angeles:20260713T193000
-DTSTAMP:20260703T225103Z
-UID:smcl-69177c5004e183f660386358@local-events
-DESCRIPTION:Are you a beginner or intermediate-level Spanish student? If s
- o\, we invite you to join our weekly Spanish conversation club\, where you
-  can meet fellow Spanish learners while practicing your comprehension and 
- speaking skills. Heritage Spanish-speaking staff will be on hand to facili
- tate the group and assist in pronunciation.\n\nAges: 12-18\nRegistration: 
- required\nSource: https://smcl.bibliocommons.com/events/69177c5004e183f660
- 386358\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/69177c5004e183f660386358
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Sewing Machine Basics JR: Leaf Drawstring Bag
-DTSTART;TZID=America/Los_Angeles:20260707T130000
-DTEND;TZID=America/Los_Angeles:20260707T150000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a4181c7a03157457d049aa0@local-events
-DESCRIPTION:Are you ready to dive into the wonderful world of sewing? We'l
- l teach you the basics\, from threading the needle to winding a bobbin. Ge
- t hands-on practice and see how easy and exciting sewing can be! \n\nDay 
- 1: Learn the basics of using a sewing machine and complete a small practic
- e project to build your new skills.\n\nDay 2: Learn how to read a sewing p
- attern\, properly prepare your fabric\, and begin assembling and adding de
- tails to your bag.\n\nDay 3: Put your bag together and complete a drawstr
- ing bag to take home.\n\n\nThis program is specifically designed for kids 
- ages 8+ that are able to work independently. No experience is needed. All 
- materials will be provided. Space is limited\, so be sure to sign up onlin
- e. \n\nThis is a series of three classes. Please register for all three s
- essions. Because each class builds on the previous one\, we ask that you r
- egister only if you are able to attend the entire series.\n\nAges: 6-11\, 
- 12-18\nRegistration: required\nSource: https://smcl.bibliocommons.com/even
- ts/6a4181c7a03157457d049aa0\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a4181c7a03157457d049aa0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Save Nature: Insect Discovery Lab
-DTSTART;TZID=America/Los_Angeles:20260805T150000
-DTEND;TZID=America/Los_Angeles:20260805T160000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a037065703c336300271d81@local-events
-DESCRIPTION:Explore the fantastic lives of beetles\, millipedes\, hissing 
- cockroaches\, walking sticks\, whip scorpions and more! Our presenters wil
- l introduce your group to the extraordinarily diverse world of insects and
-  other arthropods and teach you about their key role in the web of life.\n
- \nSpace is limited so please register to reserve your spot. This program i
- s intended for children and teens.\n\nAges: 6-11\, 12-18\nRegistration: re
- quired\nSource: https://smcl.bibliocommons.com/events/6a037065703c33630027
- 1d81\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a037065703c336300271d81
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Bubble Wand Factory
-DTSTART;TZID=America/Los_Angeles:20260714T153000
-DTEND;TZID=America/Los_Angeles:20260714T163000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a283aa17f943b520051b370@local-events
-DESCRIPTION:This learning workshop is designed for incoming 1st-4th grader
- s. Get ready to collaborate with other kids and try out new ideas! Capaci
- ty limited to 20 kids. \n\nWe all know how to blow bubbles\, but what make
- s them different sizes? Can we make different shapes? Let's see what we ca
- n try! We'll explore using a machine versus handmade materials to make our
-  own bubble wands and test the differences.\n\nAges: 6-11\nRegistration: r
- equired\nSource: https://smcl.bibliocommons.com/events/6a283aa17f943b52005
- 1b370\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a283aa17f943b520051b370
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Tween Book Club
-DTSTART;TZID=America/Los_Angeles:20260728T160000
-DTEND;TZID=America/Los_Angeles:20260728T170000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a231d73c7d3cd58005e50df@local-events
-DESCRIPTION:Join us for a fun book club designed especially for tweens age
- s 9-12 who enjoy reading and discussing the story! This month\, we’ll b
- e reading Front Desk by Kelly Yang. Copies of the book are available for p
- ickup at the front desk starting July 1st. \n\nIn the following months\, 
- we’ll continue exploring books chosen by the group while talking about f
- avorite characters\, exciting storylines\, and different perspectives. Eac
- h meeting features a lively discussion and will include a fun activity con
- nected to the book.\n\nAges: 6-11\nRegistration: required\nSource: https:/
- /smcl.bibliocommons.com/events/6a231d73c7d3cd58005e50df\nLast synced: 2026
- -07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a231d73c7d3cd58005e50df
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Painting Class with Cassie Levy
-DTSTART;TZID=America/Los_Angeles:20260723T140000
-DTEND;TZID=America/Los_Angeles:20260723T160000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a21b73a703c3363002c40f3@local-events
-DESCRIPTION:Join us for a fun and creative two-hour painting session where
-  artists (teens or kids ages 6+) will be guided step-by-step to complete a
-  pre-designed artwork on canvas board using acrylic or tempera paints.\n\n
- Space is limited\, so please make sure to reserve your spot.\n\nAges: 6-11
- \, 12-18\nRegistration: required\nSource: https://smcl.bibliocommons.com/e
- vents/6a21b73a703c3363002c40f3\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a21b73a703c3363002c40f3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Spanish Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260720T183000
-DTEND;TZID=America/Los_Angeles:20260720T193000
-DTSTAMP:20260703T225103Z
-UID:smcl-69177c5004e183f660386359@local-events
-DESCRIPTION:Are you a beginner or intermediate-level Spanish student? If s
- o\, we invite you to join our weekly Spanish conversation club\, where you
-  can meet fellow Spanish learners while practicing your comprehension and 
- speaking skills. Heritage Spanish-speaking staff will be on hand to facili
- tate the group and assist in pronunciation.\n\nAges: 12-18\nRegistration: 
- required\nSource: https://smcl.bibliocommons.com/events/69177c5004e183f660
- 386359\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/69177c5004e183f660386359
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Spanish Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260810T183000
-DTEND;TZID=America/Los_Angeles:20260810T193000
-DTSTAMP:20260703T225103Z
-UID:smcl-69177c5004e183f66038635c@local-events
-DESCRIPTION:Are you a beginner or intermediate-level Spanish student? If s
- o\, we invite you to join our weekly Spanish conversation club\, where you
-  can meet fellow Spanish learners while practicing your comprehension and 
- speaking skills. Heritage Spanish-speaking staff will be on hand to facili
- tate the group and assist in pronunciation.\n\nAges: 12-18\nRegistration: 
- required\nSource: https://smcl.bibliocommons.com/events/69177c5004e183f660
- 38635c\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/69177c5004e183f66038635c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Spanish Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260727T183000
-DTEND;TZID=America/Los_Angeles:20260727T193000
-DTSTAMP:20260703T225103Z
-UID:smcl-69177c5004e183f66038635a@local-events
-DESCRIPTION:Are you a beginner or intermediate-level Spanish student? If s
- o\, we invite you to join our weekly Spanish conversation club\, where you
-  can meet fellow Spanish learners while practicing your comprehension and 
- speaking skills. Heritage Spanish-speaking staff will be on hand to facili
- tate the group and assist in pronunciation.\n\nAges: 12-18\nRegistration: 
- required\nSource: https://smcl.bibliocommons.com/events/69177c5004e183f660
- 38635a\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/69177c5004e183f66038635a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Spanish Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260928T183000
-DTEND;TZID=America/Los_Angeles:20260928T193000
-DTSTAMP:20260703T225103Z
-UID:smcl-69177c5004e183f660386362@local-events
-DESCRIPTION:Are you a beginner or intermediate-level Spanish student? If s
- o\, we invite you to join our weekly Spanish conversation club\, where you
-  can meet fellow Spanish learners while practicing your comprehension and 
- speaking skills. Heritage Spanish-speaking staff will be on hand to facili
- tate the group and assist in pronunciation.\n\nAges: 12-18\nRegistration: 
- required\nSource: https://smcl.bibliocommons.com/events/69177c5004e183f660
- 386362\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/69177c5004e183f660386362
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Spanish Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260914T183000
-DTEND;TZID=America/Los_Angeles:20260914T193000
-DTSTAMP:20260703T225103Z
-UID:smcl-69177c5004e183f660386360@local-events
-DESCRIPTION:Are you a beginner or intermediate-level Spanish student? If s
- o\, we invite you to join our weekly Spanish conversation club\, where you
-  can meet fellow Spanish learners while practicing your comprehension and 
- speaking skills. Heritage Spanish-speaking staff will be on hand to facili
- tate the group and assist in pronunciation.\n\nAges: 12-18\nRegistration: 
- required\nSource: https://smcl.bibliocommons.com/events/69177c5004e183f660
- 386360\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/69177c5004e183f660386360
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Spanish Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260831T183000
-DTEND;TZID=America/Los_Angeles:20260831T193000
-DTSTAMP:20260703T225103Z
-UID:smcl-69177c5004e183f66038635f@local-events
-DESCRIPTION:Are you a beginner or intermediate-level Spanish student? If s
- o\, we invite you to join our weekly Spanish conversation club\, where you
-  can meet fellow Spanish learners while practicing your comprehension and 
- speaking skills. Heritage Spanish-speaking staff will be on hand to facili
- tate the group and assist in pronunciation.\n\nAges: 12-18\nRegistration: 
- required\nSource: https://smcl.bibliocommons.com/events/69177c5004e183f660
- 38635f\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/69177c5004e183f66038635f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Spanish Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260824T183000
-DTEND;TZID=America/Los_Angeles:20260824T193000
-DTSTAMP:20260703T225103Z
-UID:smcl-69177c5004e183f66038635e@local-events
-DESCRIPTION:Are you a beginner or intermediate-level Spanish student? If s
- o\, we invite you to join our weekly Spanish conversation club\, where you
-  can meet fellow Spanish learners while practicing your comprehension and 
- speaking skills. Heritage Spanish-speaking staff will be on hand to facili
- tate the group and assist in pronunciation.\n\nAges: 12-18\nRegistration: 
- required\nSource: https://smcl.bibliocommons.com/events/69177c5004e183f660
- 38635e\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/69177c5004e183f66038635e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Spanish Conversation Club
-DTSTART;TZID=America/Los_Angeles:20260817T183000
-DTEND;TZID=America/Los_Angeles:20260817T193000
-DTSTAMP:20260703T225103Z
-UID:smcl-69177c5004e183f66038635d@local-events
-DESCRIPTION:Are you a beginner or intermediate-level Spanish student? If s
- o\, we invite you to join our weekly Spanish conversation club\, where you
-  can meet fellow Spanish learners while practicing your comprehension and 
- speaking skills. Heritage Spanish-speaking staff will be on hand to facili
- tate the group and assist in pronunciation.\n\nAges: 12-18\nRegistration: 
- required\nSource: https://smcl.bibliocommons.com/events/69177c5004e183f660
- 38635d\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/69177c5004e183f66038635d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Magic: The Gathering
-DTSTART;TZID=America/Los_Angeles:20260718T133000
-DTEND;TZID=America/Los_Angeles:20260718T153000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a21b916703c3363002c41b3@local-events
-DESCRIPTION:Learn how to play the fantasy card game Magic: The Gathering! 
- You will have the chance to sort cards\, build a deck and play a match. Th
- e best part? You get to keep the deck you build! For 4th-7th graders.\n\nM
- aterials for this program are generously supplied by MagiKids and their mi
- ssion to support the intellectual health of youth through Magic: The Gathe
- ring. Capacity limited to 12 kids\, so register online.\n\nAges: 6-11\, 12
- -18\nRegistration: required\nSource: https://smcl.bibliocommons.com/events
- /6a21b916703c3363002c41b3\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a21b916703c3363002c41b3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Tween Book Club
-DTSTART;TZID=America/Los_Angeles:20260825T160000
-DTEND;TZID=America/Los_Angeles:20260825T170000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a231d73c7d3cd58005e50e0@local-events
-DESCRIPTION:Join us for a fun book club designed especially for tweens age
- s 9-12 who enjoy reading and discussing the story! \n\nIn the following m
- onths\, we’ll continue exploring books chosen by the group while talking
-  about favorite characters\, exciting storylines\, and different perspecti
- ves. Each meeting features a lively discussion and will include a fun acti
- vity connected to the book.\n\nAges: 6-11\nRegistration: required\nSource:
-  https://smcl.bibliocommons.com/events/6a231d73c7d3cd58005e50e0\nLast sync
- ed: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a231d73c7d3cd58005e50e0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ATH] Jr. Sewing Machine Basics (Ages 6-18)
 DTSTART;TZID=America/Los_Angeles:20260818T160000
 DTEND;TZID=America/Los_Angeles:20260818T170000
-DTSTAMP:20260703T225103Z
+DTSTAMP:20260704T142322Z
 UID:smcl-6a4820c09c2405cf98ce9af8@local-events
 DESCRIPTION:Are you ready to dive into the wonderful world of sewing? Join
   us in the Atherton Makerspace every third Tuesday of the month for Jr. Se
@@ -1759,818 +311,830 @@ DESCRIPTION:Are you ready to dive into the wonderful world of sewing? Join
  terials will be provided. Space is limited\, so be sure to sign up online 
  at smcl.org or ask a staff member to assist you with registration.\n\nAges
  : 6-11\, 12-18\nRegistration: required\nSource: https://smcl.bibliocommons
- .com/events/6a4820c09c2405cf98ce9af8\nLast synced: 2026-07-03 15:51 PDT
+ .com/events/6a4820c09c2405cf98ce9af8\nLast synced: 2026-07-04 07:23 PDT
 LOCATION:Atherton
 URL:https://smcl.bibliocommons.com/events/6a4820c09c2405cf98ce9af8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SC] Paws for Tales
-DTSTART;TZID=America/Los_Angeles:20260824T170000
-DTEND;TZID=America/Los_Angeles:20260824T180000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a3ad25a0e851028002cab78@local-events
-DESCRIPTION:Do you have a reluctant reader? Drop-in for your child up to h
- ave their own session to practice reading with a therapy dog at the librar
- y. \n\n Studies show that children who may not want to read in front of t
- heir peers are much less anxious with an animal present. Children don't pe
- rceive animals to be judgmental and reading to an animal helps them become
-  more confident readers. We’d like to thank our partners for making this
-  possible: Pet Assisted Therapy teams and their handlers from the Peninsul
- a Humane Society & the SPCA's Paws for Tales program.\n\nThis program is i
- ntended for children ages 6-11. Adults must be accompanied by a child.\n\n
- Ages: 6-11\nRegistration: none\nSource: https://smcl.bibliocommons.com/eve
- nts/6a3ad25a0e851028002cab78\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a3ad25a0e851028002cab78
+SUMMARY:[SM] CuriOdyssey First Friday Night
+DTSTART;TZID=America/Los_Angeles:20260807T170000
+DTEND;TZID=America/Los_Angeles:20260807T200000
+DTSTAMP:20260704T142322Z
+UID:curiodyssey-first-friday-2026-08-07@local-events
+DESCRIPTION:Swing into the weekend with music\, science\, animals and fun!
+  First Friday Nights at CuriOdyssey\, 5–8pm. Family-friendly. Check curi
+ odyssey.org for ticket prices and any theme details.\n\nAges: All ages / f
+ amily\nSource: https://curiodyssey.org/exhibits-events/\nLast synced: 2026
+ -07-04 07:23 PDT
+LOCATION:CuriOdyssey\, 1651 Coyote Point Dr\, San Mateo\, CA
+URL:https://curiodyssey.org/exhibits-events/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SC] Paws for Tales
-DTSTART;TZID=America/Los_Angeles:20260928T170000
-DTEND;TZID=America/Los_Angeles:20260928T180000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a3ad25a0e851028002cab79@local-events
-DESCRIPTION:Do you have a reluctant reader? Drop-in for your child up to h
- ave their own session to practice reading with a therapy dog at the librar
- y. \n\n Studies show that children who may not want to read in front of t
- heir peers are much less anxious with an animal present. Children don't pe
- rceive animals to be judgmental and reading to an animal helps them become
-  more confident readers. We’d like to thank our partners for making this
-  possible: Pet Assisted Therapy teams and their handlers from the Peninsul
- a Humane Society & the SPCA's Paws for Tales program.\n\nThis program is i
- ntended for children ages 6-11. Adults must be accompanied by a child.\n\n
- Ages: 6-11\nRegistration: none\nSource: https://smcl.bibliocommons.com/eve
- nts/6a3ad25a0e851028002cab79\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a3ad25a0e851028002cab79
+SUMMARY:[SM] CuriOdyssey First Friday Night
+DTSTART;TZID=America/Los_Angeles:20260904T170000
+DTEND;TZID=America/Los_Angeles:20260904T200000
+DTSTAMP:20260704T142322Z
+UID:curiodyssey-first-friday-2026-09-04@local-events
+DESCRIPTION:Swing into the weekend with music\, science\, animals and fun!
+  First Friday Nights at CuriOdyssey\, 5–8pm. Family-friendly. Check curi
+ odyssey.org for ticket prices and any theme details.\n\nAges: All ages / f
+ amily\nSource: https://curiodyssey.org/exhibits-events/\nLast synced: 2026
+ -07-04 07:23 PDT
+LOCATION:CuriOdyssey\, 1651 Coyote Point Dr\, San Mateo\, CA
+URL:https://curiodyssey.org/exhibits-events/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SC] Paws for Tales
-DTSTART;TZID=America/Los_Angeles:20260727T170000
-DTEND;TZID=America/Los_Angeles:20260727T180000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a3ad25a0e851028002cab77@local-events
-DESCRIPTION:Do you have a reluctant reader? Drop-in for your child up to h
- ave their own session to practice reading with a therapy dog at the librar
- y. \n\n Studies show that children who may not want to read in front of t
- heir peers are much less anxious with an animal present. Children don't pe
- rceive animals to be judgmental and reading to an animal helps them become
-  more confident readers. We’d like to thank our partners for making this
-  possible: Pet Assisted Therapy teams and their handlers from the Peninsul
- a Humane Society & the SPCA's Paws for Tales program.\n\nThis program is i
- ntended for children ages 6-11. Adults must be accompanied by a child.\n\n
- Ages: 6-11\nRegistration: none\nSource: https://smcl.bibliocommons.com/eve
- nts/6a3ad25a0e851028002cab77\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a3ad25a0e851028002cab77
+SUMMARY:[SM] CuriOdyssey First Friday Night
+DTSTART;TZID=America/Los_Angeles:20261002T170000
+DTEND;TZID=America/Los_Angeles:20261002T200000
+DTSTAMP:20260704T142322Z
+UID:curiodyssey-first-friday-2026-10-02@local-events
+DESCRIPTION:Swing into the weekend with music\, science\, animals and fun!
+  First Friday Nights at CuriOdyssey\, 5–8pm. Family-friendly. Check curi
+ odyssey.org for ticket prices and any theme details.\n\nAges: All ages / f
+ amily\nSource: https://curiodyssey.org/exhibits-events/\nLast synced: 2026
+ -07-04 07:23 PDT
+LOCATION:CuriOdyssey\, 1651 Coyote Point Dr\, San Mateo\, CA
+URL:https://curiodyssey.org/exhibits-events/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[B] Family Craft
-DTSTART;TZID=America/Los_Angeles:20260710T153000
-DTEND;TZID=America/Los_Angeles:20260710T163000
-DTSTAMP:20260703T225103Z
-UID:smcl-6949c27194297d3600a1378a@local-events
-DESCRIPTION:Looking for a fun way to spend time together as a family? Join
-  us for Family Craft\, a hands-on program specially designed for school-ag
- e youth and their families. Each session features a guided crafting activi
- ty that invites creativity\, connection\, and a whole lot of colorful fun.
- \n\nWhether you're a parent\, grandparent\, guardian\, or cool older sibli
- ng\, this is your chance to make something magical together. No crafting e
- xperience needed—just bring your imagination and a willingness to get a 
- little messy!\n\nAnd remember: in our world of googly eyes and glue sticks
- \, the process is just as important (if not more!) than the final masterpi
- ece. So\, embrace the crooked lines\, celebrate the unexpected\, and enjoy
-  the creative ride.\n\nAges: 6-11\nRegistration: required\nSource: https:/
- /smcl.bibliocommons.com/events/6949c27194297d3600a1378a\nLast synced: 2026
- -07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6949c27194297d3600a1378a
+SUMMARY:[SC] SMCAS Crestview Star Party
+DTSTART;TZID=America/Los_Angeles:20260711T203100
+DTEND;TZID=America/Los_Angeles:20260711T233100
+DTSTAMP:20260704T142322Z
+UID:smcas-crestview-20260711@local-events
+DESCRIPTION:SMCAS hosts a free public star party at Crestview Park in San 
+ Carlos. All ages welcome. Members set up telescopes for public viewing of 
+ planets\, nebulae\, star clusters and galaxies. Setup begins at sunset (20
+ :31)\; observing starts one hour after sunset. Free.\n\nCancels in rain\, 
+ clouds\, fog\, or high wind — no official cancellation notice is issued.
+ \n\nAges: All ages / family\nRegistration: none\nSource: https://smcas.net
+ /events/star-parties/crestview-park/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Crestview Park\, 1000 Crestview Dr\, San Carlos\, CA
+URL:https://smcas.net/events/star-parties/crestview-park/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[B] Family Craft
-DTSTART;TZID=America/Los_Angeles:20260814T153000
-DTEND;TZID=America/Los_Angeles:20260814T163000
-DTSTAMP:20260703T225103Z
-UID:smcl-6949c27194297d3600a1378b@local-events
-DESCRIPTION:Looking for a fun way to spend time together as a family? Join
-  us for Family Craft\, a hands-on program specially designed for school-ag
- e youth and their families. Each session features a guided crafting activi
- ty that invites creativity\, connection\, and a whole lot of colorful fun.
- \n\nWhether you're a parent\, grandparent\, guardian\, or cool older sibli
- ng\, this is your chance to make something magical together. No crafting e
- xperience needed—just bring your imagination and a willingness to get a 
- little messy!\n\nAnd remember: in our world of googly eyes and glue sticks
- \, the process is just as important (if not more!) than the final masterpi
- ece. So\, embrace the crooked lines\, celebrate the unexpected\, and enjoy
-  the creative ride.\n\nAges: 6-11\nRegistration: required\nSource: https:/
- /smcl.bibliocommons.com/events/6949c27194297d3600a1378b\nLast synced: 2026
- -07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6949c27194297d3600a1378b
+SUMMARY:[SC] SMCAS Crestview Star Party
+DTSTART;TZID=America/Los_Angeles:20260718T202800
+DTEND;TZID=America/Los_Angeles:20260718T232800
+DTSTAMP:20260704T142322Z
+UID:smcas-crestview-20260718@local-events
+DESCRIPTION:SMCAS hosts a free public star party at Crestview Park in San 
+ Carlos. All ages welcome. Members set up telescopes for public viewing of 
+ planets\, nebulae\, star clusters and galaxies. Setup begins at sunset (20
+ :28)\; observing starts one hour after sunset. Free.\n\nCancels in rain\, 
+ clouds\, fog\, or high wind — no official cancellation notice is issued.
+ \n\nAges: All ages / family\nRegistration: none\nSource: https://smcas.net
+ /events/star-parties/crestview-park/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Crestview Park\, 1000 Crestview Dr\, San Carlos\, CA
+URL:https://smcas.net/events/star-parties/crestview-park/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[B] Family Craft
-DTSTART;TZID=America/Los_Angeles:20260911T153000
-DTEND;TZID=America/Los_Angeles:20260911T163000
-DTSTAMP:20260703T225103Z
-UID:smcl-6949c27194297d3600a1378c@local-events
-DESCRIPTION:Looking for a fun way to spend time together as a family? Join
-  us for Family Craft\, a hands-on program specially designed for school-ag
- e youth and their families. Each session features a guided crafting activi
- ty that invites creativity\, connection\, and a whole lot of colorful fun.
- \n\nWhether you're a parent\, grandparent\, guardian\, or cool older sibli
- ng\, this is your chance to make something magical together. No crafting e
- xperience needed—just bring your imagination and a willingness to get a 
- little messy!\n\nAnd remember: in our world of googly eyes and glue sticks
- \, the process is just as important (if not more!) than the final masterpi
- ece. So\, embrace the crooked lines\, celebrate the unexpected\, and enjoy
-  the creative ride.\n\nAges: 6-11\nRegistration: required\nSource: https:/
- /smcl.bibliocommons.com/events/6949c27194297d3600a1378c\nLast synced: 2026
- -07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6949c27194297d3600a1378c
+SUMMARY:[SC] SMCAS Crestview Star Party
+DTSTART;TZID=America/Los_Angeles:20260808T200900
+DTEND;TZID=America/Los_Angeles:20260808T230900
+DTSTAMP:20260704T142322Z
+UID:smcas-crestview-20260808@local-events
+DESCRIPTION:SMCAS hosts a free public star party at Crestview Park in San 
+ Carlos. All ages welcome. Members set up telescopes for public viewing of 
+ planets\, nebulae\, star clusters and galaxies. Setup begins at sunset (20
+ :09)\; observing starts one hour after sunset. Free.\n\nCancels in rain\, 
+ clouds\, fog\, or high wind — no official cancellation notice is issued.
+ \n\nAges: All ages / family\nRegistration: none\nSource: https://smcas.net
+ /events/star-parties/crestview-park/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Crestview Park\, 1000 Crestview Dr\, San Carlos\, CA
+URL:https://smcas.net/events/star-parties/crestview-park/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SC] Zombie Apocalypse Maker Sessions
-DTSTART;TZID=America/Los_Angeles:20260715T150000
-DTEND;TZID=America/Los_Angeles:20260715T160000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a171bedf6bd012f006aadf9@local-events
-DESCRIPTION:This program is for ages 10 and older!\n\nWhen the zombie apoc
- alypse comes\, you’ll need to be ready. You’ll need to access all the 
- information necessary to survive and rebuild society in an offline world. 
- What better place to get that than at the library? On Wednesdays in July\,
-  we'll learn a different survival skill each week and make something cool!
-  Come to all sessions or just one. No registration required\, but please s
- how up on time as supplies may be limited.\nJuly 8 - solar ovensJuly 15 - 
- paracord braceletsJuly 22 - candles & fire safety foamJuly 29 - emergency 
- mini kits & duct tape crafts\n\nAges: 6-11\, 12-18\nRegistration: none\nSo
- urce: https://smcl.bibliocommons.com/events/6a171bedf6bd012f006aadf9\nLast
-  synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a171bedf6bd012f006aadf9
+SUMMARY:[SC] SMCAS Crestview Star Party
+DTSTART;TZID=America/Los_Angeles:20260815T200100
+DTEND;TZID=America/Los_Angeles:20260815T230100
+DTSTAMP:20260704T142322Z
+UID:smcas-crestview-20260815@local-events
+DESCRIPTION:SMCAS hosts a free public star party at Crestview Park in San 
+ Carlos. All ages welcome. Members set up telescopes for public viewing of 
+ planets\, nebulae\, star clusters and galaxies. Setup begins at sunset (20
+ :01)\; observing starts one hour after sunset. Free.\n\nCancels in rain\, 
+ clouds\, fog\, or high wind — no official cancellation notice is issued.
+ \n\nAges: All ages / family\nRegistration: none\nSource: https://smcas.net
+ /events/star-parties/crestview-park/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Crestview Park\, 1000 Crestview Dr\, San Carlos\, CA
+URL:https://smcas.net/events/star-parties/crestview-park/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SC] Zombie Apocalypse Maker Sessions
-DTSTART;TZID=America/Los_Angeles:20260722T150000
-DTEND;TZID=America/Los_Angeles:20260722T160000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a171bedf6bd012f006aadfa@local-events
-DESCRIPTION:This program is for ages 10 and older!\n\nWhen the zombie apoc
- alypse comes\, you’ll need to be ready. You’ll need to access all the 
- information necessary to survive and rebuild society in an offline world. 
- What better place to get that than at the library? On Wednesdays in July\,
-  we'll learn a different survival skill each week and make something cool!
-  Come to all sessions or just one. No registration required\, but please s
- how up on time as supplies may be limited.\nJuly 8 - solar ovensJuly 15 - 
- paracord braceletsJuly 22 - candles & fire safety foamJuly 29 - emergency 
- mini kits & duct tape crafts\n\nAges: 6-11\, 12-18\nRegistration: none\nSo
- urce: https://smcl.bibliocommons.com/events/6a171bedf6bd012f006aadfa\nLast
-  synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a171bedf6bd012f006aadfa
+SUMMARY:[SC] SMCAS Crestview Star Party — Observe the Moon Night
+DTSTART;TZID=America/Los_Angeles:20260905T193200
+DTEND;TZID=America/Los_Angeles:20260905T223200
+DTSTAMP:20260704T142322Z
+UID:smcas-crestview-20260905@local-events
+DESCRIPTION:Observe the Moon Night. SMCAS hosts a free public star party a
+ t Crestview Park in San Carlos. All ages welcome. Members set up telescope
+ s for public viewing of planets\, nebulae\, star clusters and galaxies. Se
+ tup begins at sunset (19:32)\; observing starts one hour after sunset. Fre
+ e.\n\nCancels in rain\, clouds\, fog\, or high wind — no official cancel
+ lation notice is issued.\n\nAges: All ages / family\nRegistration: none\nS
+ ource: https://smcas.net/events/star-parties/crestview-park/\nLast synced:
+  2026-07-04 07:23 PDT
+LOCATION:Crestview Park\, 1000 Crestview Dr\, San Carlos\, CA
+URL:https://smcas.net/events/star-parties/crestview-park/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SC] Zombie Apocalypse Maker Sessions
-DTSTART;TZID=America/Los_Angeles:20260708T150000
-DTEND;TZID=America/Los_Angeles:20260708T160000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a171bedf6bd012f006aadf8@local-events
-DESCRIPTION:This program is for ages 10 and older!\n\nWhen the zombie apoc
- alypse comes\, you’ll need to be ready. You’ll need to access all the 
- information necessary to survive and rebuild society in an offline world. 
- What better place to get that than at the library? On Wednesdays in July\,
-  we'll learn a different survival skill each week and make something cool!
-  Come to all sessions or just one. No registration required\, but please s
- how up on time as supplies may be limited.\nJuly 8 - solar ovensJuly 15 - 
- paracord braceletsJuly 22 - candles & fire safety foamJuly 29 - emergency 
- mini kits & duct tape crafts\n\nAges: 6-11\, 12-18\nRegistration: none\nSo
- urce: https://smcl.bibliocommons.com/events/6a171bedf6bd012f006aadf8\nLast
-  synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a171bedf6bd012f006aadf8
+SUMMARY:[SC] SMCAS Crestview Star Party
+DTSTART;TZID=America/Los_Angeles:20260912T192100
+DTEND;TZID=America/Los_Angeles:20260912T222100
+DTSTAMP:20260704T142322Z
+UID:smcas-crestview-20260912@local-events
+DESCRIPTION:SMCAS hosts a free public star party at Crestview Park in San 
+ Carlos. All ages welcome. Members set up telescopes for public viewing of 
+ planets\, nebulae\, star clusters and galaxies. Setup begins at sunset (19
+ :21)\; observing starts one hour after sunset. Free.\n\nCancels in rain\, 
+ clouds\, fog\, or high wind — no official cancellation notice is issued.
+ \n\nAges: All ages / family\nRegistration: none\nSource: https://smcas.net
+ /events/star-parties/crestview-park/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Crestview Park\, 1000 Crestview Dr\, San Carlos\, CA
+URL:https://smcas.net/events/star-parties/crestview-park/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SC] Zombie Apocalypse Maker Sessions
-DTSTART;TZID=America/Los_Angeles:20260729T150000
-DTEND;TZID=America/Los_Angeles:20260729T160000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a171bedf6bd012f006aadfb@local-events
-DESCRIPTION:This program is for ages 10 and older!\n\nWhen the zombie apoc
- alypse comes\, you’ll need to be ready. You’ll need to access all the 
- information necessary to survive and rebuild society in an offline world. 
- What better place to get that than at the library? On Wednesdays in July\,
-  we'll learn a different survival skill each week and make something cool!
-  Come to all sessions or just one. No registration required\, but please s
- how up on time as supplies may be limited.\nJuly 8 - solar ovensJuly 15 - 
- paracord braceletsJuly 22 - candles & fire safety foamJuly 29 - emergency 
- mini kits & duct tape crafts\n\nAges: 6-11\, 12-18\nRegistration: none\nSo
- urce: https://smcl.bibliocommons.com/events/6a171bedf6bd012f006aadfb\nLast
-  synced: 2026-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a171bedf6bd012f006aadfb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[B] Magic Workshop
-DTSTART;TZID=America/Los_Angeles:20260813T153000
-DTEND;TZID=America/Los_Angeles:20260813T163000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a1a00eea99bdd027d4345f0@local-events
-DESCRIPTION:This workshop is a crash course in the art of magic! Joe Culpe
- pper* will share secret sleight-of-hand techniques and tools for creating 
- magic effects. You will learn how to make objects magically appear\, trans
- form\, and vanish. Most important of all\, you will learn how to think and
-  direct attention like a magician. No previous magic experience necessary.
-  Registration is required. For children ages 8 and up.\n\n\n*Dr. Joe Cul
- pepper is a magician\, magic consultant\, and the co-editor-in-chief of th
- e academic journal Circus: Arts\, Life and Sciences. He is a former Mitacs
-  Elevate postdoctoral fellow at Cirque du Soleil’s C:Lab and Concordia U
- niversity. Joe has taught magic and its adaptation to the circus arts at M
- ontreal’s National Circus School\, the Centre National des Arts du Cirqu
- e in Châlons-en-champagne\, the Lido in Toulouse\, UC Davis in California
-  and beyond. He is a member of London’s Magic Circle and consults for a 
- variety of private and public organizations.\n\nAges: 6-11\, 12-18\nRegist
- ration: required\nSource: https://smcl.bibliocommons.com/events/6a1a00eea9
- 9bdd027d4345f0\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Belmont
-URL:https://smcl.bibliocommons.com/events/6a1a00eea99bdd027d4345f0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SC] Mad Science: Science of Magic
-DTSTART;TZID=America/Los_Angeles:20260716T150000
-DTEND;TZID=America/Los_Angeles:20260716T160000
-DTSTAMP:20260703T225103Z
-UID:smcl-6a037671f6bd012f00677881@local-events
-DESCRIPTION:Magic? No…it’s science! You’ll learn the secrets behind 
- famous magic tricks and see it’s all actually science.\n\nSpace is limit
- ed to 30 participants\, so please register to reserve your spot. For ages 
- 6 and older.\n\nAges: 6-11\, 12-18\nRegistration: required\nSource: https:
- //smcl.bibliocommons.com/events/6a037671f6bd012f00677881\nLast synced: 202
- 6-07-03 15:51 PDT
-LOCATION:San Carlos
-URL:https://smcl.bibliocommons.com/events/6a037671f6bd012f00677881
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SM] Independence Day
+SUMMARY:[MP] 4th of July community parade\, picnic and circus
 DTSTART;TZID=America/Los_Angeles:20260704T000000
-DTEND;TZID=America/Los_Angeles:20260705T000000
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-15887654@local-events
-DESCRIPTION:Ages: unspecified\nSource: https://sanmateopublic.libcal.com/e
- vent/15887654\nLast synced: 2026-07-03 15:51 PDT
-URL:https://sanmateopublic.libcal.com/event/15887654
+DTEND;TZID=America/Los_Angeles:20260704T010000
+DTSTAMP:20260704T142322Z
+UID:menlopark-20260704-4th-of-July@local-events
+DESCRIPTION:Join us for our 4th of July celebration with a twist - a full 
+ circus performance\, parade and community picnic all at Burgess Park! Grab
+  your picnic basket\, blanket and come dressed in red\, white and blue for
+  this afternoon full of festivities!\n\nAges: All ages / family\nSource: h
+ ttps://www.menlopark.gov/Citywide-calendar/Community-events/20260704-4th-o
+ f-July\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Burgess Park\, 501 Laurel St.\, Menlo Park\, CA 94025
+URL:https://www.menlopark.gov/Citywide-calendar/Community-events/20260704-
+ 4th-of-July
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Polish Storytime
-DTSTART:20260705T183000Z
-DTEND:20260705T190000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-17038423@local-events
-DESCRIPTION:Please join us for Polish Storytime! We'll be hosting this eve
- nt every FIRST Sunday for the forseeable future and would love if you coul
- d join us! We'll be learning about Polish culture\, reading books\, and si
- nging rhymes. We hope to see you there!\n\nAges: unspecified\nSource: http
- s://sanmateopublic.libcal.com/event/17038423\nLast synced: 2026-07-03 15:5
- 1 PDT
-LOCATION:Book Bubble
-URL:https://sanmateopublic.libcal.com/event/17038423
+SUMMARY:[MP] PlayLOCAL!
+DTSTART;TZID=America/Los_Angeles:20260707T000000
+DTEND;TZID=America/Los_Angeles:20260707T010000
+DTSTAMP:20260704T142322Z
+UID:menlopark-20260707-PlayLOCAL-Nealon-Park@local-events
+DESCRIPTION:Join us for PlayLOCAL! An hour of guided outdoor play and game
+ s at your local park.\n\nAges: All ages / family\nSource: https://www.menl
+ opark.gov/Citywide-calendar/Community-events/20260707-PlayLOCAL-Nealon-Par
+ k\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Nealon Park\, 800 Middle Ave\, Menlo Park\, CA 94025
+URL:https://www.menlopark.gov/Citywide-calendar/Community-events/20260707-
+ PlayLOCAL-Nealon-Park
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Move and Groove Storytime
-DTSTART:20260706T171500Z
-DTEND:20260706T183000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16598879@local-events
-DESCRIPTION:Move and Groove Storytime has two sessions: 10:15 am and 11:00
-  am.\nFamilies who cannot attend the 10:15 storytime are encouraged to sta
- y for the 11:00.\n\nDance your wiggles away in this interactive storytime.
-  Creative movement set to songs and stories for children 18 months  and ca
- regivers.\n\nAdults must be accompanied by a child. Registration not requi
- red.\n\nAges: unspecified\nSource: https://sanmateopublic.libcal.com/event
- /16598879\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Oak Room Patio\, Main Library 1st Floor
-URL:https://sanmateopublic.libcal.com/event/16598879
+SUMMARY:[MP] Storytime
+DTSTART;TZID=America/Los_Angeles:20260707T000000
+DTEND;TZID=America/Los_Angeles:20260707T010000
+DTSTAMP:20260704T142322Z
+UID:menlopark-202606-12-Storytime-TUES-BH@local-events
+DESCRIPTION:Join us at the library with your little one for stories\, song
+ s\, and fun!\n\nAges: children\nSource: https://www.menlopark.gov/Governme
+ nt/Departments/Library-and-Community-Services/Events/Events-for-children/2
+ 02606-12-Storytime-TUES-BH\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Belle Haven Library\, Belle Haven Community Campus\, 100 Termina
+ l Ave.\, Menlo Park\, CA 94025
+URL:https://www.menlopark.gov/Government/Departments/Library-and-Community
+ -Services/Events/Events-for-children/202606-12-Storytime-TUES-BH
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] House of Samba Kids!
-DTSTART:20260707T220000Z
-DTEND:20260707T230000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16933217@local-events
-DESCRIPTION:Experience the rhythm and energy of House of Samba Kids! Led b
- y Bay Area master percussionist James Henry\, this interactive music and d
- ance program uses drums\, rhythm\, and multicultural percussion to spark i
- magination\, build confidence\, and introduce children to the universal la
- nguage of music through hands-on fun.\n\nAges: unspecified\nSource: https:
- //sanmateopublic.libcal.com/event/16933217\nLast synced: 2026-07-03 15:51 
- PDT
-LOCATION:Hillsdale Library- Programming Space
-URL:https://sanmateopublic.libcal.com/event/16933217
+SUMMARY:[MP] Summer Concert Series: Boys of Summer
+DTSTART;TZID=America/Los_Angeles:20260708T000000
+DTEND;TZID=America/Los_Angeles:20260708T010000
+DTSTAMP:20260704T142322Z
+UID:menlopark-20260708-Summer-Concert-Series-Boys-of-Summer@local-events
+DESCRIPTION:Join us for some of the best musical acts of the summer! The S
+ ummer Concert Series is back with a variety of musical styles: R&B\, class
+ ic rock\, Latin blues\, southern soul\, disco and pop!\n\nAges: All ages /
+  family\nSource: https://www.menlopark.gov/Citywide-calendar/Community-eve
+ nts/20260708-Summer-Concert-Series-Boys-of-Summer\nLast synced: 2026-07-04
+  07:23 PDT
+LOCATION:Fremont Park\, Santa Cruz Avenue at University Drive\, Menlo Pa
+ rk\, CA 94025
+URL:https://www.menlopark.gov/Citywide-calendar/Community-events/20260708-
+ Summer-Concert-Series-Boys-of-Summer
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] House of Samba Kids!
-DTSTART:20260708T003000Z
-DTEND:20260708T013000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16926742@local-events
-DESCRIPTION:Experience the rhythm and energy of House of Samba Kids! Led b
- y Bay Area master percussionist James Henry\, this interactive music and d
- ance program uses drums\, rhythm\, and multicultural percussion to spark i
- magination\, build confidence\, and introduce children to the universal la
- nguage of music through hands-on fun.\n\nAges: unspecified\nSource: https:
- //sanmateopublic.libcal.com/event/16926742\nLast synced: 2026-07-03 15:51 
- PDT
-LOCATION:Oak Room
-URL:https://sanmateopublic.libcal.com/event/16926742
+SUMMARY:[MP] CanceledComplete Streets Commission meeting
+DTSTART;TZID=America/Los_Angeles:20260708T000000
+DTEND;TZID=America/Los_Angeles:20260708T010000
+DTSTAMP:20260704T142322Z
+UID:menlopark-20260708-Complete-Streets-Commission@local-events
+DESCRIPTION:Complete Streets Commission meetings are generally held on the
+  2nd Wednesday of the month starting at 6:30 p.m. Meeting dates and times 
+ are subject to change.\n\nAges: unspecified\nSource: https://www.menlopark
+ .gov/Citywide-calendar/Public-meetings/Complete-Streets-Commission-meeting
+ s/20260708-Complete-Streets-Commission\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:City Council Chambers\, 751 Laurel St.\, Menlo Park\, CA
+URL:https://www.menlopark.gov/Citywide-calendar/Public-meetings/Complete-S
+ treets-Commission-meetings/20260708-Complete-Streets-Commission
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Storytime in the Park
-DTSTART:20260708T173000Z
-DTEND:20260708T180000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16002181@local-events
-DESCRIPTION:For all ages! Join us and get up and get moving at our Storyti
- me at Shoreview Park! Full of books\, songs and fun activities designed to
-  help develop your child's language and motor skills. Shoreview Park is lo
- cated at 950 Ocean View Ave in San Mateo.\n\nAges: All ages / family\nSour
- ce: https://sanmateopublic.libcal.com/event/16002181\nLast synced: 2026-07
- -03 15:51 PDT
-URL:https://sanmateopublic.libcal.com/event/16002181
+SUMMARY:[MP] Tall Tales (The Puppet Company)
+DTSTART;TZID=America/Los_Angeles:20260709T000000
+DTEND;TZID=America/Los_Angeles:20260709T010000
+DTSTAMP:20260704T142322Z
+UID:menlopark-20260709-Puppet-Company@local-events
+DESCRIPTION:As our 7th Annual Summer Puppetry Festival continues\, we meet
+  one of world folklore’s mightiest\, funniest\, most audacious trickster
+ s!\n\nAges: children\nSource: https://www.menlopark.gov/Government/Departm
+ ents/Library-and-Community-Services/Events/Events-for-children/20260709-Pu
+ ppet-Company\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Menlo Park Library\, 800 Alma St.\, Menlo Park\, CA 94025
+URL:https://www.menlopark.gov/Government/Departments/Library-and-Community
+ -Services/Events/Events-for-children/20260709-Puppet-Company
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Move and Groove Storytime
-DTSTART:20260713T171500Z
-DTEND:20260713T183000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16598880@local-events
-DESCRIPTION:Move and Groove Storytime has two sessions: 10:15 am and 11:00
-  am.\nFamilies who cannot attend the 10:15 storytime are encouraged to sta
- y for the 11:00.\n\nDance your wiggles away in this interactive storytime.
-  Creative movement set to songs and stories for children 18 months  and ca
- regivers.\n\nAdults must be accompanied by a child. Registration not requi
- red.\n\nAges: unspecified\nSource: https://sanmateopublic.libcal.com/event
- /16598880\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Oak Room Patio\, Main Library 1st Floor
-URL:https://sanmateopublic.libcal.com/event/16598880
+SUMMARY:[MP] Drop-in Chess Play
+DTSTART;TZID=America/Los_Angeles:20260709T000000
+DTEND;TZID=America/Los_Angeles:20260709T010000
+DTSTAMP:20260704T142322Z
+UID:menlopark-20240912-Drop-in-Chess-Play@local-events
+DESCRIPTION:Whether you're a grandmaster or just learning the basics\, our
+  friendly and welcoming environment is perfect for all levels. Drop in to 
+ play casual games\, learn new strategies\, or simply enjoy the company of 
+ fellow chess enthusiasts.\n\nAges: teens\nSource: https://www.menlopark.go
+ v/Government/Departments/Library-and-Community-Services/Events/Events-for-
+ teens/20240912-Drop-in-Chess-Play\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Oak Room at the Arrillaga Family Recreation Center\, 700 Alma St
+ reet\, Menlo Park\, CA 94025
+URL:https://www.menlopark.gov/Government/Departments/Library-and-Community
+ -Services/Events/Events-for-teens/20240912-Drop-in-Chess-Play
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Adventure Theater!
-DTSTART:20260714T220000Z
-DTEND:20260714T230000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16933223@local-events
-DESCRIPTION:Join us for Adventure Theater\, a wildly imaginative\, family-
- friendly storytelling experience full of interactive\, improvised adventur
- es created on the spot! Led by Bay Area storyteller\, actor\, and playwrig
- ht Addam Ledamyen\, this lively performance invites kids and families to h
- elp shape the story through creativity\, laughter\, and audience participa
- tion.\n\nAges: All ages / family\nSource: https://sanmateopublic.libcal.co
- m/event/16933223\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Hillsdale Library- Programming Space
-URL:https://sanmateopublic.libcal.com/event/16933223
+SUMMARY:[MP] Circus Bella Circus in the Park
+DTSTART;TZID=America/Los_Angeles:20260704T170000
+DTEND;TZID=America/Los_Angeles:20260704T180000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-circusintheparks-20260704@local-events
+DESCRIPTION:FREE Circus in the Parks!\n\nCircus Bella Circus in the Park 
+ — Menlo Park\nDate listing: July 4\nCost: Free\nTime not listed on aggre
+ gator — placeholder shown as 10am/1h block.\nCheck source page for the a
+ ctual time and details.\n\nSource: https://www.circusbella.org/circusinthe
+ parks\nAggregator: bayareakidfun.com\n\nAges: Family-friendly (per bayarea
+ kidfun.com curation)\nSource: https://www.circusbella.org/circusintheparks
+ \nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Menlo Park
+URL:https://www.circusbella.org/circusintheparks
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Adventure Theater!
-DTSTART:20260715T003000Z
-DTEND:20260715T013000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16926743@local-events
-DESCRIPTION:Join us for Adventure Theater\, a wildly imaginative\, family-
- friendly storytelling experience full of interactive\, improvised adventur
- es created on the spot! Led by Bay Area storyteller\, actor\, and playwrig
- ht Addam Ledamyen\, this lively performance invites kids and families to h
- elp shape the story through creativity\, laughter\, and audience participa
- tion.\n\nAges: All ages / family\nSource: https://sanmateopublic.libcal.co
- m/event/16926743\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Oak Room
-URL:https://sanmateopublic.libcal.com/event/16926743
+SUMMARY:[PA] Storytime with Anna at the Foster Museum
+DTSTART;TZID=America/Los_Angeles:20260705T130000
+DTEND;TZID=America/Los_Angeles:20260705T150000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-programs-20260705@local-events
+DESCRIPTION:The Foster Museum holds a variety of programs at 940 Commercia
+ l Street\, Palo Alto\, CA. Advanced registration is required for most prog
+ rams\; see details on several unique programs below.\n\nStorytime with Ann
+ a at the Foster Museum — Palo Alto\nDate listing: July 5\, 19\nCost: Fre
+ e\nTime not listed on aggregator — placeholder shown as 10am/1h block.\n
+ Check source page for the actual time and details.\n\nSource: https://www.
+ thefoster.org/programs\nAggregator: bayareakidfun.com\n\nAges: Family-frie
+ ndly (per bayareakidfun.com curation)\nSource: https://www.thefoster.org/p
+ rograms\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Palo Alto
+URL:https://www.thefoster.org/programs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Summer Art Lab: Cyanotypes & Suncatchers!
-DTSTART:20260718T200000Z
-DTEND:20260718T210000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16627195@local-events
-DESCRIPTION:Join us for a hands-on art program exploring cyanotypes\, a ph
- otographic printing process that uses sunlight to create images\, along wi
- th paper suncatchers! \n\nThis program is part of our Summer Art Lab serie
- s\, a three-part set of hands-on art programs exploring different creative
-  techniques.\n\nParticipants are welcome to bring small\, flat objects (su
- ch as leaves\, flowers\, or paper cutouts) to use in their cyanotype print
- s.\n\nSpace is limited to 15 participants. Registration is required.\n\nAg
- es: unspecified\nSource: https://sanmateopublic.libcal.com/event/16627195\
- nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Book Bubble\, Main Library Children's Area
-URL:https://sanmateopublic.libcal.com/event/16627195
+SUMMARY:[PA] Storytime with Anna at the Foster Museum
+DTSTART;TZID=America/Los_Angeles:20260719T130000
+DTEND;TZID=America/Los_Angeles:20260719T150000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-programs-20260719@local-events
+DESCRIPTION:The Foster Museum holds a variety of programs at 940 Commercia
+ l Street\, Palo Alto\, CA. Advanced registration is required for most prog
+ rams\; see details on several unique programs below.\n\nStorytime with Ann
+ a at the Foster Museum — Palo Alto\nDate listing: July 5\, 19\nCost: Fre
+ e\nTime not listed on aggregator — placeholder shown as 10am/1h block.\n
+ Check source page for the actual time and details.\n\nSource: https://www.
+ thefoster.org/programs\nAggregator: bayareakidfun.com\n\nAges: Family-frie
+ ndly (per bayareakidfun.com curation)\nSource: https://www.thefoster.org/p
+ rograms\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Palo Alto
+URL:https://www.thefoster.org/programs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Move and Groove Storytime
-DTSTART:20260720T171500Z
-DTEND:20260720T183000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16598881@local-events
-DESCRIPTION:Move and Groove Storytime has two sessions: 10:15 am and 11:00
-  am.\nFamilies who cannot attend the 10:15 storytime are encouraged to sta
- y for the 11:00.\n\nDance your wiggles away in this interactive storytime.
-  Creative movement set to songs and stories for children 18 months  and ca
- regivers.\n\nAdults must be accompanied by a child. Registration not requi
- red.\n\nAges: unspecified\nSource: https://sanmateopublic.libcal.com/event
- /16598881\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Oak Room Patio\, Main Library 1st Floor
-URL:https://sanmateopublic.libcal.com/event/16598881
+SUMMARY:[PA] Family Movie Night: Zootopia 2
+DTSTART;TZID=America/Los_Angeles:20260710T100000
+DTEND;TZID=America/Los_Angeles:20260710T110000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-Family-Movie-Night-Series-2026-20260710@local-events
+DESCRIPTION:Family Movie Night: Zootopia 2 — Palo Alto\nDate listing: Ju
+ ly 10\nCost: Free\nTime not listed on aggregator — placeholder shown as 
+ 10am/1h block.\nCheck source page for the actual time and details.\n\nSour
+ ce: https://www.paloalto.gov/Events-Directory/Community-Services/Family-Mo
+ vie-Night-Series-2026\nAggregator: bayareakidfun.com\n\nAges: Family-frien
+ dly (per bayareakidfun.com curation)\nSource: https://www.paloalto.gov/Eve
+ nts-Directory/Community-Services/Family-Movie-Night-Series-2026\nLast sync
+ ed: 2026-07-04 07:23 PDT
+LOCATION:Palo Alto
+URL:https://www.paloalto.gov/Events-Directory/Community-Services/Family-Mo
+ vie-Night-Series-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] NorCal Bats!
-DTSTART:20260721T003000Z
-DTEND:20260721T013000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16926744@local-events
-DESCRIPTION:Join us for a fascinating evening with NorCal Bats featuring l
- ive bat ambassadors! Discover the truth about local bats\, explore the myt
- hs and misconceptions surrounding these amazing animals\, and learn why ba
- ts play such an important role in our ecosystem. The program will conclude
-  with time for audience questions and answers. All bats featured are certi
- fied non-releasable by the California Department of Fish & Wildlife and th
- e U.S. Department of Agriculture due to injuries that prevent them from su
- rviving in the wild.\n\nAges: unspecified\nSource: https://sanmateopublic.
- libcal.com/event/16926744\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Oak Room
-URL:https://sanmateopublic.libcal.com/event/16926744
+SUMMARY:[PA] Second Saturday at Gamble Garden
+DTSTART;TZID=America/Los_Angeles:20260711T100000
+DTEND;TZID=America/Los_Angeles:20260711T120000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-jul-second-sat-2026-20260711@local-events
+DESCRIPTION:All ages are welcome to spend a beautiful July morning as we l
+ earn and explore. Learn about the sun and celebrate Disability Pride Month
+  at Gamble Garden. Second Saturdays are free and open to all.\n\nSecond Sa
+ turday at Gamble Garden — Palo Alto\nDate listing: July 11\nCost: Free\n
+ Time not listed on aggregator — placeholder shown as 10am/1h block.\nChe
+ ck source page for the actual time and details.\n\nSource: https://www.gam
+ blegarden.org/event/jul-second-sat-2026/\nAggregator: bayareakidfun.com\n\
+ nAges: Family-friendly (per bayareakidfun.com curation)\nSource: https://w
+ ww.gamblegarden.org/event/jul-second-sat-2026/\nLast synced: 2026-07-04 07
+ :23 PDT
+LOCATION:Palo Alto
+URL:https://www.gamblegarden.org/event/jul-second-sat-2026/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] The Wylding Woods!
-DTSTART:20260721T220000Z
-DTEND:20260721T230000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16933324@local-events
-DESCRIPTION:Join us for a magical and highly interactive family puppet sho
- w from Wylding Woods\, Barnaby & The Dragon's Treasure. Barnaby the troll 
- has escaped from the story of the 3 Billy Goats Gruff and stolen Agnor the
-  dragon’s treasure. Help Barnaby return the stolen treasure as he learns
-  the power to change his story.\n\nAges: All ages / family\nSource: https:
- //sanmateopublic.libcal.com/event/16933324\nLast synced: 2026-07-03 15:51 
- PDT
-LOCATION:Hillsdale Library- Programming Space
-URL:https://sanmateopublic.libcal.com/event/16933324
+SUMMARY:[PA] Family Movie Night: GOAT
+DTSTART;TZID=America/Los_Angeles:20260717T100000
+DTEND;TZID=America/Los_Angeles:20260717T110000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-Family-Movie-Night-Series-2026-20260717@local-events
+DESCRIPTION:Family Movie Night: GOAT — Palo Alto\nDate listing: July 17\
+ nCost: Free\nTime not listed on aggregator — placeholder shown as 10am/1
+ h block.\nCheck source page for the actual time and details.\n\nSource: ht
+ tps://www.paloalto.gov/Events-Directory/Community-Services/Family-Movie-Ni
+ ght-Series-2026\nAggregator: bayareakidfun.com\n\nAges: Family-friendly (p
+ er bayareakidfun.com curation)\nSource: https://www.paloalto.gov/Events-Di
+ rectory/Community-Services/Family-Movie-Night-Series-2026\nLast synced: 20
+ 26-07-04 07:23 PDT
+LOCATION:Palo Alto
+URL:https://www.paloalto.gov/Events-Directory/Community-Services/Family-Mo
+ vie-Night-Series-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Boulder Book Club & Craft
-DTSTART:20260721T230000Z
-DTEND:20260722T000000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-15643863@local-events
-DESCRIPTION:Join us for a meeting of the Boulder Book Club & Craft- a grou
- p for readers who think graphic novels rock! This month we will be talking
-  about Super Boba Cafe by Nidhi Chanani\, eating snacks\, and doing a them
- atic craft on Tuesday\, July 21stfrom 4-5pm in the Book Bubble.\n\nThis pr
- ogram is for kids ages 6-10.\n\nRegistration is required to get the free b
- ook and attend event. Please note- it is expected that the book has been r
- ead prior to attending the Book Club- so please pick up your book and read
-  it!\n\nBooks are available for pick up now.\n\nAges: 6-10\nSource: https:
- //sanmateopublic.libcal.com/event/15643863\nLast synced: 2026-07-03 15:51 
- PDT
-LOCATION:Book Bubble
-URL:https://sanmateopublic.libcal.com/event/15643863
+SUMMARY:[MV] A Year with Frog and Toad by PYT
+DTSTART;TZID=America/Los_Angeles:20260723T100000
+DTEND;TZID=America/Los_Angeles:20260723T110000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-a-year-with-frog-and-toad-20260723@local-events
+DESCRIPTION:Auditions: May 2 & 3\, 2026 Performances: July 23-26\, 2026 on
+  the Mountain View Center for the Performing Arts MainStage Based on Arnol
+ d Lobel’s well-loved books\, A Year with Frog and Toad…\n\nA Year with
+  Frog and Toad by PYT — Mountain View\nDate listing: July 23-26\nTime no
+ t listed on aggregator — placeholder shown as 10am/1h block.\nCheck sour
+ ce page for the actual time and details.\n\nSource: https://pytnet.org/box
+ office/a-year-with-frog-and-toad/\nAggregator: bayareakidfun.com\n\nAges: 
+ Family-friendly (per bayareakidfun.com curation)\nSource: https://pytnet.o
+ rg/boxoffice/a-year-with-frog-and-toad/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Mountain View
+URL:https://pytnet.org/boxoffice/a-year-with-frog-and-toad/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] The Wylding Woods!
-DTSTART:20260722T003000Z
-DTEND:20260722T013000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16926745@local-events
-DESCRIPTION:Join us for a magical and highly interactive family puppet sho
- w from Wylding Woods\, Barnaby & The Dragon's Treasure. Barnaby the troll 
- has escaped from the story of the 3 Billy Goats Gruff and stolen Agnor the
-  dragon’s treasure. Help Barnaby return the stolen treasure as he learns
-  the power to change his story.\n\nAges: All ages / family\nSource: https:
- //sanmateopublic.libcal.com/event/16926745\nLast synced: 2026-07-03 15:51 
- PDT
-LOCATION:Oak Room
-URL:https://sanmateopublic.libcal.com/event/16926745
+SUMMARY:[HMB] Once Upon a Mattress
+DTSTART;TZID=America/Los_Angeles:20260724T100000
+DTEND;TZID=America/Los_Angeles:20260724T110000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-www-coastalrep-com-20260724@local-events
+DESCRIPTION:Theatre home page showing current show and what's happening at
+  the theatre\n\nOnce Upon a Mattress — Half Moon Bay\nDate listing: July
+  24-August 19\nTime not listed on aggregator — placeholder shown as 10am
+ /1h block.\nCheck source page for the actual time and details.\n\nSource: 
+ https://www.coastalrep.com/\nAggregator: bayareakidfun.com\n\nAges: Family
+ -friendly (per bayareakidfun.com curation)\nSource: https://www.coastalrep
+ .com/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Half Moon Bay
+URL:https://www.coastalrep.com/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Plot Twist Society
-DTSTART:20260723T230000Z
-DTEND:20260724T000000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16483092@local-events
-DESCRIPTION:Join Plot Twist Society!\nJoin a super fun Book Club for all r
- eaders ages 10–13!\n\nThis month we’re diving into A Sea of Lemon Tree
- s by María Dolores Águila— a powerful and inspiring historical novel b
- ased on a true story. Set in California in 1930\, the book follows twelve-
- year-old Roberto Alvarez as he and his community stand up against injustic
- e when Mexican American students are unfairly segregated from their school
- . Told in vivid verse\, this unforgettable story celebrates courage\, pers
- everance\, and the power of people working together to create change.\n\n
- 📅 When: Thursday\, July 23 · 4–5 PM\n📍 Where: Book Bubble\n\nBONU
- S: Register early and pick up a FREE copy of A Sea of Lemon Trees at the C
- hildren’s Reference Desk between June 25 and July 21 (while supplies las
- t).\n\nSpots are limited\, so don’t miss out! We can’t wait to see you
- !\n\nFor more information: \nContact: Madison Reece\nPhone: (650) 522-7836
- \nEmail: mreece@cityofsanmateo.org\n\nAges: 10-13\nSource: https://sanmate
- opublic.libcal.com/event/16483092\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Book Bubble\, Main Library Children's Area
-URL:https://sanmateopublic.libcal.com/event/16483092
+SUMMARY:[BUR] Circus Bella Circus in the Park
+DTSTART;TZID=America/Los_Angeles:20260725T170000
+DTEND;TZID=America/Los_Angeles:20260725T180000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-circusintheparks-20260725@local-events
+DESCRIPTION:FREE Circus in the Parks!\n\nCircus Bella Circus in the Park 
+ — Burlingame\nDate listing: July 25\nCost: Free\nTime not listed on aggr
+ egator — placeholder shown as 10am/1h block.\nCheck source page for the 
+ actual time and details.\n\nSource: https://www.circusbella.org/circusinth
+ eparks\nAggregator: bayareakidfun.com\n\nAges: Family-friendly (per bayare
+ akidfun.com curation)\nSource: https://www.circusbella.org/circusinthepark
+ s\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Burlingame
+URL:https://www.circusbella.org/circusintheparks
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Technology Exploration
-DTSTART:20260725T170000Z
-DTEND:20260725T190000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16626513@local-events
-DESCRIPTION:Please join us for Technology Exploration in the Book Bubble o
- n Saturday 10 AM-12 PM!\n\nThis two hour program is for children\, family\
- , and friends to drop in and explore 3-D printing\, program Bee-Bots & Cub
- elets\, and/or other assorted tech devices.\n\nNo registration is required
- - Parental guidance is encouraged. \n\nPlease note: 3-D Printing through t
- his program is for kids only- not adults. Additionally\, we will not 3-D p
- rint for 0-3 years old\, as the prints can be considered a choking hazard.
- \n\nAges: All ages / family\nSource: https://sanmateopublic.libcal.com/eve
- nt/16626513\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Book Bubble
-URL:https://sanmateopublic.libcal.com/event/16626513
+SUMMARY:[SC] Kids Air Fair
+DTSTART;TZID=America/Los_Angeles:20260729T100000
+DTEND;TZID=America/Los_Angeles:20260729T110000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-kids-air-fair-20260729@local-events
+DESCRIPTION:Kids Air Fair — San Carlos\nDate listing: July 29\nTime not 
+ listed on aggregator — placeholder shown as 10am/1h block.\nCheck source
+  page for the actual time and details.\n\nSource: https://www.hiller.org/e
+ vent/kids-air-fair/\nAggregator: bayareakidfun.com\n\nAges: Family-friendl
+ y (per bayareakidfun.com curation)\nSource: https://www.hiller.org/event/k
+ ids-air-fair/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:San Carlos
+URL:https://www.hiller.org/event/kids-air-fair/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Move and Groove Storytime
-DTSTART:20260727T171500Z
-DTEND:20260727T183000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16598882@local-events
-DESCRIPTION:Move and Groove Storytime has two sessions: 10:15 am and 11:00
-  am.\nFamilies who cannot attend the 10:15 storytime are encouraged to sta
- y for the 11:00.\n\nDance your wiggles away in this interactive storytime.
-  Creative movement set to songs and stories for children 18 months  and ca
- regivers.\n\nAdults must be accompanied by a child. Registration not requi
- red.\n\nAges: unspecified\nSource: https://sanmateopublic.libcal.com/event
- /16598882\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Oak Room Patio\, Main Library 1st Floor
-URL:https://sanmateopublic.libcal.com/event/16598882
+SUMMARY:[PA] Family Movie Night: Hoppers
+DTSTART;TZID=America/Los_Angeles:20260731T100000
+DTEND;TZID=America/Los_Angeles:20260731T110000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-Family-Movie-Night-Series-2026-20260731@local-events
+DESCRIPTION:Family Movie Night: Hoppers — Palo Alto\nDate listing: July 
+ 31\nCost: Free\nTime not listed on aggregator — placeholder shown as 10a
+ m/1h block.\nCheck source page for the actual time and details.\n\nSource:
+  https://www.paloalto.gov/Events-Directory/Community-Services/Family-Movie
+ -Night-Series-2026\nAggregator: bayareakidfun.com\n\nAges: Family-friendly
+  (per bayareakidfun.com curation)\nSource: https://www.paloalto.gov/Events
+ -Directory/Community-Services/Family-Movie-Night-Series-2026\nLast synced:
+  2026-07-04 07:23 PDT
+LOCATION:Palo Alto
+URL:https://www.paloalto.gov/Events-Directory/Community-Services/Family-Mo
+ vie-Night-Series-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Summer Movie Book Club
-DTSTART:20260727T230000Z
-DTEND:20260728T010000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16164087@local-events
-DESCRIPTION:Join us for a Summer Movie Book Club! You read the book\, we w
- atch the movie together\, eat popcorn\, and talk about the differences bet
- ween the two!\n\nThe book for this event is Mrs. Frisby and the Rats of NI
- MH by Richard O'Brien\, and the movie is The Secret of NIMH (1982)\n\nThe 
- movie will start at 4 PM\, please be on time for this program.\n\nRegistra
- tion is required to attend this program. Because of the content of the boo
- ks and movies\, we ask that only children ages 8 and up register for this 
- program. Anyone younger will be asked to leave.\n\nAges: 8+\nSource: https
- ://sanmateopublic.libcal.com/event/16164087\nLast synced: 2026-07-03 15:51
-  PDT
-LOCATION:Book Bubble
-URL:https://sanmateopublic.libcal.com/event/16164087
+SUMMARY:[PA] Storytime with Anna at the Foster Museum
+DTSTART;TZID=America/Los_Angeles:20260802T130000
+DTEND;TZID=America/Los_Angeles:20260802T150000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-programs-20260802@local-events
+DESCRIPTION:The Foster Museum holds a variety of programs at 940 Commercia
+ l Street\, Palo Alto\, CA. Advanced registration is required for most prog
+ rams\; see details on several unique programs below.\n\nStorytime with Ann
+ a at the Foster Museum — Palo Alto\nDate listing: August 2\, 16\nCost: F
+ ree\nTime not listed on aggregator — placeholder shown as 10am/1h block.
+ \nCheck source page for the actual time and details.\n\nSource: https://ww
+ w.thefoster.org/programs\nAggregator: bayareakidfun.com\n\nAges: Family-fr
+ iendly (per bayareakidfun.com curation)\nSource: https://www.thefoster.org
+ /programs\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Palo Alto
+URL:https://www.thefoster.org/programs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Cross Stitch Club
-DTSTART:20260728T223000Z
-DTEND:20260728T233000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16963530@local-events
-DESCRIPTION:Come learn how to cross stitch or bring your own project to wo
- rk on! We use fun\, colorful beginner patterns that are easy to follow. Al
- l materials will be provided. This program is for children grades 3-5 . Re
- gistration is required.\n\nAges: grades 3-5\nSource: https://sanmateopubli
- c.libcal.com/event/16963530\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Book Bubble\, Main Library Children's Area
-URL:https://sanmateopublic.libcal.com/event/16963530
+SUMMARY:[PA] Storytime with Anna at the Foster Museum
+DTSTART;TZID=America/Los_Angeles:20260816T130000
+DTEND;TZID=America/Los_Angeles:20260816T150000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-programs-20260816@local-events
+DESCRIPTION:The Foster Museum holds a variety of programs at 940 Commercia
+ l Street\, Palo Alto\, CA. Advanced registration is required for most prog
+ rams\; see details on several unique programs below.\n\nStorytime with Ann
+ a at the Foster Museum — Palo Alto\nDate listing: August 2\, 16\nCost: F
+ ree\nTime not listed on aggregator — placeholder shown as 10am/1h block.
+ \nCheck source page for the actual time and details.\n\nSource: https://ww
+ w.thefoster.org/programs\nAggregator: bayareakidfun.com\n\nAges: Family-fr
+ iendly (per bayareakidfun.com curation)\nSource: https://www.thefoster.org
+ /programs\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Palo Alto
+URL:https://www.thefoster.org/programs
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Polish Storytime
-DTSTART:20260802T183000Z
-DTEND:20260802T190000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-17038428@local-events
-DESCRIPTION:Please join us for Polish Storytime! We'll be hosting this eve
- nt every FIRST Sunday for the forseeable future and would love if you coul
- d join us! We'll be learning about Polish culture\, reading books\, and si
- nging rhymes. We hope to see you there!\n\nAges: unspecified\nSource: http
- s://sanmateopublic.libcal.com/event/17038428\nLast synced: 2026-07-03 15:5
- 1 PDT
-LOCATION:Book Bubble
-URL:https://sanmateopublic.libcal.com/event/17038428
+SUMMARY:[SC] Bubble Bonanza
+DTSTART;TZID=America/Los_Angeles:20260805T100000
+DTEND;TZID=America/Los_Angeles:20260805T110000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-2026-06-17-20260805@local-events
+DESCRIPTION:Bubble Bonanza — San Carlos\nDate listing: August 5\, 30\nTi
+ me not listed on aggregator — placeholder shown as 10am/1h block.\nCheck
+  source page for the actual time and details.\n\nSource: https://www.hille
+ r.org/event/bubble_bonanza-2/2026-06-17/\nAggregator: bayareakidfun.com\n\
+ nAges: Family-friendly (per bayareakidfun.com curation)\nSource: https://w
+ ww.hiller.org/event/bubble_bonanza-2/2026-06-17/\nLast synced: 2026-07-04 
+ 07:23 PDT
+LOCATION:San Carlos
+URL:https://www.hiller.org/event/bubble_bonanza-2/2026-06-17/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Move and Groove Storytime
-DTSTART:20260803T171500Z
-DTEND:20260803T183000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16598883@local-events
-DESCRIPTION:Move and Groove Storytime has two sessions: 10:15 am and 11:00
-  am.\nFamilies who cannot attend the 10:15 storytime are encouraged to sta
- y for the 11:00.\n\nDance your wiggles away in this interactive storytime.
-  Creative movement set to songs and stories for children 18 months  and ca
- regivers.\n\nAdults must be accompanied by a child. Registration not requi
- red.\n\nAges: unspecified\nSource: https://sanmateopublic.libcal.com/event
- /16598883\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Oak Room Patio\, Main Library 1st Floor
-URL:https://sanmateopublic.libcal.com/event/16598883
+SUMMARY:[SC] Bubble Bonanza
+DTSTART;TZID=America/Los_Angeles:20260830T100000
+DTEND;TZID=America/Los_Angeles:20260830T110000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-2026-06-17-20260830@local-events
+DESCRIPTION:Bubble Bonanza — San Carlos\nDate listing: August 5\, 30\nTi
+ me not listed on aggregator — placeholder shown as 10am/1h block.\nCheck
+  source page for the actual time and details.\n\nSource: https://www.hille
+ r.org/event/bubble_bonanza-2/2026-06-17/\nAggregator: bayareakidfun.com\n\
+ nAges: Family-friendly (per bayareakidfun.com curation)\nSource: https://w
+ ww.hiller.org/event/bubble_bonanza-2/2026-06-17/\nLast synced: 2026-07-04 
+ 07:23 PDT
+LOCATION:San Carlos
+URL:https://www.hiller.org/event/bubble_bonanza-2/2026-06-17/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Science Heroes!
-DTSTART:20260804T003000Z
-DTEND:20260804T013000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16926747@local-events
-DESCRIPTION:Get ready for an action-packed STEM adventure with Science Her
- oes! These high-energy\, interactive shows combine science experiments wit
- h exciting storytelling as kids help solve thrilling\, science-based myste
- ries. Featuring giant demonstrations\, hands-on experiments\, and plenty o
- f audience participation\, this fun-filled program is perfect for curious 
- kids and families.\n\nAges: unspecified\nSource: https://sanmateopublic.li
- bcal.com/event/16926747\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Oak Room
-URL:https://sanmateopublic.libcal.com/event/16926747
+SUMMARY:[SM] First Friday at CuriOdyssey
+DTSTART;TZID=America/Los_Angeles:20260807T170000
+DTEND;TZID=America/Los_Angeles:20260807T200000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-first-friday-nights-20260807@local-events
+DESCRIPTION:Swing into the weekend with music\, science\, animals and fun 
+ on the first Friday of every month!\n\nFirst Friday at CuriOdyssey — San
+  Mateo\nDate listing: August 7\nTime not listed on aggregator — placehol
+ der shown as 10am/1h block.\nCheck source page for the actual time and det
+ ails.\n\nSource: https://curiodyssey.org/exhibits-events/first-friday-nigh
+ ts/\nAggregator: bayareakidfun.com\n\nAges: Family-friendly (per bayareaki
+ dfun.com curation)\nSource: https://curiodyssey.org/exhibits-events/first-
+ friday-nights/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:San Mateo
+URL:https://curiodyssey.org/exhibits-events/first-friday-nights/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Technology Exploration
-DTSTART:20260808T170000Z
-DTEND:20260808T190000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16626525@local-events
-DESCRIPTION:Please join us for Technology Exploration in the Book Bubble o
- n Saturday 10 AM-12 PM!\n\nThis two hour program is for children\, family\
- , and friends to drop in and explore 3-D printing\, program Bee-Bots & Cub
- elets\, and/or other assorted tech devices.\n\nNo registration is required
- - Parental guidance is encouraged. \n\nPlease note: 3-D Printing through t
- his program is for kids only- not adults. Additionally\, we will not 3-D p
- rint for 0-3 years old\, as the prints can be considered a choking hazard.
- \n\nAges: All ages / family\nSource: https://sanmateopublic.libcal.com/eve
- nt/16626525\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Book Bubble
-URL:https://sanmateopublic.libcal.com/event/16626525
+SUMMARY:[RWC] Free First Friday at the San Mateo County History Museum
+DTSTART;TZID=America/Los_Angeles:20260807T100000
+DTEND;TZID=America/Los_Angeles:20260807T160000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-free-first-fridays-20260807@local-events
+DESCRIPTION:Details Date: Friday\, June 5\, 2026 Free admission to the His
+ tory Museum 10 a.m. - 4 p.m. Free Playing in the Past at 11 a.m. Free gene
+ ral tour at the History Museum at 2 p.m. Location: San Mateo County Histor
+ y Museum Cost: Free The History Museum's Free First Fridays program is spo
+ nsored by Monterra Credit\n\nFree First Friday at the San Mateo County His
+ tory Museum — Redwood City\nDate listing: August 7\nCost: Free\nTime not
+  listed on aggregator — placeholder shown as 10am/1h block.\nCheck sourc
+ e page for the actual time and details.\n\nSource: https://historysmc.org/
+ free-first-fridays/\nAggregator: bayareakidfun.com\n\nAges: Family-friendl
+ y (per bayareakidfun.com curation)\nSource: https://historysmc.org/free-fi
+ rst-fridays/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Redwood City
+URL:https://historysmc.org/free-first-fridays/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Move and Groove Storytime
-DTSTART:20260810T171500Z
-DTEND:20260810T183000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16598884@local-events
-DESCRIPTION:Move and Groove Storytime has two sessions: 10:15 am and 11:00
-  am.\nFamilies who cannot attend the 10:15 storytime are encouraged to sta
- y for the 11:00.\n\nDance your wiggles away in this interactive storytime.
-  Creative movement set to songs and stories for children 18 months  and ca
- regivers.\n\nAdults must be accompanied by a child. Registration not requi
- red.\n\nAges: unspecified\nSource: https://sanmateopublic.libcal.com/event
- /16598884\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Oak Room Patio\, Main Library 1st Floor
-URL:https://sanmateopublic.libcal.com/event/16598884
+SUMMARY:[PA] Second Saturday at Gamble Garden
+DTSTART;TZID=America/Los_Angeles:20260808T100000
+DTEND;TZID=America/Los_Angeles:20260808T120000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-augustsaturday-20260808@local-events
+DESCRIPTION:All ages are invited to spend a beautiful August morning celeb
+ rating the Harvest at Gamble Garden.\n\nSecond Saturday at Gamble Garden 
+ — Palo Alto\nDate listing: August 8\nCost: Free\nTime not listed on aggr
+ egator — placeholder shown as 10am/1h block.\nCheck source page for the 
+ actual time and details.\n\nSource: https://www.gamblegarden.org/event/aug
+ ustsaturday/\nAggregator: bayareakidfun.com\n\nAges: Family-friendly (per 
+ bayareakidfun.com curation)\nSource: https://www.gamblegarden.org/event/au
+ gustsaturday/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Palo Alto
+URL:https://www.gamblegarden.org/event/augustsaturday/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Summer Art Lab: Painted Cactus Rocks
-DTSTART:20260815T200000Z
-DTEND:20260815T210000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16627241@local-events
-DESCRIPTION:Let’s paint one of California’s most resilient native plan
- ts: cacti! Participants will paint rocks to resemble cacti and arrange the
- m in small planters to create a mini “cactus garden” to take home.\n\n
- This program is part of our Summer Art Lab series\, a three-part set of ha
- nds-on art programs exploring different creative techniques.\n\nPlease not
- e that paint will be used and projects may get messy. Participants are enc
- ouraged to wear appropriate clothing.\n\nSpace is limited to 15 participan
- ts. Registration is required.\n\nAges: unspecified\nSource: https://sanmat
- eopublic.libcal.com/event/16627241\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Makerspace\, Main Library Children's Area
-URL:https://sanmateopublic.libcal.com/event/16627241
+SUMMARY:[PA] Family Movie Night: Super Mario Galaxy Movie
+DTSTART;TZID=America/Los_Angeles:20260814T100000
+DTEND;TZID=America/Los_Angeles:20260814T110000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-Family-Movie-Night-Series-2026-20260814@local-events
+DESCRIPTION:Family Movie Night: Super Mario Galaxy Movie — Palo Alto\nDa
+ te listing: August 14\nCost: Free\nTime not listed on aggregator — place
+ holder shown as 10am/1h block.\nCheck source page for the actual time and 
+ details.\n\nSource: https://www.paloalto.gov/Events-Directory/Community-Se
+ rvices/Family-Movie-Night-Series-2026\nAggregator: bayareakidfun.com\n\nAg
+ es: Family-friendly (per bayareakidfun.com curation)\nSource: https://www.
+ paloalto.gov/Events-Directory/Community-Services/Family-Movie-Night-Series
+ -2026\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Palo Alto
+URL:https://www.paloalto.gov/Events-Directory/Community-Services/Family-Mo
+ vie-Night-Series-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Move and Groove Storytime
-DTSTART:20260817T171500Z
-DTEND:20260817T183000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16598885@local-events
-DESCRIPTION:Move and Groove Storytime has two sessions: 10:15 am and 11:00
-  am.\nFamilies who cannot attend the 10:15 storytime are encouraged to sta
- y for the 11:00.\n\nDance your wiggles away in this interactive storytime.
-  Creative movement set to songs and stories for children 18 months  and ca
- regivers.\n\nAdults must be accompanied by a child. Registration not requi
- red.\n\nAges: unspecified\nSource: https://sanmateopublic.libcal.com/event
- /16598885\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Oak Room Patio\, Main Library 1st Floor
-URL:https://sanmateopublic.libcal.com/event/16598885
+SUMMARY:[MV] KidStock
+DTSTART;TZID=America/Los_Angeles:20260815T100000
+DTEND;TZID=America/Los_Angeles:20260815T110000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-kidstock-20260815@local-events
+DESCRIPTION:KidStock — Mountain View\nDate listing: August 15\nCost: Fre
+ e\nTime not listed on aggregator — placeholder shown as 10am/1h block.\n
+ Check source page for the actual time and details.\n\nSource: https://www.
+ mountainview.gov/our-city/departments/community-services/special-events/ki
+ dstock\nAggregator: bayareakidfun.com\n\nAges: Family-friendly (per bayare
+ akidfun.com curation)\nSource: https://www.mountainview.gov/our-city/depar
+ tments/community-services/special-events/kidstock\nLast synced: 2026-07-04
+  07:23 PDT
+LOCATION:Mountain View
+URL:https://www.mountainview.gov/our-city/departments/community-services/s
+ pecial-events/kidstock
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Summer Movie Book Club
-DTSTART:20260817T230000Z
-DTEND:20260818T010000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16164090@local-events
-DESCRIPTION:Join us for a Summer Movie Book Club! You read the book\, we w
- atch the movie together\, eat popcorn\, and talk about the differences bet
- ween the two!\n\nThe book for this event is Harriet the Spy by Louise Fitz
- hugh\, and the movie is Harriet the Spy (1996)\n\nThe movie will start at 
- 4 PM\, please be on time for this program.\n\nRegistration is required to 
- attend this program. Because of the content of the books and movies\, we a
- sk that only children ages 8 and up register for this program. Anyone youn
- ger will be asked to leave.\n\nAges: 8+\nSource: https://sanmateopublic.li
- bcal.com/event/16164090\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Book Bubble
-URL:https://sanmateopublic.libcal.com/event/16164090
+SUMMARY:[LAH] Weekend Farm Tour
+DTSTART;TZID=America/Los_Angeles:20260829T100000
+DTEND;TZID=America/Los_Angeles:20260829T110000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-region-HV-20260829@local-events
+DESCRIPTION:Weekend Farm Tour — Los Altos Hills\nDate listing: August 29
+ \, 30\nTime not listed on aggregator — placeholder shown as 10am/1h bloc
+ k.\nCheck source page for the actual time and details.\n\nSource: https://
+ www.hiddenvilla.org/calendar/individuals-families/region-HV/\nAggregator: 
+ bayareakidfun.com\n\nAges: Family-friendly (per bayareakidfun.com curation
+ )\nSource: https://www.hiddenvilla.org/calendar/individuals-families/regio
+ n-HV/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Los Altos Hills
+URL:https://www.hiddenvilla.org/calendar/individuals-families/region-HV/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] 3-D Print Drop In
-DTSTART:20260822T173000Z
-DTEND:20260822T193000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16624985@local-events
-DESCRIPTION:Join us in the Book Bubble from 12 PM- 2 PM for a 3-D Print Dr
- op In session!\n\nKids can either design their own print in Tinkercad or s
- elect a single small item from Thingiverse that can print up within half a
- n hour and we will print it up that day!\n\nThis event is first come first
-  served- There is no registration required. Recommended ages are 6-12 This
-  program is not for adults.\n\nPlease note: Your child will need to be abl
- e to use a computer independently to participate in this program.\n\nAges:
-  unspecified\nSource: https://sanmateopublic.libcal.com/event/16624985\nLa
- st synced: 2026-07-03 15:51 PDT
-LOCATION:Book Bubble
-URL:https://sanmateopublic.libcal.com/event/16624985
+SUMMARY:[LAH] Weekend Farm Tour
+DTSTART;TZID=America/Los_Angeles:20260830T100000
+DTEND;TZID=America/Los_Angeles:20260830T110000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-region-HV-20260830@local-events
+DESCRIPTION:Weekend Farm Tour — Los Altos Hills\nDate listing: August 29
+ \, 30\nTime not listed on aggregator — placeholder shown as 10am/1h bloc
+ k.\nCheck source page for the actual time and details.\n\nSource: https://
+ www.hiddenvilla.org/calendar/individuals-families/region-HV/\nAggregator: 
+ bayareakidfun.com\n\nAges: Family-friendly (per bayareakidfun.com curation
+ )\nSource: https://www.hiddenvilla.org/calendar/individuals-families/regio
+ n-HV/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Los Altos Hills
+URL:https://www.hiddenvilla.org/calendar/individuals-families/region-HV/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Move and Groove Storytime
-DTSTART:20260824T171500Z
-DTEND:20260824T183000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16598886@local-events
-DESCRIPTION:Move and Groove Storytime has two sessions: 10:15 am and 11:00
-  am.\nFamilies who cannot attend the 10:15 storytime are encouraged to sta
- y for the 11:00.\n\nDance your wiggles away in this interactive storytime.
-  Creative movement set to songs and stories for children 18 months  and ca
- regivers.\n\nAdults must be accompanied by a child. Registration not requi
- red.\n\nAges: unspecified\nSource: https://sanmateopublic.libcal.com/event
- /16598886\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Oak Room Patio\, Main Library 1st Floor
-URL:https://sanmateopublic.libcal.com/event/16598886
+SUMMARY:[RWC] Free First Friday at the San Mateo County History Museum
+DTSTART;TZID=America/Los_Angeles:20260904T100000
+DTEND;TZID=America/Los_Angeles:20260904T160000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-free-first-fridays-20260904@local-events
+DESCRIPTION:Details Date: Friday\, June 5\, 2026 Free admission to the His
+ tory Museum 10 a.m. - 4 p.m. Free Playing in the Past at 11 a.m. Free gene
+ ral tour at the History Museum at 2 p.m. Location: San Mateo County Histor
+ y Museum Cost: Free The History Museum's Free First Fridays program is spo
+ nsored by Monterra Credit\n\nFree First Friday at the San Mateo County His
+ tory Museum — Redwood City\nDate listing: September 4\nCost: Free\nTime 
+ not listed on aggregator — placeholder shown as 10am/1h block.\nCheck so
+ urce page for the actual time and details.\n\nSource: https://historysmc.o
+ rg/free-first-fridays/\nAggregator: bayareakidfun.com\n\nAges: Family-frie
+ ndly (per bayareakidfun.com curation)\nSource: https://historysmc.org/free
+ -first-fridays/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Redwood City
+URL:https://historysmc.org/free-first-fridays/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Main Library Closed
-DTSTART;TZID=America/Los_Angeles:20260906T000000
-DTEND;TZID=America/Los_Angeles:20260907T000000
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-15888015@local-events
-DESCRIPTION:Ages: unspecified\nSource: https://sanmateopublic.libcal.com/e
- vent/15888015\nLast synced: 2026-07-03 15:51 PDT
-URL:https://sanmateopublic.libcal.com/event/15888015
+SUMMARY:[SM] First Friday at CuriOdyssey
+DTSTART;TZID=America/Los_Angeles:20260904T170000
+DTEND;TZID=America/Los_Angeles:20260904T200000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-first-friday-nights-20260904@local-events
+DESCRIPTION:Swing into the weekend with music\, science\, animals and fun 
+ on the first Friday of every month!\n\nFirst Friday at CuriOdyssey — San
+  Mateo\nDate listing: September 4\nTime not listed on aggregator — place
+ holder shown as 10am/1h block.\nCheck source page for the actual time and 
+ details.\n\nSource: https://curiodyssey.org/exhibits-events/first-friday-n
+ ights/\nAggregator: bayareakidfun.com\n\nAges: Family-friendly (per bayare
+ akidfun.com curation)\nSource: https://curiodyssey.org/exhibits-events/fir
+ st-friday-nights/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:San Mateo
+URL:https://curiodyssey.org/exhibits-events/first-friday-nights/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Labor Day
-DTSTART;TZID=America/Los_Angeles:20260907T000000
-DTEND;TZID=America/Los_Angeles:20260908T000000
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-15888023@local-events
-DESCRIPTION:Ages: unspecified\nSource: https://sanmateopublic.libcal.com/e
- vent/15888023\nLast synced: 2026-07-03 15:51 PDT
-URL:https://sanmateopublic.libcal.com/event/15888023
+SUMMARY:[BUR] Family Campout
+DTSTART;TZID=America/Los_Angeles:20260911T100000
+DTEND;TZID=America/Los_Angeles:20260911T110000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-Family-Campout-20260911@local-events
+DESCRIPTION:Gather information on the camping for families event.\n\nFamil
+ y Campout — Burlingame\nDate listing: September 11\nTime not listed on a
+ ggregator — placeholder shown as 10am/1h block.\nCheck source page for t
+ he actual time and details.\n\nSource: https://burlingame.org/1135/Family-
+ Campout\nAggregator: bayareakidfun.com\n\nAges: Family-friendly (per bayar
+ eakidfun.com curation)\nSource: https://burlingame.org/1135/Family-Campout
+ \nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Burlingame
+URL:https://burlingame.org/1135/Family-Campout
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Move and Groove Storytime
-DTSTART:20260914T171500Z
-DTEND:20260914T183000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16598889@local-events
-DESCRIPTION:Move and Groove Storytime has two sessions: 10:15 am and 11:00
-  am.\nFamilies who cannot attend the 10:15 storytime are encouraged to sta
- y for the 11:00.\n\nDance your wiggles away in this interactive storytime.
-  Creative movement set to songs and stories for children 18 months  and ca
- regivers.\n\nAdults must be accompanied by a child. Registration not requi
- red.\n\nAges: unspecified\nSource: https://sanmateopublic.libcal.com/event
- /16598889\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Oak Room Patio\, Main Library 1st Floor
-URL:https://sanmateopublic.libcal.com/event/16598889
+SUMMARY:[LAH] Star Party at Hidden Villa
+DTSTART;TZID=America/Los_Angeles:20260911T100000
+DTEND;TZID=America/Los_Angeles:20260911T110000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-region-HV-20260911@local-events
+DESCRIPTION:Hidden Villa welcomes the San Jose Astronomical Association (S
+ JAA) for an evening viewing of the planets\, stars\, galaxies and other he
+ avenly bodies. This free event introduces the public to the use of optical
+  aids such as binoculars and telescopes\, along with the chance to ask exp
+ erienced SJAA members questions about astronomy and learn how to\n\nStar P
+ arty at Hidden Villa — Los Altos Hills\nDate listing: September 11\nTime
+  not listed on aggregator — placeholder shown as 10am/1h block.\nCheck s
+ ource page for the actual time and details.\n\nSource: https://www.hiddenv
+ illa.org/programs/catalog/555-star-party/region-HV/\nAggregator: bayareaki
+ dfun.com\n\nAges: Family-friendly (per bayareakidfun.com curation)\nSource
+ : https://www.hiddenvilla.org/programs/catalog/555-star-party/region-HV/\n
+ Last synced: 2026-07-04 07:23 PDT
+LOCATION:Los Altos Hills
+URL:https://www.hiddenvilla.org/programs/catalog/555-star-party/region-HV/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Move and Groove Storytime
-DTSTART:20260921T171500Z
-DTEND:20260921T183000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16598890@local-events
-DESCRIPTION:Move and Groove Storytime has two sessions: 10:15 am and 11:00
-  am.\nFamilies who cannot attend the 10:15 storytime are encouraged to sta
- y for the 11:00.\n\nDance your wiggles away in this interactive storytime.
-  Creative movement set to songs and stories for children 18 months  and ca
- regivers.\n\nAdults must be accompanied by a child. Registration not requi
- red.\n\nAges: unspecified\nSource: https://sanmateopublic.libcal.com/event
- /16598890\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Oak Room Patio\, Main Library 1st Floor
-URL:https://sanmateopublic.libcal.com/event/16598890
+SUMMARY:[PA] Second Saturday at Gamble Garden
+DTSTART;TZID=America/Los_Angeles:20260912T100000
+DTEND;TZID=America/Los_Angeles:20260912T120000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-septembersaturday-20260912@local-events
+DESCRIPTION:All ages are invited to spend a beautiful August morning celeb
+ rating the Harvest at Gamble Garden.\n\nSecond Saturday at Gamble Garden 
+ — Palo Alto\nDate listing: September 12\nCost: Free\nTime not listed on 
+ aggregator — placeholder shown as 10am/1h block.\nCheck source page for 
+ the actual time and details.\n\nSource: https://www.gamblegarden.org/event
+ /septembersaturday/\nAggregator: bayareakidfun.com\n\nAges: Family-friendl
+ y (per bayareakidfun.com curation)\nSource: https://www.gamblegarden.org/e
+ vent/septembersaturday/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Palo Alto
+URL:https://www.gamblegarden.org/event/septembersaturday/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SM] Move and Groove Storytime
-DTSTART:20260928T171500Z
-DTEND:20260928T183000Z
-DTSTAMP:20260703T225103Z
-UID:sanmateopl-LibCal-16089-16598891@local-events
-DESCRIPTION:Move and Groove Storytime has two sessions: 10:15 am and 11:00
-  am.\nFamilies who cannot attend the 10:15 storytime are encouraged to sta
- y for the 11:00.\n\nDance your wiggles away in this interactive storytime.
-  Creative movement set to songs and stories for children 18 months  and ca
- regivers.\n\nAdults must be accompanied by a child. Registration not requi
- red.\n\nAges: unspecified\nSource: https://sanmateopublic.libcal.com/event
- /16598891\nLast synced: 2026-07-03 15:51 PDT
-LOCATION:Oak Room Patio\, Main Library 1st Floor
-URL:https://sanmateopublic.libcal.com/event/16598891
+SUMMARY:[LAH] Weekend Farm Tour
+DTSTART;TZID=America/Los_Angeles:20260913T100000
+DTEND;TZID=America/Los_Angeles:20260913T110000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-region-HV-20260913@local-events
+DESCRIPTION:Weekend Farm Tour — Los Altos Hills\nDate listing: September
+  13\, 19\, 20\nTime not listed on aggregator — placeholder shown as 10am
+ /1h block.\nCheck source page for the actual time and details.\n\nSource: 
+ https://www.hiddenvilla.org/calendar/individuals-families/region-HV/\nAggr
+ egator: bayareakidfun.com\n\nAges: Family-friendly (per bayareakidfun.com 
+ curation)\nSource: https://www.hiddenvilla.org/calendar/individuals-famili
+ es/region-HV/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Los Altos Hills
+URL:https://www.hiddenvilla.org/calendar/individuals-families/region-HV/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[LAH] Weekend Farm Tour
+DTSTART;TZID=America/Los_Angeles:20260919T100000
+DTEND;TZID=America/Los_Angeles:20260919T110000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-region-HV-20260919@local-events
+DESCRIPTION:Weekend Farm Tour — Los Altos Hills\nDate listing: September
+  13\, 19\, 20\nTime not listed on aggregator — placeholder shown as 10am
+ /1h block.\nCheck source page for the actual time and details.\n\nSource: 
+ https://www.hiddenvilla.org/calendar/individuals-families/region-HV/\nAggr
+ egator: bayareakidfun.com\n\nAges: Family-friendly (per bayareakidfun.com 
+ curation)\nSource: https://www.hiddenvilla.org/calendar/individuals-famili
+ es/region-HV/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Los Altos Hills
+URL:https://www.hiddenvilla.org/calendar/individuals-families/region-HV/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[LAH] Weekend Farm Tour
+DTSTART;TZID=America/Los_Angeles:20260920T100000
+DTEND;TZID=America/Los_Angeles:20260920T110000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-region-HV-20260920@local-events
+DESCRIPTION:Weekend Farm Tour — Los Altos Hills\nDate listing: September
+  13\, 19\, 20\nTime not listed on aggregator — placeholder shown as 10am
+ /1h block.\nCheck source page for the actual time and details.\n\nSource: 
+ https://www.hiddenvilla.org/calendar/individuals-families/region-HV/\nAggr
+ egator: bayareakidfun.com\n\nAges: Family-friendly (per bayareakidfun.com 
+ curation)\nSource: https://www.hiddenvilla.org/calendar/individuals-famili
+ es/region-HV/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Los Altos Hills
+URL:https://www.hiddenvilla.org/calendar/individuals-families/region-HV/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[MV] Harvest History Festival
+DTSTART;TZID=America/Los_Angeles:20260926T100000
+DTEND;TZID=America/Los_Angeles:20260926T110000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-harvest-history-festival-20260926@local-events
+DESCRIPTION:Harvest History Festival — Mountain View\nDate listing: Sept
+ ember 26\nCost: Free\nTime not listed on aggregator — placeholder shown 
+ as 10am/1h block.\nCheck source page for the actual time and details.\n\nS
+ ource: https://www.mountainview.gov/our-city/departments/community-service
+ s/special-events/harvest-history-festival\nAggregator: bayareakidfun.com\n
+ \nAges: Family-friendly (per bayareakidfun.com curation)\nSource: https://
+ www.mountainview.gov/our-city/departments/community-services/special-event
+ s/harvest-history-festival\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Mountain View
+URL:https://www.mountainview.gov/our-city/departments/community-services/s
+ pecial-events/harvest-history-festival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Free First Friday at the San Mateo County History Museum
+DTSTART;TZID=America/Los_Angeles:20261002T100000
+DTEND;TZID=America/Los_Angeles:20261002T160000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-free-first-fridays-20261002@local-events
+DESCRIPTION:Details Date: Friday\, June 5\, 2026 Free admission to the His
+ tory Museum 10 a.m. - 4 p.m. Free Playing in the Past at 11 a.m. Free gene
+ ral tour at the History Museum at 2 p.m. Location: San Mateo County Histor
+ y Museum Cost: Free The History Museum's Free First Fridays program is spo
+ nsored by Monterra Credit\n\nFree First Friday at the San Mateo County His
+ tory Museum — Redwood City\nDate listing: October 2\nCost: Free\nTime no
+ t listed on aggregator — placeholder shown as 10am/1h block.\nCheck sour
+ ce page for the actual time and details.\n\nSource: https://historysmc.org
+ /free-first-fridays/\nAggregator: bayareakidfun.com\n\nAges: Family-friend
+ ly (per bayareakidfun.com curation)\nSource: https://historysmc.org/free-f
+ irst-fridays/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:Redwood City
+URL:https://historysmc.org/free-first-fridays/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SM] First Friday at CuriOdyssey
+DTSTART;TZID=America/Los_Angeles:20261002T170000
+DTEND;TZID=America/Los_Angeles:20261002T200000
+DTSTAMP:20260704T142322Z
+UID:bayareakidfun-first-friday-nights-20261002@local-events
+DESCRIPTION:Swing into the weekend with music\, science\, animals and fun 
+ on the first Friday of every month!\n\nFirst Friday at CuriOdyssey — San
+  Mateo\nDate listing: October 2\nTime not listed on aggregator — placeho
+ lder shown as 10am/1h block.\nCheck source page for the actual time and de
+ tails.\n\nSource: https://curiodyssey.org/exhibits-events/first-friday-nig
+ hts/\nAggregator: bayareakidfun.com\n\nAges: Family-friendly (per bayareak
+ idfun.com curation)\nSource: https://curiodyssey.org/exhibits-events/first
+ -friday-nights/\nLast synced: 2026-07-04 07:23 PDT
+LOCATION:San Mateo
+URL:https://curiodyssey.org/exhibits-events/first-friday-nights/
 END:VEVENT
 END:VCALENDAR
