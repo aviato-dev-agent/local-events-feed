@@ -16,27 +16,22 @@ sources:
     enabled: true
     # BiblioCommons library slug (smcl = San Mateo County Libraries)
     library: smcl
-    # Branches we care about, mapped to our city tag
+    # Branches to include, mapped to city tag. Belmont and San Carlos disabled
+    # by user request. Downtown RWC library is NOT in the SMCL system — it's
+    # part of Redwood City Public Library (separate scraper, in progress).
     branches:
       Atherton: ATH
-      Belmont: B
-      "Redwood City Downtown": RWC
-      "Redwood City Redwood Shores": RWC
-      "Redwood City Schaberg": RWC
-      "Redwood City Fair Oaks": RWC
-      "San Carlos": SC
   sanmateopl:
-    enabled: true
-    # San Mateo Public Library (city library, LibCal). Native ICS feed.
+    enabled: false  # San Mateo library disabled by user request
     ics_urls:
-      - "https://sanmateopublic.libcal.com/ical_subscribe.php?src=p&cid=16089"  # Children's & Family
+      - "https://sanmateopublic.libcal.com/ical_subscribe.php?src=p&cid=16089"
     city_tag: SM
-  redwoodcity:
-    enabled: false  # Phase 3
+  rcpl:
+    enabled: false  # Downtown RWC library — scraper in progress
     city_tag: RWC
-  menlopark:
-    enabled: false  # Phase 3
+  menlopark_library:
+    enabled: false  # Menlo Park library — scraper in progress
     city_tag: MP
   paloalto:
-    enabled: false  # Phase 3
+    enabled: false  # not requested for libraries
     city_tag: PA
