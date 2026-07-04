@@ -23,7 +23,7 @@ import yaml
 from .event import Event
 from .ics_writer import build_calendar
 from .normalizer import normalize
-from .scrapers import smcl, sanmateopl, curiodyssey, smcas, menlopark
+from .scrapers import smcl, sanmateopl, curiodyssey, smcas, menlopark, bayareakidfun
 
 log = logging.getLogger("local-events")
 
@@ -97,6 +97,15 @@ def run_all(cfg: dict) -> list[Event]:
         except Exception as exc:
             log.exception("menlopark scraper failed: %s", exc)
             counts["menlopark"] = -1
+
+    if sources_cfg.get("bayareakidfun", {}).get("enabled"):
+        try:
+            evs = bayareakidfun.fetch(lookahead_days=lookahead)
+            counts["bayareakidfun"] = len(evs)
+            all_events.extend(evs)
+        except Exception as exc:
+            log.exception("bayareakidfun scraper failed: %s", exc)
+            counts["bayareakidfun"] = -1
 
     log.info("scraper counts: %s (total=%d)", counts, len(all_events))
     return all_events

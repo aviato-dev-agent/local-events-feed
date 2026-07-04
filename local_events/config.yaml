@@ -41,3 +41,6 @@ sources:
   smcas:
     enabled: true
     city_tag: SC
+  bayareakidfun:
+    enabled: true
+    # City tag comes from parsed city name (per-event); no default here.
