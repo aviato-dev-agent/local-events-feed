@@ -148,7 +148,7 @@ def fetch(lookahead_days: int = 90) -> list[Event]:
 
 
 def _enrich_all(events: list[Event]) -> None:
-    """Visit each event's source URL and augment description + times."""
+    """Visit each event's source URL and augment description, times, venue."""
     from bs4 import BeautifulSoup
 
     cache: dict[str, tuple] = {}
@@ -156,13 +156,19 @@ def _enrich_all(events: list[Event]) -> None:
     with httpx.Client(headers=enrich_headers, timeout=10, follow_redirects=True) as client:
         for e in events:
             if e.url in cache:
-                real_desc, start_hm, end_hm = cache[e.url]
+                real_desc, start_hm, end_hm, venue = cache[e.url]
             else:
-                real_desc, start_hm, end_hm = _enrich_one(e.url, client, BeautifulSoup)
-                cache[e.url] = (real_desc, start_hm, end_hm)
+                real_desc, start_hm, end_hm, venue = _enrich_one(e.url, client, BeautifulSoup)
+                cache[e.url] = (real_desc, start_hm, end_hm, venue)
 
             if real_desc:
                 e.description = f"{real_desc}\n\n{e.description}"
+            if venue:
+                # Preserve the city context in the location string
+                if e.location and e.location.lower() not in venue.lower():
+                    e.location = f"{venue}, {e.location}"
+                else:
+                    e.location = venue
             if start_hm is not None:
                 sh, sm = start_hm
                 e.start = e.start.replace(hour=sh, minute=sm)
@@ -177,19 +183,19 @@ def _enrich_all(events: list[Event]) -> None:
 
 
 def _enrich_one(url: str, client, BeautifulSoup):
-    """Fetch one source URL. Returns (description, start_hm, end_hm) — any may be None.
+    """Fetch one source URL. Returns (description, start_hm, end_hm, venue).
 
-    All failures return (None, None, None) so callers keep the placeholders.
+    All failures return (None, None, None, None) so callers keep placeholders.
     """
     try:
         r = client.get(url)
         r.raise_for_status()
         if "html" not in r.headers.get("content-type", "").lower():
-            return None, None, None
+            return None, None, None, None
         html = r.text
     except Exception as exc:
         log.debug("bayareakidfun enrich failed for %s: %s", url, exc)
-        return None, None, None
+        return None, None, None, None
 
     soup = BeautifulSoup(html, "html.parser")
 
@@ -230,7 +236,111 @@ def _enrich_one(url: str, client, BeautifulSoup):
 
     hay = " | ".join(time_hay_parts)
     start_hm, end_hm = _parse_time(hay)
-    return desc, start_hm, end_hm
+
+    # --- Venue extraction: JSON-LD first, then meta, then class-tagged elements
+    venue = _extract_venue(soup)
+    if venue:
+        # Collapse whitespace / newlines into single spaces for clean calendar display
+        venue = re.sub(r"\s+", " ", venue).strip(" ,")
+
+    return desc, start_hm, end_hm, venue
+
+
+def _extract_venue(soup) -> str | None:
+    """Try several strategies to find a concrete venue name/address."""
+    import json
+
+    # 1. JSON-LD schema.org Event/Place
+    for script in soup.find_all("script", attrs={"type": "application/ld+json"}):
+        try:
+            data = json.loads(script.string or "")
+        except (json.JSONDecodeError, TypeError):
+            continue
+        v = _venue_from_jsonld(data)
+        if v:
+            return v
+
+    # 2. Meta tags (og:street-address, og:locality etc, place:location:*)
+    meta_pairs = []
+    for prop in ("og:street-address", "place:location:latitude"):
+        tag = soup.find("meta", attrs={"property": prop})
+        if tag and tag.get("content"):
+            meta_pairs.append(tag["content"].strip())
+    if meta_pairs:
+        return ", ".join(p for p in meta_pairs if not _looks_like_coord(p))
+
+    # 3. Element with class/id hinting at venue or location
+    for tag in soup.find_all(True):
+        classes = " ".join(tag.get("class", []) or []).lower()
+        idstr = (tag.get("id") or "").lower()
+        if not any(kw in classes or kw in idstr
+                   for kw in ("venue", "location", "event-location", "event-venue",
+                              "event-address", "tribe-events-address")):
+            continue
+        text = tag.get_text(" ", strip=True)
+        # skip tags that clearly aren't a venue string
+        if len(text) < 3 or len(text) > 200:
+            continue
+        if _looks_like_venue(text):
+            return text
+    return None
+
+
+def _venue_from_jsonld(node) -> str | None:
+    """Recurse a JSON-LD tree looking for Place/PostalAddress structures."""
+    if isinstance(node, list):
+        for item in node:
+            v = _venue_from_jsonld(item)
+            if v:
+                return v
+        return None
+    if not isinstance(node, dict):
+        return None
+    t = node.get("@type", "")
+    if isinstance(t, list):
+        t = " ".join(t)
+    if any(x in t for x in ("Event", "Place", "LocalBusiness", "Museum", "Library", "PerformingArtsTheater")):
+        loc = node.get("location") or node
+        if isinstance(loc, list):
+            loc = loc[0] if loc else {}
+        if isinstance(loc, dict):
+            name = loc.get("name")
+            addr = loc.get("address")
+            addr_str = None
+            if isinstance(addr, dict):
+                parts = [addr.get("streetAddress"), addr.get("addressLocality"),
+                         addr.get("addressRegion")]
+                addr_str = ", ".join(str(p) for p in parts if p)
+            elif isinstance(addr, str):
+                addr_str = addr
+            if name and addr_str:
+                return f"{name}, {addr_str}"
+            if name:
+                return str(name)
+            if addr_str:
+                return addr_str
+    # recurse into common container fields
+    for key in ("location", "@graph", "mainEntity", "hasPart"):
+        if key in node:
+            v = _venue_from_jsonld(node[key])
+            if v:
+                return v
+    return None
+
+
+def _looks_like_venue(text: str) -> bool:
+    """Heuristic: venue strings usually contain a number (street) or 'Park/Museum/Library/Theatre'."""
+    if any(w in text for w in ("Park", "Museum", "Library", "Theatre", "Theater",
+                                "Hall", "Center", "Gardens", "School", "Church",
+                                "Auditorium", "Plaza", "Stage")):
+        return True
+    if re.search(r"\d{2,5}\b", text):
+        return True
+    return False
+
+
+def _looks_like_coord(s: str) -> bool:
+    return bool(re.fullmatch(r"-?\d+\.\d+", s.strip()))
 
 
 # Time patterns, tried in order of specificity

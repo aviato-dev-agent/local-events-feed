@@ -32,6 +32,23 @@ KID_AUDIENCES = {
 EXCLUDE_AUDIENCES = {"Preschoolers (0-5)"}
 ADULT_ONLY_AUDIENCES = {"Adults (19+)", "Adults (55+)"}
 
+# Turn "Atherton" (branch name from API) into "Atherton Library, 2 Dinkelspiel..."
+BRANCH_ADDRESSES = {
+    "Atherton": "Atherton Library, 2 Dinkelspiel Station Ln, Atherton, CA 94027",
+    "Belmont": "Belmont Library, 1110 Alameda de las Pulgas, Belmont, CA 94002",
+    "Brisbane": "Brisbane Library, 250 Visitacion Ave, Brisbane, CA 94005",
+    "East Palo Alto": "East Palo Alto Library, 2415 University Ave, East Palo Alto, CA 94303",
+    "Foster City": "Foster City Library, 1000 E Hillsdale Blvd, Foster City, CA 94404",
+    "Half Moon Bay": "Half Moon Bay Library, 620 Correas St, Half Moon Bay, CA 94019",
+    "Millbrae": "Millbrae Library, 1 Library Ave, Millbrae, CA 94030",
+    "North Fair Oaks": "Fair Oaks Community Center, 2600 Middlefield Rd, Redwood City, CA 94063",
+    "Pacifica Sharp Park": "Sharp Park Library, 104 Hilton Way, Pacifica, CA 94044",
+    "Pacifica Sanchez": "Sanchez Library, 1111 Terra Nova Blvd, Pacifica, CA 94044",
+    "Portola Valley": "Portola Valley Library, 765 Portola Rd, Portola Valley, CA 94028",
+    "San Carlos": "San Carlos Library, 610 Elm St, San Carlos, CA 94070",
+    "Woodside": "Woodside Library, 3140 Woodside Rd, Woodside, CA 94062",
+}
+
 
 def fetch(branch_to_tag: dict[str, str], lookahead_days: int = 90) -> list[Event]:
     """Fetch SMCL events for the given branches, filtered to kid audiences."""
@@ -88,7 +105,7 @@ def fetch(branch_to_tag: dict[str, str], lookahead_days: int = 90) -> list[Event
                         title=d0.get("title", "").strip(),
                         start=start_local,
                         end=end_local,
-                        location=branch_name,
+                        location=BRANCH_ADDRESSES.get(branch_name, branch_name),
                         description=_strip_html(d0.get("description") or ""),
                         ages=ages,
                         registration=bool(d0.get("registrationInfo", {}).get("cap")),
