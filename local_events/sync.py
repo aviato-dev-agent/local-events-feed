@@ -23,7 +23,7 @@ import yaml
 from .event import Event
 from .ics_writer import build_calendar
 from .normalizer import normalize
-from .scrapers import smcl, sanmateopl
+from .scrapers import smcl, sanmateopl, curiodyssey, smcas, menlopark
 
 log = logging.getLogger("local-events")
 
@@ -61,6 +61,42 @@ def run_all(cfg: dict) -> list[Event]:
         except Exception as exc:
             log.exception("sanmateopl scraper failed: %s", exc)
             counts["sanmateopl"] = -1
+
+    if sources_cfg.get("curiodyssey", {}).get("enabled"):
+        try:
+            evs = curiodyssey.fetch(
+                city_tag=sources_cfg["curiodyssey"].get("city_tag", "SM"),
+                lookahead_days=lookahead,
+            )
+            counts["curiodyssey"] = len(evs)
+            all_events.extend(evs)
+        except Exception as exc:
+            log.exception("curiodyssey scraper failed: %s", exc)
+            counts["curiodyssey"] = -1
+
+    if sources_cfg.get("smcas", {}).get("enabled"):
+        try:
+            evs = smcas.fetch(
+                city_tag=sources_cfg["smcas"].get("city_tag", "SC"),
+                lookahead_days=lookahead,
+            )
+            counts["smcas"] = len(evs)
+            all_events.extend(evs)
+        except Exception as exc:
+            log.exception("smcas scraper failed: %s", exc)
+            counts["smcas"] = -1
+
+    if sources_cfg.get("menlopark", {}).get("enabled"):
+        try:
+            evs = menlopark.fetch(
+                city_tag=sources_cfg["menlopark"].get("city_tag", "MP"),
+                lookahead_days=lookahead,
+            )
+            counts["menlopark"] = len(evs)
+            all_events.extend(evs)
+        except Exception as exc:
+            log.exception("menlopark scraper failed: %s", exc)
+            counts["menlopark"] = -1
 
     log.info("scraper counts: %s (total=%d)", counts, len(all_events))
     return all_events

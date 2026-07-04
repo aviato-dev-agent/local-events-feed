@@ -27,11 +27,17 @@ sources:
       - "https://sanmateopublic.libcal.com/ical_subscribe.php?src=p&cid=16089"
     city_tag: SM
   rcpl:
-    enabled: false  # Downtown RWC library — scraper in progress
+    enabled: false  # Downtown RWC library — skipped per user (CDN-blocked)
     city_tag: RWC
-  menlopark_library:
-    enabled: false  # Menlo Park library — scraper in progress
+  menlopark:
+    enabled: true
     city_tag: MP
   paloalto:
-    enabled: false  # not requested for libraries
+    enabled: false  # not requested
     city_tag: PA
+  curiodyssey:
+    enabled: true
+    city_tag: SM
+  smcas:
+    enabled: true
+    city_tag: SC
