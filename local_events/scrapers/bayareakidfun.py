@@ -328,13 +328,32 @@ def _venue_from_jsonld(node) -> str | None:
     return None
 
 
+_VENUE_KEYWORDS = (
+    "Park", "Museum", "Library", "Theatre", "Theater", "Hall", "Center",
+    "Centre", "Gardens", "School", "Church", "Auditorium", "Plaza", "Stage",
+    "Pavilion", "Amphitheater", "Amphitheatre", "Playhouse", "Arena",
+    "Zoo", "Aquarium", "Observatory",
+)
+
+# Street-suffix hint — a real venue address usually has a number followed by
+# a street type. Distinguishes "1234 Main St" from "Founded in 1985".
+_STREET_SUFFIX_RE = re.compile(
+    r"\d+\s+\S+.*?\b(Road|Rd|Street|St|Avenue|Ave|Boulevard|Blvd|Lane|Ln|"
+    r"Drive|Dr|Way|Court|Ct|Place|Pl|Terrace|Ter|Highway|Hwy|Parkway|Pkwy|"
+    r"Circle|Cir|Trail|Tr)\b\.?",
+    re.IGNORECASE,
+)
+
+
 def _looks_like_venue(text: str) -> bool:
-    """Heuristic: venue strings usually contain a number (street) or 'Park/Museum/Library/Theatre'."""
-    if any(w in text for w in ("Park", "Museum", "Library", "Theatre", "Theater",
-                                "Hall", "Center", "Gardens", "School", "Church",
-                                "Auditorium", "Plaza", "Stage")):
+    """Return True only when text has a venue keyword or a real street address.
+
+    A bare number ("Since 1985", "Ages 6-12", "Cost $25") is NOT enough — it
+    was previously producing garbage venue strings from taglines and footers.
+    """
+    if any(w in text for w in _VENUE_KEYWORDS):
         return True
-    if re.search(r"\d{2,5}\b", text):
+    if _STREET_SUFFIX_RE.search(text):
         return True
     return False
 
@@ -391,21 +410,29 @@ def _parse_time(text: str):
     m = _TIME_RANGE_SHARED_AMPM.search(text)
     if m:
         ampm = m.group(5)
-        s_h = _to_24(int(m.group(1)), ampm)
+        raw_start = int(m.group(1))
+        raw_end = int(m.group(3))
+        s_h = _to_24(raw_start, ampm)
         s_m = int(m.group(2) or 0)
-        e_h = _to_24(int(m.group(3)), ampm)
+        e_h = _to_24(raw_end, ampm)
         e_m = int(m.group(4) or 0)
-        # If end hour <= start hour in same-ampm context, likely PM (e.g. "10-2 pm")
-        if e_h < s_h and ampm.lower().startswith("p"):
-            e_h += 12
+        # Detect crossovers like "10-2 pm" — meant as 10am-2pm, not 10pm-2pm.
+        # If the shared AM/PM is PM and start > end after conversion, treat
+        # the start as AM.
+        if ampm.lower().startswith("p") and raw_start > raw_end and raw_start != 12:
+            s_h -= 12
+        # After correction, if end still <= start, we drop the end (leave
+        # normalizer to default to +1h) rather than producing an invalid hour.
+        if not (0 <= s_h <= 23 and 0 <= e_h <= 23):
+            return None, None
+        if e_h <= s_h:
+            return (s_h, s_m), None
         return (s_h, s_m), (e_h, e_m)
 
-    m = _TIME_SINGLE.search(text)
-    if m:
-        s_h = _to_24(int(m.group(1)), m.group(3))
-        s_m = int(m.group(2) or 0)
-        return (s_h, s_m), None
-
+    # Note: _TIME_SINGLE deliberately disabled — it was matching irrelevant
+    # phrases like "call at 8pm" or "closes at 6pm" on venue pages and setting
+    # the event start to that boilerplate time. Prefer the 10am default over
+    # confidently-wrong times.
     return None, None
 
 
