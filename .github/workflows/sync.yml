@@ -1,9 +1,9 @@
 name: sync
 
 on:
-  schedule:
-    # 13:00 UTC = 6am PDT / 5am PST. Runs once a day.
-    - cron: '0 13 * * *'
+  # Scheduled runs disabled — sync now runs on Tim's Mac via LaunchAgent
+  # (com.tim.local-events-sync) at 10am and 2pm PT. This workflow stays as
+  # a manual trigger for when the Mac is off or for testing.
   workflow_dispatch: {}
 
 jobs:
