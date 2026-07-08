@@ -9,7 +9,6 @@ from __future__ import annotations
 import logging
 import re
 from datetime import datetime, timedelta
-from typing import Iterable
 from urllib.parse import urljoin
 
 import httpx
@@ -79,6 +78,8 @@ def fetch(city_tag: str = "MP", lookahead_days: int = 90) -> list[Event]:
 
                 if _is_closure(title, desc):
                     continue
+                if _is_meeting(title):
+                    continue
                 if _is_under_six(title, desc, ""):
                     continue
                 if _is_adult_only(title, desc):
@@ -92,7 +93,7 @@ def fetch(city_tag: str = "MP", lookahead_days: int = 90) -> list[Event]:
                         city_tag=city_tag,
                         title=title,
                         start=start,
-                        end=None,  # rarely stated; normalizer defaults to 1h
+                        end=None,
                         location=location,
                         description=desc,
                         ages=_infer_ages(title, desc, href),
@@ -102,8 +103,54 @@ def fetch(city_tag: str = "MP", lookahead_days: int = 90) -> list[Event]:
                     )
                 )
 
+        _enrich_times(events, client)
     log.info("menlopark: %d events after filter", len(events))
     return events
+
+
+_TIME_RANGE_RE = re.compile(
+    r"(\d{1,2}:\d{2})\s*(AM|PM)\s+to\s+(\d{1,2}:\d{2})\s*(AM|PM)",
+    re.IGNORECASE,
+)
+
+
+def _parse_time_range(text: str):
+    m = _TIME_RANGE_RE.search(text)
+    if not m:
+        return None, None
+    try:
+        st = datetime.strptime(f"{m.group(1)} {m.group(2).upper()}", "%I:%M %p").time()
+        et = datetime.strptime(f"{m.group(3)} {m.group(4).upper()}", "%I:%M %p").time()
+        return st, et
+    except ValueError:
+        return None, None
+
+
+def _enrich_times(events: list[Event], client: httpx.Client) -> None:
+    for e in events:
+        try:
+            r = client.get(e.url)
+            r.raise_for_status()
+            soup = BeautifulSoup(r.text, "html.parser")
+            date_el = soup.select_one(".event-date")
+            if not date_el:
+                continue
+            text = date_el.get_text(" ", strip=True)
+            if "|" not in text:
+                continue
+            time_part = text.split("|", 1)[1]
+            start_t, end_t = _parse_time_range(time_part)
+            if start_t is None:
+                continue
+            e.start = e.start.replace(hour=start_t.hour, minute=start_t.minute)
+            if end_t:
+                e.end = e.start.replace(hour=end_t.hour, minute=end_t.minute)
+                if e.end <= e.start:
+                    e.end += timedelta(days=1)
+            else:
+                e.end = e.start + timedelta(hours=1)
+        except Exception as exc:
+            log.debug("menlopark enrich_time failed for %s: %s", e.url, exc)
 
 
 DATE_PATTERNS = [
@@ -145,6 +192,15 @@ def _infer_ages(title: str, description: str, href: str) -> str:
 
 
 CLOSURE_TOKENS = ("offices closed", "closure:", "closed:", "holiday - administrative", "library closed")
+MEETING_TOKENS = (
+    "city council", "planning commission", "board of", "commission meeting",
+    "public hearing", "committee meeting", "advisory committee",
+)
+
+
+def _is_meeting(title: str) -> bool:
+    low = title.lower()
+    return any(t in low for t in MEETING_TOKENS)
 
 
 def _is_closure(title: str, description: str) -> bool:

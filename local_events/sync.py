@@ -23,7 +23,13 @@ import yaml
 from .event import Event
 from .ics_writer import build_calendar
 from .normalizer import normalize
-from .scrapers import smcl, sanmateopl, curiodyssey, smcas, menlopark, bayareakidfun
+from .scrapers import (
+    smcl, sanmateopl, curiodyssey, smcas,
+    menlopark, menlopark_city,
+    bayareakidfun,
+    sancarlos,
+    rwc_rss,
+)
 
 log = logging.getLogger("local-events")
 
@@ -106,6 +112,44 @@ def run_all(cfg: dict) -> list[Event]:
         except Exception as exc:
             log.exception("bayareakidfun scraper failed: %s", exc)
             counts["bayareakidfun"] = -1
+
+    if sources_cfg.get("menlopark_city", {}).get("enabled"):
+        try:
+            evs = menlopark_city.fetch(
+                city_tag=sources_cfg["menlopark_city"].get("city_tag", "MP"),
+                lookahead_days=lookahead,
+            )
+            counts["menlopark_city"] = len(evs)
+            all_events.extend(evs)
+        except Exception as exc:
+            log.exception("menlopark_city scraper failed: %s", exc)
+            counts["menlopark_city"] = -1
+
+    if sources_cfg.get("sancarlos", {}).get("enabled"):
+        try:
+            evs = sancarlos.fetch(
+                city_tag=sources_cfg["sancarlos"].get("city_tag", "SC"),
+                lookahead_days=lookahead,
+            )
+            counts["sancarlos"] = len(evs)
+            all_events.extend(evs)
+        except Exception as exc:
+            log.exception("sancarlos scraper failed: %s", exc)
+            counts["sancarlos"] = -1
+
+    rwc_cfg = sources_cfg.get("rwc_rss", {})
+    if rwc_cfg.get("enabled") and rwc_cfg.get("rss_url"):
+        try:
+            evs = rwc_rss.fetch(
+                rss_url=rwc_cfg["rss_url"],
+                city_tag=rwc_cfg.get("city_tag", "RWC"),
+                lookahead_days=lookahead,
+            )
+            counts["rwc_rss"] = len(evs)
+            all_events.extend(evs)
+        except Exception as exc:
+            log.exception("rwc_rss scraper failed: %s", exc)
+            counts["rwc_rss"] = -1
 
     log.info("scraper counts: %s (total=%d)", counts, len(all_events))
     return all_events

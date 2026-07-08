@@ -44,3 +44,13 @@ sources:
   bayareakidfun:
     enabled: true
     # City tag comes from parsed city name (per-event); no default here.
+  menlopark_city:
+    enabled: true
+    city_tag: MP
+  sancarlos:
+    enabled: true
+    city_tag: SC
+  rwc_rss:
+    enabled: false  # Set rss_url below and flip to true once RSS feed is configured
+    city_tag: RWC
+    rss_url: ""  # e.g. from RSS.app or FetchRSS pointed at redwoodcity.org/residents/redwood-city-events/
