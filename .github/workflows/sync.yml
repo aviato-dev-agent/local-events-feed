@@ -1,9 +1,11 @@
 name: sync
 
 on:
-  # Scheduled runs disabled — sync now runs on Tim's Mac via LaunchAgent
-  # (com.tim.local-events-sync) at 10am and 2pm PT. This workflow stays as
-  # a manual trigger for when the Mac is off or for testing.
+  schedule:
+    # 13:00 UTC = 6am PDT / 5am PST. Runs once a day.
+    # Also pings the FetchRSS feed URL, which keeps it alive
+    # (FetchRSS free tier deletes feeds after 7 days of inactivity).
+    - cron: '0 13 * * *'
   workflow_dispatch: {}
 
 jobs:
