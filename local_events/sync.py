@@ -28,7 +28,7 @@ from .scrapers import (
     menlopark, menlopark_city,
     bayareakidfun,
     sancarlos,
-    rwc_rss,
+    rwc,
 )
 
 log = logging.getLogger("local-events")
@@ -137,19 +137,23 @@ def run_all(cfg: dict) -> list[Event]:
             log.exception("sancarlos scraper failed: %s", exc)
             counts["sancarlos"] = -1
 
-    rwc_cfg = sources_cfg.get("rwc_rss", {})
-    if rwc_cfg.get("enabled") and rwc_cfg.get("rss_url"):
-        try:
-            evs = rwc_rss.fetch(
-                rss_url=rwc_cfg["rss_url"],
-                city_tag=rwc_cfg.get("city_tag", "RWC"),
-                lookahead_days=lookahead,
-            )
-            counts["rwc_rss"] = len(evs)
-            all_events.extend(evs)
-        except Exception as exc:
-            log.exception("rwc_rss scraper failed: %s", exc)
-            counts["rwc_rss"] = -1
+    rwc_cfg = sources_cfg.get("rwc", {})
+    if rwc_cfg.get("enabled"):
+        token = os.environ.get("SCRAPE_DO_TOKEN", "")
+        if not token:
+            log.warning("rwc: SCRAPE_DO_TOKEN not set; skipping")
+        else:
+            try:
+                evs = rwc.fetch(
+                    token=token,
+                    city_tag=rwc_cfg.get("city_tag", "RWC"),
+                    lookahead_days=lookahead,
+                )
+                counts["rwc"] = len(evs)
+                all_events.extend(evs)
+            except Exception as exc:
+                log.exception("rwc scraper failed: %s", exc)
+                counts["rwc"] = -1
 
     log.info("scraper counts: %s (total=%d)", counts, len(all_events))
     return all_events

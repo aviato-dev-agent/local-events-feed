@@ -50,10 +50,9 @@ sources:
   sancarlos:
     enabled: true
     city_tag: SC
-  rwc_rss:
+  rwc:
     enabled: true
     city_tag: RWC
-    # FetchRSS scraper pointed at redwoodcity.org/residents/redwood-city-events/city-events-calendar
-    # (site is Akamai-blocked to automated requests). Feed shape: one item per day,
-    # day-of-month as <title>, .calendar_item divs (time+link) in description.
-    rss_url: "https://fetchrss.com/feed/1whNNb5Qj3fP1whNMsCAr6ui.rss"
+    # Scrapes redwoodcity.org via scrape.do (residential proxy + headless Chrome).
+    # API token must be set in SCRAPE_DO_TOKEN env var / GHA secret.
+    # Fetches current month + next month = ~10 credits/run, ~300/month.

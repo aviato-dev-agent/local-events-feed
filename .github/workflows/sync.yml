@@ -3,8 +3,6 @@ name: sync
 on:
   schedule:
     # 13:00 UTC = 6am PDT / 5am PST. Runs once a day.
-    # Also pings the FetchRSS feed URL, which keeps it alive
-    # (FetchRSS free tier deletes feeds after 7 days of inactivity).
     - cron: '0 13 * * *'
   workflow_dispatch: {}
 
@@ -24,6 +22,8 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: Generate ICS
+        env:
+          SCRAPE_DO_TOKEN: ${{ secrets.SCRAPE_DO_TOKEN }}
         run: python -m local_events.sync --out local-events.ics
 
       - name: Commit if changed
