@@ -51,6 +51,9 @@ sources:
     enabled: true
     city_tag: SC
   rwc_rss:
-    enabled: false  # Set rss_url below and flip to true once RSS feed is configured
+    enabled: true
     city_tag: RWC
-    rss_url: ""  # e.g. from RSS.app or FetchRSS pointed at redwoodcity.org/residents/redwood-city-events/
+    # FetchRSS scraper pointed at redwoodcity.org/residents/redwood-city-events/city-events-calendar
+    # (site is Akamai-blocked to automated requests). Feed shape: one item per day,
+    # day-of-month as <title>, .calendar_item divs (time+link) in description.
+    rss_url: "https://fetchrss.com/feed/1whNNb5Qj3fP1whNMsCAr6ui.rss"
