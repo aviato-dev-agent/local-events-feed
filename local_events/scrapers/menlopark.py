@@ -80,6 +80,8 @@ def fetch(city_tag: str = "MP", lookahead_days: int = 90) -> list[Event]:
                     continue
                 if _is_meeting(title):
                     continue
+                if _is_belle_haven(location, href):
+                    continue
                 if _is_under_six(title, desc, ""):
                     continue
                 if _is_adult_only(title, desc):
@@ -201,6 +203,11 @@ MEETING_TOKENS = (
 def _is_meeting(title: str) -> bool:
     low = title.lower()
     return any(t in low for t in MEETING_TOKENS)
+
+
+def _is_belle_haven(location: str, href: str) -> bool:
+    hay = f"{location} {href}".lower()
+    return "belle haven" in hay or "belle-haven" in hay
 
 
 def _is_closure(title: str, description: str) -> bool:

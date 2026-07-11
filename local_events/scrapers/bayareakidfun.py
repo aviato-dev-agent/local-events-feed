@@ -35,27 +35,40 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9",
 }
 
-# Peninsula cities we keep, mapped to city tag
+# Peninsula cities we keep, mapped to city tag.
+# Mountain View, Burlingame, and Palo Alto omitted per user request:
+# too far / friend group not there / not worth scraping around Akamai walls.
 CITY_MAP = {
     "redwood city": "RWC",
     "san mateo": "SM",
     "belmont": "B",
     "san carlos": "SC",
     "menlo park": "MP",
-    "palo alto": "PA",
     "atherton": "ATH",
     "los altos": "LA",
     "los altos hills": "LAH",
-    "mountain view": "MV",
     "foster city": "FC",
     "woodside": "WS",
     "portola valley": "PV",
     "half moon bay": "HMB",
-    "burlingame": "BUR",
     "millbrae": "MB",
     "east palo alto": "EPA",
     "hillsborough": "H",
 }
+
+# URL prefixes that are already covered by dedicated scrapers.
+# Events pointing to these are silently dropped to avoid duplicate calendar entries.
+_NATIVE_SCRAPER_HOSTS = (
+    "curiodyssey.org",
+    "hiller.org",
+    "hiddenvilla.org",
+    "redwoodcity.org",
+    "cityofsancarlos.org",
+    "menlopark.gov",
+    "smcl.bibliocommons.com",
+    "smcl.org",
+)
+
 
 MONTHS = {
     "january": 1, "february": 2, "march": 3, "april": 4, "may": 5, "june": 6,
@@ -102,6 +115,9 @@ def fetch(lookahead_days: int = 90) -> list[Event]:
                 city_key = city_raw.lower()
                 city_tag = CITY_MAP.get(city_key)
                 if not city_tag:
+                    continue
+
+                if any(h in ev_url for h in _NATIVE_SCRAPER_HOSTS):
                     continue
 
                 if _is_under_six(name, date_text, ""):
@@ -158,7 +174,7 @@ def _enrich_all(events: list[Event]) -> None:
             if e.url in cache:
                 real_desc, start_hm, end_hm, venue = cache[e.url]
             else:
-                real_desc, start_hm, end_hm, venue = _enrich_one(e.url, client, BeautifulSoup)
+                real_desc, start_hm, end_hm, venue = _enrich_one(e.url, client, BeautifulSoup, city=e.location)
                 cache[e.url] = (real_desc, start_hm, end_hm, venue)
 
             if real_desc:
@@ -182,7 +198,7 @@ def _enrich_all(events: list[Event]) -> None:
                     e.end = e.start + timedelta(hours=1)
 
 
-def _enrich_one(url: str, client, BeautifulSoup):
+def _enrich_one(url: str, client, BeautifulSoup, city: str | None = None):
     """Fetch one source URL. Returns (description, start_hm, end_hm, venue).
 
     All failures return (None, None, None, None) so callers keep placeholders.
@@ -220,7 +236,9 @@ def _enrich_one(url: str, client, BeautifulSoup):
         if len(desc) > 800:
             desc = desc[:800].rsplit(" ", 1)[0] + "…"
 
-    # --- Times: search description + any event-time-ish tags + a slice of body
+    # --- Times: search description + event-time-ish tags + body text slice.
+    # Always include a body text slice — relying only on desc/class-tagged elements
+    # misses times that appear in plain body text (e.g. past the 3000-char mark).
     time_hay_parts: list[str] = []
     if desc:
         time_hay_parts.append(desc)
@@ -231,14 +249,14 @@ def _enrich_one(url: str, client, BeautifulSoup):
             time_hay_parts.append(tag.get_text(" ", strip=True))
             if sum(len(x) for x in time_hay_parts) > 4000:
                 break
-    if not time_hay_parts:
-        time_hay_parts.append(soup.get_text(" ", strip=True)[:3000])
+    time_hay_parts.append(soup.get_text(" ", strip=True)[:5000])
 
     hay = " | ".join(time_hay_parts)
     start_hm, end_hm = _parse_time(hay)
 
-    # --- Venue extraction: JSON-LD first, then meta, then class-tagged elements
-    venue = _extract_venue(soup)
+    # --- Venue extraction: JSON-LD first, then meta, then class-tagged elements,
+    # then body-text address search near the city name
+    venue = _extract_venue(soup, city=city)
     if venue:
         # Collapse whitespace / newlines into single spaces for clean calendar display
         venue = re.sub(r"\s+", " ", venue).strip(" ,")
@@ -246,7 +264,7 @@ def _enrich_one(url: str, client, BeautifulSoup):
     return desc, start_hm, end_hm, venue
 
 
-def _extract_venue(soup) -> str | None:
+def _extract_venue(soup, city: str | None = None) -> str | None:
     """Try several strategies to find a concrete venue name/address."""
     import json
 
@@ -282,8 +300,16 @@ def _extract_venue(soup) -> str | None:
         if len(text) < 3 or len(text) > 200:
             continue
         if _looks_like_venue(text):
-            return text
-    return None
+            return _trim_venue(text)
+
+    # 4. Body-text fallback: find a street address near the city name.
+    # Handles cases where address appears in plain text (footers, schedule tables)
+    # without class-tagged markup.
+    body = re.sub(r"\s+", " ", soup.get_text(" ", strip=True))
+    result = _find_address_near_city(body, city) if city else None
+    if result:
+        result = _trim_venue(result)
+    return result or None
 
 
 def _venue_from_jsonld(node) -> str | None:
@@ -335,14 +361,60 @@ _VENUE_KEYWORDS = (
     "Zoo", "Aquarium", "Observatory",
 )
 
-# Street-suffix hint — a real venue address usually has a number followed by
-# a street type. Distinguishes "1234 Main St" from "Founded in 1985".
+# Street-suffix hint — a real venue address has a number then one or more
+# alphabetic words then a street-type suffix.  Using [A-Za-z]+ (not \w[\w ]*)
+# prevents digits like "00 pm 220" from being swallowed as the street-name
+# prefix (which caused "3:00 pm 220 Park Road" to match starting at "00").
+# The prefix group is optional so "2200 Broadway" matches too.
 _STREET_SUFFIX_RE = re.compile(
-    r"\d+\s+\S+.*?\b(Road|Rd|Street|St|Avenue|Ave|Boulevard|Blvd|Lane|Ln|"
+    r"\d+[\w-]*\s+(?:[A-Za-z]+\s+)*?(Road|Rd|Street|St|Avenue|Ave|Boulevard|Blvd|Lane|Ln|"
     r"Drive|Dr|Way|Court|Ct|Place|Pl|Terrace|Ter|Highway|Hwy|Parkway|Pkwy|"
-    r"Circle|Cir|Trail|Tr)\b\.?",
+    r"Circle|Cir|Trail|Tr|Broadway|Commons|Promenade|Esplanade|Embarcadero)\b\.?",
     re.IGNORECASE,
 )
+
+# Matches phone numbers, emails, and Cloudflare-obfuscated emails like [email protected]
+_PHONE_RE = re.compile(r"\(?\d{3}\)?[\s.\-]\d{3}[\s.\-]\d{4}")
+_EMAIL_RE = re.compile(r"\S+@\S+|\[email[^\]]*\]")
+
+
+def _trim_venue(text: str) -> str:
+    """Trim trailing noise (phone, email, multi-space) from a venue string."""
+    cut = len(text)
+    for pat in (_PHONE_RE, _EMAIL_RE):
+        m = pat.search(text)
+        if m:
+            cut = min(cut, m.start())
+    text = re.split(r"\s{2,}|\|", text[:cut])[0]
+    return text.strip(" ,")
+
+
+def _find_address_near_city(body: str, city: str) -> str | None:
+    """Search body text for a street address that has the city name within 100 chars.
+
+    Iterates over all street address matches and returns the first one where
+    the city name appears in the immediate vicinity (before or after). This
+    correctly handles tour-schedule pages with many city/address pairs.
+    """
+    city_lower = city.lower()
+    body_lower = body.lower()
+
+    for addr_m in _STREET_SUFFIX_RE.finditer(body):
+        check_start = max(0, addr_m.start() - 100)
+        check_end = min(len(body), addr_m.end() + 100)
+        if city_lower in body_lower[check_start:check_end]:
+            snippet = body[addr_m.start():addr_m.end() + 80].strip()
+            # Trim at the city name, but only search AFTER the street suffix so
+            # we don't cut short on city names that appear inside the address
+            # (e.g. "850 Burlingame Avenue" → don't trim at "Burlingame").
+            suffix_end = addr_m.end() - addr_m.start()
+            city_m = re.search(re.escape(city), snippet[suffix_end:], re.IGNORECASE)
+            if city_m:
+                snippet = snippet[:suffix_end + city_m.end()]
+            snippet = _trim_venue(snippet)
+            if len(snippet) > 10:
+                return snippet[:150]
+    return None
 
 
 def _looks_like_venue(text: str) -> bool:
@@ -365,7 +437,7 @@ def _looks_like_coord(s: str) -> bool:
 # Time patterns, tried in order of specificity
 _TIME_RANGE_FULL = re.compile(
     r"(\d{1,2})(?::(\d{2}))?\s*(am|pm|a\.m\.|p\.m\.)"
-    r"\s*(?:-|–|—|to)\s*"
+    r"\s*(?:-|–|—|to|and|&)\s*"
     r"(\d{1,2})(?::(\d{2}))?\s*(am|pm|a\.m\.|p\.m\.|noon|midnight)",
     re.IGNORECASE,
 )

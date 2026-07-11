@@ -29,6 +29,8 @@ from .scrapers import (
     bayareakidfun,
     sancarlos,
     rwc,
+    hiller,
+    hiddenvilla,
 )
 
 log = logging.getLogger("local-events")
@@ -136,6 +138,30 @@ def run_all(cfg: dict) -> list[Event]:
         except Exception as exc:
             log.exception("sancarlos scraper failed: %s", exc)
             counts["sancarlos"] = -1
+
+    if sources_cfg.get("hiller", {}).get("enabled"):
+        try:
+            evs = hiller.fetch(
+                city_tag=sources_cfg["hiller"].get("city_tag", "SC"),
+                lookahead_days=lookahead,
+            )
+            counts["hiller"] = len(evs)
+            all_events.extend(evs)
+        except Exception as exc:
+            log.exception("hiller scraper failed: %s", exc)
+            counts["hiller"] = -1
+
+    if sources_cfg.get("hiddenvilla", {}).get("enabled"):
+        try:
+            evs = hiddenvilla.fetch(
+                city_tag=sources_cfg["hiddenvilla"].get("city_tag", "LAH"),
+                lookahead_days=lookahead,
+            )
+            counts["hiddenvilla"] = len(evs)
+            all_events.extend(evs)
+        except Exception as exc:
+            log.exception("hiddenvilla scraper failed: %s", exc)
+            counts["hiddenvilla"] = -1
 
     rwc_cfg = sources_cfg.get("rwc", {})
     if rwc_cfg.get("enabled"):

@@ -50,6 +50,12 @@ sources:
   sancarlos:
     enabled: true
     city_tag: SC
+  hiller:
+    enabled: true
+    city_tag: SC
+  hiddenvilla:
+    enabled: true
+    city_tag: LAH
   rwc:
     enabled: true
     city_tag: RWC
