@@ -1,16 +1,18 @@
-"""Hidden Villa (Los Altos Hills) — Star Party program dates.
+"""Hidden Villa (Los Altos Hills) — family programs.
 
-Hidden Villa runs an Arlo-backed program catalog rather than a REST API.
-The Star Party page lists all upcoming session dates as plain text rows
-like "Sep 11 7:30pm - 9:30pm". We parse those directly.
+Hidden Villa runs an Arlo-backed program catalog. Each program's detail page
+lists all upcoming session dates as plain text rows like "Sep 11 7:30pm - 9:30pm".
 
-Farm tour events aren't covered here — bayareakidfun already delivers those
-with venue address intact.
+We fetch the family calendar index at /calendar/individuals-families/region-HV/,
+extract each program URL, and parse dated sessions from every detail page.
+Star Party is included via the general crawl; it also has a shortcut fallback
+in case the index changes structure.
 """
 from __future__ import annotations
 
 import logging
 import re
+import time
 from datetime import datetime, timedelta
 
 import httpx
@@ -20,6 +22,7 @@ from ..event import Event
 
 log = logging.getLogger(__name__)
 
+FAMILY_INDEX_URL = "https://www.hiddenvilla.org/calendar/individuals-families/region-HV/"
 STAR_PARTY_URL = "https://www.hiddenvilla.org/programs/catalog/555-star-party/region-HV/"
 LOCATION = "Hidden Villa, 26870 Moody Road, Los Altos Hills, CA 94022"
 TZ = "America/Los_Angeles"
@@ -30,7 +33,6 @@ _MONTHS = {
     "jul": 7, "aug": 8, "sep": 9, "sept": 9, "oct": 10, "nov": 11, "dec": 12,
 }
 
-# "Sep 11 7:30pm - 9:30pm" or "Oct 04 7:30pm - 9:30pm"
 _DATE_RE = re.compile(
     r"([A-Za-z]{3,4})\s+(\d{1,2})\s+"
     r"(\d{1,2})(?::(\d{2}))?\s*(am|pm)"
@@ -39,27 +41,101 @@ _DATE_RE = re.compile(
     re.IGNORECASE,
 )
 
+_PROGRAM_URL_RE = re.compile(
+    r'href="(https?://www\.hiddenvilla\.org/programs/catalog/(\d+)-([a-z0-9-]+)/region-HV/)"',
+    re.IGNORECASE,
+)
+
+# URL slug tokens that indicate non-family programs / staff-only content
+_SKIP_URL_TOKENS = (
+    "private", "custom", "board-meeting", "donor-circle", "admin",
+    "database", "-test", "training-pt", "board-of-directors",
+)
+
 
 def fetch(city_tag: str = "LAH", lookahead_days: int = 90) -> list[Event]:
-    events: list[Event] = []
     horizon = datetime.now() + timedelta(days=lookahead_days)
     today = datetime.now()
+    events: list[Event] = []
+    seen: set[tuple[str, datetime]] = set()
 
+    with httpx.Client(headers={"User-Agent": UA}, timeout=30, follow_redirects=True) as client:
+        program_urls = _discover_program_urls(client)
+        # Always include Star Party as a fallback in case the index breaks.
+        program_urls.setdefault("555", (STAR_PARTY_URL, "star-party"))
+
+        for program_id, (url, slug) in program_urls.items():
+            if any(t in url.lower() for t in _SKIP_URL_TOKENS):
+                continue
+            try:
+                page = client.get(url)
+                page.raise_for_status()
+            except Exception as exc:
+                log.warning("hiddenvilla: fetch failed for %s: %s", url, exc)
+                continue
+
+            title = _extract_title(page.text, slug)
+            text = re.sub(r"\s+", " ", BeautifulSoup(page.text, "html.parser").get_text(" ", strip=True))
+
+            for start, end in _iter_sessions(text, today, horizon):
+                key = (program_id, start)
+                if key in seen:
+                    continue
+                seen.add(key)
+                events.append(
+                    Event(
+                        source="hiddenvilla",
+                        source_id=f"{program_id}-{start.strftime('%Y%m%d%H%M')}",
+                        city_tag=city_tag,
+                        title=title,
+                        start=start,
+                        end=end,
+                        location=LOCATION,
+                        description=f"Hidden Villa program.\n\nSource: {url}",
+                        ages="Family / all ages",
+                        registration=True,
+                        url=url,
+                        tz=TZ,
+                    )
+                )
+
+            time.sleep(0.3)
+
+    log.info("hiddenvilla: %d events after filter", len(events))
+    return events
+
+
+def _discover_program_urls(client: httpx.Client) -> dict[str, tuple[str, str]]:
+    """Return {program_id: (url, slug)} for every distinct program on the index."""
     try:
-        with httpx.Client(headers={"User-Agent": UA}, timeout=30, follow_redirects=True) as client:
-            r = client.get(STAR_PARTY_URL)
-            r.raise_for_status()
-            html_text = r.text
+        r = client.get(FAMILY_INDEX_URL)
+        r.raise_for_status()
     except Exception as exc:
-        log.warning("hiddenvilla: fetch failed: %s", exc)
-        return events
+        log.warning("hiddenvilla: index fetch failed: %s", exc)
+        return {}
 
-    text = re.sub(r"\s+", " ", BeautifulSoup(html_text, "html.parser").get_text(" ", strip=True))
+    urls: dict[str, tuple[str, str]] = {}
+    for m in _PROGRAM_URL_RE.finditer(r.text):
+        url, pid, slug = m.group(1), m.group(2), m.group(3)
+        urls.setdefault(pid, (url, slug))
+    return urls
 
+
+def _extract_title(html_text: str, slug: str) -> str:
+    """Prefer <h1> from the page; fall back to slug titleized."""
+    soup = BeautifulSoup(html_text, "html.parser")
+    h1 = soup.find("h1")
+    if h1:
+        title = h1.get_text(" ", strip=True)
+        if 3 < len(title) < 120:
+            return title
+    return slug.replace("-", " ").title()
+
+
+def _iter_sessions(text: str, today: datetime, horizon: datetime):
     for m in _DATE_RE.finditer(text):
-        month_key = m.group(1).lower()[:3]
-        if month_key == "sep" and m.group(1).lower() == "sept":
-            month_key = "sept"
+        raw_month = m.group(1).lower()
+        month_key = "sept" if raw_month == "sept" else raw_month[:3]
         month = _MONTHS.get(month_key)
         if not month:
             continue
@@ -78,33 +154,10 @@ def fetch(city_tag: str = "LAH", lookahead_days: int = 90) -> list[Event]:
             continue
         if end <= start:
             end += timedelta(days=1)
-
         if start < today - timedelta(hours=6) or start > horizon:
             continue
 
-        events.append(
-            Event(
-                source="hiddenvilla",
-                source_id=f"star-party-{start.strftime('%Y%m%d')}",
-                city_tag=city_tag,
-                title="Star Party at Hidden Villa",
-                start=start,
-                end=end,
-                location=LOCATION,
-                description=(
-                    "Hidden Villa's Star Party program — view planets and deep-sky "
-                    "objects through telescopes on the farm.\n\n"
-                    f"Source: {STAR_PARTY_URL}"
-                ),
-                ages="All ages",
-                registration=True,
-                url=STAR_PARTY_URL,
-                tz=TZ,
-            )
-        )
-
-    log.info("hiddenvilla: %d events after filter", len(events))
-    return events
+        yield start, end
 
 
 def _to24(hour: int, ampm: str) -> int:

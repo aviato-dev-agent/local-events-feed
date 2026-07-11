@@ -31,6 +31,12 @@ from .scrapers import (
     rwc,
     hiller,
     hiddenvilla,
+    filoli,
+    littlegreen,
+    thehub,
+    townandcountry,
+    citytrees,
+    msi,
 )
 
 log = logging.getLogger("local-events")
@@ -162,6 +168,27 @@ def run_all(cfg: dict) -> list[Event]:
         except Exception as exc:
             log.exception("hiddenvilla scraper failed: %s", exc)
             counts["hiddenvilla"] = -1
+
+    for name, mod, default_tag in (
+        ("filoli", filoli, "WS"),
+        ("littlegreen", littlegreen, "RWC"),
+        ("thehub", thehub, "RWC"),
+        ("townandcountry", townandcountry, "PA"),
+        ("citytrees", citytrees, "RWC"),
+        ("msi", msi, "SM"),
+    ):
+        if not sources_cfg.get(name, {}).get("enabled"):
+            continue
+        try:
+            evs = mod.fetch(
+                city_tag=sources_cfg[name].get("city_tag", default_tag),
+                lookahead_days=lookahead,
+            )
+            counts[name] = len(evs)
+            all_events.extend(evs)
+        except Exception as exc:
+            log.exception("%s scraper failed: %s", name, exc)
+            counts[name] = -1
 
     rwc_cfg = sources_cfg.get("rwc", {})
     if rwc_cfg.get("enabled"):

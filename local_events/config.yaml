@@ -56,6 +56,24 @@ sources:
   hiddenvilla:
     enabled: true
     city_tag: LAH
+  filoli:
+    enabled: true
+    city_tag: WS
+  littlegreen:
+    enabled: true
+    city_tag: RWC
+  thehub:
+    enabled: true
+    city_tag: RWC
+  townandcountry:
+    enabled: true
+    city_tag: PA
+  citytrees:
+    enabled: true
+    city_tag: RWC
+  msi:
+    enabled: true
+    city_tag: SM
   rwc:
     enabled: true
     city_tag: RWC
