@@ -24,14 +24,14 @@ jobs:
       - name: Generate ICS
         env:
           SCRAPE_DO_TOKEN: ${{ secrets.SCRAPE_DO_TOKEN }}
-        run: python -m local_events.sync --out local-events.ics --volunteer-out volunteer-events.ics
+        run: python -m local_events.sync --out local-events.ics --volunteer-out volunteer-events.ics --sports-out college-sports.ics
 
       - name: Commit if changed
         run: |
           git config user.name "aviato-dev-agent[bot]"
           git config user.email "bot@aviato-dev-agent.users.noreply.github.com"
           any_committed=0
-          for f in local-events.ics volunteer-events.ics; do
+          for f in local-events.ics volunteer-events.ics college-sports.ics; do
             git add "$f"
             if git diff --cached --quiet -- "$f"; then
               echo "No changes to $f."

@@ -50,3 +50,7 @@ def is_volunteer_event(e: Event, source_is_volunteer: bool = False) -> bool:
         return True
     hay = f"{e.title} {e.description or ''}"
     return any(p.search(hay) for p in _VOLUNTEER_PATTERNS)
+
+
+def is_sports_event(e: Event, source_is_sports: bool = False) -> bool:
+    return source_is_sports

@@ -6,6 +6,7 @@ lookahead_days: 90
 
 output_path: ~/Dropbox/claude/calendars/local-events.ics
 volunteer_output_path: ~/Dropbox/claude/calendars/volunteer-events.ics
+sports_output_path: ~/Dropbox/claude/calendars/college-sports.ics
 cache_dir: ~/scripts/local-events/cache
 log_path: ~/Library/Logs/local-events-sync.log
 
@@ -82,3 +83,11 @@ sources:
     # Scrapes redwoodcity.org via scrape.do (residential proxy + headless Chrome).
     # API token must be set in SCRAPE_DO_TOKEN env var / GHA secret.
     # Fetches current month + next month = ~10 credits/run, ~300/month.
+  stanford:
+    enabled: true
+    # Empty city_tag: normalizer skips the "[TAG] " prefix so titles read
+    # "Stanford vs. Opponent [Sport]" without a redundant "[STAN]".
+    city_tag: ""
+    is_sports_source: true
+    # Home games only — scraper filters by "Stanford vs." in SUMMARY.
+    # Per-sport venue lookup lives in scrapers/stanford.py::_VENUES.

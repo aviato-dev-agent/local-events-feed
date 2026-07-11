@@ -18,7 +18,7 @@ def normalize(events: list[Event]) -> list[Event]:
     for e in events:
         if e.end is None or e.end <= e.start:
             e.end = e.start + DEFAULT_DURATION
-        if not e.title.startswith(f"[{e.city_tag}]"):
+        if e.city_tag and not e.title.startswith(f"[{e.city_tag}]"):
             e.title = f"[{e.city_tag}] {e.title}"
         out.append(e)
     return _dedupe(out)
