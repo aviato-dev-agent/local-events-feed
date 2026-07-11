@@ -25,14 +25,28 @@ class Event:
         return f"{self.source}-{self.source_id}@local-events"
 
 
-_VOLUNTEER_KEYWORDS = (
-    "volunteer", "planting", "workday", "cleanup", "clean-up", "clean up",
-    "stewardship", "restoration", "habitat", "trail work", "community service",
+import re as _re
+
+# Word-boundary regexes to avoid substring matches (e.g. "habitat" in
+# an educational description about "animal habitats" is NOT a volunteer event).
+# Kept intentionally narrow — a source can override with is_volunteer_source=True.
+_VOLUNTEER_PATTERNS = tuple(
+    _re.compile(rf"\b{p}\b", _re.IGNORECASE) for p in (
+        r"volunteers?",
+        r"volunteering",
+        r"planting",
+        r"workday",
+        r"clean[- ]?up",
+        r"stewardship",
+        r"trail\s+(?:work|crew|day)",
+        r"community\s+service",
+        r"service\s+learning",
+    )
 )
 
 
 def is_volunteer_event(e: Event, source_is_volunteer: bool = False) -> bool:
     if source_is_volunteer:
         return True
-    hay = f"{e.title} {e.description or ''}".lower()
-    return any(k in hay for k in _VOLUNTEER_KEYWORDS)
+    hay = f"{e.title} {e.description or ''}"
+    return any(p.search(hay) for p in _VOLUNTEER_PATTERNS)

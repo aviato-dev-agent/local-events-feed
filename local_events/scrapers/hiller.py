@@ -128,7 +128,11 @@ def _clean_html(s: str) -> str:
     s = re.sub(r"<br\s*/?>", "\n", s)
     s = re.sub(r"</p>\s*<p>", "\n\n", s)
     s = re.sub(r"<[^>]+>", "", s)
+    # Strip Divi / WP page-builder shortcodes like [et_pb_section ...] [/et_pb_row]
+    s = re.sub(r"\[/?[a-z][a-z0-9_]*[^\]]*\]", "", s, flags=re.IGNORECASE)
     s = html.unescape(s).strip()
+    s = re.sub(r"\n{3,}", "\n\n", s)
+    s = re.sub(r"[ \t]+", " ", s)
     if len(s) > 800:
         s = s[:800].rsplit(" ", 1)[0] + "…"
     return s
