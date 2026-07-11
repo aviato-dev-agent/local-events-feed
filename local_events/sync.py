@@ -20,7 +20,7 @@ from pathlib import Path
 
 import yaml
 
-from .event import Event
+from .event import Event, is_volunteer_event
 from .ics_writer import build_calendar
 from .normalizer import normalize
 from .scrapers import (
@@ -215,8 +215,9 @@ def run_all(cfg: dict) -> list[Event]:
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--config", default=str(Path(__file__).parent / "config.yaml"))
-    parser.add_argument("--dry-run", action="store_true", help="print ICS to stdout, no file write")
-    parser.add_argument("--out", help="override output path")
+    parser.add_argument("--dry-run", action="store_true", help="print per-feed counts to stdout, no file write")
+    parser.add_argument("--out", help="override main output path (local-events.ics)")
+    parser.add_argument("--volunteer-out", help="override volunteer output path (volunteer-events.ics)")
     args = parser.parse_args(argv)
 
     logging.basicConfig(
@@ -225,31 +226,53 @@ def main(argv: list[str] | None = None) -> int:
     )
 
     cfg = load_config(Path(args.config))
+    sources_cfg = cfg["sources"]
     raw = run_all(cfg)
     events = normalize(raw)
     log.info("final event count: %d", len(events))
-    ics_bytes = build_calendar(events)
+
+    calendar_events: list[Event] = []
+    volunteer_events: list[Event] = []
+    for e in events:
+        src_is_vol = sources_cfg.get(e.source, {}).get("is_volunteer_source", False)
+        if is_volunteer_event(e, src_is_vol):
+            volunteer_events.append(e)
+        else:
+            calendar_events.append(e)
+    log.info("partitioned: main=%d volunteer=%d", len(calendar_events), len(volunteer_events))
+
+    main_bytes = build_calendar(calendar_events, name="Local Events")
+    volunteer_bytes = build_calendar(volunteer_events, name="Volunteer Events")
 
     if args.dry_run:
-        sys.stdout.buffer.write(ics_bytes)
+        print(f"main: {len(calendar_events)} events, {len(main_bytes)} bytes")
+        print(f"volunteer: {len(volunteer_events)} events, {len(volunteer_bytes)} bytes")
+        for e in volunteer_events:
+            print(f"  [volunteer] {e.source} {e.title} {e.start:%Y-%m-%d}")
         return 0
 
-    out_path = Path(os.path.expanduser(args.out or cfg["output_path"]))
-    out_path.parent.mkdir(parents=True, exist_ok=True)
+    main_out = Path(os.path.expanduser(args.out or cfg["output_path"]))
+    vol_out = Path(os.path.expanduser(
+        args.volunteer_out or cfg.get("volunteer_output_path", str(main_out.parent / "volunteer-events.ics"))
+    ))
 
+    _write_feed(main_out, main_bytes, calendar_events, "main")
+    _write_feed(vol_out, volunteer_bytes, volunteer_events, "volunteer")
+    return 0
+
+
+def _write_feed(out_path: Path, ics_bytes: bytes, events: list[Event], label: str) -> None:
+    out_path.parent.mkdir(parents=True, exist_ok=True)
     # Prior-good fallback: only overwrite if we produced a non-empty ICS
     if len(events) == 0 and out_path.exists():
-        log.warning("no events produced; preserving prior ICS at %s", out_path)
-        return 0
-
-    # Atomic write
+        log.warning("%s: no events produced; preserving prior ICS at %s", label, out_path)
+        return
     tmp = out_path.with_suffix(out_path.suffix + ".tmp")
     tmp.write_bytes(ics_bytes)
     if out_path.exists():
         shutil.copy2(out_path, out_path.with_suffix(out_path.suffix + ".prev"))
     tmp.replace(out_path)
-    log.info("wrote %d bytes to %s", len(ics_bytes), out_path)
-    return 0
+    log.info("%s: wrote %d bytes to %s", label, len(ics_bytes), out_path)
 
 
 if __name__ == "__main__":

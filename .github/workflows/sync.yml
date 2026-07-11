@@ -24,29 +24,33 @@ jobs:
       - name: Generate ICS
         env:
           SCRAPE_DO_TOKEN: ${{ secrets.SCRAPE_DO_TOKEN }}
-        run: python -m local_events.sync --out local-events.ics
+        run: python -m local_events.sync --out local-events.ics --volunteer-out volunteer-events.ics
 
       - name: Commit if changed
         run: |
           git config user.name "aviato-dev-agent[bot]"
           git config user.email "bot@aviato-dev-agent.users.noreply.github.com"
-          git add local-events.ics
-          # Commit if the *event content* changed. We ignore DTSTAMP-only churn by
-          # diffing the file with those lines stripped.
-          if ! git diff --cached --quiet -- local-events.ics; then
-            # Suppress no-op runs where only DTSTAMP: lines changed
-            changed_lines=$(git diff --cached -U0 -- local-events.ics \
+          any_committed=0
+          for f in local-events.ics volunteer-events.ics; do
+            git add "$f"
+            if git diff --cached --quiet -- "$f"; then
+              echo "No changes to $f."
+              continue
+            fi
+            # Ignore DTSTAMP-only churn
+            changed_lines=$(git diff --cached -U0 -- "$f" \
               | grep -E '^[+-]' \
               | grep -vE '^[+-]{3}' \
               | grep -vE '^[+-]DTSTAMP:' \
               | wc -l)
             if [ "$changed_lines" -gt 0 ]; then
-              git commit -m "sync: $(date -u +%F) (${changed_lines} lines changed)"
-              git push
+              git commit -m "sync $f: $(date -u +%F) (${changed_lines} lines changed)"
+              any_committed=1
             else
-              echo "Only DTSTAMP churn; skipping commit."
-              git reset HEAD -- local-events.ics
+              echo "Only DTSTAMP churn on $f; skipping commit."
+              git reset HEAD -- "$f"
             fi
-          else
-            echo "No changes to ICS file."
+          done
+          if [ "$any_committed" = "1" ]; then
+            git push
           fi

@@ -23,3 +23,16 @@ class Event:
 
     def uid(self) -> str:
         return f"{self.source}-{self.source_id}@local-events"
+
+
+_VOLUNTEER_KEYWORDS = (
+    "volunteer", "planting", "workday", "cleanup", "clean-up", "clean up",
+    "stewardship", "restoration", "habitat", "trail work", "community service",
+)
+
+
+def is_volunteer_event(e: Event, source_is_volunteer: bool = False) -> bool:
+    if source_is_volunteer:
+        return True
+    hay = f"{e.title} {e.description or ''}".lower()
+    return any(k in hay for k in _VOLUNTEER_KEYWORDS)
