@@ -88,6 +88,8 @@ def fetch(city_tag: str = "MP", lookahead_days: int = 90) -> list[Event]:
                 continue
             if _is_adult_only(title):
                 continue
+            if "belle haven" in location.lower() or "belle-haven" in (href or "").lower():
+                continue
 
             desc = _fetch_description(href, client)
             seen_hrefs.add(href)
