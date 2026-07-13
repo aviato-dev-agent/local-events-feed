@@ -38,6 +38,12 @@ from .scrapers import (
     citytrees,
     msi,
     stanford,
+    grassrootsecology,
+    savethebay,
+    canopy,
+    flowstobay,
+    pacificbeach,
+    static_recurring,
 )
 
 log = logging.getLogger("local-events")
@@ -177,6 +183,12 @@ def run_all(cfg: dict) -> list[Event]:
         ("townandcountry", townandcountry, "PA"),
         ("citytrees", citytrees, "RWC"),
         ("msi", msi, "SM"),
+        ("grassrootsecology", grassrootsecology, "PA"),
+        ("savethebay", savethebay, "PA"),
+        ("canopy", canopy, "PA"),
+        ("flowstobay", flowstobay, "SM"),
+        ("pacificbeach", pacificbeach, "PAC"),
+        ("static_recurring", static_recurring, "PA"),
     ):
         if not sources_cfg.get(name, {}).get("enabled"):
             continue

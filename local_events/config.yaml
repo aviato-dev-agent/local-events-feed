@@ -74,6 +74,30 @@ sources:
     enabled: true
     city_tag: RWC
     is_volunteer_source: true
+  grassrootsecology:
+    enabled: true
+    city_tag: PA
+    is_volunteer_source: true
+  savethebay:
+    enabled: true
+    city_tag: PA
+    is_volunteer_source: true
+  canopy:
+    enabled: true
+    city_tag: PA
+    is_volunteer_source: true
+  flowstobay:
+    enabled: true
+    city_tag: SM
+    is_volunteer_source: true
+  pacificbeach:
+    enabled: true
+    city_tag: PAC
+    is_volunteer_source: true
+  static_recurring:
+    enabled: true
+    city_tag: PA
+    is_volunteer_source: true
   msi:
     enabled: true
     city_tag: SM
