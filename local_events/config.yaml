@@ -83,7 +83,9 @@ sources:
     city_tag: PA
     is_volunteer_source: true
   canopy:
-    enabled: true
+    enabled: false  # disabled 2026-07-13: canopy.org returns 403 to GHA runner IPs.
+                     # Not worth the scrape.do budget for marginal PA/EPA tree-planting
+                     # coverage beyond what CityTrees already provides in RWC.
     city_tag: PA
     is_volunteer_source: true
   flowstobay:
