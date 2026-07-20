@@ -21,16 +21,21 @@ EVENT_PERMALINK = "https://smcl.bibliocommons.com/events/{event_id}"
 PAGE_LIMIT = 100
 TZ = "America/Los_Angeles"
 
-# Minimum starting age must be >= 6. Any event tagged Preschoolers (0-5) is
-# excluded even when co-tagged with Children (6-11) — those are baby-included
-# family storytimes we don't want.
+# Include-by-default: only cut events tagged exclusively for babies/toddlers/
+# preschoolers (audience is Preschoolers (0-5) and nothing else) and English
+# Conversation Club sessions (recurring adult ESL meetup). Everything else —
+# including adult-tagged programs like Tai Chi or discussion groups — is kept,
+# since there's no tag distinguishing "adult program a kid could tag along to"
+# from "adult-only," and the user would rather over- than under-include.
 KID_AUDIENCES = {
     "Children (6-11)",
     "Teens (12-18)",
     "All Ages",
+    "Adults (19+)",
+    "Adults (55+)",
 }
 EXCLUDE_AUDIENCES = {"Preschoolers (0-5)"}
-ADULT_ONLY_AUDIENCES = {"Adults (19+)", "Adults (55+)"}
+EXCLUDE_TITLE_SUBSTRINGS = ("english conversation club",)
 
 # Turn "Atherton" (branch name from API) into "Atherton Library, 2 Dinkelspiel..."
 BRANCH_ADDRESSES = {
@@ -76,11 +81,13 @@ def fetch(branch_to_tag: dict[str, str], lookahead_days: int = 90) -> list[Event
                 if branch_name not in branches:
                     continue
                 audience_names = {audience_lookup.get(a) for a in d0.get("audienceIds") or []}
-                if not audience_names & KID_AUDIENCES:
+                # Empty audience set (untagged) is included by default.
+                if audience_names and not audience_names & KID_AUDIENCES:
                     continue
                 if audience_names & EXCLUDE_AUDIENCES:
                     continue
-                if audience_names and audience_names.issubset(ADULT_ONLY_AUDIENCES):
+                title = (d0.get("title") or "").strip()
+                if any(sub in title.lower() for sub in EXCLUDE_TITLE_SUBSTRINGS):
                     continue
 
                 try:
@@ -130,7 +137,11 @@ def _pick_age_range(audience_names: set[str]) -> str:
         parts.append("12-18")
     if "All Ages" in audience_names and not parts:
         return "All ages"
-    return ", ".join(parts) or "unspecified"
+    if parts:
+        return ", ".join(parts)
+    if audience_names & {"Adults (19+)", "Adults (55+)"}:
+        return "Adult program (kids welcome to tag along, not designed for them)"
+    return "unspecified"
 
 
 def _strip_html(s: str) -> str:

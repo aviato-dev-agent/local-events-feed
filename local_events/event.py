@@ -54,3 +54,11 @@ def is_volunteer_event(e: Event, source_is_volunteer: bool = False) -> bool:
 
 def is_sports_event(e: Event, source_is_sports: bool = False) -> bool:
     return source_is_sports
+
+
+def is_adult_event(e: Event, source_is_adult: bool = False) -> bool:
+    if source_is_adult:
+        return True
+    if "adult program" in e.ages.lower():
+        return True
+    return False

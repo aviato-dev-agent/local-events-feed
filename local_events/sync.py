@@ -20,7 +20,7 @@ from pathlib import Path
 
 import yaml
 
-from .event import Event, is_volunteer_event, is_sports_event
+from .event import Event, is_volunteer_event, is_sports_event, is_adult_event
 from .ics_writer import build_calendar
 from .normalizer import normalize
 from .scrapers import (
@@ -244,6 +244,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--out", help="override main output path (local-events.ics)")
     parser.add_argument("--volunteer-out", help="override volunteer output path (volunteer-events.ics)")
     parser.add_argument("--sports-out", help="override sports output path (college-sports.ics)")
+    parser.add_argument("--adult-out", help="override adult output path (adult-events.ics)")
     args = parser.parse_args(argv)
 
     logging.basicConfig(
@@ -260,34 +261,41 @@ def main(argv: list[str] | None = None) -> int:
     calendar_events: list[Event] = []
     volunteer_events: list[Event] = []
     sports_events: list[Event] = []
-    # Partition order: sports > volunteer > main. Sports is a pure per-source
-    # route (no keyword match), so overlap with the other two is impossible
-    # in practice; explicit ordering documents intent.
+    adult_events: list[Event] = []
+    # Partition order: sports > adult > volunteer > main. Sports is a pure
+    # per-source route (no keyword match), so overlap is impossible. Adult comes
+    # before volunteer/main so adult events aren't accidentally included in those.
     for e in events:
         src_cfg = sources_cfg.get(e.source, {})
         if is_sports_event(e, src_cfg.get("is_sports_source", False)):
             sports_events.append(e)
+        elif is_adult_event(e, src_cfg.get("is_adult_source", False)):
+            adult_events.append(e)
         elif is_volunteer_event(e, src_cfg.get("is_volunteer_source", False)):
             volunteer_events.append(e)
         else:
             calendar_events.append(e)
     log.info(
-        "partitioned: main=%d volunteer=%d sports=%d",
-        len(calendar_events), len(volunteer_events), len(sports_events),
+        "partitioned: main=%d volunteer=%d sports=%d adult=%d",
+        len(calendar_events), len(volunteer_events), len(sports_events), len(adult_events),
     )
 
     main_bytes = build_calendar(calendar_events, name="Local Events")
     volunteer_bytes = build_calendar(volunteer_events, name="Volunteer Events")
     sports_bytes = build_calendar(sports_events, name="College Sports")
+    adult_bytes = build_calendar(adult_events, name="Adult Events")
 
     if args.dry_run:
         print(f"main: {len(calendar_events)} events, {len(main_bytes)} bytes")
         print(f"volunteer: {len(volunteer_events)} events, {len(volunteer_bytes)} bytes")
         print(f"sports: {len(sports_events)} events, {len(sports_bytes)} bytes")
+        print(f"adult: {len(adult_events)} events, {len(adult_bytes)} bytes")
         for e in volunteer_events:
             print(f"  [volunteer] {e.source} {e.title} {e.start:%Y-%m-%d}")
         for e in sports_events:
             print(f"  [sports] {e.source} {e.title} {e.start:%Y-%m-%d}")
+        for e in adult_events:
+            print(f"  [adult] {e.source} {e.title} {e.start:%Y-%m-%d}")
         return 0
 
     main_out = Path(os.path.expanduser(args.out or cfg["output_path"]))
@@ -297,10 +305,14 @@ def main(argv: list[str] | None = None) -> int:
     sports_out = Path(os.path.expanduser(
         args.sports_out or cfg.get("sports_output_path", str(main_out.parent / "college-sports.ics"))
     ))
+    adult_out = Path(os.path.expanduser(
+        args.adult_out or cfg.get("adult_output_path", str(main_out.parent / "adult-events.ics"))
+    ))
 
     _write_feed(main_out, main_bytes, calendar_events, "main")
     _write_feed(vol_out, volunteer_bytes, volunteer_events, "volunteer")
     _write_feed(sports_out, sports_bytes, sports_events, "sports")
+    _write_feed(adult_out, adult_bytes, adult_events, "adult")
     return 0
 
 
