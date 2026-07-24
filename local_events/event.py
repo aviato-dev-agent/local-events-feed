@@ -96,6 +96,18 @@ _INTERNAL_ONLY_PATTERNS = tuple(
         r"employee\s+benefit",
         r"payroll",
         r"benefits\s+enrollment",
+        # Law school internal/student-only events
+        r"pro\s+bono",  # law school internal career programming
+        r"1l\s+(?:connect|job|career|search|class)",  # first-year law student specific
+        r"2l|3l",  # second/third year law school
+        r"levin\s+center",  # law school career center
+        r"public\s+interest.*1l",  # public interest programming for 1L
+        # Support groups & personal wellness
+        r"alcoholics?\s+anonymous",
+        r"aa\s+(?:meeting|group)",
+        r"narcotics?\s+anonymous",
+        r"na\s+(?:meeting|group)",
+        r"support\s+group",
     )
 )
 
