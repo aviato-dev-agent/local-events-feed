@@ -108,13 +108,26 @@ def fetch(city_tag: str = "", lookahead_days: int = 90) -> list[Event]:
 
     events: list[Event] = []
     seen_titles = set()
+    parse_errors = 0
+    date_parse_failures = 0
 
     # d.school uses c-card__inner-wrapper divs for event cards
+    # Try primary selector
     event_containers = soup.find_all('div', class_='c-card__inner-wrapper')
 
+    # Fallback: try any div with "card" in class or article tags
     if not event_containers:
-        log.warning("dschool: no event cards found; page structure may have changed")
-        return events
+        log.debug("dschool: c-card__inner-wrapper not found; trying fallback selectors")
+        event_containers = soup.find_all(['article', 'li'], recursive=True)
+        event_containers = [c for c in event_containers if 'h3' in str(c)]  # Must have a title
+
+    if not event_containers:
+        # Check if page has any content at all (not a 404 or network error)
+        body_text = soup.get_text(strip=True)
+        if len(body_text) < 100:
+            log.warning("dschool: page appears empty or broken (< 100 chars)")
+            return events
+        log.warning("dschool: no event cards found; page structure may have changed (page has %d chars)", len(body_text))
 
     for container in event_containers:
         try:
@@ -136,11 +149,15 @@ def fetch(city_tag: str = "", lookahead_days: int = 90) -> list[Event]:
             date_str = date_match.group(1) if date_match else None
 
             if not date_str:
+                parse_errors += 1
+                log.debug("dschool: no date found for '%s'", title[:50])
                 continue
 
             # Parse dates to individual instances
             dates = _parse_date_range(date_str)
             if not dates:
+                date_parse_failures += 1
+                log.debug("dschool: failed to parse date '%s' for '%s'", date_str, title[:50])
                 continue
 
             # Extract event type and location from remaining text
@@ -183,8 +200,15 @@ def fetch(city_tag: str = "", lookahead_days: int = 90) -> list[Event]:
                     events.append(event)
 
         except Exception as exc:
-            log.warning("dschool: error parsing event: %s", exc)
+            parse_errors += 1
+            log.debug("dschool: exception parsing event '%s': %s", title[:50] if 'title' in locals() else '?', exc)
             continue
 
-    log.info("dschool: %d public events", len(events))
+    # Summary logging
+    if parse_errors or date_parse_failures:
+        log.info("dschool: %d public events (%d parse errors, %d date parse failures out of %d cards)",
+                 len(events), parse_errors, date_parse_failures, len(event_containers))
+    else:
+        log.info("dschool: %d public events from %d cards", len(events), len(event_containers))
+
     return events
