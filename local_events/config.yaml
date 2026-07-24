@@ -2,7 +2,7 @@ age_range:
   min: 5
   max: 13
 
-lookahead_days: 90
+lookahead_days: 180
 
 output_path: ~/Dropbox/claude/calendars/local-events.ics
 volunteer_output_path: ~/Dropbox/claude/calendars/volunteer-events.ics
