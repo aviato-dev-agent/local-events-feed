@@ -39,6 +39,7 @@ from .scrapers import (
     msi,
     stanford,
     stanford_campus,
+    dschool,
     grassrootsecology,
     savethebay,
     canopy,
@@ -227,6 +228,18 @@ def run_all(cfg: dict) -> list[Event]:
         except Exception as exc:
             log.exception("stanford_campus scraper failed: %s", exc)
             counts["stanford_campus"] = -1
+
+    if sources_cfg.get("dschool", {}).get("enabled"):
+        try:
+            evs = dschool.fetch(
+                city_tag=sources_cfg["dschool"].get("city_tag", ""),
+                lookahead_days=lookahead,
+            )
+            counts["dschool"] = len(evs)
+            all_events.extend(evs)
+        except Exception as exc:
+            log.exception("dschool scraper failed: %s", exc)
+            counts["dschool"] = -1
 
     rwc_cfg = sources_cfg.get("rwc", {})
     if rwc_cfg.get("enabled"):

@@ -124,3 +124,10 @@ sources:
     # Sources: Localist API (events.stanford.edu), Stanford Law ICS, Economics seminar ICS feeds.
     # Summer (July–Aug) will produce few or zero Localist events; that's expected.
     # Output: stanford_campus.ics
+  dschool:
+    enabled: true
+    city_tag: ""
+    is_stanford_source: true
+    # Sources: d.school website (dschool.stanford.edu/connect/events)
+    # HTML scraping required; no API or ICS feed available.
+    # Included in stanford feed (is_stanford_source: true)
