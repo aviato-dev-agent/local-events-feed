@@ -108,6 +108,13 @@ _INTERNAL_ONLY_PATTERNS = tuple(
         r"narcotics?\s+anonymous",
         r"na\s+(?:meeting|group)",
         r"support\s+group",
+        # Faculty-only professional development
+        r"faculty\s+competencies",  # faculty skills workshops
+        r"faculty.*assessment",
+        r"faculty.*development",
+        r"faculty.*risk",  # faculty risk management
+        r"risk\s+(?:management|review)\s+for\s+faculty",
+        r"global\s+risk.*faculty",
     )
 )
 
