@@ -83,7 +83,16 @@ def _clean_html(s: str) -> str:
 def _parse_localist_dt(s: str | None) -> datetime | None:
     if not s:
         return None
-    # Localist returns local times without timezone info
+    # Localist may return times with or without timezone info
+    try:
+        # Try ISO format with timezone first
+        dt = datetime.fromisoformat(s)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=ZoneInfo(TZ))
+        return dt
+    except ValueError:
+        pass
+    # Fall back to manual parsing for non-ISO formats
     for fmt in ("%Y-%m-%dT%H:%M:%S", "%Y-%m-%d %H:%M:%S"):
         try:
             return datetime.strptime(s, fmt).replace(tzinfo=ZoneInfo(TZ))
