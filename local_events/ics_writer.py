@@ -28,11 +28,24 @@ def build_calendar(events: Iterable[MyEvent], name: str = "Local Events") -> byt
         ev = ICalEvent()
         ev.add("uid", e.uid())
         ev.add("summary", e.title)
-        # Localize naive times to Pacific
-        start = e.start if e.start.tzinfo else e.start.replace(tzinfo=PACIFIC)
-        end = e.end if e.end.tzinfo else e.end.replace(tzinfo=PACIFIC)
-        ev.add("dtstart", start)
-        ev.add("dtend", end)
+
+        if e.all_day:
+            # All-day events use DATE format (just the date, no time)
+            ev.add("dtstart", e.start.date())
+            if e.end:
+                # In ICS, end date for all-day events is exclusive (next day)
+                ev.add("dtend", e.end.date())
+            else:
+                # If no end, default to next day (one-day event)
+                from datetime import timedelta
+                ev.add("dtend", e.start.date() + timedelta(days=1))
+        else:
+            # Localize naive times to Pacific
+            start = e.start if e.start.tzinfo else e.start.replace(tzinfo=PACIFIC)
+            end = e.end if e.end.tzinfo else e.end.replace(tzinfo=PACIFIC)
+            ev.add("dtstart", start)
+            ev.add("dtend", end)
+
         ev.add("dtstamp", now_utc)
         if e.location:
             ev.add("location", e.location)

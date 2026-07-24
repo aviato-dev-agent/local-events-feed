@@ -20,6 +20,7 @@ class Event:
     registration: Optional[bool]
     url: str
     tz: str = "America/Los_Angeles"
+    all_day: bool = False  # if True, render as DATE in ICS (not DATETIME)
 
     def uid(self) -> str:
         return f"{self.source}-{self.source_id}@local-events"

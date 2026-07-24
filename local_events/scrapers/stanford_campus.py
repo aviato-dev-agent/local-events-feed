@@ -150,6 +150,8 @@ def _fetch_localist(client: httpx.Client, lookahead_days: int) -> list[Event]:
                     continue
 
                 inst_id = inst.get("id") or ""
+                # Detect all-day events: start time is midnight (00:00:00)
+                is_all_day = start_dt.hour == 0 and start_dt.minute == 0 and start_dt.second == 0
                 events.append(Event(
                     source="stanford_campus",
                     source_id=f"localist-{event_id}-{inst_id}",
@@ -163,6 +165,7 @@ def _fetch_localist(client: httpx.Client, lookahead_days: int) -> list[Event]:
                     registration=None,
                     url=url,
                     tz=TZ,
+                    all_day=is_all_day,
                 ))
 
         page += 1
@@ -237,6 +240,9 @@ def _fetch_ics(
         url_prop = comp.get("URL")
         ev_url = str(url_prop) if url_prop else ""
 
+        # Detect all-day events: start time is midnight (00:00:00)
+        is_all_day = start_local.hour == 0 and start_local.minute == 0 and start_local.second == 0
+
         events.append(Event(
             source="stanford_campus",
             source_id=f"{source_id_prefix}-{uid or title}-{start_local.isoformat()}",
@@ -250,6 +256,7 @@ def _fetch_ics(
             registration=None,
             url=ev_url,
             tz=TZ,
+            all_day=is_all_day,
         ))
 
     log.info("%s: %d events", label, len(events))
