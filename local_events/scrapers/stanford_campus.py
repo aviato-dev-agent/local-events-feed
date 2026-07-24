@@ -18,7 +18,7 @@ from zoneinfo import ZoneInfo
 import httpx
 from icalendar import Calendar
 
-from ..event import Event
+from ..event import Event, is_public_event
 
 log = logging.getLogger(__name__)
 
@@ -313,5 +313,7 @@ def fetch(city_tag: str = "", lookahead_days: int = 90) -> list[Event]:
             seen.add(e.source_id)
             deduped.append(e)
 
-    log.info("stanford_campus: %d events total after dedup", len(deduped))
-    return deduped
+    # Filter to public events only
+    public_events = [e for e in deduped if is_public_event(e)]
+    log.info("stanford_campus: %d after dedup, %d public", len(deduped), len(public_events))
+    return public_events

@@ -66,3 +66,52 @@ def is_adult_event(e: Event, source_is_adult: bool = False) -> bool:
 
 def is_stanford_event(e: Event, source_is_stanford: bool = False) -> bool:
     return source_is_stanford
+
+
+_INTERNAL_ONLY_PATTERNS = tuple(
+    _re.compile(rf"\b{p}\b", _re.IGNORECASE) for p in (
+        r"m\s*&\s*m",  # morbidity & mortality rounds
+        r"morbidity\s+mortality",
+        r"staff\s+meeting",
+        r"faculty\s+meeting",
+        r"committee\s+meeting",
+        r"department\s+meeting",
+        r"team\s+meeting",
+        r"standing\s+meeting",
+        r"lab\s+meeting",
+        r"board\s+meeting",
+        r"retreat\s+for\s+staff",
+        r"administrative\s+meeting",
+        r"internal\s+(?:use|only)",
+        r"conferral\s+of\s+degrees",
+        r"recommending\s+lists?(?:\s+due)?",
+        r"final\s+exam",
+        r"degrees?\s+due",
+        r"deadline",
+        r"(?:is\s+)?(?:closed|closure)",
+        r"office\s+closed",
+        r"financial\s+counseling",  # employee/student benefit
+        r"fidelity",  # retirement/financial benefits program
+        r"hr\s+benefit",
+        r"employee\s+benefit",
+        r"payroll",
+        r"benefits\s+enrollment",
+    )
+)
+
+
+def is_public_event(e: Event) -> bool:
+    """Include most Stanford events except purely internal admin meetings/deadlines.
+
+    Includes: seminars, talks, exhibitions, tours, workshops, classes, trainings,
+    volunteer opportunities, wellness programs, faculty development, etc.
+    Excludes: internal staff meetings, admin deadlines, closures, M&M rounds.
+    """
+    hay = f"{e.title} {e.description or ''}".lower()
+
+    # Exclude only obvious internal-only events
+    if any(p.search(hay) for p in _INTERNAL_ONLY_PATTERNS):
+        return False
+
+    # Default: include (most Stanford events are worth listing)
+    return True
