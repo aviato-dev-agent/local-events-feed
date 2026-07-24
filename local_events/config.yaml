@@ -117,3 +117,10 @@ sources:
     is_sports_source: true
     # Home games only — scraper filters by "Stanford vs." in SUMMARY.
     # Per-sport venue lookup lives in scrapers/stanford.py::_VENUES.
+  stanford_campus:
+    enabled: true
+    city_tag: ""
+    is_stanford_source: true
+    # Sources: Localist API (events.stanford.edu), Stanford Law ICS, Economics seminar ICS feeds.
+    # Summer (July–Aug) will produce few or zero Localist events; that's expected.
+    # Output: stanford_campus.ics

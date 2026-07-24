@@ -62,3 +62,7 @@ def is_adult_event(e: Event, source_is_adult: bool = False) -> bool:
     if "adult program" in e.ages.lower():
         return True
     return False
+
+
+def is_stanford_event(e: Event, source_is_stanford: bool = False) -> bool:
+    return source_is_stanford

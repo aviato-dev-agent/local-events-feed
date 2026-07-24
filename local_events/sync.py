@@ -20,7 +20,7 @@ from pathlib import Path
 
 import yaml
 
-from .event import Event, is_volunteer_event, is_sports_event, is_adult_event
+from .event import Event, is_volunteer_event, is_sports_event, is_adult_event, is_stanford_event
 from .ics_writer import build_calendar
 from .normalizer import normalize
 from .scrapers import (
@@ -38,6 +38,7 @@ from .scrapers import (
     citytrees,
     msi,
     stanford,
+    stanford_campus,
     grassrootsecology,
     savethebay,
     canopy,
@@ -215,6 +216,18 @@ def run_all(cfg: dict) -> list[Event]:
             log.exception("stanford scraper failed: %s", exc)
             counts["stanford"] = -1
 
+    if sources_cfg.get("stanford_campus", {}).get("enabled"):
+        try:
+            evs = stanford_campus.fetch(
+                city_tag=sources_cfg["stanford_campus"].get("city_tag", ""),
+                lookahead_days=lookahead,
+            )
+            counts["stanford_campus"] = len(evs)
+            all_events.extend(evs)
+        except Exception as exc:
+            log.exception("stanford_campus scraper failed: %s", exc)
+            counts["stanford_campus"] = -1
+
     rwc_cfg = sources_cfg.get("rwc", {})
     if rwc_cfg.get("enabled"):
         token = os.environ.get("SCRAPE_DO_TOKEN", "")
@@ -245,6 +258,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--volunteer-out", help="override volunteer output path (volunteer-events.ics)")
     parser.add_argument("--sports-out", help="override sports output path (college-sports.ics)")
     parser.add_argument("--adult-out", help="override adult output path (adult-events.ics)")
+    parser.add_argument("--stanford-out", help="override stanford output path (stanford_campus.ics)")
     args = parser.parse_args(argv)
 
     logging.basicConfig(
@@ -262,9 +276,10 @@ def main(argv: list[str] | None = None) -> int:
     volunteer_events: list[Event] = []
     sports_events: list[Event] = []
     adult_events: list[Event] = []
-    # Partition order: sports > adult > volunteer > main. Sports is a pure
-    # per-source route (no keyword match), so overlap is impossible. Adult comes
-    # before volunteer/main so adult events aren't accidentally included in those.
+    stanford_events: list[Event] = []
+    # Partition order: sports > volunteer > stanford > main.
+    # Sports is a pure per-source route (no keyword match), so overlap is impossible.
+    # Adult comes before volunteer/main so adult events aren't accidentally included in those.
     for e in events:
         src_cfg = sources_cfg.get(e.source, {})
         if is_sports_event(e, src_cfg.get("is_sports_source", False)):
@@ -273,29 +288,36 @@ def main(argv: list[str] | None = None) -> int:
             adult_events.append(e)
         elif is_volunteer_event(e, src_cfg.get("is_volunteer_source", False)):
             volunteer_events.append(e)
+        elif is_stanford_event(e, src_cfg.get("is_stanford_source", False)):
+            stanford_events.append(e)
         else:
             calendar_events.append(e)
     log.info(
-        "partitioned: main=%d volunteer=%d sports=%d adult=%d",
+        "partitioned: main=%d volunteer=%d sports=%d adult=%d stanford=%d",
         len(calendar_events), len(volunteer_events), len(sports_events), len(adult_events),
+        len(stanford_events),
     )
 
     main_bytes = build_calendar(calendar_events, name="Local Events")
     volunteer_bytes = build_calendar(volunteer_events, name="Volunteer Events")
     sports_bytes = build_calendar(sports_events, name="College Sports")
     adult_bytes = build_calendar(adult_events, name="Adult Events")
+    stanford_bytes = build_calendar(stanford_events, name="Stanford Campus Events")
 
     if args.dry_run:
         print(f"main: {len(calendar_events)} events, {len(main_bytes)} bytes")
         print(f"volunteer: {len(volunteer_events)} events, {len(volunteer_bytes)} bytes")
         print(f"sports: {len(sports_events)} events, {len(sports_bytes)} bytes")
         print(f"adult: {len(adult_events)} events, {len(adult_bytes)} bytes")
+        print(f"stanford: {len(stanford_events)} events, {len(stanford_bytes)} bytes")
         for e in volunteer_events:
             print(f"  [volunteer] {e.source} {e.title} {e.start:%Y-%m-%d}")
         for e in sports_events:
             print(f"  [sports] {e.source} {e.title} {e.start:%Y-%m-%d}")
         for e in adult_events:
             print(f"  [adult] {e.source} {e.title} {e.start:%Y-%m-%d}")
+        for e in stanford_events:
+            print(f"  [stanford] {e.source} {e.title} {e.start:%Y-%m-%d}")
         return 0
 
     main_out = Path(os.path.expanduser(args.out or cfg["output_path"]))
@@ -308,11 +330,15 @@ def main(argv: list[str] | None = None) -> int:
     adult_out = Path(os.path.expanduser(
         args.adult_out or cfg.get("adult_output_path", str(main_out.parent / "adult-events.ics"))
     ))
+    stanford_out = Path(os.path.expanduser(
+        args.stanford_out or cfg.get("stanford_output_path", str(main_out.parent / "stanford_campus.ics"))
+    ))
 
     _write_feed(main_out, main_bytes, calendar_events, "main")
     _write_feed(vol_out, volunteer_bytes, volunteer_events, "volunteer")
     _write_feed(sports_out, sports_bytes, sports_events, "sports")
     _write_feed(adult_out, adult_bytes, adult_events, "adult")
+    _write_feed(stanford_out, stanford_bytes, stanford_events, "stanford")
     return 0
 
 
