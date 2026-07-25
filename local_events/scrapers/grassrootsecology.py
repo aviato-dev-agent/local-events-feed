@@ -82,24 +82,26 @@ def _parse_block(block: str, default_city_tag: str) -> Event | None:
     href, title_raw = title_m.group(1), html.unescape(re.sub(r"<[^>]+>", "", title_m.group(2))).strip()
     url = href if href.startswith("http") else f"https://www.grassrootsecology.org{href}"
 
-    # Start/end times (both have datetime attr with full ISO)
+    # Start/end times — Squarespace puts date in `datetime` attr and time in text content.
+    # E.g. <time class="event-time-localized-start" datetime="2026-07-25">9:00 AM</time>
     start_m = re.search(
-        r'<time class="event-time-localized-start" datetime="([^"]+)"',
+        r'<time class="event-time-localized-start" datetime="([^"]+)"[^>]*>(.*?)</time>',
         block,
     )
     end_m = re.search(
-        r'<time class="event-time-localized-end" datetime="([^"]+)"',
+        r'<time class="event-time-localized-end" datetime="([^"]+)"[^>]*>(.*?)</time>',
         block,
     )
     if not start_m:
-        # No localized-start attribute → time unknown. Skip rather than emit
-        # a midnight-start event that clutters the calendar. If this fires
-        # often, revisit by crawling the event detail page for a time.
         log.info("grassrootsecology: skipping %r — no start time on listing", title_raw)
         return None
     try:
-        start_dt = dtparse.parse(start_m.group(1)).replace(tzinfo=None)
-        end_dt = dtparse.parse(end_m.group(1)).replace(tzinfo=None) if end_m else None
+        # Combine date attr + text time (narrow no-break space   is valid in strptime)
+        start_dt = dtparse.parse(f"{start_m.group(1)} {start_m.group(2)}").replace(tzinfo=None)
+        end_dt = (
+            dtparse.parse(f"{end_m.group(1)} {end_m.group(2)}").replace(tzinfo=None)
+            if end_m else None
+        )
     except ValueError:
         return None
 
