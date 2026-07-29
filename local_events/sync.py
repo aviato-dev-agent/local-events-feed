@@ -56,7 +56,7 @@ def load_config(path: Path) -> dict:
         return yaml.safe_load(f)
 
 
-def run_all(cfg: dict) -> list[Event]:
+def run_all(cfg: dict, force_rwc: bool = False) -> list[Event]:
     """Run every enabled scraper. Per-source failure is isolated."""
     all_events: list[Event] = []
     counts: dict[str, int] = {}
@@ -243,8 +243,9 @@ def run_all(cfg: dict) -> list[Event]:
 
     # RWC scrapers use scrape.do credits. redwoodcity.org updates on Mon/Wed/Sat
     # so we only run on those days to conserve the free-tier budget.
+    # Override: --force-rwc flag runs them regardless of day (e.g. manual triggers).
     _rwc_today = datetime.now().weekday()  # 0=Mon, 2=Wed, 5=Sat
-    _rwc_run_today = _rwc_today in (0, 2, 5)
+    _rwc_run_today = _rwc_today in (0, 2, 5) or force_rwc
 
     rwc_cfg = sources_cfg.get("rwc", {})
     if rwc_cfg.get("enabled"):
@@ -301,6 +302,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--sports-out", help="override sports output path (college-sports.ics)")
     parser.add_argument("--adult-out", help="override adult output path (adult-events.ics)")
     parser.add_argument("--stanford-out", help="override stanford output path (stanford_campus.ics)")
+    parser.add_argument("--force-rwc", action="store_true", help="run RWC scrapers regardless of day-of-week gate")
     args = parser.parse_args(argv)
 
     logging.basicConfig(
@@ -310,7 +312,7 @@ def main(argv: list[str] | None = None) -> int:
 
     cfg = load_config(Path(args.config))
     sources_cfg = cfg["sources"]
-    raw = run_all(cfg)
+    raw = run_all(cfg, force_rwc=args.force_rwc)
     events = normalize(raw)
     log.info("final event count: %d", len(events))
 

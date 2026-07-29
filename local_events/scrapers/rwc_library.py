@@ -40,6 +40,8 @@ _SKIP_TOKENS = (
     "stories and songs",
     "malinky",
     "project read",
+    # Teen programs — excluded until kids are older
+    "teen", "tween", "middle school", "high school",
 )
 
 # Events that belong on the adult feed rather than the main family feed.

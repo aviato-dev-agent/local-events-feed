@@ -24,7 +24,13 @@ jobs:
       - name: Generate ICS
         env:
           SCRAPE_DO_TOKEN: ${{ secrets.SCRAPE_DO_TOKEN }}
-        run: python -m local_events.sync --out local-events.ics --volunteer-out volunteer-events.ics --sports-out college-sports.ics --adult-out adult-events.ics --stanford-out stanford_campus.ics
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+        run: |
+          FORCE_RWC=""
+          if [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ]; then
+            FORCE_RWC="--force-rwc"
+          fi
+          python -m local_events.sync --out local-events.ics --volunteer-out volunteer-events.ics --sports-out college-sports.ics --adult-out adult-events.ics --stanford-out stanford_campus.ics $FORCE_RWC
 
       - name: Commit if changed
         run: |
