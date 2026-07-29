@@ -28,7 +28,7 @@ from .scrapers import (
     menlopark, menlopark_city,
     bayareakidfun,
     sancarlos,
-    rwc,
+    rwc, rwc_library,
     hiller,
     hiddenvilla,
     filoli,
@@ -258,6 +258,24 @@ def run_all(cfg: dict) -> list[Event]:
             except Exception as exc:
                 log.exception("rwc scraper failed: %s", exc)
                 counts["rwc"] = -1
+
+    rwc_lib_cfg = sources_cfg.get("rwc_library", {})
+    if rwc_lib_cfg.get("enabled"):
+        token = os.environ.get("SCRAPE_DO_TOKEN", "")
+        if not token:
+            log.warning("rwc_library: SCRAPE_DO_TOKEN not set; skipping")
+        else:
+            try:
+                evs = rwc_library.fetch(
+                    token=token,
+                    city_tag=rwc_lib_cfg.get("city_tag", "RWC"),
+                    lookahead_days=lookahead,
+                )
+                counts["rwc_library"] = len(evs)
+                all_events.extend(evs)
+            except Exception as exc:
+                log.exception("rwc_library scraper failed: %s", exc)
+                counts["rwc_library"] = -1
 
     log.info("scraper counts: %s (total=%d)", counts, len(all_events))
     return all_events

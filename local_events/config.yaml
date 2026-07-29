@@ -109,6 +109,12 @@ sources:
     # Scrapes redwoodcity.org via scrape.do (residential proxy + headless Chrome).
     # API token must be set in SCRAPE_DO_TOKEN env var / GHA secret.
     # Fetches current month + next month = ~10 credits/run, ~300/month.
+  rwc_library:
+    enabled: true
+    city_tag: RWC
+    # Scrapes redwoodcity.org/departments/library/events via scrape.do.
+    # Filters: drop-in tech help, Spanish-only titles, existing age filters.
+    # API token must be set in SCRAPE_DO_TOKEN env var / GHA secret.
   stanford:
     enabled: true
     # Empty city_tag: normalizer skips the "[TAG] " prefix so titles read
