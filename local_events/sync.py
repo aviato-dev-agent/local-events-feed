@@ -241,41 +241,52 @@ def run_all(cfg: dict) -> list[Event]:
             log.exception("dschool scraper failed: %s", exc)
             counts["dschool"] = -1
 
+    # RWC scrapers use scrape.do credits. redwoodcity.org updates on Mon/Wed/Sat
+    # so we only run on those days to conserve the free-tier budget.
+    _rwc_today = datetime.now().weekday()  # 0=Mon, 2=Wed, 5=Sat
+    _rwc_run_today = _rwc_today in (0, 2, 5)
+
     rwc_cfg = sources_cfg.get("rwc", {})
     if rwc_cfg.get("enabled"):
-        token = os.environ.get("SCRAPE_DO_TOKEN", "")
-        if not token:
-            log.warning("rwc: SCRAPE_DO_TOKEN not set; skipping")
+        if not _rwc_run_today:
+            log.info("rwc: skipping today (only runs Mon/Wed/Sat)")
         else:
-            try:
-                evs = rwc.fetch(
-                    token=token,
-                    city_tag=rwc_cfg.get("city_tag", "RWC"),
-                    lookahead_days=lookahead,
-                )
-                counts["rwc"] = len(evs)
-                all_events.extend(evs)
-            except Exception as exc:
-                log.exception("rwc scraper failed: %s", exc)
-                counts["rwc"] = -1
+            token = os.environ.get("SCRAPE_DO_TOKEN", "")
+            if not token:
+                log.warning("rwc: SCRAPE_DO_TOKEN not set; skipping")
+            else:
+                try:
+                    evs = rwc.fetch(
+                        token=token,
+                        city_tag=rwc_cfg.get("city_tag", "RWC"),
+                        lookahead_days=lookahead,
+                    )
+                    counts["rwc"] = len(evs)
+                    all_events.extend(evs)
+                except Exception as exc:
+                    log.exception("rwc scraper failed: %s", exc)
+                    counts["rwc"] = -1
 
     rwc_lib_cfg = sources_cfg.get("rwc_library", {})
     if rwc_lib_cfg.get("enabled"):
-        token = os.environ.get("SCRAPE_DO_TOKEN", "")
-        if not token:
-            log.warning("rwc_library: SCRAPE_DO_TOKEN not set; skipping")
+        if not _rwc_run_today:
+            log.info("rwc_library: skipping today (only runs Mon/Wed/Sat)")
         else:
-            try:
-                evs = rwc_library.fetch(
-                    token=token,
-                    city_tag=rwc_lib_cfg.get("city_tag", "RWC"),
-                    lookahead_days=lookahead,
-                )
-                counts["rwc_library"] = len(evs)
-                all_events.extend(evs)
-            except Exception as exc:
-                log.exception("rwc_library scraper failed: %s", exc)
-                counts["rwc_library"] = -1
+            token = os.environ.get("SCRAPE_DO_TOKEN", "")
+            if not token:
+                log.warning("rwc_library: SCRAPE_DO_TOKEN not set; skipping")
+            else:
+                try:
+                    evs = rwc_library.fetch(
+                        token=token,
+                        city_tag=rwc_lib_cfg.get("city_tag", "RWC"),
+                        lookahead_days=lookahead,
+                    )
+                    counts["rwc_library"] = len(evs)
+                    all_events.extend(evs)
+                except Exception as exc:
+                    log.exception("rwc_library scraper failed: %s", exc)
+                    counts["rwc_library"] = -1
 
     log.info("scraper counts: %s (total=%d)", counts, len(all_events))
     return all_events
