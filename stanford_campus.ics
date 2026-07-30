@@ -8,257 +8,11 @@ X-WR-CALNAME:Stanford Campus Events
 X-PUBLISHED-TTL:PT1H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:[School of Medicine\, Office of Academic Affairs] Faculty Affairs 
- Virtual Brainstorm: Building community\, belonging\, engagement\, and supp
- ort structures
-DTSTART;TZID=America/Los_Angeles:20260729T090000
-DTEND;TZID=America/Los_Angeles:20260729T100000
-DTSTAMP:20260729T220005Z
-UID:stanford_campus-localist-53551896035821-53551903410819@local-events
-DESCRIPTION:Join as we brainstorm together around building community\, bel
- onging\, engagement\, and support structures in the FAA community across t
- he School of Medicine!\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PD
- T
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Art & Architecture Library / Stanford University Libraries] Summe
- r Escape at Bowes Library
-DTSTART;TZID=America/Los_Angeles:20260729T090000
-DTEND;TZID=America/Los_Angeles:20260729T190000
-DTSTAMP:20260729T220005Z
-UID:stanford_campus-localist-52951257804174-52951257830825@local-events
-DESCRIPTION:Take a little detour with Summer Escape at Bowes — our annua
- l snapshot of what’s new at the Art & Architecture Library\, presented w
- ith a seaside breeze. The promotional image’s soft bands of light and fl
- owing lines inspired how we arranged the show: items grouped to suggest cu
- rrents and horizons so each visit feels like a short visual voyage. You’
- ll find newly acquired artist’s books\, photobooks\, pop-up books\, and 
- railroad cars (?) that speak to creative practice\, sustainability\, and s
- torytellin\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
-LOCATION:McMurtry Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Department of Special Collections / Stanford University Libraries
- ] Ginsberg at 100: Selections from the Allen Ginsberg Papers at Stanford
-DTSTART;TZID=America/Los_Angeles:20260729T100000
-DTEND;TZID=America/Los_Angeles:20260729T170000
-DTSTAMP:20260729T220005Z
-UID:stanford_campus-localist-52883532576991-52883532611858@local-events
-DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
- ions from the Allen Ginsberg Papers at Stanford\, on view in the Peterson 
- Gallery and Munger Rotunda of the Cecil H. Green Library from June 5 to Se
- ptember 5\, 2026. \n\nIn honor of the centenary of Allen Ginsberg’s birt
- h on June 3\, 1926\, Stanford University Libraries will host its first-eve
- r exhibition of Ginsberg\, exploring his complex legacy as a poet\, activi
- st\, promoter\, traveler\, spiritual seeker\, and teacher. The exhibition 
- will dra\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
-LOCATION:Green Library\, Bing Wing
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[David Rumsey Map Center / Stanford University Libraries] You Are 
- Here: Transit Cartography & Spatial Identity
-DTSTART;TZID=America/Los_Angeles:20260729T130000
-DTEND;TZID=America/Los_Angeles:20260729T170000
-DTSTAMP:20260729T220005Z
-UID:stanford_campus-localist-52127684778082-52127768257481@local-events
-DESCRIPTION:Transit maps hold a unique place in both the urban environment
-  and the cultural zeitgeist\, often transcending their utilitarian purpose
- s to become symbols of cities and nations alike. Iconic transit maps such 
- as Henry Charles Beck's 1933 map of the London Underground or Vignelli's 1
- 972 map of the New York subway have been lauded as cultural touchstones th
- at both were inspired by the past and have influenced the future. \n\nYou 
- Are Here is an exhibition that explores the unique relationship between\n\
- nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
-LOCATION:David Rumsey Map Center (Green Library)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Department of Microbiology and Immunology] PhD Dissertation Defen
- se: Savannah Lewis\, Jagannathan Lab
-DTSTART;TZID=America/Los_Angeles:20260729T143000
-DTEND;TZID=America/Los_Angeles:20260729T153000
-DTSTAMP:20260729T220005Z
-UID:stanford_campus-localist-52569014733355-52569021796466@local-events
-DESCRIPTION:Title: "Functional adaptation of human natural killer cells to
-  endemic malaria"\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
-LOCATION:Clark Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Stanford BeWell / Stanford Healthy Living] The Improviser's Minds
- et (July 29 - August 12)
-DTSTART;TZID=America/Los_Angeles:20260729T160000
-DTEND;TZID=America/Los_Angeles:20260729T171500
-DTSTAMP:20260729T220005Z
-UID:stanford_campus-localist-52901301321364-52901301322391@local-events
-DESCRIPTION:When the future is unscripted\, your greatest human skill is t
- he ability to think on your feet.\n\nAI technology may be able to process 
- data and draft content – but it cannot provide the presence of mind requ
- ired to authentically build trust\, pivot to the needs of the moment\, tap
-  into imagination\, or find a creative path forward when there is no map. 
- These fundamentally human skills can be cultivated and enhanced through th
- e art of improvisation.\n\nJoin us for an interactive three-part online se
- ries\n\nAges: All ages\nSource: https://healthyliving.stanford.edu/classes
- /register/class_detail.php?t=1cce34dfd3cbss383d348a508b1be48cc821&ci=12527
- 20\nLast synced: 2026-07-29 15:00 PDT
-URL:https://healthyliving.stanford.edu/classes/register/class_detail.php?t
- =1cce34dfd3cbss383d348a508b1be48cc821&ci=1252720
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Stanford Health Library] On Demand: Plant-Rich Snacks for Lasting
-  Energy
-DTSTART;TZID=America/Los_Angeles:20260729T170000
-DTEND;TZID=America/Los_Angeles:20260729T180000
-DTSTAMP:20260729T220005Z
-UID:stanford_campus-localist-53384636572476-53384636583749@local-events
-DESCRIPTION:On Demand: Plant-rich snacks can help you feel energized and s
- atisfied throughout the day. In this video\, learn how to prepare two easy
- \, delicious\, plant-rich snacks! Stanford Registered Dietitian Leah Gropp
- o demonstrates how to make a flavorful tofu dip and tasty nutty energy bit
- es.\n\nDeveloped by Stanford Registered Dietitians with support from Stanf
- ord Health Care Clinical Nutrition and the Stanford Nutrition Research Gro
- up\, this video delivers practical\, evidence-based guidance straight to y
- o\n\nAges: All ages\nSource: https://healthlibrary.stanford.edu/video/plan
- t-powered.html#snacks\nLast synced: 2026-07-29 15:00 PDT
-URL:https://healthlibrary.stanford.edu/video/plant-powered.html#snacks
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Department of Music / Stanford Jazz Workshop] SJW Presents: Aldo 
- López-Gavilán
-DTSTART;TZID=America/Los_Angeles:20260729T200000
-DTEND;TZID=America/Los_Angeles:20260729T213000
-DTSTAMP:20260729T220005Z
-UID:stanford_campus-localist-52621724943025-52621740085894@local-events
-DESCRIPTION:Coming off a year illuminated by the documentary about his mus
- ical reunion with his brother\, violinist Ilmar Gavilán\, Aldo López-Gav
- ilán continues to dazzle international audiences with his keyboard prowes
- s.\n\nThis event is part of the 2026 Stanford Jazz Festival.  \n\nAdmissio
- n Information\n\nSJW Members: $34–$44 | Children (17 and under) & Studen
- ts: $10Non-Members: $42–$52 | Children (17 and under) & Students: $18\n\
- nAges: All ages\nSource: https://stanfordjazz.org/event/aldo-lopez-gavilan
- /\nLast synced: 2026-07-29 15:00 PDT
-LOCATION:Dinkelspiel Auditorium
-URL:https://stanfordjazz.org/event/aldo-lopez-gavilan/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Department of Psychiatry] A CLINICAL RESEARCH STUDY PROGRAM FOR M
- AJOR DEPRESSIVE DISORDER (MDD)
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260730
-DTSTAMP:20260729T220005Z
-UID:stanford_campus-localist-51827589730708-53542152337939@local-events
-DESCRIPTION:A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDE
- R (MDD)\nIf your current antidepressant medication(s) is/are not adequatel
- y improving symptoms of your MDD\, you may be eligible for the AMPA PROGRA
- M. This program is researching an investigational drug to see if it is saf
- e and whether it improves symptoms of MDD when taken with your current ant
- idepressant medication(s).\n\nTo find out more\, please contact the Depres
- sion Research Clinic:\n   Maureen Chang\n   650-725-4620\n   mhchang@stanf
- or\n\nAges: All ages\nSource: https://med.stanford.edu/drc/research.html\n
- Last synced: 2026-07-29 15:00 PDT
-URL:https://med.stanford.edu/drc/research.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Cantor Arts] Animal\, Vegetable\, nor Mineral: Works by Miljohn R
- uperto
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260730
-DTSTAMP:20260729T220005Z
-UID:stanford_campus-localist-52888406473919-52888573113717@local-events
-DESCRIPTION:Animal\, Vegetable\, nor Mineral is the first large-scale solo
-  museum exhibition of Manila-born\, Los Angeles-based artist Miljohn Ruper
- to (b. 1971). Working across photography\, video\, animation\, generative 
- artificial intelligence\, and other mediums\, Ruperto explores the ways hu
- mans have understood their place in the world. From digitally-created fant
- astical botanical specimens printed as gelatin silver photographs to immer
- sive apocalyptic landscapes experienced in VR\, Ruperto’s artworks highl
- ight\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/an
- imal-vegetable-nor-mineral-works-miljohn-ruperto\nLast synced: 2026-07-29 
- 15:00 PDT
-LOCATION:Cantor Arts Center
-URL:https://museum.stanford.edu/exhibitions/animal-vegetable-nor-mineral-w
- orks-miljohn-ruperto
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Cantor Arts] JANE! An intimate exploration of Gilded Age excess 
-  and the enigmatic life and death of Jane Stanford
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260730
-DTSTAMP:20260729T220005Z
-UID:stanford_campus-localist-52880326677126-52880513694461@local-events
-DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
- ley\, JANE! celebrates the aesthetic and affective excesses of Jane Stanfo
- rd\, the Gilded Age founder and matriarch of Stanford University. Bringing
-  together precious keepsakes\, souvenirs\, archaeological detritus\, and s
- pooky messages from beyond the grave\, the exhibition reveals the campy un
- derside of a familiar biography and perhaps an even more familiar murder m
- ystery.\n\nFrom her elegant French gowns to a colossal painting of her jew
- els\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/jan
- e\nLast synced: 2026-07-29 15:00 PDT
-LOCATION:Cantor Arts Center
-URL:https://museum.stanford.edu/exhibitions/jane
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Office of Medical Student Affairs] MD – Clinical Performance Ex
- amination (CPX) (Graduation requirement for clinical students).
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260730
-DTSTAMP:20260729T220005Z
-UID:stanford_campus-localist-49463915675310-49463915717312@local-events
-DESCRIPTION:Ages: All ages\nLast synced: 2026-07-29 15:00 PDT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[East Asia Library / Stanford University Libraries] Moments in the
-  History of East Asian Printing
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260730
-DTSTAMP:20260729T220005Z
-UID:stanford_campus-localist-53020733796497-53020733912272@local-events
-DESCRIPTION:Moments in the History of East Asian Printing brings together 
- rare books\, facsimiles\, woodblocks\, broadsheets\, illustrated books\, t
- ypewriter materials\, and other objects from the East Asia Library’s col
- lections. The exhibit explores selected episodes in the history of printin
- g across China\, Korea\, and Japan\, from Buddhist woodblock printing and 
- movable type to lithography\, popular publishing\, travel prints\, visual 
- encyclopedias\, and the Chinese typewriter. Rather than offering a complet
- e chronol\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
-LOCATION:Lathrop Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Cardiovascular Institute] Stanford Cardiovascular Research Sympos
- ium 2026
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260730
-DTSTAMP:20260729T220005Z
-UID:stanford_campus-localist-53426813502899-53426813503924@local-events
-DESCRIPTION:Ages: All ages\nSource: https://med.stanford.edu/cvi/events/20
- 26-stanford-cardiovascular-symposium.html\nLast synced: 2026-07-29 15:00 P
- DT
-LOCATION:Li Ka Shing Center
-URL:https://med.stanford.edu/cvi/events/2026-stanford-cardiovascular-sympo
- sium.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Stanford University Libraries] Text Machines: Scarlet Thread of t
- he Digital Order (1883-2026)
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260730
-DTSTAMP:20260729T220005Z
-UID:stanford_campus-localist-53251159287291-53251159348791@local-events
-DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
-  Les laboureurs: poème tiré de Jocelyn\, whose pages (text and ornamen
- ts) were entirely woven on a Jacquard loom by the firm of silk merchant Jo
- seph-Alphonse Henry. This exhibition explores the cultural contexts and ma
- terial conditions of Les laboureurs’ production\, and considers parall
- els between technology-driven global change in the late nineteenth century
-  and in our current day. The exhibition includes microscope images reveali
- ng the\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
-LOCATION:Green Library\, Bing Wing
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Art & Architecture Library / Stanford University Libraries] Summe
  r Escape at Bowes Library
 DTSTART;TZID=America/Los_Angeles:20260730T090000
 DTEND;TZID=America/Los_Angeles:20260730T190000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52951257804174-52951257831850@local-events
 DESCRIPTION:Take a little detour with Summer Escape at Bowes — our annua
  l snapshot of what’s new at the Art & Architecture Library\, presented w
@@ -267,7 +21,7 @@ DESCRIPTION:Take a little detour with Summer Escape at Bowes — our annua
  rrents and horizons so each visit feels like a short visual voyage. You’
  ll find newly acquired artist’s books\, photobooks\, pop-up books\, and 
  railroad cars (?) that speak to creative practice\, sustainability\, and s
- torytellin\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ torytellin\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:McMurtry Building
 END:VEVENT
 BEGIN:VEVENT
@@ -275,7 +29,7 @@ SUMMARY:[Department of Special Collections / Stanford University Libraries
  ] Ginsberg at 100: Selections from the Allen Ginsberg Papers at Stanford
 DTSTART;TZID=America/Los_Angeles:20260730T100000
 DTEND;TZID=America/Los_Angeles:20260730T170000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52883532576991-52883532612883@local-events
 DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  ions from the Allen Ginsberg Papers at Stanford\, on view in the Peterson 
@@ -284,7 +38,7 @@ DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  h on June 3\, 1926\, Stanford University Libraries will host its first-eve
  r exhibition of Ginsberg\, exploring his complex legacy as a poet\, activi
  st\, promoter\, traveler\, spiritual seeker\, and teacher. The exhibition 
- will dra\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ will dra\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
@@ -293,7 +47,7 @@ SUMMARY:[Anderson Collection at Stanford University / Office of the Vice P
  h
 DTSTART;TZID=America/Los_Angeles:20260730T110000
 DTEND;TZID=America/Los_Angeles:20260730T170000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52331703768568-52331703846476@local-events
 DESCRIPTION:1\,000 Ways to Hold is the culmination of a year-long particip
  atory project by Stanford Arts’ 2025–26 Visiting Artist Erika Chong Sh
@@ -303,7 +57,7 @@ DESCRIPTION:1\,000 Ways to Hold is the culmination of a year-long particip
  , shape ceramic bowls in pairs\, and reflect on the question\, What have y
  ou held\, and what has held you? Created across campus in classrooms\, com
  munity sp\n\nAges: All ages\nSource: https://anderson.stanford.edu/exhibit
- ions/erika-chong-shuch-1000-ways-to-hold/\nLast synced: 2026-07-29 15:00 P
+ ions/erika-chong-shuch-1000-ways-to-hold/\nLast synced: 2026-07-30 08:11 P
  DT
 LOCATION:Anderson Collection
 URL:https://anderson.stanford.edu/exhibitions/erika-chong-shuch-1000-ways-
@@ -314,11 +68,11 @@ SUMMARY:[Anderson Collection at Stanford University] Spotlight Tours Thurs
  days | Anderson Collection
 DTSTART;TZID=America/Los_Angeles:20260730T120000
 DTEND;TZID=America/Los_Angeles:20260730T121500
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-46378871982905-50534762212674@local-events
 DESCRIPTION:Join a 15-minute spotlight exploring one object in the Anderso
  n Collection.\n\nNew works are featured each week! Meet at the top of the 
- stairs.\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ stairs.\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Anderson Collection
 END:VEVENT
 BEGIN:VEVENT
@@ -326,7 +80,7 @@ SUMMARY:[Stanford BeWell / Stanford Healthy Living] Unlocking the Secrets
  of a Happy Gut
 DTSTART;TZID=America/Los_Angeles:20260730T120000
 DTEND;TZID=America/Los_Angeles:20260730T130000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52901301371546-52901301373597@local-events
 DESCRIPTION:A balanced gut is crucial for our mental\, physical\, and emot
  ional health. However\, poor eating habits\, chronic dieting\, and our str
@@ -337,7 +91,7 @@ DESCRIPTION:A balanced gut is crucial for our mental\, physical\, and emot
  main focus will be practical tips - integrative strategies to support your
   gut h\n\nAges: All ages\nSource: https://healthyliving.stanford.edu/class
  es/register/class_detail.php?t=1cce34dfd3cbss383d348a508b1be48cc821&ci=125
- 2729\nLast synced: 2026-07-29 15:00 PDT
+ 2729\nLast synced: 2026-07-30 08:11 PDT
 URL:https://healthyliving.stanford.edu/classes/register/class_detail.php?t
  =1cce34dfd3cbss383d348a508b1be48cc821&ci=1252729
 END:VEVENT
@@ -346,31 +100,31 @@ SUMMARY:[Anderson Collection at Stanford University] Spotlight Tours Thurs
  days | Anderson Collection
 DTSTART;TZID=America/Los_Angeles:20260730T123000
 DTEND;TZID=America/Los_Angeles:20260730T124500
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-46378844583273-50534794530602@local-events
 DESCRIPTION:Join a 15-minute spotlight exploring one object in the Anderso
  n Collection.\n\nNew works are featured each week! Meet at the top of the 
- stairs\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ stairs\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Anderson Collection
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Stanford Web Services] Stanford Sites Office Hours
 DTSTART;TZID=America/Los_Angeles:20260730T130000
 DTEND;TZID=America/Los_Angeles:20260730T150000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-50817491559268-50817491661758@local-events
 DESCRIPTION:Need a little help using a Stanford Sites? \n\nStanford Web Se
  rvices hosts office hours by appointment. During these half-hour appointme
  nts\, we can assist you with editing existing content\, creating new conte
  nt\, editing or adjusting site-wide options\, and more!\n\nAges: All ages\
- nLast synced: 2026-07-29 15:00 PDT
+ nLast synced: 2026-07-30 08:11 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[David Rumsey Map Center / Stanford University Libraries] You Are 
  Here: Transit Cartography & Spatial Identity
 DTSTART;TZID=America/Los_Angeles:20260730T130000
 DTEND;TZID=America/Los_Angeles:20260730T170000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52127684778082-52127768258506@local-events
 DESCRIPTION:Transit maps hold a unique place in both the urban environment
   and the cultural zeitgeist\, often transcending their utilitarian purpose
@@ -379,14 +133,14 @@ DESCRIPTION:Transit maps hold a unique place in both the urban environment
  972 map of the New York subway have been lauded as cultural touchstones th
  at both were inspired by the past and have influenced the future. \n\nYou 
  Are Here is an exhibition that explores the unique relationship between\n\
- nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:David Rumsey Map Center (Green Library)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Bechtel International Center] Let's Taco-bout' Finances
 DTSTART;TZID=America/Los_Angeles:20260730T153000
 DTEND;TZID=America/Los_Angeles:20260730T173000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53420609994497-53420622401009@local-events
 DESCRIPTION:🌮💵Let’s Taco-bout Finances!💵🌮\n\nTacos + tips + 
  financial know-how? Count us in! 😀\n\nJoin us on Thursday\, July 30th\,
@@ -396,7 +150,7 @@ DESCRIPTION:🌮💵Let’s Taco-bout Finances!💵🌮\n\nTacos + tips +
   to building financial confidence\, all while enjoying delicious tacos and
   agua fresca! 🌮\n\n🎟️ RSVP required! Sign up through the link in o
  ur bio while spots remain.\n\n🌍 Th\n\nAges: All ages\nSource: https://l
- uma.com/hg7xr8al\nLast synced: 2026-07-29 15:00 PDT
+ uma.com/hg7xr8al\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Bechtel International Center
 URL:https://luma.com/hg7xr8al
 END:VEVENT
@@ -405,7 +159,7 @@ SUMMARY:[Hoover] Fragile Frames: Early 20th Century Nitrate Cinema\, remar
  ks by Victor Davis Hanson
 DTSTART;TZID=America/Los_Angeles:20260730T163000
 DTEND;TZID=America/Los_Angeles:20260730T183000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53498047619757-53498047619758@local-events
 DESCRIPTION:Presented with commentary by Victor Davis Hanson\, the Martin 
  and Illie Anderson Senior Fellow at the Hoover Institution\, this film scr
@@ -415,7 +169,7 @@ DESCRIPTION:Presented with commentary by Victor Davis Hanson\, the Martin
  dustrial growth\; and a 1933 heavyweight boxing match.\n\nFor decades\, th
  e Hoover Institution Library & Archives has preserved these rare nitrate m
  otio\n\nAges: All ages\nSource: https://www.hoover.org/events/fragile-fram
- es-early-20th-century-nitrate-cinema\nLast synced: 2026-07-29 15:00 PDT
+ es-early-20th-century-nitrate-cinema\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Hoover Institution\, David & Joan Traitel Building
 URL:https://www.hoover.org/events/fragile-frames-early-20th-century-nitrat
  e-cinema
@@ -425,7 +179,7 @@ SUMMARY:[Department of Music / Stanford Jazz Workshop] SJW Presents: Taylo
  r Eigsti Group feat. Gretchen Parlato and Zack Grooves
 DTSTART;TZID=America/Los_Angeles:20260730T200000
 DTEND;TZID=America/Los_Angeles:20260730T213000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52621778027132-52621793886540@local-events
 DESCRIPTION:Since the turn of the century no artist has been more deeply i
  dentified with Stanford Jazz than pianist Taylor Eigsti\, a prodigy who we
@@ -434,8 +188,8 @@ DESCRIPTION:Since the turn of the century no artist has been more deeply i
  2026 Stanford Jazz Festival.  \n\nAdmission Information\n\nSJW Members: $4
  4–$54 | Children (17 and under) & Students: $12Non-Members: $52–$62 | 
  Children (17 and under) & Students: $20\n\nAges: All ages\nSource: https:/
- /stanfordjazz.org/event/taylor-eigsti-quartet/\nLast synced: 2026-07-29 15
- :00 PDT
+ /stanfordjazz.org/event/taylor-eigsti-quartet/\nLast synced: 2026-07-30 08
+ :11 PDT
 LOCATION:Dinkelspiel Auditorium
 URL:https://stanfordjazz.org/event/taylor-eigsti-quartet/
 END:VEVENT
@@ -444,7 +198,7 @@ SUMMARY:[Department of Psychiatry] A CLINICAL RESEARCH STUDY PROGRAM FOR M
  AJOR DEPRESSIVE DISORDER (MDD)
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260731
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-51827589730708-53542152338964@local-events
 DESCRIPTION:A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDE
  R (MDD)\nIf your current antidepressant medication(s) is/are not adequatel
@@ -454,7 +208,7 @@ DESCRIPTION:A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDE
  idepressant medication(s).\n\nTo find out more\, please contact the Depres
  sion Research Clinic:\n   Maureen Chang\n   650-725-4620\n   mhchang@stanf
  or\n\nAges: All ages\nSource: https://med.stanford.edu/drc/research.html\n
- Last synced: 2026-07-29 15:00 PDT
+ Last synced: 2026-07-30 08:11 PDT
 URL:https://med.stanford.edu/drc/research.html
 END:VEVENT
 BEGIN:VEVENT
@@ -462,7 +216,7 @@ SUMMARY:[Cantor Arts] Animal\, Vegetable\, nor Mineral: Works by Miljohn R
  uperto
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260731
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52888406473919-52888573114742@local-events
 DESCRIPTION:Animal\, Vegetable\, nor Mineral is the first large-scale solo
   museum exhibition of Manila-born\, Los Angeles-based artist Miljohn Ruper
@@ -472,8 +226,8 @@ DESCRIPTION:Animal\, Vegetable\, nor Mineral is the first large-scale solo
  astical botanical specimens printed as gelatin silver photographs to immer
  sive apocalyptic landscapes experienced in VR\, Ruperto’s artworks highl
  ight\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/an
- imal-vegetable-nor-mineral-works-miljohn-ruperto\nLast synced: 2026-07-29 
- 15:00 PDT
+ imal-vegetable-nor-mineral-works-miljohn-ruperto\nLast synced: 2026-07-30 
+ 08:11 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/animal-vegetable-nor-mineral-w
  orks-miljohn-ruperto
@@ -483,7 +237,7 @@ SUMMARY:[Branner Earth Sciences Library / Stanford University Libraries] B
  ranner Library Monthly Book & Map Exhibit - Mapping the Oceans
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260731
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53305547834880-53305563442572@local-events
 DESCRIPTION:Branner Earth Sciences Library & Map Collection exhibit series
  : Oceans\n\nIn the 2025–2026 academic year\, Branner Library’s exhibit
@@ -492,20 +246,20 @@ DESCRIPTION:Branner Earth Sciences Library & Map Collection exhibit series
  bition explores the history\, science\, and technologies used to chart Ear
  th’s largest environment. The collection highlights how cartographers\, 
  navigators\, geologists\, and oceanographers have transformed our understa
- nding of the ocean\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ nding of the ocean\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Mitchell Earth Sciences
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Stanford Recreation and Wellness] Flash Sale Fridays
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260731
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52808096616571-52808109357822@local-events
 DESCRIPTION:20% OFF GEAR HUB ITEMS EVERY FRIDAY!\n\nStarting on Friday\, M
  ay 1st\, The Gear Hub will be\nselling gear hub items for 20% off at the A
  rrillaga Center for Sports and Recreation.\n\nSUID card and form of paymen
  t (credit card\, debit\, or ApplePay) is required at time of purchase.\n\n
- Ages: All ages\nLast synced: 2026-07-29 15:00 PDT
+ Ages: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Arrillaga Center for Sports and Recreation
 END:VEVENT
 BEGIN:VEVENT
@@ -513,7 +267,7 @@ SUMMARY:[Cantor Arts] JANE! An intimate exploration of Gilded Age excess
   and the enigmatic life and death of Jane Stanford
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260731
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52880326677126-52880513695486@local-events
 DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
  ley\, JANE! celebrates the aesthetic and affective excesses of Jane Stanfo
@@ -523,7 +277,7 @@ DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
  derside of a familiar biography and perhaps an even more familiar murder m
  ystery.\n\nFrom her elegant French gowns to a colossal painting of her jew
  els\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/jan
- e\nLast synced: 2026-07-29 15:00 PDT
+ e\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/jane
 END:VEVENT
@@ -532,16 +286,16 @@ SUMMARY:[Office of Medical Student Affairs] MD – Clinical Performance Ex
  amination (CPX) (Graduation requirement for clinical students).
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260731
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-49463915675310-49463915719361@local-events
-DESCRIPTION:Ages: All ages\nLast synced: 2026-07-29 15:00 PDT
+DESCRIPTION:Ages: All ages\nLast synced: 2026-07-30 08:11 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[East Asia Library / Stanford University Libraries] Moments in the
   History of East Asian Printing
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260731
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53020733796497-53020733914321@local-events
 DESCRIPTION:Moments in the History of East Asian Printing brings together 
  rare books\, facsimiles\, woodblocks\, broadsheets\, illustrated books\, t
@@ -550,7 +304,7 @@ DESCRIPTION:Moments in the History of East Asian Printing brings together
  g across China\, Korea\, and Japan\, from Buddhist woodblock printing and 
  movable type to lithography\, popular publishing\, travel prints\, visual 
  encyclopedias\, and the Chinese typewriter. Rather than offering a complet
- e chronol\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ e chronol\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Lathrop Library
 END:VEVENT
 BEGIN:VEVENT
@@ -558,10 +312,10 @@ SUMMARY:[Cardiovascular Institute] Stanford Cardiovascular Research Sympos
  ium 2026
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260731
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53426813502899-53426813503925@local-events
 DESCRIPTION:Ages: All ages\nSource: https://med.stanford.edu/cvi/events/20
- 26-stanford-cardiovascular-symposium.html\nLast synced: 2026-07-29 15:00 P
+ 26-stanford-cardiovascular-symposium.html\nLast synced: 2026-07-30 08:11 P
  DT
 LOCATION:Li Ka Shing Center
 URL:https://med.stanford.edu/cvi/events/2026-stanford-cardiovascular-sympo
@@ -572,7 +326,7 @@ SUMMARY:[Stanford University Libraries] Text Machines: Scarlet Thread of t
  he Digital Order (1883-2026)
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260731
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53251159287291-53251159349816@local-events
 DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
   Les laboureurs: poème tiré de Jocelyn\, whose pages (text and ornamen
@@ -581,7 +335,7 @@ DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
  terial conditions of Les laboureurs’ production\, and considers parall
  els between technology-driven global change in the late nineteenth century
   and in our current day. The exhibition includes microscope images reveali
- ng the\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ ng the\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
@@ -589,7 +343,7 @@ SUMMARY:[Art & Architecture Library / Stanford University Libraries] Summe
  r Escape at Bowes Library
 DTSTART;TZID=America/Los_Angeles:20260731T090000
 DTEND;TZID=America/Los_Angeles:20260731T170000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52951257804174-52951257832875@local-events
 DESCRIPTION:Take a little detour with Summer Escape at Bowes — our annua
  l snapshot of what’s new at the Art & Architecture Library\, presented w
@@ -598,7 +352,7 @@ DESCRIPTION:Take a little detour with Summer Escape at Bowes — our annua
  rrents and horizons so each visit feels like a short visual voyage. You’
  ll find newly acquired artist’s books\, photobooks\, pop-up books\, and 
  railroad cars (?) that speak to creative practice\, sustainability\, and s
- torytellin\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ torytellin\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:McMurtry Building
 END:VEVENT
 BEGIN:VEVENT
@@ -606,7 +360,7 @@ SUMMARY:[David Rumsey Map Center / Stanford University Libraries] You Are
  Here: Transit Cartography & Spatial Identity
 DTSTART;TZID=America/Los_Angeles:20260731T093000
 DTEND;TZID=America/Los_Angeles:20260731T170000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52127684778082-52127817910554@local-events
 DESCRIPTION:Transit maps hold a unique place in both the urban environment
   and the cultural zeitgeist\, often transcending their utilitarian purpose
@@ -615,7 +369,7 @@ DESCRIPTION:Transit maps hold a unique place in both the urban environment
  972 map of the New York subway have been lauded as cultural touchstones th
  at both were inspired by the past and have influenced the future. \n\nYou 
  Are Here is an exhibition that explores the unique relationship between\n\
- nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:David Rumsey Map Center (Green Library)
 END:VEVENT
 BEGIN:VEVENT
@@ -623,7 +377,7 @@ SUMMARY:[Department of Special Collections / Stanford University Libraries
  ] Ginsberg at 100: Selections from the Allen Ginsberg Papers at Stanford
 DTSTART;TZID=America/Los_Angeles:20260731T100000
 DTEND;TZID=America/Los_Angeles:20260731T170000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52883532576991-52883532613908@local-events
 DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  ions from the Allen Ginsberg Papers at Stanford\, on view in the Peterson 
@@ -632,7 +386,7 @@ DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  h on June 3\, 1926\, Stanford University Libraries will host its first-eve
  r exhibition of Ginsberg\, exploring his complex legacy as a poet\, activi
  st\, promoter\, traveler\, spiritual seeker\, and teacher. The exhibition 
- will dra\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ will dra\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
@@ -640,7 +394,7 @@ SUMMARY:[Hamid and Christina Moghadam Program in Iranian Studies] Shahrnus
  h Parsipur: In Memoriam
 DTSTART;TZID=America/Los_Angeles:20260731T100000
 DTEND;TZID=America/Los_Angeles:20260731T113000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53426319146106-53427285284257@local-events
 DESCRIPTION:Event will be in English and Persian (without simultaneous tra
  nslation).\n\nPlease join us for a memorial event celebrating the life of 
@@ -649,7 +403,7 @@ DESCRIPTION:Event will be in English and Persian (without simultaneous tra
  vestreamed on Zoom. Limited seating is available in person\, and once the 
  registration is full all additional attendees will be directed to join the
   Zoom webinar.\n\nIn person and virtual speakers include Shirin Neshat\, A
- \n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ \n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:In person at Stanford
 END:VEVENT
 BEGIN:VEVENT
@@ -658,7 +412,7 @@ SUMMARY:[Anderson Collection at Stanford University / Office of the Vice P
  h
 DTSTART;TZID=America/Los_Angeles:20260731T110000
 DTEND;TZID=America/Los_Angeles:20260731T170000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52331703768568-52331703847501@local-events
 DESCRIPTION:1\,000 Ways to Hold is the culmination of a year-long particip
  atory project by Stanford Arts’ 2025–26 Visiting Artist Erika Chong Sh
@@ -668,7 +422,7 @@ DESCRIPTION:1\,000 Ways to Hold is the culmination of a year-long particip
  , shape ceramic bowls in pairs\, and reflect on the question\, What have y
  ou held\, and what has held you? Created across campus in classrooms\, com
  munity sp\n\nAges: All ages\nSource: https://anderson.stanford.edu/exhibit
- ions/erika-chong-shuch-1000-ways-to-hold/\nLast synced: 2026-07-29 15:00 P
+ ions/erika-chong-shuch-1000-ways-to-hold/\nLast synced: 2026-07-30 08:11 P
  DT
 LOCATION:Anderson Collection
 URL:https://anderson.stanford.edu/exhibitions/erika-chong-shuch-1000-ways-
@@ -678,7 +432,7 @@ BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Public Tour |  Auguste Rodin
 DTSTART;TZID=America/Los_Angeles:20260731T113000
 DTEND;TZID=America/Los_Angeles:20260731T123000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-48217677268364-48217699915490@local-events
 DESCRIPTION:This exhibition celebrates Auguste Rodin’s relentless pursui
  t to convey complex emotions\, diverse psychological states\, and pure sen
@@ -688,7 +442,7 @@ DESCRIPTION:This exhibition celebrates Auguste Rodin’s relentless pursui
  1840–1917)\, The Age of Bronze (L’Âge d’airain)\, 1875-1876. Bronze
  \, cast c. 1920. Gift of the B. Gerald Cantor Collection\, 1983.300\n\nPub
  lic Tours: Fr\n\nAges: All ages\nSource: https://museum.stanford.edu/exhib
- itions/rodin-shock-modern-body\nLast synced: 2026-07-29 15:00 PDT
+ itions/rodin-shock-modern-body\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/rodin-shock-modern-body
 END:VEVENT
@@ -697,7 +451,7 @@ SUMMARY:[Stanford BeWell / Stanford Healthy Living] The Science of Your In
  ternal Clock
 DTSTART;TZID=America/Los_Angeles:20260731T120000
 DTEND;TZID=America/Los_Angeles:20260731T130000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52901301477030-52901301478057@local-events
 DESCRIPTION:Each of us has a natural biological rhythm\, known as a chrono
  type\, that influences when we feel alert\, when we feel sleepy\, and when
@@ -708,7 +462,7 @@ DESCRIPTION:Each of us has a natural biological rhythm\, known as a chrono
  Bear\, Wolf\, and Dolphin\, and what they reveal about our daily energy pa
  tterns. Y\n\nAges: All ages\nSource: https://healthyliving.stanford.edu/cl
  asses/register/class_detail.php?t=1cce34dfd3cbss383d348a508b1be48cc821&ci=
- 1252749\nLast synced: 2026-07-29 15:00 PDT
+ 1252749\nLast synced: 2026-07-30 08:11 PDT
 URL:https://healthyliving.stanford.edu/classes/register/class_detail.php?t
  =1cce34dfd3cbss383d348a508b1be48cc821&ci=1252749
 END:VEVENT
@@ -717,7 +471,7 @@ SUMMARY:[Flow Physics and Computational Engineering] PhD Defense Andy Wu
  “Deep Learning for Subgrid Stress Modeling in Large Eddy Simulations”
 DTSTART;TZID=America/Los_Angeles:20260731T130000
 DTEND;TZID=America/Los_Angeles:20260731T140000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53453098671576-53453098672601@local-events
 DESCRIPTION:Computational power over the last decade has increased rapidly
  \, partially due to the popularization of the graphics processing unit (GP
@@ -726,14 +480,14 @@ DESCRIPTION:Computational power over the last decade has increased rapidly
  ling plays a crucial role in the accuracy of LES. Therefore\, improvements
   in SGS modeling are of interest to more accurately simulate engineering f
  luid flows. Due to the availability of data and the maturation of machi\n\
- nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Building 200\, History Corner
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Public Tour | Cantor Highlights: 1 PM
 DTSTART;TZID=America/Los_Angeles:20260731T130000
 DTEND;TZID=America/Los_Angeles:20260731T140000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-48376809728814-51375682935251@local-events
 DESCRIPTION:Public Tours: Cantor Highlights\n\nExplore the highlights of t
  he Cantor's permanent collection on a public tour that leads you through a
@@ -743,7 +497,7 @@ DESCRIPTION:Public Tours: Cantor Highlights\n\nExplore the highlights of t
  cellation.\n\nScheduled Public Tours are first come\, first served. They d
  o not require separate advance registration.Scheduled Public Tours are bet
  wee\n\nAges: All ages\nSource: https://museum.stanford.edu/visit/tours-and
- -group-visits\nLast synced: 2026-07-29 15:00 PDT
+ -group-visits\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/visit/tours-and-group-visits
 END:VEVENT
@@ -752,7 +506,7 @@ SUMMARY:[David Rumsey Map Center / Stanford University Libraries] David Ru
  msey Map Center Guided Tour
 DTSTART;TZID=America/Los_Angeles:20260731T150000
 DTEND;TZID=America/Los_Angeles:20260731T160000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-45864827002631-53446562406168@local-events
 DESCRIPTION:Explore the World of Maps at the David Rumsey Map Center\n\nJo
  in us for a guided tour of the David Rumsey Map Center at Stanford Librari
@@ -761,7 +515,7 @@ DESCRIPTION:Explore the World of Maps at the David Rumsey Map Center\n\nJo
  e history\, collections\, and special exhibitions of the David Rumsey Map 
  Center\, enriched with insights and stories from our passionate team.Inter
  active Experience: After the guided portion\, we invite you to explore the
-  di\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+  di\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:David Rumsey Map Center (Green Library)
 END:VEVENT
 BEGIN:VEVENT
@@ -769,7 +523,7 @@ SUMMARY:[Stanford Health Library] On Demand: Plant-Rich Snacks for Lasting
   Energy
 DTSTART;TZID=America/Los_Angeles:20260731T170000
 DTEND;TZID=America/Los_Angeles:20260731T180000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53384636572476-53384636584774@local-events
 DESCRIPTION:On Demand: Plant-rich snacks can help you feel energized and s
  atisfied throughout the day. In this video\, learn how to prepare two easy
@@ -779,14 +533,14 @@ DESCRIPTION:On Demand: Plant-rich snacks can help you feel energized and s
  ord Health Care Clinical Nutrition and the Stanford Nutrition Research Gro
  up\, this video delivers practical\, evidence-based guidance straight to y
  o\n\nAges: All ages\nSource: https://healthlibrary.stanford.edu/video/plan
- t-powered.html#snacks\nLast synced: 2026-07-29 15:00 PDT
+ t-powered.html#snacks\nLast synced: 2026-07-30 08:11 PDT
 URL:https://healthlibrary.stanford.edu/video/plant-powered.html#snacks
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Tower Carillon Bells] Lou Henry Hoover Carillon Performance
 DTSTART;TZID=America/Los_Angeles:20260731T183000
 DTEND;TZID=America/Los_Angeles:20260731T193000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-44437607039811-53550084393723@local-events
 DESCRIPTION:Enjoy the melodic chiming of the 48 bronze bells serenading ca
  mpus today.  The bells can be heard outdoors anywhere in the vicinity of H
@@ -797,7 +551,7 @@ DESCRIPTION:Enjoy the melodic chiming of the 48 bronze bells serenading ca
  tion Foundation\, which symbolizes an overall purpose to promote peace and
   pe\n\nAges: All ages\nSource: https://www.hoover.org/news/hoover-tower-ob
  servatory-and-carillon-named-memory-lou-henry-hoover\nLast synced: 2026-07
- -29 15:00 PDT
+ -30 08:11 PDT
 LOCATION:Hoover Tower
 URL:https://www.hoover.org/news/hoover-tower-observatory-and-carillon-name
  d-memory-lou-henry-hoover
@@ -807,7 +561,7 @@ SUMMARY:[Department of Music / Stanford Live] Stanford Summer Symphony & C
  horus
 DTSTART;TZID=America/Los_Angeles:20260731T193000
 DTEND;TZID=America/Los_Angeles:20260731T210000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53134819877371-53134859157586@local-events
 DESCRIPTION:The Stanford Summer Symphony\, under the direction of Paul Phi
  llips\, teams up with the Stanford Summer Chorus\, under the direction of 
@@ -816,7 +570,7 @@ DESCRIPTION:The Stanford Summer Symphony\, under the direction of Paul Phi
  n\nEthel Smyth – Overture to The WreckersStanford Summer SymphonyPaul Ph
  illips\, conductorShawn Kirchner – Heavenly HomeStanford Summer ChorusRa
  fael Ornes\, conductorFelix Mendelssohn – Lobgesang (Hymn of Praise)Stan
- ford Summer\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ ford Summer\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Bing Concert Hall
 END:VEVENT
 BEGIN:VEVENT
@@ -824,7 +578,7 @@ SUMMARY:[Department of Music / Stanford Jazz Workshop] SJW Presents: SJW A
  ll-Star Jam
 DTSTART;TZID=America/Los_Angeles:20260731T200000
 DTEND;TZID=America/Los_Angeles:20260731T213000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52621797803237-52621810180044@local-events
 DESCRIPTION:The SJW All-Star Jam brings together an electrifying lineup of
   festival artists for one night of spontaneous\, world-class jazz collabor
@@ -833,7 +587,7 @@ DESCRIPTION:The SJW All-Star Jam brings together an electrifying lineup of
  ation\n\nSJW Members: $44–$54 | Children (17 and under) & Students: $12N
  on-Members: $52–$62 | Children (17 and under) & Students: $20\n\nAges: A
  ll ages\nSource: https://stanfordjazz.org/event/sjw-all-star/\nLast synced
- : 2026-07-29 15:00 PDT
+ : 2026-07-30 08:11 PDT
 LOCATION:Dinkelspiel Auditorium
 URL:https://stanfordjazz.org/event/sjw-all-star/
 END:VEVENT
@@ -842,7 +596,7 @@ SUMMARY:[Department of Psychiatry] A CLINICAL RESEARCH STUDY PROGRAM FOR M
  AJOR DEPRESSIVE DISORDER (MDD)
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260801
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-51827589730708-53542152339989@local-events
 DESCRIPTION:A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDE
  R (MDD)\nIf your current antidepressant medication(s) is/are not adequatel
@@ -852,7 +606,7 @@ DESCRIPTION:A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDE
  idepressant medication(s).\n\nTo find out more\, please contact the Depres
  sion Research Clinic:\n   Maureen Chang\n   650-725-4620\n   mhchang@stanf
  or\n\nAges: All ages\nSource: https://med.stanford.edu/drc/research.html\n
- Last synced: 2026-07-29 15:00 PDT
+ Last synced: 2026-07-30 08:11 PDT
 URL:https://med.stanford.edu/drc/research.html
 END:VEVENT
 BEGIN:VEVENT
@@ -860,7 +614,7 @@ SUMMARY:[Stanford Center for Continuing Medical Education] Advanced Practi
  ce Provider Leadership Certificate Program
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260801
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52207655923057-52207655923058@local-events
 DESCRIPTION:Overview\n\nThe Stanford Advanced Practice Provider Leadership
   Certificate Program is your opportunity to unlock your leadership potenti
@@ -871,7 +625,7 @@ DESCRIPTION:Overview\n\nThe Stanford Advanced Practice Provider Leadership
  pert faculty and healthcare leaders\, the program offers a flexible and im
  \n\nAges: All ages\nSource: https://med.stanford.edu/content/sm/cme/featur
  ed-programs/APPleadership.html/?utm_source=StanfordInternal&utm_medium=Eve
- nts\nLast synced: 2026-07-29 15:00 PDT
+ nts\nLast synced: 2026-07-30 08:11 PDT
 URL:https://med.stanford.edu/content/sm/cme/featured-programs/APPleadershi
  p.html/?utm_source=StanfordInternal&utm_medium=Events
 END:VEVENT
@@ -880,7 +634,7 @@ SUMMARY:[Cantor Arts] Animal\, Vegetable\, nor Mineral: Works by Miljohn R
  uperto
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260801
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52888406473919-52888573115767@local-events
 DESCRIPTION:Animal\, Vegetable\, nor Mineral is the first large-scale solo
   museum exhibition of Manila-born\, Los Angeles-based artist Miljohn Ruper
@@ -890,8 +644,8 @@ DESCRIPTION:Animal\, Vegetable\, nor Mineral is the first large-scale solo
  astical botanical specimens printed as gelatin silver photographs to immer
  sive apocalyptic landscapes experienced in VR\, Ruperto’s artworks highl
  ight\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/an
- imal-vegetable-nor-mineral-works-miljohn-ruperto\nLast synced: 2026-07-29 
- 15:00 PDT
+ imal-vegetable-nor-mineral-works-miljohn-ruperto\nLast synced: 2026-07-30 
+ 08:11 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/animal-vegetable-nor-mineral-w
  orks-miljohn-ruperto
@@ -901,7 +655,7 @@ SUMMARY:[Cantor Arts] JANE! An intimate exploration of Gilded Age excess
   and the enigmatic life and death of Jane Stanford
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260801
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52880326677126-52880513696511@local-events
 DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
  ley\, JANE! celebrates the aesthetic and affective excesses of Jane Stanfo
@@ -911,7 +665,7 @@ DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
  derside of a familiar biography and perhaps an even more familiar murder m
  ystery.\n\nFrom her elegant French gowns to a colossal painting of her jew
  els\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/jan
- e\nLast synced: 2026-07-29 15:00 PDT
+ e\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/jane
 END:VEVENT
@@ -920,7 +674,7 @@ SUMMARY:[East Asia Library / Stanford University Libraries] Moments in the
   History of East Asian Printing
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260801
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53020733796497-53020733915346@local-events
 DESCRIPTION:Moments in the History of East Asian Printing brings together 
  rare books\, facsimiles\, woodblocks\, broadsheets\, illustrated books\, t
@@ -929,7 +683,7 @@ DESCRIPTION:Moments in the History of East Asian Printing brings together
  g across China\, Korea\, and Japan\, from Buddhist woodblock printing and 
  movable type to lithography\, popular publishing\, travel prints\, visual 
  encyclopedias\, and the Chinese typewriter. Rather than offering a complet
- e chronol\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ e chronol\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Lathrop Library
 END:VEVENT
 BEGIN:VEVENT
@@ -937,7 +691,7 @@ SUMMARY:[Stanford University Libraries] Text Machines: Scarlet Thread of t
  he Digital Order (1883-2026)
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260801
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53251159287291-53251159350841@local-events
 DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
   Les laboureurs: poème tiré de Jocelyn\, whose pages (text and ornamen
@@ -946,7 +700,7 @@ DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
  terial conditions of Les laboureurs’ production\, and considers parall
  els between technology-driven global change in the late nineteenth century
   and in our current day. The exhibition includes microscope images reveali
- ng the\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ ng the\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
@@ -955,7 +709,7 @@ SUMMARY:[Stanford Center for Continuing Medical Education] RibFest 2026 -
  ures
 DTSTART;TZID=America/Los_Angeles:20260801T071500
 DTEND;TZID=America/Los_Angeles:20260801T161500
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52508200166798-52508200167823@local-events
 DESCRIPTION:OverviewRibFest 2026 will provide comprehensive education on t
  he indications and techniques for surgical stabilization of rib and sterna
@@ -965,7 +719,7 @@ DESCRIPTION:OverviewRibFest 2026 will provide comprehensive education on t
  n and intrathoracic plating techniques as well as intercostal nerve cryoab
  lation and local anesthetic approaches. Lecture topics will cover: (a) i\n
  \nAges: All ages\nSource: https://stanford.cloud-cme.com/course/courseover
- view?P=5&EID=57234\nLast synced: 2026-07-29 15:00 PDT
+ view?P=5&EID=57234\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:The Center for Clinical Sciences Research
 URL:https://stanford.cloud-cme.com/course/courseoverview?P=5&EID=57234
 END:VEVENT
@@ -974,7 +728,7 @@ SUMMARY:[Department of Special Collections / Stanford University Libraries
  ] Ginsberg at 100: Selections from the Allen Ginsberg Papers at Stanford
 DTSTART;TZID=America/Los_Angeles:20260801T100000
 DTEND;TZID=America/Los_Angeles:20260801T170000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52883532576991-52883532613909@local-events
 DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  ions from the Allen Ginsberg Papers at Stanford\, on view in the Peterson 
@@ -983,7 +737,7 @@ DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  h on June 3\, 1926\, Stanford University Libraries will host its first-eve
  r exhibition of Ginsberg\, exploring his complex legacy as a poet\, activi
  st\, promoter\, traveler\, spiritual seeker\, and teacher. The exhibition 
- will dra\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ will dra\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
@@ -992,7 +746,7 @@ SUMMARY:[Anderson Collection at Stanford University / Office of the Vice P
  h
 DTSTART;TZID=America/Los_Angeles:20260801T110000
 DTEND;TZID=America/Los_Angeles:20260801T170000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52331703768568-52331703848526@local-events
 DESCRIPTION:1\,000 Ways to Hold is the culmination of a year-long particip
  atory project by Stanford Arts’ 2025–26 Visiting Artist Erika Chong Sh
@@ -1002,7 +756,7 @@ DESCRIPTION:1\,000 Ways to Hold is the culmination of a year-long particip
  , shape ceramic bowls in pairs\, and reflect on the question\, What have y
  ou held\, and what has held you? Created across campus in classrooms\, com
  munity sp\n\nAges: All ages\nSource: https://anderson.stanford.edu/exhibit
- ions/erika-chong-shuch-1000-ways-to-hold/\nLast synced: 2026-07-29 15:00 P
+ ions/erika-chong-shuch-1000-ways-to-hold/\nLast synced: 2026-07-30 08:11 P
  DT
 LOCATION:Anderson Collection
 URL:https://anderson.stanford.edu/exhibitions/erika-chong-shuch-1000-ways-
@@ -1012,7 +766,7 @@ BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Public Tour |  Auguste Rodin
 DTSTART;TZID=America/Los_Angeles:20260801T113000
 DTEND;TZID=America/Los_Angeles:20260801T123000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-48217677268364-48217699916515@local-events
 DESCRIPTION:This exhibition celebrates Auguste Rodin’s relentless pursui
  t to convey complex emotions\, diverse psychological states\, and pure sen
@@ -1022,7 +776,7 @@ DESCRIPTION:This exhibition celebrates Auguste Rodin’s relentless pursui
  1840–1917)\, The Age of Bronze (L’Âge d’airain)\, 1875-1876. Bronze
  \, cast c. 1920. Gift of the B. Gerald Cantor Collection\, 1983.300\n\nPub
  lic Tours: Fr\n\nAges: All ages\nSource: https://museum.stanford.edu/exhib
- itions/rodin-shock-modern-body\nLast synced: 2026-07-29 15:00 PDT
+ itions/rodin-shock-modern-body\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/rodin-shock-modern-body
 END:VEVENT
@@ -1031,18 +785,18 @@ SUMMARY:[Anderson Collection at Stanford University] Highlights Tour | And
  erson Collection
 DTSTART;TZID=America/Los_Angeles:20260801T123000
 DTEND;TZID=America/Los_Angeles:20260801T133000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-46378544005855-50534692085064@local-events
 DESCRIPTION:Come by the Anderson Collection for a free guided tour of our 
  collection! No pre-registration required\, meet guide at the top of the st
- airs.\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ airs.\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Anderson Collection
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Public Tour | Cantor Highlights: 1 PM
 DTSTART;TZID=America/Los_Angeles:20260801T130000
 DTEND;TZID=America/Los_Angeles:20260801T140000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-48376809728814-51375682936276@local-events
 DESCRIPTION:Public Tours: Cantor Highlights\n\nExplore the highlights of t
  he Cantor's permanent collection on a public tour that leads you through a
@@ -1052,7 +806,7 @@ DESCRIPTION:Public Tours: Cantor Highlights\n\nExplore the highlights of t
  cellation.\n\nScheduled Public Tours are first come\, first served. They d
  o not require separate advance registration.Scheduled Public Tours are bet
  wee\n\nAges: All ages\nSource: https://museum.stanford.edu/visit/tours-and
- -group-visits\nLast synced: 2026-07-29 15:00 PDT
+ -group-visits\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/visit/tours-and-group-visits
 END:VEVENT
@@ -1061,18 +815,18 @@ SUMMARY:[Anderson Collection at Stanford University] Highlights Tour | And
  erson Collection
 DTSTART;TZID=America/Los_Angeles:20260801T143000
 DTEND;TZID=America/Los_Angeles:20260801T153000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-47049266947082-50534708399931@local-events
 DESCRIPTION:Come by the Anderson Collection for a free guided tour of our 
  collection! No pre-registration required\, meet guide at the top of the st
- airs.\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ airs.\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Anderson Collection
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Public Tour | Cantor Highlights: 3 PM
 DTSTART;TZID=America/Los_Angeles:20260801T150000
 DTEND;TZID=America/Los_Angeles:20260801T160000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53507974492381-53507997841552@local-events
 DESCRIPTION:Public Tours: Cantor Highlights\n\nExplore the highlights of t
  he Cantor's permanent collection on a public tour that leads you through a
@@ -1082,7 +836,7 @@ DESCRIPTION:Public Tours: Cantor Highlights\n\nExplore the highlights of t
  cellation.\n\nScheduled Public Tours are first come\, first served. They d
  o not require separate advance registration.Scheduled Public Tours are bet
  wee\n\nAges: All ages\nSource: https://museum.stanford.edu/visit/tours-and
- -group-visits\nLast synced: 2026-07-29 15:00 PDT
+ -group-visits\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/visit/tours-and-group-visits
 END:VEVENT
@@ -1091,7 +845,7 @@ SUMMARY:[Department of Music / Stanford Live] Stanford Summer Symphony & C
  horus
 DTSTART;TZID=America/Los_Angeles:20260801T193000
 DTEND;TZID=America/Los_Angeles:20260801T210000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53134930194499-53134961637244@local-events
 DESCRIPTION:The Stanford Summer Symphony\, under the direction of Paul Phi
  llips\, teams up with the Stanford Summer Chorus\, under the direction of 
@@ -1100,7 +854,7 @@ DESCRIPTION:The Stanford Summer Symphony\, under the direction of Paul Phi
  n\nEthel Smyth – Overture to The WreckersStanford Summer SymphonyPaul Ph
  illips\, conductorShawn Kirchner – Heavenly HomeStanford Summer ChorusRa
  fael Ornes\, conductorFelix Mendelssohn – Lobgesang (Hymn of Praise)Stan
- ford Summer\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ ford Summer\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Bing Concert Hall
 END:VEVENT
 BEGIN:VEVENT
@@ -1108,7 +862,7 @@ SUMMARY:[Department of Psychiatry] A CLINICAL RESEARCH STUDY PROGRAM FOR M
  AJOR DEPRESSIVE DISORDER (MDD)
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-51827589730708-53542152341014@local-events
 DESCRIPTION:A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDE
  R (MDD)\nIf your current antidepressant medication(s) is/are not adequatel
@@ -1118,7 +872,7 @@ DESCRIPTION:A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDE
  idepressant medication(s).\n\nTo find out more\, please contact the Depres
  sion Research Clinic:\n   Maureen Chang\n   650-725-4620\n   mhchang@stanf
  or\n\nAges: All ages\nSource: https://med.stanford.edu/drc/research.html\n
- Last synced: 2026-07-29 15:00 PDT
+ Last synced: 2026-07-30 08:11 PDT
 URL:https://med.stanford.edu/drc/research.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1126,7 +880,7 @@ SUMMARY:[Cantor Arts] Animal\, Vegetable\, nor Mineral: Works by Miljohn R
  uperto
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52888406473919-52888573116792@local-events
 DESCRIPTION:Animal\, Vegetable\, nor Mineral is the first large-scale solo
   museum exhibition of Manila-born\, Los Angeles-based artist Miljohn Ruper
@@ -1136,8 +890,8 @@ DESCRIPTION:Animal\, Vegetable\, nor Mineral is the first large-scale solo
  astical botanical specimens printed as gelatin silver photographs to immer
  sive apocalyptic landscapes experienced in VR\, Ruperto’s artworks highl
  ight\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/an
- imal-vegetable-nor-mineral-works-miljohn-ruperto\nLast synced: 2026-07-29 
- 15:00 PDT
+ imal-vegetable-nor-mineral-works-miljohn-ruperto\nLast synced: 2026-07-30 
+ 08:11 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/animal-vegetable-nor-mineral-w
  orks-miljohn-ruperto
@@ -1147,7 +901,7 @@ SUMMARY:[Cantor Arts] JANE! An intimate exploration of Gilded Age excess
   and the enigmatic life and death of Jane Stanford
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52880326677126-52880513697536@local-events
 DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
  ley\, JANE! celebrates the aesthetic and affective excesses of Jane Stanfo
@@ -1157,7 +911,7 @@ DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
  derside of a familiar biography and perhaps an even more familiar murder m
  ystery.\n\nFrom her elegant French gowns to a colossal painting of her jew
  els\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/jan
- e\nLast synced: 2026-07-29 15:00 PDT
+ e\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/jane
 END:VEVENT
@@ -1166,7 +920,7 @@ SUMMARY:[East Asia Library / Stanford University Libraries] Moments in the
   History of East Asian Printing
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53020733796497-53020733916371@local-events
 DESCRIPTION:Moments in the History of East Asian Printing brings together 
  rare books\, facsimiles\, woodblocks\, broadsheets\, illustrated books\, t
@@ -1175,7 +929,7 @@ DESCRIPTION:Moments in the History of East Asian Printing brings together
  g across China\, Korea\, and Japan\, from Buddhist woodblock printing and 
  movable type to lithography\, popular publishing\, travel prints\, visual 
  encyclopedias\, and the Chinese typewriter. Rather than offering a complet
- e chronol\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ e chronol\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Lathrop Library
 END:VEVENT
 BEGIN:VEVENT
@@ -1183,7 +937,7 @@ SUMMARY:[Stanford University Libraries] Text Machines: Scarlet Thread of t
  he Digital Order (1883-2026)
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260802
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53251159287291-53251159350842@local-events
 DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
   Les laboureurs: poème tiré de Jocelyn\, whose pages (text and ornamen
@@ -1192,7 +946,7 @@ DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
  terial conditions of Les laboureurs’ production\, and considers parall
  els between technology-driven global change in the late nineteenth century
   and in our current day. The exhibition includes microscope images reveali
- ng the\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ ng the\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
@@ -1201,7 +955,7 @@ SUMMARY:[Anderson Collection at Stanford University / Office of the Vice P
  h
 DTSTART;TZID=America/Los_Angeles:20260802T110000
 DTEND;TZID=America/Los_Angeles:20260802T170000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52331703768568-52331703849551@local-events
 DESCRIPTION:1\,000 Ways to Hold is the culmination of a year-long particip
  atory project by Stanford Arts’ 2025–26 Visiting Artist Erika Chong Sh
@@ -1211,7 +965,7 @@ DESCRIPTION:1\,000 Ways to Hold is the culmination of a year-long particip
  , shape ceramic bowls in pairs\, and reflect on the question\, What have y
  ou held\, and what has held you? Created across campus in classrooms\, com
  munity sp\n\nAges: All ages\nSource: https://anderson.stanford.edu/exhibit
- ions/erika-chong-shuch-1000-ways-to-hold/\nLast synced: 2026-07-29 15:00 P
+ ions/erika-chong-shuch-1000-ways-to-hold/\nLast synced: 2026-07-30 08:11 P
  DT
 LOCATION:Anderson Collection
 URL:https://anderson.stanford.edu/exhibitions/erika-chong-shuch-1000-ways-
@@ -1222,7 +976,7 @@ SUMMARY:[Department of Special Collections / Stanford University Libraries
  ] Ginsberg at 100: Selections from the Allen Ginsberg Papers at Stanford
 DTSTART;TZID=America/Los_Angeles:20260802T120000
 DTEND;TZID=America/Los_Angeles:20260802T170000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52883532576991-52883532614934@local-events
 DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  ions from the Allen Ginsberg Papers at Stanford\, on view in the Peterson 
@@ -1231,7 +985,7 @@ DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  h on June 3\, 1926\, Stanford University Libraries will host its first-eve
  r exhibition of Ginsberg\, exploring his complex legacy as a poet\, activi
  st\, promoter\, traveler\, spiritual seeker\, and teacher. The exhibition 
- will dra\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ will dra\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
@@ -1239,18 +993,18 @@ SUMMARY:[Anderson Collection at Stanford University] Highlights Tour | And
  erson Collection
 DTSTART;TZID=America/Los_Angeles:20260802T123000
 DTEND;TZID=America/Los_Angeles:20260802T133000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-46378544005855-50534692087113@local-events
 DESCRIPTION:Come by the Anderson Collection for a free guided tour of our 
  collection! No pre-registration required\, meet guide at the top of the st
- airs.\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ airs.\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Anderson Collection
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Cantor Arts] [Cancelled] Public Tour | Cantor Highlights: 1 PM
 DTSTART;TZID=America/Los_Angeles:20260802T130000
 DTEND;TZID=America/Los_Angeles:20260802T140000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53312065636549-53507957197765@local-events
 DESCRIPTION:PLEASE NOTE: This Sunday's Cantor Highlights Tour (1pm) is can
  celled.\n\nPublic Tours: Cantor Highlights\n\nExplore the highlights of th
@@ -1260,7 +1014,7 @@ DESCRIPTION:PLEASE NOTE: This Sunday's Cantor Highlights Tour (1pm) is can
  u check in at the information desk. Tours may be subject to change or canc
  ellation.\n\nScheduled Public Tours are first come\, first served. They do
   not\n\nAges: All ages\nSource: https://museum.stanford.edu/visit/tours-an
- d-group-visits\nLast synced: 2026-07-29 15:00 PDT
+ d-group-visits\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/visit/tours-and-group-visits
 END:VEVENT
@@ -1268,8 +1022,8 @@ BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Public Tour: Outdoor Sculpture Walk\, Campus
 DTSTART;TZID=America/Los_Angeles:20260802T140000
 DTEND;TZID=America/Los_Angeles:20260802T153000
-DTSTAMP:20260729T220005Z
-UID:stanford_campus-localist-51375729019846-51375740373520@local-events
+DTSTAMP:20260730T151115Z
+UID:stanford_campus-localist-53004553444144-53004553453368@local-events
 DESCRIPTION:Explore the Stanford campus and its distinguished collection o
  f outdoor sculpture. This docent tour explores the extensive collection of
   20th century outdoor sculpture in Stanford’s Quad and south campus. Mee
@@ -1278,7 +1032,7 @@ DESCRIPTION:Explore the Stanford campus and its distinguished collection o
   subject to change\, we appreciate your understanding. \n\n1st Sunday of e
  ach month from 2 pm – 3:30 pm\, rain or shine.\n\nAges: All ages\nSource
  : https://museum.stanford.edu/visit/tours-and-group-visits\nLast synced: 2
- 026-07-29 15:00 PDT
+ 026-07-30 08:11 PDT
 LOCATION:Meet at the top of the Oval near the benches.
 URL:https://museum.stanford.edu/visit/tours-and-group-visits
 END:VEVENT
@@ -1287,18 +1041,18 @@ SUMMARY:[Anderson Collection at Stanford University] Highlights Tour | And
  erson Collection
 DTSTART;TZID=America/Los_Angeles:20260802T143000
 DTEND;TZID=America/Los_Angeles:20260802T153000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-47049266947082-50534708400956@local-events
 DESCRIPTION:Come by the Anderson Collection for a free guided tour of our 
  collection! No pre-registration required\, meet guide at the top of the st
- airs.\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ airs.\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Anderson Collection
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Cantor Arts] [Cancelled] Public Tour | Cantor Highlights: 3 PM
 DTSTART;TZID=America/Los_Angeles:20260802T150000
 DTEND;TZID=America/Los_Angeles:20260802T160000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53312069814495-53507960941142@local-events
 DESCRIPTION:PLEASE NOTE: This Sunday's Cantor Highlights tour (3pm) is can
  celled.\n\nPublic Tours: Cantor Highlights\n\nExplore the highlights of th
@@ -1308,7 +1062,7 @@ DESCRIPTION:PLEASE NOTE: This Sunday's Cantor Highlights tour (3pm) is can
  u check in at the information desk. Tours may be subject to change or canc
  ellation.\n\nScheduled Public Tours are first come\, first served. They do
   not\n\nAges: All ages\nSource: https://museum.stanford.edu/visit/tours-an
- d-group-visits\nLast synced: 2026-07-29 15:00 PDT
+ d-group-visits\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/visit/tours-and-group-visits
 END:VEVENT
@@ -1317,7 +1071,7 @@ SUMMARY:[Department of Psychiatry] A CLINICAL RESEARCH STUDY PROGRAM FOR M
  AJOR DEPRESSIVE DISORDER (MDD)
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260803
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-51827589730708-53542152341015@local-events
 DESCRIPTION:A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDE
  R (MDD)\nIf your current antidepressant medication(s) is/are not adequatel
@@ -1327,7 +1081,7 @@ DESCRIPTION:A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDE
  idepressant medication(s).\n\nTo find out more\, please contact the Depres
  sion Research Clinic:\n   Maureen Chang\n   650-725-4620\n   mhchang@stanf
  or\n\nAges: All ages\nSource: https://med.stanford.edu/drc/research.html\n
- Last synced: 2026-07-29 15:00 PDT
+ Last synced: 2026-07-30 08:11 PDT
 URL:https://med.stanford.edu/drc/research.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1335,7 +1089,7 @@ SUMMARY:[Cantor Arts] Animal\, Vegetable\, nor Mineral: Works by Miljohn R
  uperto
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260803
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-52888406473919-52888573117817@local-events
 DESCRIPTION:Animal\, Vegetable\, nor Mineral is the first large-scale solo
   museum exhibition of Manila-born\, Los Angeles-based artist Miljohn Ruper
@@ -1345,8 +1099,8 @@ DESCRIPTION:Animal\, Vegetable\, nor Mineral is the first large-scale solo
  astical botanical specimens printed as gelatin silver photographs to immer
  sive apocalyptic landscapes experienced in VR\, Ruperto’s artworks highl
  ight\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/an
- imal-vegetable-nor-mineral-works-miljohn-ruperto\nLast synced: 2026-07-29 
- 15:00 PDT
+ imal-vegetable-nor-mineral-works-miljohn-ruperto\nLast synced: 2026-07-30 
+ 08:11 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/animal-vegetable-nor-mineral-w
  orks-miljohn-ruperto
@@ -1356,7 +1110,7 @@ SUMMARY:[Branner Earth Sciences Library / Stanford University Libraries] B
  ranner Library Monthly Book & Map Exhibit - Mapping the Oceans
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260803
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-localist-53305547834880-53305563443597@local-events
 DESCRIPTION:Branner Earth Sciences Library & Map Collection exhibit series
  : Oceans\n\nIn the 2025–2026 academic year\, Branner Library’s exhibit
@@ -1365,19 +1119,237 @@ DESCRIPTION:Branner Earth Sciences Library & Map Collection exhibit series
  bition explores the history\, science\, and technologies used to chart Ear
  th’s largest environment. The collection highlights how cartographers\, 
  navigators\, geologists\, and oceanographers have transformed our understa
- nding of the ocean\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ nding of the ocean\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Mitchell Earth Sciences
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Office of Medical Student Affairs] Grade roster opens for Summer 
+ quarter.
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260803
+DTSTAMP:20260730T151115Z
+UID:stanford_campus-localist-49463956292109-49463956293134@local-events
+DESCRIPTION:Ages: All ages\nLast synced: 2026-07-30 08:11 PDT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Cantor Arts] JANE! An intimate exploration of Gilded Age excess 
+  and the enigmatic life and death of Jane Stanford
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260803
+DTSTAMP:20260730T151115Z
+UID:stanford_campus-localist-52880326677126-52880513698561@local-events
+DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
+ ley\, JANE! celebrates the aesthetic and affective excesses of Jane Stanfo
+ rd\, the Gilded Age founder and matriarch of Stanford University. Bringing
+  together precious keepsakes\, souvenirs\, archaeological detritus\, and s
+ pooky messages from beyond the grave\, the exhibition reveals the campy un
+ derside of a familiar biography and perhaps an even more familiar murder m
+ ystery.\n\nFrom her elegant French gowns to a colossal painting of her jew
+ els\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/jan
+ e\nLast synced: 2026-07-30 08:11 PDT
+LOCATION:Cantor Arts Center
+URL:https://museum.stanford.edu/exhibitions/jane
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[East Asia Library / Stanford University Libraries] Moments in the
+  History of East Asian Printing
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260803
+DTSTAMP:20260730T151115Z
+UID:stanford_campus-localist-53020733796497-53020733917396@local-events
+DESCRIPTION:Moments in the History of East Asian Printing brings together 
+ rare books\, facsimiles\, woodblocks\, broadsheets\, illustrated books\, t
+ ypewriter materials\, and other objects from the East Asia Library’s col
+ lections. The exhibit explores selected episodes in the history of printin
+ g across China\, Korea\, and Japan\, from Buddhist woodblock printing and 
+ movable type to lithography\, popular publishing\, travel prints\, visual 
+ encyclopedias\, and the Chinese typewriter. Rather than offering a complet
+ e chronol\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
+LOCATION:Lathrop Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Student & Academic Services / Registrar's Office] Summer Quarter:
+  Grade Rosters Open
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260803
+DTSTAMP:20260730T151115Z
+UID:stanford_campus-localist-50472529618335-50472529623459@local-events
+DESCRIPTION:This day\, the grade roster opens for the current quarter.\n\n
+ Ages: All ages\nLast synced: 2026-07-30 08:11 PDT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford University Libraries] Text Machines: Scarlet Thread of t
+ he Digital Order (1883-2026)
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260803
+DTSTAMP:20260730T151115Z
+UID:stanford_campus-localist-53251159287291-53251159352891@local-events
+DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
+  Les laboureurs: poème tiré de Jocelyn\, whose pages (text and ornamen
+ ts) were entirely woven on a Jacquard loom by the firm of silk merchant Jo
+ seph-Alphonse Henry. This exhibition explores the cultural contexts and ma
+ terial conditions of Les laboureurs’ production\, and considers parall
+ els between technology-driven global change in the late nineteenth century
+  and in our current day. The exhibition includes microscope images reveali
+ ng the\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
+LOCATION:Green Library\, Bing Wing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Art & Architecture Library / Stanford University Libraries] Summe
+ r Escape at Bowes Library
+DTSTART;TZID=America/Los_Angeles:20260803T090000
+DTEND;TZID=America/Los_Angeles:20260803T190000
+DTSTAMP:20260730T151115Z
+UID:stanford_campus-localist-52951257804174-52951257833900@local-events
+DESCRIPTION:Take a little detour with Summer Escape at Bowes — our annua
+ l snapshot of what’s new at the Art & Architecture Library\, presented w
+ ith a seaside breeze. The promotional image’s soft bands of light and fl
+ owing lines inspired how we arranged the show: items grouped to suggest cu
+ rrents and horizons so each visit feels like a short visual voyage. You’
+ ll find newly acquired artist’s books\, photobooks\, pop-up books\, and 
+ railroad cars (?) that speak to creative practice\, sustainability\, and s
+ torytellin\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
+LOCATION:McMurtry Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Department of Special Collections / Stanford University Libraries
+ ] Ginsberg at 100: Selections from the Allen Ginsberg Papers at Stanford
+DTSTART;TZID=America/Los_Angeles:20260803T100000
+DTEND;TZID=America/Los_Angeles:20260803T170000
+DTSTAMP:20260730T151115Z
+UID:stanford_campus-localist-52883532576991-52883532615959@local-events
+DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
+ ions from the Allen Ginsberg Papers at Stanford\, on view in the Peterson 
+ Gallery and Munger Rotunda of the Cecil H. Green Library from June 5 to Se
+ ptember 5\, 2026. \n\nIn honor of the centenary of Allen Ginsberg’s birt
+ h on June 3\, 1926\, Stanford University Libraries will host its first-eve
+ r exhibition of Ginsberg\, exploring his complex legacy as a poet\, activi
+ st\, promoter\, traveler\, spiritual seeker\, and teacher. The exhibition 
+ will dra\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
+LOCATION:Green Library\, Bing Wing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Anderson Collection at Stanford University / Office of the Vice P
+ resident for the Arts] 1\,000 Ways to Hold: A New Work By Erika Chong Shuc
+ h
+DTSTART;TZID=America/Los_Angeles:20260803T110000
+DTEND;TZID=America/Los_Angeles:20260803T170000
+DTSTAMP:20260730T151115Z
+UID:stanford_campus-localist-52331703768568-52331703850576@local-events
+DESCRIPTION:1\,000 Ways to Hold is the culmination of a year-long particip
+ atory project by Stanford Arts’ 2025–26 Visiting Artist Erika Chong Sh
+ uch\, rooted in conversation and clay. Developed in response to a moment s
+ haped by loneliness\, fragmentation\, and uncertainty\, the project propos
+ es a tender\, human-scale intervention: two people at a time sit together\
+ , shape ceramic bowls in pairs\, and reflect on the question\, What have y
+ ou held\, and what has held you? Created across campus in classrooms\, com
+ munity sp\n\nAges: All ages\nSource: https://anderson.stanford.edu/exhibit
+ ions/erika-chong-shuch-1000-ways-to-hold/\nLast synced: 2026-07-30 08:11 P
+ DT
+LOCATION:Anderson Collection
+URL:https://anderson.stanford.edu/exhibitions/erika-chong-shuch-1000-ways-
+ to-hold/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford BeWell / Stanford Healthy Living] From Mindset to Motion
+  (August 3 - 17)
+DTSTART;TZID=America/Los_Angeles:20260803T120000
+DTEND;TZID=America/Los_Angeles:20260803T131500
+DTSTAMP:20260730T151115Z
+UID:stanford_campus-localist-52901301529260-52901301530287@local-events
+DESCRIPTION:Are you eager to create a clearer vision of how you want to li
+ ve and work – and a roadmap to help make it happen?\n\nJoin this three-s
+ ession online course that will introduce you to straightforward ways to re
+ flect\, identify what you want\, and implement your goals so you can move 
+ toward the personal and professional life you want. This interactive and e
+ ngaging class series will include research-based inquiry\, small group bre
+ akout discussions\, and action planning tailored to your goals and aspirat
+ io\n\nAges: All ages\nSource: https://healthyliving.stanford.edu/classes/r
+ egister/class_detail.php?t=1cce34dfd3cbss383d348a508b1be48cc821&ci=1252719
+ \nLast synced: 2026-07-30 08:11 PDT
+URL:https://healthyliving.stanford.edu/classes/register/class_detail.php?t
+ =1cce34dfd3cbss383d348a508b1be48cc821&ci=1252719
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Health Library] On Demand: Plant-Rich Snacks for Lasting
+  Energy
+DTSTART;TZID=America/Los_Angeles:20260803T170000
+DTEND;TZID=America/Los_Angeles:20260803T180000
+DTSTAMP:20260730T151115Z
+UID:stanford_campus-localist-53384636572476-53384636585799@local-events
+DESCRIPTION:On Demand: Plant-rich snacks can help you feel energized and s
+ atisfied throughout the day. In this video\, learn how to prepare two easy
+ \, delicious\, plant-rich snacks! Stanford Registered Dietitian Leah Gropp
+ o demonstrates how to make a flavorful tofu dip and tasty nutty energy bit
+ es.\n\nDeveloped by Stanford Registered Dietitians with support from Stanf
+ ord Health Care Clinical Nutrition and the Stanford Nutrition Research Gro
+ up\, this video delivers practical\, evidence-based guidance straight to y
+ o\n\nAges: All ages\nSource: https://healthlibrary.stanford.edu/video/plan
+ t-powered.html#snacks\nLast synced: 2026-07-30 08:11 PDT
+URL:https://healthlibrary.stanford.edu/video/plant-powered.html#snacks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Department of Psychiatry] A CLINICAL RESEARCH STUDY PROGRAM FOR M
+ AJOR DEPRESSIVE DISORDER (MDD)
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260804
+DTSTAMP:20260730T151115Z
+UID:stanford_campus-localist-51827589730708-53542152342040@local-events
+DESCRIPTION:A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDE
+ R (MDD)\nIf your current antidepressant medication(s) is/are not adequatel
+ y improving symptoms of your MDD\, you may be eligible for the AMPA PROGRA
+ M. This program is researching an investigational drug to see if it is saf
+ e and whether it improves symptoms of MDD when taken with your current ant
+ idepressant medication(s).\n\nTo find out more\, please contact the Depres
+ sion Research Clinic:\n   Maureen Chang\n   650-725-4620\n   mhchang@stanf
+ or\n\nAges: All ages\nSource: https://med.stanford.edu/drc/research.html\n
+ Last synced: 2026-07-30 08:11 PDT
+URL:https://med.stanford.edu/drc/research.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[East Asia Library / Stanford University Libraries] Moments in the
+  History of East Asian Printing
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260804
+DTSTAMP:20260730T151115Z
+UID:stanford_campus-localist-53020733796497-53020733918421@local-events
+DESCRIPTION:Moments in the History of East Asian Printing brings together 
+ rare books\, facsimiles\, woodblocks\, broadsheets\, illustrated books\, t
+ ypewriter materials\, and other objects from the East Asia Library’s col
+ lections. The exhibit explores selected episodes in the history of printin
+ g across China\, Korea\, and Japan\, from Buddhist woodblock printing and 
+ movable type to lithography\, popular publishing\, travel prints\, visual 
+ encyclopedias\, and the Chinese typewriter. Rather than offering a complet
+ e chronol\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
+LOCATION:Lathrop Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford University Libraries] Text Machines: Scarlet Thread of t
+ he Digital Order (1883-2026)
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260804
+DTSTAMP:20260730T151115Z
+UID:stanford_campus-localist-53251159287291-53251159353916@local-events
+DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
+  Les laboureurs: poème tiré de Jocelyn\, whose pages (text and ornamen
+ ts) were entirely woven on a Jacquard loom by the firm of silk merchant Jo
+ seph-Alphonse Henry. This exhibition explores the cultural contexts and ma
+ terial conditions of Les laboureurs’ production\, and considers parall
+ els between technology-driven global change in the late nineteenth century
+  and in our current day. The exhibition includes microscope images reveali
+ ng the\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
+LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Session 4 Social Structure And Economic Development
 DTSTART;TZID=America/Los_Angeles:20260730T090000
 DTEND;TZID=America/Los_Angeles:20260731T130000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-econ- c3bcdc2f-e268-440b-a273-fe637df27779-2026-07-30T
  09:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-4-soci
  al-structure-and-economic-development\n\nAges: All ages\nLast synced: 2026
- -07-29 15:00 PDT
+ -07-30 08:11 PDT
 LOCATION:Landau Economics Building\, 579 Jane Stanford Way\, Stanford\, CA
   94305
 END:VEVENT
@@ -1385,11 +1357,11 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 5 Micro And Macro Labor Markets
 DTSTART;TZID=America/Los_Angeles:20260804T090000
 DTEND;TZID=America/Los_Angeles:20260805T160000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-econ- 2a6d8176-0dc2-42ea-9f4f-cd7df0d542ff-2026-08-04T
  09:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-5-micr
- o-and-macro-labor-markets\n\nAges: All ages\nLast synced: 2026-07-29 15:00
+ o-and-macro-labor-markets\n\nAges: All ages\nLast synced: 2026-07-30 08:11
   PDT
 LOCATION:Landau Economics Building\, 579 Jane Stanford Way\, Stanford\, CA
   94305
@@ -1398,11 +1370,11 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 6 Experimental Economics
 DTSTART;TZID=America/Los_Angeles:20260806T090000
 DTEND;TZID=America/Los_Angeles:20260807T190000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-econ- e26f82bd-c6c7-4710-80b9-9dd2570c2a91-2026-08-06T
  09:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-6-expe
- rimental-economics\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ rimental-economics\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:John A. and Cynthia Fry Gunn Building\, 366 Galvez Street\, Stanf
  ord\, CA 94305
 END:VEVENT
@@ -1410,11 +1382,11 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 7 Gender
 DTSTART;TZID=America/Los_Angeles:20260810T083000
 DTEND;TZID=America/Los_Angeles:20260811T190000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-econ- 5ba4f66d-afa8-4a3f-9d35-c92356c12229-2026-08-10T
  08:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-7-gend
- er\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ er\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Landau Economics Building\, 579 Jane Stanford Way\, Stanford\, CA
   94305
 END:VEVENT
@@ -1422,11 +1394,11 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 8 Public Economics
 DTSTART;TZID=America/Los_Angeles:20260810T083000
 DTEND;TZID=America/Los_Angeles:20260811T123000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-econ- 86c602d4-24cb-4de0-a3f3-5493b8c62dbd-2026-08-10T
  08:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-8-publ
- ic-economics\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ ic-economics\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Stanford Graduate School of Business\,C302\, 655 Knight Way\, Sta
  nford\, CA 94305
 END:VEVENT
@@ -1434,11 +1406,11 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 10 China Global Economy
 DTSTART;TZID=America/Los_Angeles:20260817T081500
 DTEND;TZID=America/Los_Angeles:20260819T133000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-econ- 1246a203-5332-43cc-b093-f791e1656f44-2026-08-17T
  08:15:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-10-chi
- na-global-economy\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ na-global-economy\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Landau Economics Building\, 579 Jane Stanford Way\, Stanford\, CA
   94305
 END:VEVENT
@@ -1446,12 +1418,12 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 9 Dynamic Games Contracts And Markets
 DTSTART;TZID=America/Los_Angeles:20260817T083000
 DTEND;TZID=America/Los_Angeles:20260819T171500
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-econ- 3847918b-05e3-483d-9192-7e0d73c582cd-2026-08-17T
  08:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-9-dyna
- mic-games-contracts-and-markets\n\nAges: All ages\nLast synced: 2026-07-29
-  15:00 PDT
+ mic-games-contracts-and-markets\n\nAges: All ages\nLast synced: 2026-07-30
+  08:11 PDT
 LOCATION:Stanford Graduate School of Business\, C102\, 655 Knight Way\, St
  anford\, CA 94305
 END:VEVENT
@@ -1459,11 +1431,11 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 11 Political Economic Theory
 DTSTART;TZID=America/Los_Angeles:20260820T081500
 DTEND;TZID=America/Los_Angeles:20260821T162500
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-econ- c07a759c-e447-4263-8309-944db17cb8ad-2026-08-20T
  08:15:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-11-pol
- itical-economic-theory\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PD
+ itical-economic-theory\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PD
  T
 LOCATION:Stanford Graduate School of Business\, M109\, 655 Knight Way\, St
  anford\, CA 94305
@@ -1472,12 +1444,12 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 12 Banking And Deposit Franchise
 DTSTART;TZID=America/Los_Angeles:20260824T081500
 DTEND;TZID=America/Los_Angeles:20260825T164500
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-econ- 60ea8334-7acf-4645-abc7-ed6358d0929b-2026-08-24T
  08:15:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-12-ban
- king-and-deposit-franchise\n\nAges: All ages\nLast synced: 2026-07-29 15:0
- 0 PDT
+ king-and-deposit-franchise\n\nAges: All ages\nLast synced: 2026-07-30 08:1
+ 1 PDT
 LOCATION:Landau Economics Building\, 579 Jane Stanford Way\, Stanford\, CA
   94305
 END:VEVENT
@@ -1485,12 +1457,12 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 13 Market Failures And Public Policy
 DTSTART;TZID=America/Los_Angeles:20260826T083000
 DTEND;TZID=America/Los_Angeles:20260827T154000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-econ- c06bed1e-91c4-4aad-9aaa-239f41b5ab7e-2026-08-26T
  08:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-13-mar
- ket-failures-and-public-policy\n\nAges: All ages\nLast synced: 2026-07-29 
- 15:00 PDT
+ ket-failures-and-public-policy\n\nAges: All ages\nLast synced: 2026-07-30 
+ 08:11 PDT
 LOCATION:Landau Economics Building\, 579 Jane Stanford Way\, Stanford\, CA
   94305
 END:VEVENT
@@ -1498,11 +1470,11 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 14 Economics Transparency
 DTSTART;TZID=America/Los_Angeles:20260827T083000
 DTEND;TZID=America/Los_Angeles:20260828T163000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-econ- 4ccac1f1-a89e-4b08-a023-5231c85eca52-2026-08-27T
  08:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-14-eco
- nomics-transparency\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ nomics-transparency\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Stanford Graduate School of Business\, M104\, 655 Knight Way\, St
  anford\, CA 94305
 END:VEVENT
@@ -1510,11 +1482,11 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 16 Economics Health Inequality
 DTSTART;TZID=America/Los_Angeles:20260831T081500
 DTEND;TZID=America/Los_Angeles:20260901T140000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-econ- 965bbab4-0dcc-4d7b-93ea-db6559bd66ff-2026-08-31T
  08:15:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-16-eco
- nomics-health-inequality\n\nAges: All ages\nLast synced: 2026-07-29 15:00 
+ nomics-health-inequality\n\nAges: All ages\nLast synced: 2026-07-30 08:11 
  PDT
 LOCATION:Landau Economics Building\, 579 Jane Stanford Way\, Stanford\, CA
   94305
@@ -1524,12 +1496,12 @@ SUMMARY:[Economics] Session 15 Causes And Consequences Misallocation Theor
  y And Empirics
 DTSTART;TZID=America/Los_Angeles:20260831T120000
 DTEND;TZID=America/Los_Angeles:20260901T171500
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-econ- 8ba2952c-2ad5-4870-bb31-bec5da486f81-2026-08-31T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-15-cau
  ses-and-consequences-misallocation-theory-and-empirics\n\nAges: All ages\n
- Last synced: 2026-07-29 15:00 PDT
+ Last synced: 2026-07-30 08:11 PDT
 LOCATION:Stanford Graduate School of Business\, P107\, 655 Knight Way\, St
  anford\, CA 94305
 END:VEVENT
@@ -1537,12 +1509,12 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 17 Macroeconomics Uncertainty And Volatility
 DTSTART;TZID=America/Los_Angeles:20260902T080000
 DTEND;TZID=America/Los_Angeles:20260904T170000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-econ- 6315d8a8-ee42-45c6-b96d-c96cd83fed1e-2026-09-02T
  08:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-17-mac
  roeconomics-uncertainty-and-volatility\n\nAges: All ages\nLast synced: 202
- 6-07-29 15:00 PDT
+ 6-07-30 08:11 PDT
 LOCATION:Landau Economics Building\, 579 Jane Stanford Way\, Stanford\, CA
   94305
 END:VEVENT
@@ -1550,11 +1522,11 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 18 Psychology And Economics
 DTSTART;TZID=America/Los_Angeles:20260903T080000
 DTEND;TZID=America/Los_Angeles:20260904T190000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-econ- 19fb1a10-5859-4a60-a9b4-173b6aab9305-2026-09-03T
  08:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-18-psy
- chology-and-economics\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ chology-and-economics\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:John A. and Cynthia Fry Gunn Building\, 366 Galvez Street\, Stanf
  ord\, CA 94305
 END:VEVENT
@@ -1562,11 +1534,11 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 19 Fiscal Sustainability
 DTSTART;TZID=America/Los_Angeles:20260908T083000
 DTEND;TZID=America/Los_Angeles:20260909T151500
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-econ- 69d38572-2d47-4c3d-968b-4a821c18323c-2026-09-08T
  08:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-19-fis
- cal-sustainability\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ cal-sustainability\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Landau Economics Building\, 579 Jane Stanford Way\, Stanford\, CA
   94305
 END:VEVENT
@@ -1575,12 +1547,12 @@ SUMMARY:[Economics] Session 20 Models Labor Market And Aggregate Economy N
  ew Developments And Policy
 DTSTART;TZID=America/Los_Angeles:20260910T101500
 DTEND;TZID=America/Los_Angeles:20260911T164500
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-econ- 74c0bdb7-5ced-4ce9-bc6d-9db635a4fd5a-2026-09-10T
  10:15:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-20-mod
  els-labor-market-and-aggregate-economy-new-developments-and-policy\n\nAges
- : All ages\nLast synced: 2026-07-29 15:00 PDT
+ : All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Landau Economics Building\, 579 Jane Stanford Way\, Stanford\, CA
   94305
 END:VEVENT
@@ -1589,22 +1561,22 @@ SUMMARY:[Economics] Department Seminar - Emi Nakamura - University of Cali
  fornia Berkeley
 DTSTART;TZID=America/Los_Angeles:20261118T153000
 DTEND;TZID=America/Los_Angeles:20261118T170000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:stanford_campus-econ- 616b58ac-5ff6-4afc-a8aa-c08986ef2339-2026-11-18T
  15:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/be-confirmed-0\n\nAges: 
- All ages\nLast synced: 2026-07-29 15:00 PDT
+ All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:GSB G101
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] 2026 Book Talk: Creative Essentials with Grace…
 DTSTART;TZID=America/Los_Angeles:20260811T000000
 DTEND;TZID=America/Los_Angeles:20260811T010000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:dschool-dschool-2026 Book Talk: Creative Essentials with Grace…-2026
  -08-11T00:00:00@local-events
 DESCRIPTION:2026 Book Talk: Creative Essentials with Grace…August 11\, 2
- 026Guest LectureOnline\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PD
+ 026Guest LectureOnline\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PD
  T
 LOCATION:Online
 END:VEVENT
@@ -1612,159 +1584,159 @@ BEGIN:VEVENT
 SUMMARY:[d.school] 2026 Book Talk: Creative Essentials with Carissa…
 DTSTART;TZID=America/Los_Angeles:20260908T000000
 DTEND;TZID=America/Los_Angeles:20260908T010000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:dschool-dschool-2026 Book Talk: Creative Essentials with Carissa…-20
  26-09-08T00:00:00@local-events
 DESCRIPTION:2026 Book Talk: Creative Essentials with Carissa…September 8
- \, 2026Guest LectureOnline\n\nAges: All ages\nLast synced: 2026-07-29 15:0
- 0 PDT
+ \, 2026Guest LectureOnline\n\nAges: All ages\nLast synced: 2026-07-30 08:1
+ 1 PDT
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Design Thinking Bootcamp
 DTSTART;TZID=America/Los_Angeles:20260908T000000
 DTEND;TZID=America/Los_Angeles:20260908T010000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:dschool-dschool-Design Thinking Bootcamp-2026-09-08T00:00:00@local-eve
  nts
 DESCRIPTION:Design Thinking BootcampSept 8-11\, 20264-dayWorkshopOn Campus
- \n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ \n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Design Thinking Bootcamp
 DTSTART;TZID=America/Los_Angeles:20260909T000000
 DTEND;TZID=America/Los_Angeles:20260909T010000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:dschool-dschool-Design Thinking Bootcamp-2026-09-09T00:00:00@local-eve
  nts
 DESCRIPTION:Design Thinking BootcampSept 8-11\, 20264-dayWorkshopOn Campus
- \n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ \n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Design Thinking Bootcamp
 DTSTART;TZID=America/Los_Angeles:20260910T000000
 DTEND;TZID=America/Los_Angeles:20260910T010000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:dschool-dschool-Design Thinking Bootcamp-2026-09-10T00:00:00@local-eve
  nts
 DESCRIPTION:Design Thinking BootcampSept 8-11\, 20264-dayWorkshopOn Campus
- \n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ \n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Design Thinking Bootcamp
 DTSTART;TZID=America/Los_Angeles:20260911T000000
 DTEND;TZID=America/Los_Angeles:20260911T010000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:dschool-dschool-Design Thinking Bootcamp-2026-09-11T00:00:00@local-eve
  nts
 DESCRIPTION:Design Thinking BootcampSept 8-11\, 20264-dayWorkshopOn Campus
- \n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ \n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Human-Centered AI for Social Impact
 DTSTART;TZID=America/Los_Angeles:20261007T000000
 DTEND;TZID=America/Los_Angeles:20261007T010000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:dschool-dschool-Human-Centered AI for Social Impact-2026-10-07T00:00:0
  0@local-events
 DESCRIPTION:Human-Centered AI for Social ImpactOct 7-9\, 20262.5-dayWorksh
- opOn Campus\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ opOn Campus\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Human-Centered AI for Social Impact
 DTSTART;TZID=America/Los_Angeles:20261008T000000
 DTEND;TZID=America/Los_Angeles:20261008T010000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:dschool-dschool-Human-Centered AI for Social Impact-2026-10-08T00:00:0
  0@local-events
 DESCRIPTION:Human-Centered AI for Social ImpactOct 7-9\, 20262.5-dayWorksh
- opOn Campus\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ opOn Campus\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Human-Centered AI for Social Impact
 DTSTART;TZID=America/Los_Angeles:20261009T000000
 DTEND;TZID=America/Los_Angeles:20261009T010000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:dschool-dschool-Human-Centered AI for Social Impact-2026-10-09T00:00:0
  0@local-events
 DESCRIPTION:Human-Centered AI for Social ImpactOct 7-9\, 20262.5-dayWorksh
- opOn Campus\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ opOn Campus\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Human-Centered Design for Local Government:…
 DTSTART;TZID=America/Los_Angeles:20261022T000000
 DTEND;TZID=America/Los_Angeles:20261022T010000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:dschool-dschool-Human-Centered Design for Local Government:…-2026-10
  -22T00:00:00@local-events
 DESCRIPTION:Human-Centered Design for Local Government:…Oct 22\, 20263-s
- essionsWorkshopOnline\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ essionsWorkshopOnline\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Introductory Design Thinking Workshop
 DTSTART;TZID=America/Los_Angeles:20260911T000000
 DTEND;TZID=America/Los_Angeles:20260911T010000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:dschool-dschool-Introductory Design Thinking Workshop-2026-09-11T00:00
  :00@local-events
 DESCRIPTION:Introductory Design Thinking WorkshopSeptember 11\, 2026Worksh
- opOn Campus\n\nAges: All ages\nLast synced: 2026-07-29 15:00 PDT
+ opOn Campus\n\nAges: All ages\nLast synced: 2026-07-30 08:11 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Adventures in Design: A d.school Experience -…
 DTSTART;TZID=America/Los_Angeles:20260908T000000
 DTEND;TZID=America/Los_Angeles:20260908T010000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:dschool-dschool-Adventures in Design: A d.school Experience -…-2026-
  09-08T00:00:00@local-events
 DESCRIPTION:Adventures in Design: A d.school Experience -…Sept 8-11\, 20
- 264 Day SessionWorkshopOn Campus\n\nAges: All ages\nLast synced: 2026-07-2
- 9 15:00 PDT
+ 264 Day SessionWorkshopOn Campus\n\nAges: All ages\nLast synced: 2026-07-3
+ 0 08:11 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Adventures in Design: A d.school Experience -…
 DTSTART;TZID=America/Los_Angeles:20260909T000000
 DTEND;TZID=America/Los_Angeles:20260909T010000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:dschool-dschool-Adventures in Design: A d.school Experience -…-2026-
  09-09T00:00:00@local-events
 DESCRIPTION:Adventures in Design: A d.school Experience -…Sept 8-11\, 20
- 264 Day SessionWorkshopOn Campus\n\nAges: All ages\nLast synced: 2026-07-2
- 9 15:00 PDT
+ 264 Day SessionWorkshopOn Campus\n\nAges: All ages\nLast synced: 2026-07-3
+ 0 08:11 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Adventures in Design: A d.school Experience -…
 DTSTART;TZID=America/Los_Angeles:20260910T000000
 DTEND;TZID=America/Los_Angeles:20260910T010000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:dschool-dschool-Adventures in Design: A d.school Experience -…-2026-
  09-10T00:00:00@local-events
 DESCRIPTION:Adventures in Design: A d.school Experience -…Sept 8-11\, 20
- 264 Day SessionWorkshopOn Campus\n\nAges: All ages\nLast synced: 2026-07-2
- 9 15:00 PDT
+ 264 Day SessionWorkshopOn Campus\n\nAges: All ages\nLast synced: 2026-07-3
+ 0 08:11 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Adventures in Design: A d.school Experience -…
 DTSTART;TZID=America/Los_Angeles:20260911T000000
 DTEND;TZID=America/Los_Angeles:20260911T010000
-DTSTAMP:20260729T220005Z
+DTSTAMP:20260730T151115Z
 UID:dschool-dschool-Adventures in Design: A d.school Experience -…-2026-
  09-11T00:00:00@local-events
 DESCRIPTION:Adventures in Design: A d.school Experience -…Sept 8-11\, 20
- 264 Day SessionWorkshopOn Campus\n\nAges: All ages\nLast synced: 2026-07-2
- 9 15:00 PDT
+ 264 Day SessionWorkshopOn Campus\n\nAges: All ages\nLast synced: 2026-07-3
+ 0 08:11 PDT
 LOCATION:On Campus
 END:VEVENT
 END:VCALENDAR
