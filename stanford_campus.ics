@@ -8,240 +8,11 @@ X-WR-CALNAME:Stanford Campus Events
 X-PUBLISHED-TTL:PT1H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:[David Rumsey Map Center / Stanford University Libraries] You Are 
- Here: Transit Cartography & Spatial Identity
-DTSTART;TZID=America/Los_Angeles:20260821T093000
-DTEND;TZID=America/Los_Angeles:20260821T170000
-DTSTAMP:20260821T134432Z
-UID:stanford_campus-localist-52127684778082-52127817913629@local-events
-DESCRIPTION:Transit maps hold a unique place in both the urban environment
-  and the cultural zeitgeist\, often transcending their utilitarian purpose
- s to become symbols of cities and nations alike. Iconic transit maps such 
- as Henry Charles Beck's 1933 map of the London Underground or Vignelli's 1
- 972 map of the New York subway have been lauded as cultural touchstones th
- at both were inspired by the past and have influenced the future. \n\nYou 
- Are Here is an exhibition that explores the unique relationship between\n
- \nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
-LOCATION:David Rumsey Map Center (Green Library)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Department of Special Collections / Stanford University Libraries
- ] Ginsberg at 100: Selections from the Allen Ginsberg Papers at Stanford
-DTSTART;TZID=America/Los_Angeles:20260821T100000
-DTEND;TZID=America/Los_Angeles:20260821T170000
-DTSTAMP:20260821T134432Z
-UID:stanford_campus-localist-52883532576991-52883532628265@local-events
-DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
- ions from the Allen Ginsberg Papers at Stanford\, on view in the Peterson 
- Gallery and Munger Rotunda of the Cecil H. Green Library from June 5 to Se
- ptember 5\, 2026. \n\nIn honor of the centenary of Allen Ginsberg’s birt
- h on June 3\, 1926\, Stanford University Libraries will host its first-eve
- r exhibition of Ginsberg\, exploring his complex legacy as a poet\, activi
- st\, promoter\, traveler\, spiritual seeker\, and teacher. The exhibition 
- will dra\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
-LOCATION:Green Library\, Bing Wing
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Cantor Arts] Public Tour |  Auguste Rodin
-DTSTART;TZID=America/Los_Angeles:20260821T113000
-DTEND;TZID=America/Los_Angeles:20260821T123000
-DTSTAMP:20260821T134432Z
-UID:stanford_campus-localist-53694822395653-53694860280846@local-events
-DESCRIPTION:Join us for a tour of our indoor and outdoor Rodin Sculptures!
-  Our collection spans three galleries\, an outdoor sculpture garden\, and 
- features nearly 100 Rodin sculptures essential to telling his story and re
- presenting his groundbreaking engagement with the body.\n\nIMAGE: Auguste 
- Rodin (France\, 1840–1917)\, The Age of Bronze (L’Âge d’airain)\, 1
- 875-1876. Bronze\, cast c. 1920. Gift of the B. Gerald Cantor Collection\,
-  1983.300\n\nPublic Tours: Fridays and Saturdays at 11:30am \n\nAdmission 
- Info\n\nTours do\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
-LOCATION:Cantor Arts Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Civil and Environmental Engineering] CEE PhD Defense: Juliet Nwag
- wu Ume-Ezeoke\, "Integrating Physics-Based Reduced Order Modeling into Ear
- ly Stage Design"
-DTSTART;TZID=America/Los_Angeles:20260821T130000
-DTEND;TZID=America/Los_Angeles:20260821T160000
-DTSTAMP:20260821T134432Z
-UID:stanford_campus-localist-53674973022882-53674973022883@local-events
-DESCRIPTION:Abstract:\n\nThe long-run thermal and energy performance of bu
- ildings and outdoor spaces is influenced by local wind velocity fields. Th
- ese flow fields govern whether occupants can rely on natural ventilation\,
-  and whether pedestrians experience comfortable streets. Yet fluid-dynamic
- al information typically enters the architectural design process at later 
- stages\, only once geometry has been cemented. Flow fields thus serve as a
-  check of design decisions\, rather than a driver. Bringing velocity data
- \n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
-LOCATION:Y2E2 Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Art & Architecture Library / Stanford University Libraries] Summe
- r Escape at Bowes Library
-DTSTART;TZID=America/Los_Angeles:20260821T130000
-DTEND;TZID=America/Los_Angeles:20260821T170000
-DTSTAMP:20260821T134432Z
-UID:stanford_campus-localist-52951257804174-52951257849274@local-events
-DESCRIPTION:Take a little detour with Summer Escape at Bowes — our annua
- l snapshot of what’s new at the Art & Architecture Library\, presented w
- ith a seaside breeze. The promotional image’s soft bands of light and fl
- owing lines inspired how we arranged the show: items grouped to suggest cu
- rrents and horizons so each visit feels like a short visual voyage. You’
- ll find newly acquired artist’s books\, photobooks\, pop-up books\, and 
- railroad cars (?) that speak to creative practice\, sustainability\, and s
- torytellin\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
-LOCATION:McMurtry Building
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[David Rumsey Map Center / Stanford University Libraries] David Ru
- msey Map Center Guided Tour
-DTSTART;TZID=America/Los_Angeles:20260821T150000
-DTEND;TZID=America/Los_Angeles:20260821T160000
-DTSTAMP:20260821T134432Z
-UID:stanford_campus-localist-45864827002631-53632230473367@local-events
-DESCRIPTION:Explore the World of Maps at the David Rumsey Map Center\n\nJo
- in us for a guided tour of the David Rumsey Map Center at Stanford Librari
- es. Upon arrival\, you'll be greeted by one of our knowledgeable staff mem
- bers for an immersive experience.\n\n30-Minute Overview: Dive deep into th
- e history\, collections\, and special exhibitions of the David Rumsey Map 
- Center\, enriched with insights and stories from our passionate team.Inter
- active Experience: After the guided portion\, we invite you to explore the
-  di\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
-LOCATION:David Rumsey Map Center (Green Library)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Knight-Hennessy Scholars] Info session for Knight-Hennessy Schola
- rs
-DTSTART;TZID=America/Los_Angeles:20260821T160000
-DTEND;TZID=America/Los_Angeles:20260821T170000
-DTSTAMP:20260821T134432Z
-UID:stanford_campus-localist-51934608883260-51934617194651@local-events
-DESCRIPTION:In this in-person session\, an admission officer provides an o
- verview of Knight-Hennessy Scholars\, the admission process\, and the appl
- ication. The session includes a presentation\, and Knight-Hennessy scholar
- (s) may join to share their experience. \n\nAbout Knight-Hennessy Scholars
- \n\nKnight-Hennessy Scholars is a multidisciplinary\, multicultural gradua
- te scholarship program. Each Knight-Hennessy scholar receives up to three 
- years of financial support to pursue graduate studies at Stanford while pa
- rti\n\nAges: All ages\nSource: https://apply.knight-hennessy.stanford.edu/
- portal/admission-events\nLast synced: 2026-08-21 06:44 PDT
-LOCATION:Denning House
-URL:https://apply.knight-hennessy.stanford.edu/portal/admission-events
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Stanford Health Library] On Demand: Plant-Rich Snacks for Lasting
-  Energy
-DTSTART;TZID=America/Los_Angeles:20260821T170000
-DTEND;TZID=America/Los_Angeles:20260821T180000
-DTSTAMP:20260821T134432Z
-UID:stanford_campus-localist-53384636572476-53384636597071@local-events
-DESCRIPTION:On Demand: Plant-rich snacks can help you feel energized and s
- atisfied throughout the day. In this video\, learn how to prepare two easy
- \, delicious\, plant-rich snacks! Stanford Registered Dietitian Leah Gropp
- o demonstrates how to make a flavorful tofu dip and tasty nutty energy bit
- es.\n\nDeveloped by Stanford Registered Dietitians with support from Stanf
- ord Health Care Clinical Nutrition and the Stanford Nutrition Research Gro
- up\, this video delivers practical\, evidence-based guidance straight to y
- o\n\nAges: All ages\nSource: https://healthlibrary.stanford.edu/video/plan
- t-powered.html#snacks\nLast synced: 2026-08-21 06:44 PDT
-URL:https://healthlibrary.stanford.edu/video/plant-powered.html#snacks
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Cantor Arts] Animal\, Vegetable\, nor Mineral: Works by Miljohn R
- uperto
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260822
-DTSTAMP:20260821T134432Z
-UID:stanford_campus-localist-52888406473919-52888573138316@local-events
-DESCRIPTION:Animal\, Vegetable\, nor Mineral is the first large-scale solo
-  museum exhibition of Manila-born\, Los Angeles-based artist Miljohn Ruper
- to (b. 1971). Working across photography\, video\, animation\, generative 
- artificial intelligence\, and other mediums\, Ruperto explores the ways hu
- mans have understood their place in the world. From digitally-created fant
- astical botanical specimens printed as gelatin silver photographs to immer
- sive apocalyptic landscapes experienced in VR\, Ruperto’s artworks highl
- ight\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/an
- imal-vegetable-nor-mineral-works-miljohn-ruperto\nLast synced: 2026-08-21 
- 06:44 PDT
-LOCATION:Cantor Arts Center
-URL:https://museum.stanford.edu/exhibitions/animal-vegetable-nor-mineral-w
- orks-miljohn-ruperto
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Stanford] Carolyn Lazard: Long Take
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260822
-DTSTAMP:20260821T134432Z
-UID:stanford_campus-localist-52881224936195-52881224953620@local-events
-DESCRIPTION:Carolyn Lazard: Long Take is a multimedia exhibition that begi
- ns with a score for a performance and unfolds as a series of interventions
-  that engage accessibility as an artistic material.\n\nMade in collaborati
- on with dancer Jerron Herman and poet and artist Joselia Rebekah Hughes\, 
- the central work\, Leans\, Reverses (2022)\, emerges from the relationship
-  between a dance performance\, its recording\, and transcription (a choreo
- graphic score\, captions\, and audio description). The installation includ
- es t\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
-LOCATION:Cantor Arts Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Cantor Arts] JANE! An intimate exploration of Gilded Age excess 
-  and the enigmatic life and death of Jane Stanford
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260822
-DTSTAMP:20260821T134432Z
-UID:stanford_campus-localist-52880326677126-52880513731348@local-events
-DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
- ley\, JANE! celebrates the aesthetic and affective excesses of Jane Stanfo
- rd\, the Gilded Age founder and matriarch of Stanford University. Bringing
-  together precious keepsakes\, souvenirs\, archaeological detritus\, and s
- pooky messages from beyond the grave\, the exhibition reveals the campy un
- derside of a familiar biography and perhaps an even more familiar murder m
- ystery.\n\nFrom her elegant French gowns to a colossal painting of her jew
- els\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/jan
- e\nLast synced: 2026-08-21 06:44 PDT
-LOCATION:Cantor Arts Center
-URL:https://museum.stanford.edu/exhibitions/jane
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[East Asia Library / Stanford University Libraries] Moments in the
-  History of East Asian Printing
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260822
-DTSTAMP:20260821T134432Z
-UID:stanford_campus-localist-53020733796497-53020733936871@local-events
-DESCRIPTION:Moments in the History of East Asian Printing brings together 
- rare books\, facsimiles\, woodblocks\, broadsheets\, illustrated books\, t
- ypewriter materials\, and other objects from the East Asia Library’s col
- lections. The exhibit explores selected episodes in the history of printin
- g across China\, Korea\, and Japan\, from Buddhist woodblock printing and 
- movable type to lithography\, popular publishing\, travel prints\, visual 
- encyclopedias\, and the Chinese typewriter. Rather than offering a complet
- e chronol\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
-LOCATION:Lathrop Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Stanford University Libraries] Text Machines: Scarlet Thread of t
- he Digital Order (1883-2026)
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260822
-DTSTAMP:20260821T134432Z
-UID:stanford_campus-localist-53251159287291-53251159367246@local-events
-DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
-  Les laboureurs: poème tiré de Jocelyn\, whose pages (text and ornamen
- ts) were entirely woven on a Jacquard loom by the firm of silk merchant Jo
- seph-Alphonse Henry. This exhibition explores the cultural contexts and ma
- terial conditions of Les laboureurs’ production\, and considers parall
- els between technology-driven global change in the late nineteenth century
-  and in our current day. The exhibition includes microscope images reveali
- ng the\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
-LOCATION:Green Library\, Bing Wing
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Stanford Cancer Institute] SCI Breast Cancer and African American
   Conference
 DTSTART;TZID=America/Los_Angeles:20260822T073000
 DTEND;TZID=America/Los_Angeles:20260822T153000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53064389481626-53064389481627@local-events
 DESCRIPTION:Black women in the United States continue to face disproportio
  nately higher rates of breast cancer mortality\, often being diagnosed at 
@@ -251,7 +22,7 @@ DESCRIPTION:Black women in the United States continue to face disproportio
  the SCI Breast Cancer and African Americans Conference. Now in its 15th ye
  ar\, the conference is dedicated to reducing disparities and improving hea
  \n\nAges: All ages\nSource: https://stan.md/43SarMh\nLast synced: 2026-08-
- 21 06:44 PDT
+ 22 06:32 PDT
 LOCATION:Doubletree by Hilton Hotel Newark - Fremont
 URL:https://stan.md/43SarMh
 END:VEVENT
@@ -259,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:[Stanford BeWell / Stanford Healthy Living] Forest Bathing
 DTSTART;TZID=America/Los_Angeles:20260822T090000
 DTEND;TZID=America/Los_Angeles:20260822T110000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52901302285045-52901302287096@local-events
 DESCRIPTION:Studies have demonstrated that spending time in nature can lea
  d to a measurable reduction in stress hormones\, as well as improvements i
@@ -270,7 +41,7 @@ DESCRIPTION:Studies have demonstrated that spending time in nature can lea
  -person class to discover the art of forest bathing and experience the ben
  efit\n\nAges: All ages\nSource: https://healthyliving.stanford.edu/classes
  /register/class_detail.php?t=1cce34dfd3cbss383d348a508b1be48cc821&ci=12527
- 25\nLast synced: 2026-08-21 06:44 PDT
+ 25\nLast synced: 2026-08-22 06:32 PDT
 URL:https://healthyliving.stanford.edu/classes/register/class_detail.php?t
  =1cce34dfd3cbss383d348a508b1be48cc821&ci=1252725
 END:VEVENT
@@ -279,7 +50,7 @@ SUMMARY:[Department of Special Collections / Stanford University Libraries
  ] Ginsberg at 100: Selections from the Allen Ginsberg Papers at Stanford
 DTSTART;TZID=America/Los_Angeles:20260822T100000
 DTEND;TZID=America/Los_Angeles:20260822T170000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52883532576991-52883532629290@local-events
 DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  ions from the Allen Ginsberg Papers at Stanford\, on view in the Peterson 
@@ -288,14 +59,14 @@ DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  h on June 3\, 1926\, Stanford University Libraries will host its first-eve
  r exhibition of Ginsberg\, exploring his complex legacy as a poet\, activi
  st\, promoter\, traveler\, spiritual seeker\, and teacher. The exhibition 
- will dra\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ will dra\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Public Tour |  Auguste Rodin
 DTSTART;TZID=America/Los_Angeles:20260822T113000
 DTEND;TZID=America/Los_Angeles:20260822T123000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53694822395653-53694860281871@local-events
 DESCRIPTION:Join us for a tour of our indoor and outdoor Rodin Sculptures!
   Our collection spans three galleries\, an outdoor sculpture garden\, and 
@@ -304,7 +75,7 @@ DESCRIPTION:Join us for a tour of our indoor and outdoor Rodin Sculptures!
  Rodin (France\, 1840–1917)\, The Age of Bronze (L’Âge d’airain)\, 1
  875-1876. Bronze\, cast c. 1920. Gift of the B. Gerald Cantor Collection\,
   1983.300\n\nPublic Tours: Fridays and Saturdays at 11:30am \n\nAdmission 
- Info\n\nTours do\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ Info\n\nTours do\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Cantor Arts Center
 END:VEVENT
 BEGIN:VEVENT
@@ -312,11 +83,11 @@ SUMMARY:[Anderson Collection at Stanford University] Highlights Tour | And
  erson Collection
 DTSTART;TZID=America/Los_Angeles:20260822T123000
 DTEND;TZID=America/Los_Angeles:20260822T133000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-46378544005855-50534692099406@local-events
 DESCRIPTION:Come by the Anderson Collection for a free guided tour of our 
  collection! No pre-registration required\, meet guide at the top of the st
- airs.\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ airs.\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Anderson Collection
 END:VEVENT
 BEGIN:VEVENT
@@ -324,19 +95,37 @@ SUMMARY:[Anderson Collection at Stanford University] Highlights Tour | And
  erson Collection
 DTSTART;TZID=America/Los_Angeles:20260822T143000
 DTEND;TZID=America/Los_Angeles:20260822T153000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-47049266947082-50534708410177@local-events
 DESCRIPTION:Come by the Anderson Collection for a free guided tour of our 
  collection! No pre-registration required\, meet guide at the top of the st
- airs.\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ airs.\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Anderson Collection
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Department of Psychiatry] A CLINICAL RESEARCH STUDY PROGRAM FOR M
+ AJOR DEPRESSIVE DISORDER (MDD)
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260823
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-localist-51827589730708-53762682735888@local-events
+DESCRIPTION:A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDE
+ R (MDD)\nIf your current antidepressant medication(s) is/are not adequatel
+ y improving symptoms of your MDD\, you may be eligible for the AMPA PROGRA
+ M. This program is researching an investigational drug to see if it is saf
+ e and whether it improves symptoms of MDD when taken with your current ant
+ idepressant medication(s).\n\nTo find out more\, please contact the Depres
+ sion Research Clinic:\n   Maureen Chang\n   650-725-4620\n   mhchang@stanf
+ or\n\nAges: All ages\nSource: https://med.stanford.edu/drc/research.html\n
+ Last synced: 2026-08-22 06:32 PDT
+URL:https://med.stanford.edu/drc/research.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Animal\, Vegetable\, nor Mineral: Works by Miljohn R
  uperto
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52888406473919-52888573139341@local-events
 DESCRIPTION:Animal\, Vegetable\, nor Mineral is the first large-scale solo
   museum exhibition of Manila-born\, Los Angeles-based artist Miljohn Ruper
@@ -346,8 +135,8 @@ DESCRIPTION:Animal\, Vegetable\, nor Mineral is the first large-scale solo
  astical botanical specimens printed as gelatin silver photographs to immer
  sive apocalyptic landscapes experienced in VR\, Ruperto’s artworks highl
  ight\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/an
- imal-vegetable-nor-mineral-works-miljohn-ruperto\nLast synced: 2026-08-21 
- 06:44 PDT
+ imal-vegetable-nor-mineral-works-miljohn-ruperto\nLast synced: 2026-08-22 
+ 06:32 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/animal-vegetable-nor-mineral-w
  orks-miljohn-ruperto
@@ -356,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:[Stanford] Carolyn Lazard: Long Take
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52881224936195-52881224954645@local-events
 DESCRIPTION:Carolyn Lazard: Long Take is a multimedia exhibition that begi
  ns with a score for a performance and unfolds as a series of interventions
@@ -365,7 +154,7 @@ DESCRIPTION:Carolyn Lazard: Long Take is a multimedia exhibition that begi
  the central work\, Leans\, Reverses (2022)\, emerges from the relationship
   between a dance performance\, its recording\, and transcription (a choreo
  graphic score\, captions\, and audio description). The installation includ
- es t\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ es t\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Cantor Arts Center
 END:VEVENT
 BEGIN:VEVENT
@@ -373,7 +162,7 @@ SUMMARY:[Cantor Arts] JANE! An intimate exploration of Gilded Age excess
   and the enigmatic life and death of Jane Stanford
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52880326677126-52880513732373@local-events
 DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
  ley\, JANE! celebrates the aesthetic and affective excesses of Jane Stanfo
@@ -383,7 +172,7 @@ DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
  derside of a familiar biography and perhaps an even more familiar murder m
  ystery.\n\nFrom her elegant French gowns to a colossal painting of her jew
  els\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/jan
- e\nLast synced: 2026-08-21 06:44 PDT
+ e\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/jane
 END:VEVENT
@@ -392,7 +181,7 @@ SUMMARY:[East Asia Library / Stanford University Libraries] Moments in the
   History of East Asian Printing
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53020733796497-53020733937896@local-events
 DESCRIPTION:Moments in the History of East Asian Printing brings together 
  rare books\, facsimiles\, woodblocks\, broadsheets\, illustrated books\, t
@@ -401,7 +190,7 @@ DESCRIPTION:Moments in the History of East Asian Printing brings together
  g across China\, Korea\, and Japan\, from Buddhist woodblock printing and 
  movable type to lithography\, popular publishing\, travel prints\, visual 
  encyclopedias\, and the Chinese typewriter. Rather than offering a complet
- e chronol\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ e chronol\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Lathrop Library
 END:VEVENT
 BEGIN:VEVENT
@@ -409,7 +198,7 @@ SUMMARY:[Stanford University Libraries] Text Machines: Scarlet Thread of t
  he Digital Order (1883-2026)
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260823
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53251159287291-53251159367247@local-events
 DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
   Les laboureurs: poème tiré de Jocelyn\, whose pages (text and ornamen
@@ -418,14 +207,14 @@ DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
  terial conditions of Les laboureurs’ production\, and considers parall
  els between technology-driven global change in the late nineteenth century
   and in our current day. The exhibition includes microscope images reveali
- ng the\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ ng the\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Public Tour | Papua New Guinea Sculpture Walk
 DTSTART;TZID=America/Los_Angeles:20260823T113000
 DTEND;TZID=America/Los_Angeles:20260823T123000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-40909411691045-53728077057276@local-events
 DESCRIPTION:Created on-site at Stanford by artists from Papua New Guinea\,
   the garden contains wood and stone carvings of people\, animals\, and mag
@@ -434,7 +223,7 @@ DESCRIPTION:Created on-site at Stanford by artists from Papua New Guinea\,
  each month at 11:30am\, rain or shine. \n\nAdmission Info\n\nTours do not 
  require a reservation and are free of charge.\n\nAges: All ages\nSource: h
  ttps://museum.stanford.edu/visit/tours-and-group-visits\nLast synced: 2026
- -08-21 06:44 PDT
+ -08-22 06:32 PDT
 LOCATION:Meet at the Papua New Guinea Sculpture Garden\, at the corner of 
  Santa Teresa & Lomita Drive.
 URL:https://museum.stanford.edu/visit/tours-and-group-visits
@@ -444,7 +233,7 @@ SUMMARY:[Department of Special Collections / Stanford University Libraries
  ] Ginsberg at 100: Selections from the Allen Ginsberg Papers at Stanford
 DTSTART;TZID=America/Los_Angeles:20260823T120000
 DTEND;TZID=America/Los_Angeles:20260823T170000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52883532576991-52883532630315@local-events
 DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  ions from the Allen Ginsberg Papers at Stanford\, on view in the Peterson 
@@ -453,7 +242,7 @@ DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  h on June 3\, 1926\, Stanford University Libraries will host its first-eve
  r exhibition of Ginsberg\, exploring his complex legacy as a poet\, activi
  st\, promoter\, traveler\, spiritual seeker\, and teacher. The exhibition 
- will dra\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ will dra\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
@@ -461,11 +250,11 @@ SUMMARY:[Anderson Collection at Stanford University] Highlights Tour | And
  erson Collection
 DTSTART;TZID=America/Los_Angeles:20260823T123000
 DTEND;TZID=America/Los_Angeles:20260823T133000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-46378544005855-50534692102479@local-events
 DESCRIPTION:Come by the Anderson Collection for a free guided tour of our 
  collection! No pre-registration required\, meet guide at the top of the st
- airs.\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ airs.\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Anderson Collection
 END:VEVENT
 BEGIN:VEVENT
@@ -473,19 +262,37 @@ SUMMARY:[Anderson Collection at Stanford University] Highlights Tour | And
  erson Collection
 DTSTART;TZID=America/Los_Angeles:20260823T143000
 DTEND;TZID=America/Los_Angeles:20260823T153000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-47049266947082-50534708412226@local-events
 DESCRIPTION:Come by the Anderson Collection for a free guided tour of our 
  collection! No pre-registration required\, meet guide at the top of the st
- airs.\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ airs.\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Anderson Collection
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Department of Psychiatry] A CLINICAL RESEARCH STUDY PROGRAM FOR M
+ AJOR DEPRESSIVE DISORDER (MDD)
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260824
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-localist-51827589730708-53762682735889@local-events
+DESCRIPTION:A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDE
+ R (MDD)\nIf your current antidepressant medication(s) is/are not adequatel
+ y improving symptoms of your MDD\, you may be eligible for the AMPA PROGRA
+ M. This program is researching an investigational drug to see if it is saf
+ e and whether it improves symptoms of MDD when taken with your current ant
+ idepressant medication(s).\n\nTo find out more\, please contact the Depres
+ sion Research Clinic:\n   Maureen Chang\n   650-725-4620\n   mhchang@stanf
+ or\n\nAges: All ages\nSource: https://med.stanford.edu/drc/research.html\n
+ Last synced: 2026-08-22 06:32 PDT
+URL:https://med.stanford.edu/drc/research.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Animal\, Vegetable\, nor Mineral: Works by Miljohn R
  uperto
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52888406473919-52888573140366@local-events
 DESCRIPTION:Animal\, Vegetable\, nor Mineral is the first large-scale solo
   museum exhibition of Manila-born\, Los Angeles-based artist Miljohn Ruper
@@ -495,8 +302,8 @@ DESCRIPTION:Animal\, Vegetable\, nor Mineral is the first large-scale solo
  astical botanical specimens printed as gelatin silver photographs to immer
  sive apocalyptic landscapes experienced in VR\, Ruperto’s artworks highl
  ight\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/an
- imal-vegetable-nor-mineral-works-miljohn-ruperto\nLast synced: 2026-08-21 
- 06:44 PDT
+ imal-vegetable-nor-mineral-works-miljohn-ruperto\nLast synced: 2026-08-22 
+ 06:32 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/animal-vegetable-nor-mineral-w
  orks-miljohn-ruperto
@@ -506,7 +313,7 @@ SUMMARY:[Branner Earth Sciences Library / Stanford University Libraries] B
  ranner Library Monthly Book & Map Exhibit - Mapping the Oceans
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53305547834880-53305563448723@local-events
 DESCRIPTION:Branner Earth Sciences Library & Map Collection exhibit series
  : Oceans\n\nIn the 2025–2026 academic year\, Branner Library’s exhibit
@@ -515,14 +322,14 @@ DESCRIPTION:Branner Earth Sciences Library & Map Collection exhibit series
  bition explores the history\, science\, and technologies used to chart Ear
  th’s largest environment. The collection highlights how cartographers\, 
  navigators\, geologists\, and oceanographers have transformed our understa
- nding of the ocean\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ nding of the ocean\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Mitchell Earth Sciences
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Stanford] Carolyn Lazard: Long Take
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52881224936195-52881224955670@local-events
 DESCRIPTION:Carolyn Lazard: Long Take is a multimedia exhibition that begi
  ns with a score for a performance and unfolds as a series of interventions
@@ -531,7 +338,7 @@ DESCRIPTION:Carolyn Lazard: Long Take is a multimedia exhibition that begi
  the central work\, Leans\, Reverses (2022)\, emerges from the relationship
   between a dance performance\, its recording\, and transcription (a choreo
  graphic score\, captions\, and audio description). The installation includ
- es t\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ es t\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Cantor Arts Center
 END:VEVENT
 BEGIN:VEVENT
@@ -539,7 +346,7 @@ SUMMARY:[Cantor Arts] JANE! An intimate exploration of Gilded Age excess
   and the enigmatic life and death of Jane Stanford
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52880326677126-52880513735446@local-events
 DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
  ley\, JANE! celebrates the aesthetic and affective excesses of Jane Stanfo
@@ -549,7 +356,7 @@ DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
  derside of a familiar biography and perhaps an even more familiar murder m
  ystery.\n\nFrom her elegant French gowns to a colossal painting of her jew
  els\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/jan
- e\nLast synced: 2026-08-21 06:44 PDT
+ e\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/jane
 END:VEVENT
@@ -558,16 +365,16 @@ SUMMARY:[Office of Medical Student Affairs] MD/MSPA – First day of clerk
  ships for Period 3.
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-49463993823142-49463993824167@local-events
-DESCRIPTION:Ages: All ages\nLast synced: 2026-08-21 06:44 PDT
+DESCRIPTION:Ages: All ages\nLast synced: 2026-08-22 06:32 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[East Asia Library / Stanford University Libraries] Moments in the
   History of East Asian Printing
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53020733796497-53020733938921@local-events
 DESCRIPTION:Moments in the History of East Asian Printing brings together 
  rare books\, facsimiles\, woodblocks\, broadsheets\, illustrated books\, t
@@ -576,7 +383,7 @@ DESCRIPTION:Moments in the History of East Asian Printing brings together
  g across China\, Korea\, and Japan\, from Buddhist woodblock printing and 
  movable type to lithography\, popular publishing\, travel prints\, visual 
  encyclopedias\, and the Chinese typewriter. Rather than offering a complet
- e chronol\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ e chronol\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Lathrop Library
 END:VEVENT
 BEGIN:VEVENT
@@ -584,7 +391,7 @@ SUMMARY:[Stanford University Libraries] Text Machines: Scarlet Thread of t
  he Digital Order (1883-2026)
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260824
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53251159287291-53251159368272@local-events
 DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
   Les laboureurs: poème tiré de Jocelyn\, whose pages (text and ornamen
@@ -593,7 +400,7 @@ DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
  terial conditions of Les laboureurs’ production\, and considers parall
  els between technology-driven global change in the late nineteenth century
   and in our current day. The exhibition includes microscope images reveali
- ng the\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ ng the\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
@@ -601,7 +408,7 @@ SUMMARY:[Department of Special Collections / Stanford University Libraries
  ] Ginsberg at 100: Selections from the Allen Ginsberg Papers at Stanford
 DTSTART;TZID=America/Los_Angeles:20260824T100000
 DTEND;TZID=America/Los_Angeles:20260824T170000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52883532576991-52883532630316@local-events
 DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  ions from the Allen Ginsberg Papers at Stanford\, on view in the Peterson 
@@ -610,7 +417,7 @@ DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  h on June 3\, 1926\, Stanford University Libraries will host its first-eve
  r exhibition of Ginsberg\, exploring his complex legacy as a poet\, activi
  st\, promoter\, traveler\, spiritual seeker\, and teacher. The exhibition 
- will dra\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ will dra\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
@@ -618,7 +425,7 @@ SUMMARY:[Center for Innovation in Global Health] Humanitarian Health Semin
  ar Series
 DTSTART;TZID=America/Los_Angeles:20260824T120000
 DTEND;TZID=America/Los_Angeles:20260824T130000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53578763703706-53578763703707@local-events
 DESCRIPTION:The Center for Innovation in Global Health (CIGH) Humanitarian
   Health Series at Stanford University\, convened jointly with the Consorti
@@ -629,7 +436,7 @@ DESCRIPTION:The Center for Innovation in Global Health (CIGH) Humanitarian
  ty and famine in the Sahel and to identify concrete policy pathways fo\n\n
  Ages: All ages\nSource: https://globalhealth.stanford.edu/event/humanitari
  an-health-seminar-series-how-the-strait-of-hormuz-crisis-threatens-famine-
- in-the-sahel-in-2027.html/\nLast synced: 2026-08-21 06:44 PDT
+ in-the-sahel-in-2027.html/\nLast synced: 2026-08-22 06:32 PDT
 URL:https://globalhealth.stanford.edu/event/humanitarian-health-seminar-se
  ries-how-the-strait-of-hormuz-crisis-threatens-famine-in-the-sahel-in-2027
  .html/
@@ -639,7 +446,7 @@ SUMMARY:[Stanford BeWell / Stanford Healthy Living] Nutrition for Women's
  Health
 DTSTART;TZID=America/Los_Angeles:20260824T120000
 DTEND;TZID=America/Los_Angeles:20260824T130000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52901302338299-52901302340350@local-events
 DESCRIPTION:Good nutrition is critical for everyone’s health\, but women
   have specific dietary needs to consider beyond the general guidelines. Th
@@ -650,7 +457,7 @@ DESCRIPTION:Good nutrition is critical for everyone’s health\, but women
   curious about the science of nutrition and its role in the most common he
  alth\n\nAges: All ages\nSource: https://healthyliving.stanford.edu/classes
  /register/class_detail.php?t=1cce34dfd3cbss383d348a508b1be48cc821&ci=12527
- 51\nLast synced: 2026-08-21 06:44 PDT
+ 51\nLast synced: 2026-08-22 06:32 PDT
 URL:https://healthyliving.stanford.edu/classes/register/class_detail.php?t
  =1cce34dfd3cbss383d348a508b1be48cc821&ci=1252751
 END:VEVENT
@@ -659,7 +466,7 @@ SUMMARY:[Energy Science & Engineering] PhD Dissertation Defense: Sohail Wa
  ziri
 DTSTART;TZID=America/Los_Angeles:20260824T130000
 DTEND;TZID=America/Los_Angeles:20260824T140000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53729135619694-53729135619695@local-events
 DESCRIPTION:Trust-region based fully implicit nonlinear solver for condens
  ation-dominated geothermal systems \n\nAbstract: Thermal multiphase flow s
@@ -668,7 +475,7 @@ DESCRIPTION:Trust-region based fully implicit nonlinear solver for condens
  hod for such problems\, but it suffers from stability and convergence issu
  es in geothermal systems undergoing steam condensation. FIM is uncondition
  ally stable only when the underlying PDE is stable\, yet the coupled mass
- \n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ \n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Green Earth Sciences Building
 END:VEVENT
 BEGIN:VEVENT
@@ -676,7 +483,7 @@ SUMMARY:[Art & Architecture Library / Stanford University Libraries] Summe
  r Escape at Bowes Library
 DTSTART;TZID=America/Los_Angeles:20260824T130000
 DTEND;TZID=America/Los_Angeles:20260825T050000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52951257804174-52951257849275@local-events
 DESCRIPTION:Take a little detour with Summer Escape at Bowes — our annua
  l snapshot of what’s new at the Art & Architecture Library\, presented w
@@ -685,7 +492,7 @@ DESCRIPTION:Take a little detour with Summer Escape at Bowes — our annua
  rrents and horizons so each visit feels like a short visual voyage. You’
  ll find newly acquired artist’s books\, photobooks\, pop-up books\, and 
  railroad cars (?) that speak to creative practice\, sustainability\, and s
- torytellin\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ torytellin\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:McMurtry Building
 END:VEVENT
 BEGIN:VEVENT
@@ -693,7 +500,7 @@ SUMMARY:[Center for Spatial and Textual Analysis (CESTA)] Digital Humaniti
  es Summer Internship Symposium
 DTSTART;TZID=America/Los_Angeles:20260824T140000
 DTEND;TZID=America/Los_Angeles:20260824T160000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53694974239736-53694974240761@local-events
 DESCRIPTION:At CESTA\, undergraduate researchers spend ten weeks doing the
   kind of humanities work that didn't exist a decade ago: using AI\, data s
@@ -702,7 +509,7 @@ DESCRIPTION:At CESTA\, undergraduate researchers spend ten weeks doing the
   graduate mentors across fourteen project teams\, and the range is strikin
  g\, from video games to the spatial analysis of farmland in colonial South
   Africa to recovering women scholars and authors long buried in twentieth-
- c\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ c\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Building 160\, Wallenberg Hall
 END:VEVENT
 BEGIN:VEVENT
@@ -710,7 +517,7 @@ SUMMARY:[Stanford Health Library] On Demand: Plant-Rich Snacks for Lasting
   Energy
 DTSTART;TZID=America/Los_Angeles:20260824T170000
 DTEND;TZID=America/Los_Angeles:20260824T180000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53384636572476-53384636599120@local-events
 DESCRIPTION:On Demand: Plant-rich snacks can help you feel energized and s
  atisfied throughout the day. In this video\, learn how to prepare two easy
@@ -720,14 +527,32 @@ DESCRIPTION:On Demand: Plant-rich snacks can help you feel energized and s
  ord Health Care Clinical Nutrition and the Stanford Nutrition Research Gro
  up\, this video delivers practical\, evidence-based guidance straight to y
  o\n\nAges: All ages\nSource: https://healthlibrary.stanford.edu/video/plan
- t-powered.html#snacks\nLast synced: 2026-08-21 06:44 PDT
+ t-powered.html#snacks\nLast synced: 2026-08-22 06:32 PDT
 URL:https://healthlibrary.stanford.edu/video/plant-powered.html#snacks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Department of Psychiatry] A CLINICAL RESEARCH STUDY PROGRAM FOR M
+ AJOR DEPRESSIVE DISORDER (MDD)
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260825
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-localist-51827589730708-53762682736914@local-events
+DESCRIPTION:A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDE
+ R (MDD)\nIf your current antidepressant medication(s) is/are not adequatel
+ y improving symptoms of your MDD\, you may be eligible for the AMPA PROGRA
+ M. This program is researching an investigational drug to see if it is saf
+ e and whether it improves symptoms of MDD when taken with your current ant
+ idepressant medication(s).\n\nTo find out more\, please contact the Depres
+ sion Research Clinic:\n   Maureen Chang\n   650-725-4620\n   mhchang@stanf
+ or\n\nAges: All ages\nSource: https://med.stanford.edu/drc/research.html\n
+ Last synced: 2026-08-22 06:32 PDT
+URL:https://med.stanford.edu/drc/research.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Stanford] Carolyn Lazard: Long Take
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52881224936195-52881224956695@local-events
 DESCRIPTION:Carolyn Lazard: Long Take is a multimedia exhibition that begi
  ns with a score for a performance and unfolds as a series of interventions
@@ -736,23 +561,23 @@ DESCRIPTION:Carolyn Lazard: Long Take is a multimedia exhibition that begi
  the central work\, Leans\, Reverses (2022)\, emerges from the relationship
   between a dance performance\, its recording\, and transcription (a choreo
  graphic score\, captions\, and audio description). The installation includ
- es t\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ es t\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Cantor Arts Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Office of Medical Student Affairs] Grades due (11:59 p.m.).
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-49463998831533-49463998832558@local-events
-DESCRIPTION:Ages: All ages\nLast synced: 2026-08-21 06:44 PDT
+DESCRIPTION:Ages: All ages\nLast synced: 2026-08-22 06:32 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[East Asia Library / Stanford University Libraries] Moments in the
   History of East Asian Printing
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53020733796497-53020733938922@local-events
 DESCRIPTION:Moments in the History of East Asian Printing brings together 
  rare books\, facsimiles\, woodblocks\, broadsheets\, illustrated books\, t
@@ -761,7 +586,7 @@ DESCRIPTION:Moments in the History of East Asian Printing brings together
  g across China\, Korea\, and Japan\, from Buddhist woodblock printing and 
  movable type to lithography\, popular publishing\, travel prints\, visual 
  encyclopedias\, and the Chinese typewriter. Rather than offering a complet
- e chronol\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ e chronol\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Lathrop Library
 END:VEVENT
 BEGIN:VEVENT
@@ -769,17 +594,17 @@ SUMMARY:[Student & Academic Services / Registrar's Office] Summer Quarter:
   Grades Due
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-50472529983931-50472529987007@local-events
 DESCRIPTION:This is the last day to submit grades for the quarter.\n\nAges
- : All ages\nLast synced: 2026-08-21 06:44 PDT
+ : All ages\nLast synced: 2026-08-22 06:32 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Stanford University Libraries] Text Machines: Scarlet Thread of t
  he Digital Order (1883-2026)
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53251159287291-53251159369297@local-events
 DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
   Les laboureurs: poème tiré de Jocelyn\, whose pages (text and ornamen
@@ -788,7 +613,7 @@ DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
  terial conditions of Les laboureurs’ production\, and considers parall
  els between technology-driven global change in the late nineteenth century
   and in our current day. The exhibition includes microscope images reveali
- ng the\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ ng the\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
@@ -796,7 +621,7 @@ SUMMARY:[School of Medicine\, Office of Academic Affairs] Professional Dev
  elopment Leave in the Clinician Educator Line
 DTSTART;TZID=America/Los_Angeles:20260825T080000
 DTEND;TZID=America/Los_Angeles:20260825T090000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53117880738450-53117880739475@local-events
 DESCRIPTION:Target Audience: All Clinical Assistant Professors \n\nDate & 
  Time: Tuesday\, August 25\, 2026 (from 8 AM — 9 AM)\n\nLocation: Online 
@@ -805,14 +630,14 @@ DESCRIPTION:Target Audience: All Clinical Assistant Professors \n\nDate &
  rs\n\nQ&A Session Moderator: Dr. Pedro Tanaka\, Clinical Professor of Anes
  thesia & Associate Dean for Academic Affairs\n\nSpeakers: Dr. Janice Lowe
  \, Clinical Professor of Pediatrics\, Dr. Ann Caroline Fisher Clinical Pro
- fessor of Oph\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ fessor of Oph\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Department of Special Collections / Stanford University Libraries
  ] Ginsberg at 100: Selections from the Allen Ginsberg Papers at Stanford
 DTSTART;TZID=America/Los_Angeles:20260825T100000
 DTEND;TZID=America/Los_Angeles:20260825T170000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52883532576991-52883532631341@local-events
 DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  ions from the Allen Ginsberg Papers at Stanford\, on view in the Peterson 
@@ -821,14 +646,14 @@ DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  h on June 3\, 1926\, Stanford University Libraries will host its first-eve
  r exhibition of Ginsberg\, exploring his complex legacy as a poet\, activi
  st\, promoter\, traveler\, spiritual seeker\, and teacher. The exhibition 
- will dra\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ will dra\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[University IT] IT Career Pathways: Explore Roles in DevOps
 DTSTART;TZID=America/Los_Angeles:20260825T110000
 DTEND;TZID=America/Los_Angeles:20260825T120000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53516243630040-53516243631065@local-events
 DESCRIPTION:Your career is as unique as you are. Whether you want to grow 
  in your current role\, explore new paths in IT\, or are just getting start
@@ -839,7 +664,7 @@ DESCRIPTION:Your career is as unique as you are. Whether you want to grow
   DevOps. Ever wondered what a day in the life of a DevOps engineer looks l
  ike\,\n\nAges: All ages\nSource: https://itcommunity.stanford.edu/events/i
  t-career-pathways-explore-roles-devops-development-operations\nLast synced
- : 2026-08-21 06:44 PDT
+ : 2026-08-22 06:32 PDT
 URL:https://itcommunity.stanford.edu/events/it-career-pathways-explore-rol
  es-devops-development-operations
 END:VEVENT
@@ -848,10 +673,10 @@ SUMMARY:[Department of Microbiology and Immunology] PhD Dissertation Defen
  se: Isabel Delwel\, Mordecai Lab
 DTSTART;TZID=America/Los_Angeles:20260825T110000
 DTEND;TZID=America/Los_Angeles:20260825T120000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53178080818274-53293898952343@local-events
 DESCRIPTION:Title: "Environmental impacts on mosquito-borne disease risk"
- \n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ \n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Munzer Auditorium
 END:VEVENT
 BEGIN:VEVENT
@@ -859,7 +684,7 @@ SUMMARY:[Stanford BeWell / Stanford Healthy Living] Nurturing Unconditiona
  l Self-Worth
 DTSTART;TZID=America/Los_Angeles:20260825T120000
 DTEND;TZID=America/Los_Angeles:20260825T130000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52901302389505-52901302391556@local-events
 DESCRIPTION:Have you ever quietly wondered to yourself\, “Am I enough?
  ” That insatiable drive toward status\, success\, appearance\, and achie
@@ -870,7 +695,7 @@ DESCRIPTION:Have you ever quietly wondered to yourself\, “Am I enough?
  re accurate light. Join us for this noontime webinar to dismantle conventi
  onal i\n\nAges: All ages\nSource: https://healthyliving.stanford.edu/class
  es/register/class_detail.php?t=1cce34dfd3cbss383d348a508b1be48cc821&ci=125
- 2733\nLast synced: 2026-08-21 06:44 PDT
+ 2733\nLast synced: 2026-08-22 06:32 PDT
 URL:https://healthyliving.stanford.edu/classes/register/class_detail.php?t
  =1cce34dfd3cbss383d348a508b1be48cc821&ci=1252733
 END:VEVENT
@@ -878,20 +703,20 @@ BEGIN:VEVENT
 SUMMARY:[Stanford Web Services] Stanford Sites Office Hours
 DTSTART;TZID=America/Los_Angeles:20260825T130000
 DTEND;TZID=America/Los_Angeles:20260825T150000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-50817491559268-50817491669957@local-events
 DESCRIPTION:Need a little help using a Stanford Sites? \n\nStanford Web Se
  rvices hosts office hours by appointment. During these half-hour appointme
  nts\, we can assist you with editing existing content\, creating new conte
  nt\, editing or adjusting site-wide options\, and more!\n\nAges: All ages
- \nLast synced: 2026-08-21 06:44 PDT
+ \nLast synced: 2026-08-22 06:32 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Art & Architecture Library / Stanford University Libraries] Summe
  r Escape at Bowes Library
 DTSTART;TZID=America/Los_Angeles:20260825T130000
 DTEND;TZID=America/Los_Angeles:20260825T170000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52951257804174-52951257850300@local-events
 DESCRIPTION:Take a little detour with Summer Escape at Bowes — our annua
  l snapshot of what’s new at the Art & Architecture Library\, presented w
@@ -900,14 +725,32 @@ DESCRIPTION:Take a little detour with Summer Escape at Bowes — our annua
  rrents and horizons so each visit feels like a short visual voyage. You’
  ll find newly acquired artist’s books\, photobooks\, pop-up books\, and 
  railroad cars (?) that speak to creative practice\, sustainability\, and s
- torytellin\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ torytellin\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:McMurtry Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Department of Psychiatry] A CLINICAL RESEARCH STUDY PROGRAM FOR M
+ AJOR DEPRESSIVE DISORDER (MDD)
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260826
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-localist-51827589730708-53762682737939@local-events
+DESCRIPTION:A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDE
+ R (MDD)\nIf your current antidepressant medication(s) is/are not adequatel
+ y improving symptoms of your MDD\, you may be eligible for the AMPA PROGRA
+ M. This program is researching an investigational drug to see if it is saf
+ e and whether it improves symptoms of MDD when taken with your current ant
+ idepressant medication(s).\n\nTo find out more\, please contact the Depres
+ sion Research Clinic:\n   Maureen Chang\n   650-725-4620\n   mhchang@stanf
+ or\n\nAges: All ages\nSource: https://med.stanford.edu/drc/research.html\n
+ Last synced: 2026-08-22 06:32 PDT
+URL:https://med.stanford.edu/drc/research.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Stanford] Carolyn Lazard: Long Take
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52881224936195-52881224958744@local-events
 DESCRIPTION:Carolyn Lazard: Long Take is a multimedia exhibition that begi
  ns with a score for a performance and unfolds as a series of interventions
@@ -916,7 +759,7 @@ DESCRIPTION:Carolyn Lazard: Long Take is a multimedia exhibition that begi
  the central work\, Leans\, Reverses (2022)\, emerges from the relationship
   between a dance performance\, its recording\, and transcription (a choreo
  graphic score\, captions\, and audio description). The installation includ
- es t\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ es t\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Cantor Arts Center
 END:VEVENT
 BEGIN:VEVENT
@@ -924,7 +767,7 @@ SUMMARY:[East Asia Library / Stanford University Libraries] Moments in the
   History of East Asian Printing
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53020733796497-53020733939947@local-events
 DESCRIPTION:Moments in the History of East Asian Printing brings together 
  rare books\, facsimiles\, woodblocks\, broadsheets\, illustrated books\, t
@@ -933,7 +776,7 @@ DESCRIPTION:Moments in the History of East Asian Printing brings together
  g across China\, Korea\, and Japan\, from Buddhist woodblock printing and 
  movable type to lithography\, popular publishing\, travel prints\, visual 
  encyclopedias\, and the Chinese typewriter. Rather than offering a complet
- e chronol\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ e chronol\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Lathrop Library
 END:VEVENT
 BEGIN:VEVENT
@@ -941,7 +784,7 @@ SUMMARY:[Stanford University Libraries] Text Machines: Scarlet Thread of t
  he Digital Order (1883-2026)
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53251159287291-53251159370322@local-events
 DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
   Les laboureurs: poème tiré de Jocelyn\, whose pages (text and ornamen
@@ -950,7 +793,7 @@ DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
  terial conditions of Les laboureurs’ production\, and considers parall
  els between technology-driven global change in the late nineteenth century
   and in our current day. The exhibition includes microscope images reveali
- ng the\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ ng the\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
@@ -958,7 +801,7 @@ SUMMARY:[Bits & Watts Initiative / Precourt Institute for Energy] Sustaina
  ble AI: Seed Grant Kickoff Webinar
 DTSTART;TZID=America/Los_Angeles:20260826T090000
 DTEND;TZID=America/Los_Angeles:20260826T100000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53693891898202-53693910917743@local-events
 DESCRIPTION:This webinar will showcase four recently awarded seed grants f
  rom the Bits & Watts Initiative\, presented by researchers from the follow
@@ -968,7 +811,7 @@ DESCRIPTION:This webinar will showcase four recently awarded seed grants f
  zation Co-Design for Sustainable Data Centers"Alice Siu\, "Data Center Del
  iberation: Streamlining development with AI-driven stakeholder engagement"
  Ed\n\nAges: All ages\nSource: https://bitsandwatts.stanford.edu/research/f
- lagship-sustainably-powering-ai\nLast synced: 2026-08-21 06:44 PDT
+ lagship-sustainably-powering-ai\nLast synced: 2026-08-22 06:32 PDT
 URL:https://bitsandwatts.stanford.edu/research/flagship-sustainably-poweri
  ng-ai
 END:VEVENT
@@ -977,7 +820,7 @@ SUMMARY:[Department of Special Collections / Stanford University Libraries
  ] Ginsberg at 100: Selections from the Allen Ginsberg Papers at Stanford
 DTSTART;TZID=America/Los_Angeles:20260826T100000
 DTEND;TZID=America/Los_Angeles:20260826T170000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52883532576991-52883532632366@local-events
 DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  ions from the Allen Ginsberg Papers at Stanford\, on view in the Peterson 
@@ -986,7 +829,7 @@ DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  h on June 3\, 1926\, Stanford University Libraries will host its first-eve
  r exhibition of Ginsberg\, exploring his complex legacy as a poet\, activi
  st\, promoter\, traveler\, spiritual seeker\, and teacher. The exhibition 
- will dra\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ will dra\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
@@ -994,7 +837,7 @@ SUMMARY:[Art & Architecture Library / Stanford University Libraries] Summe
  r Escape at Bowes Library
 DTSTART;TZID=America/Los_Angeles:20260826T130000
 DTEND;TZID=America/Los_Angeles:20260826T170000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52951257804174-52951257851325@local-events
 DESCRIPTION:Take a little detour with Summer Escape at Bowes — our annua
  l snapshot of what’s new at the Art & Architecture Library\, presented w
@@ -1003,7 +846,7 @@ DESCRIPTION:Take a little detour with Summer Escape at Bowes — our annua
  rrents and horizons so each visit feels like a short visual voyage. You’
  ll find newly acquired artist’s books\, photobooks\, pop-up books\, and 
  railroad cars (?) that speak to creative practice\, sustainability\, and s
- torytellin\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ torytellin\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:McMurtry Building
 END:VEVENT
 BEGIN:VEVENT
@@ -1011,7 +854,7 @@ SUMMARY:[Wu Tsai Human Performance Alliance] Wu Tsai Human Performance All
  iance Research Symposium
 DTSTART;TZID=America/Los_Angeles:20260826T160000
 DTEND;TZID=America/Los_Angeles:20260826T180000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53047229818411-53047229819436@local-events
 DESCRIPTION:We are excited to showcase their hard work at the Wu Tsai Huma
  n Performance Alliance Summer Research Symposium on Wednesday\, August 26
@@ -1022,7 +865,7 @@ DESCRIPTION:We are excited to showcase their hard work at the Wu Tsai Huma
  human performance research\, and then you will have the opportunity to exp
  lore\n\nAges: All ages\nSource: https://www.eventbrite.com/e/wu-tsai-human
  -performance-alliance-undergraduate-summer-symposium-tickets-1990813405487
- ?aff=oddtdtcreator\nLast synced: 2026-08-21 06:44 PDT
+ ?aff=oddtdtcreator\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Stanford ChEM-H / Neuro research complex courtyard
 URL:https://www.eventbrite.com/e/wu-tsai-human-performance-alliance-underg
  raduate-summer-symposium-tickets-1990813405487?aff=oddtdtcreator
@@ -1033,7 +876,7 @@ SUMMARY:[Hoover Institution Library & Archives] Book Talk: “Ba‘thist I
  Lisa Blaydes And Samuel Helfont
 DTSTART;TZID=America/Los_Angeles:20260826T163000
 DTEND;TZID=America/Los_Angeles:20260826T183000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53667434739844-53667434740869@local-events
 DESCRIPTION:The Hoover History Lab and Hoover Institution Library & Archiv
  es are co-hosting a hybrid event with Lisa Blaydes and Samuel Helfont to d
@@ -1044,7 +887,7 @@ DESCRIPTION:The Hoover History Lab and Hoover Institution Library & Archiv
   scholars unprecedented access to the inner workings of one of the world's
   mo\n\nAges: All ages\nSource: https://www.hoover.org/events/book-talk-bat
  hist-iraq-through-archives-reflections-explorations-and-opportunities-lisa
- \nLast synced: 2026-08-21 06:44 PDT
+ \nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Shultz Auditorium
 URL:https://www.hoover.org/events/book-talk-bathist-iraq-through-archives-
  reflections-explorations-and-opportunities-lisa
@@ -1054,7 +897,7 @@ SUMMARY:[Stanford Health Library] On Demand: Plant-Rich Snacks for Lasting
   Energy
 DTSTART;TZID=America/Los_Angeles:20260826T170000
 DTEND;TZID=America/Los_Angeles:20260826T180000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53384636572476-53384636600145@local-events
 DESCRIPTION:On Demand: Plant-rich snacks can help you feel energized and s
  atisfied throughout the day. In this video\, learn how to prepare two easy
@@ -1064,15 +907,33 @@ DESCRIPTION:On Demand: Plant-rich snacks can help you feel energized and s
  ord Health Care Clinical Nutrition and the Stanford Nutrition Research Gro
  up\, this video delivers practical\, evidence-based guidance straight to y
  o\n\nAges: All ages\nSource: https://healthlibrary.stanford.edu/video/plan
- t-powered.html#snacks\nLast synced: 2026-08-21 06:44 PDT
+ t-powered.html#snacks\nLast synced: 2026-08-22 06:32 PDT
 URL:https://healthlibrary.stanford.edu/video/plant-powered.html#snacks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Department of Psychiatry] A CLINICAL RESEARCH STUDY PROGRAM FOR M
+ AJOR DEPRESSIVE DISORDER (MDD)
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260827
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-localist-51827589730708-53762682738964@local-events
+DESCRIPTION:A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDE
+ R (MDD)\nIf your current antidepressant medication(s) is/are not adequatel
+ y improving symptoms of your MDD\, you may be eligible for the AMPA PROGRA
+ M. This program is researching an investigational drug to see if it is saf
+ e and whether it improves symptoms of MDD when taken with your current ant
+ idepressant medication(s).\n\nTo find out more\, please contact the Depres
+ sion Research Clinic:\n   Maureen Chang\n   650-725-4620\n   mhchang@stanf
+ or\n\nAges: All ages\nSource: https://med.stanford.edu/drc/research.html\n
+ Last synced: 2026-08-22 06:32 PDT
+URL:https://med.stanford.edu/drc/research.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Animal\, Vegetable\, nor Mineral: Works by Miljohn R
  uperto
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52888406473919-52888573143441@local-events
 DESCRIPTION:Animal\, Vegetable\, nor Mineral is the first large-scale solo
   museum exhibition of Manila-born\, Los Angeles-based artist Miljohn Ruper
@@ -1082,8 +943,8 @@ DESCRIPTION:Animal\, Vegetable\, nor Mineral is the first large-scale solo
  astical botanical specimens printed as gelatin silver photographs to immer
  sive apocalyptic landscapes experienced in VR\, Ruperto’s artworks highl
  ight\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/an
- imal-vegetable-nor-mineral-works-miljohn-ruperto\nLast synced: 2026-08-21 
- 06:44 PDT
+ imal-vegetable-nor-mineral-works-miljohn-ruperto\nLast synced: 2026-08-22 
+ 06:32 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/animal-vegetable-nor-mineral-w
  orks-miljohn-ruperto
@@ -1092,7 +953,7 @@ BEGIN:VEVENT
 SUMMARY:[Stanford] Carolyn Lazard: Long Take
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52881224936195-52881224959769@local-events
 DESCRIPTION:Carolyn Lazard: Long Take is a multimedia exhibition that begi
  ns with a score for a performance and unfolds as a series of interventions
@@ -1101,7 +962,7 @@ DESCRIPTION:Carolyn Lazard: Long Take is a multimedia exhibition that begi
  the central work\, Leans\, Reverses (2022)\, emerges from the relationship
   between a dance performance\, its recording\, and transcription (a choreo
  graphic score\, captions\, and audio description). The installation includ
- es t\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ es t\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Cantor Arts Center
 END:VEVENT
 BEGIN:VEVENT
@@ -1109,7 +970,7 @@ SUMMARY:[Cantor Arts] JANE! An intimate exploration of Gilded Age excess
   and the enigmatic life and death of Jane Stanford
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52880326677126-52880513738521@local-events
 DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
  ley\, JANE! celebrates the aesthetic and affective excesses of Jane Stanfo
@@ -1119,7 +980,7 @@ DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
  derside of a familiar biography and perhaps an even more familiar murder m
  ystery.\n\nFrom her elegant French gowns to a colossal painting of her jew
  els\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/jan
- e\nLast synced: 2026-08-21 06:44 PDT
+ e\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/jane
 END:VEVENT
@@ -1128,7 +989,7 @@ SUMMARY:[East Asia Library / Stanford University Libraries] Moments in the
   History of East Asian Printing
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53020733796497-53020733940972@local-events
 DESCRIPTION:Moments in the History of East Asian Printing brings together 
  rare books\, facsimiles\, woodblocks\, broadsheets\, illustrated books\, t
@@ -1137,7 +998,7 @@ DESCRIPTION:Moments in the History of East Asian Printing brings together
  g across China\, Korea\, and Japan\, from Buddhist woodblock printing and 
  movable type to lithography\, popular publishing\, travel prints\, visual 
  encyclopedias\, and the Chinese typewriter. Rather than offering a complet
- e chronol\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ e chronol\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Lathrop Library
 END:VEVENT
 BEGIN:VEVENT
@@ -1145,7 +1006,7 @@ SUMMARY:[Stanford University Libraries] Text Machines: Scarlet Thread of t
  he Digital Order (1883-2026)
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53251159287291-53251159371347@local-events
 DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
   Les laboureurs: poème tiré de Jocelyn\, whose pages (text and ornamen
@@ -1154,7 +1015,7 @@ DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
  terial conditions of Les laboureurs’ production\, and considers parall
  els between technology-driven global change in the late nineteenth century
   and in our current day. The exhibition includes microscope images reveali
- ng the\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ ng the\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
@@ -1162,14 +1023,14 @@ SUMMARY:[O'Donohue Family Stanford Educational Farm] Build Your Own Bouque
  t: O’Donohue Family Stanford Educational Farm
 DTSTART;TZID=America/Los_Angeles:20260827T100000
 DTEND;TZID=America/Los_Angeles:20260827T140000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53629749361008-53629766663055@local-events
 DESCRIPTION:Come to The O'Donohue Family Stanford Educational Farm to buil
  d your own seasonal\, organic\, flower bouquet using flowers grown on the 
  campus farm. Follow provided directions\, to make your bouquet. Flowers wi
  ll be available in buckets for your choosing. Pay onsite via QR code. This
   is a weekly event occuring every Thursday from 10am-2pm through September
- .\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ .\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:O'Donohue Educational Farm
 END:VEVENT
 BEGIN:VEVENT
@@ -1177,7 +1038,7 @@ SUMMARY:[Department of Special Collections / Stanford University Libraries
  ] Ginsberg at 100: Selections from the Allen Ginsberg Papers at Stanford
 DTSTART;TZID=America/Los_Angeles:20260827T100000
 DTEND;TZID=America/Los_Angeles:20260827T170000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52883532576991-52883532633391@local-events
 DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  ions from the Allen Ginsberg Papers at Stanford\, on view in the Peterson 
@@ -1186,14 +1047,14 @@ DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
  h on June 3\, 1926\, Stanford University Libraries will host its first-eve
  r exhibition of Ginsberg\, exploring his complex legacy as a poet\, activi
  st\, promoter\, traveler\, spiritual seeker\, and teacher. The exhibition 
- will dra\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ will dra\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Cantor Arts] In Focus: Asian American Art from the Collection
 DTSTART;TZID=America/Los_Angeles:20260827T110000
 DTEND;TZID=America/Los_Angeles:20260827T200000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53552587390086-53552587423919@local-events
 DESCRIPTION:In Focus: Asian American Art from the Collection showcases rec
  ent acquisitions made through the Cantor’s Asian American Art Initiative
@@ -1203,7 +1064,7 @@ DESCRIPTION:In Focus: Asian American Art from the Collection showcases rec
  Kwon and Cantor associate curator of modern and contemporary art Aleesa Pi
  tchamarn Alexander\, the AAAI is one of the nation's leading museum initia
  ti\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/focu
- s-asian-american-art-collection\nLast synced: 2026-08-21 06:44 PDT
+ s-asian-american-art-collection\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/focus-asian-american-art-colle
  ction
@@ -1213,7 +1074,7 @@ SUMMARY:[Stanford BeWell / Stanford Healthy Living] How to Reduce Your Env
  ironmental Toxic Exposures and Protect Your Family's Health
 DTSTART;TZID=America/Los_Angeles:20260827T120000
 DTEND;TZID=America/Los_Angeles:20260827T130000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52901302439687-52901302441738@local-events
 DESCRIPTION:Plastics and environmental toxins are everywhere — in our fo
  od packaging\, cookware\, personal care products\, and even our drinking w
@@ -1224,7 +1085,7 @@ DESCRIPTION:Plastics and environmental toxins are everywhere — in our fo
  g.\n\nIn this engaging webinar\, you'll explore the science behind how the
  se toxin\n\nAges: All ages\nSource: https://healthyliving.stanford.edu/cla
  sses/register/class_detail.php?t=1cce34dfd3cbss383d348a508b1be48cc821&ci=1
- 252753\nLast synced: 2026-08-21 06:44 PDT
+ 252753\nLast synced: 2026-08-22 06:32 PDT
 URL:https://healthyliving.stanford.edu/classes/register/class_detail.php?t
  =1cce34dfd3cbss383d348a508b1be48cc821&ci=1252753
 END:VEVENT
@@ -1233,11 +1094,11 @@ SUMMARY:[Anderson Collection at Stanford University] Spotlight Tours Thurs
  days | Anderson Collection
 DTSTART;TZID=America/Los_Angeles:20260827T120000
 DTEND;TZID=America/Los_Angeles:20260827T121500
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-46378871982905-50534762219846@local-events
 DESCRIPTION:Join a 15-minute spotlight exploring one object in the Anderso
  n Collection.\n\nNew works are featured each week! Meet at the top of the 
- stairs.\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ stairs.\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Anderson Collection
 END:VEVENT
 BEGIN:VEVENT
@@ -1245,31 +1106,31 @@ SUMMARY:[Anderson Collection at Stanford University] Spotlight Tours Thurs
  days | Anderson Collection
 DTSTART;TZID=America/Los_Angeles:20260827T123000
 DTEND;TZID=America/Los_Angeles:20260827T124500
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-46378844583273-50534794540846@local-events
 DESCRIPTION:Join a 15-minute spotlight exploring one object in the Anderso
  n Collection.\n\nNew works are featured each week! Meet at the top of the 
- stairs\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ stairs\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Anderson Collection
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Stanford Web Services] Stanford Sites Office Hours
 DTSTART;TZID=America/Los_Angeles:20260827T130000
 DTEND;TZID=America/Los_Angeles:20260827T150000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-50817491559268-50817491670982@local-events
 DESCRIPTION:Need a little help using a Stanford Sites? \n\nStanford Web Se
  rvices hosts office hours by appointment. During these half-hour appointme
  nts\, we can assist you with editing existing content\, creating new conte
  nt\, editing or adjusting site-wide options\, and more!\n\nAges: All ages
- \nLast synced: 2026-08-21 06:44 PDT
+ \nLast synced: 2026-08-22 06:32 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Art & Architecture Library / Stanford University Libraries] Summe
  r Escape at Bowes Library
 DTSTART;TZID=America/Los_Angeles:20260827T130000
 DTEND;TZID=America/Los_Angeles:20260827T170000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52951257804174-52951257852350@local-events
 DESCRIPTION:Take a little detour with Summer Escape at Bowes — our annua
  l snapshot of what’s new at the Art & Architecture Library\, presented w
@@ -1278,15 +1139,33 @@ DESCRIPTION:Take a little detour with Summer Escape at Bowes — our annua
  rrents and horizons so each visit feels like a short visual voyage. You’
  ll find newly acquired artist’s books\, photobooks\, pop-up books\, and 
  railroad cars (?) that speak to creative practice\, sustainability\, and s
- torytellin\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ torytellin\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:McMurtry Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Department of Psychiatry] A CLINICAL RESEARCH STUDY PROGRAM FOR M
+ AJOR DEPRESSIVE DISORDER (MDD)
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260828
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-localist-51827589730708-53762682739989@local-events
+DESCRIPTION:A CLINICAL RESEARCH STUDY PROGRAM FOR MAJOR DEPRESSIVE DISORDE
+ R (MDD)\nIf your current antidepressant medication(s) is/are not adequatel
+ y improving symptoms of your MDD\, you may be eligible for the AMPA PROGRA
+ M. This program is researching an investigational drug to see if it is saf
+ e and whether it improves symptoms of MDD when taken with your current ant
+ idepressant medication(s).\n\nTo find out more\, please contact the Depres
+ sion Research Clinic:\n   Maureen Chang\n   650-725-4620\n   mhchang@stanf
+ or\n\nAges: All ages\nSource: https://med.stanford.edu/drc/research.html\n
+ Last synced: 2026-08-22 06:32 PDT
+URL:https://med.stanford.edu/drc/research.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Animal\, Vegetable\, nor Mineral: Works by Miljohn R
  uperto
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52888406473919-52888573145490@local-events
 DESCRIPTION:Animal\, Vegetable\, nor Mineral is the first large-scale solo
   museum exhibition of Manila-born\, Los Angeles-based artist Miljohn Ruper
@@ -1296,8 +1175,8 @@ DESCRIPTION:Animal\, Vegetable\, nor Mineral is the first large-scale solo
  astical botanical specimens printed as gelatin silver photographs to immer
  sive apocalyptic landscapes experienced in VR\, Ruperto’s artworks highl
  ight\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/an
- imal-vegetable-nor-mineral-works-miljohn-ruperto\nLast synced: 2026-08-21 
- 06:44 PDT
+ imal-vegetable-nor-mineral-works-miljohn-ruperto\nLast synced: 2026-08-22 
+ 06:32 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/animal-vegetable-nor-mineral-w
  orks-miljohn-ruperto
@@ -1307,7 +1186,7 @@ SUMMARY:[Branner Earth Sciences Library / Stanford University Libraries] B
  ranner Library Monthly Book & Map Exhibit - Mapping the Oceans
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-53305547834880-53305563449748@local-events
 DESCRIPTION:Branner Earth Sciences Library & Map Collection exhibit series
  : Oceans\n\nIn the 2025–2026 academic year\, Branner Library’s exhibit
@@ -1316,14 +1195,14 @@ DESCRIPTION:Branner Earth Sciences Library & Map Collection exhibit series
  bition explores the history\, science\, and technologies used to chart Ear
  th’s largest environment. The collection highlights how cartographers\, 
  navigators\, geologists\, and oceanographers have transformed our understa
- nding of the ocean\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ nding of the ocean\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Mitchell Earth Sciences
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Stanford] Carolyn Lazard: Long Take
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52881224936195-52881224960794@local-events
 DESCRIPTION:Carolyn Lazard: Long Take is a multimedia exhibition that begi
  ns with a score for a performance and unfolds as a series of interventions
@@ -1332,32 +1211,1595 @@ DESCRIPTION:Carolyn Lazard: Long Take is a multimedia exhibition that begi
  the central work\, Leans\, Reverses (2022)\, emerges from the relationship
   between a dance performance\, its recording\, and transcription (a choreo
  graphic score\, captions\, and audio description). The installation includ
- es t\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ es t\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Cantor Arts Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Stanford Recreation and Wellness] Flash Sale Fridays
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-localist-52808096616571-52808109377282@local-events
 DESCRIPTION:20% OFF GEAR HUB ITEMS EVERY FRIDAY!\n\nStarting on Friday\, M
  ay 1st\, The Gear Hub will be\nselling gear hub items for 20% off at the A
  rrillaga Center for Sports and Recreation.\n\nSUID card and form of paymen
  t (credit card\, debit\, or ApplePay) is required at time of purchase.\n\n
- Ages: All ages\nLast synced: 2026-08-21 06:44 PDT
+ Ages: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Arrillaga Center for Sports and Recreation
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Cantor Arts] JANE! An intimate exploration of Gilded Age excess 
+  and the enigmatic life and death of Jane Stanford
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260828
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-localist-52880326677126-52880513738522@local-events
+DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
+ ley\, JANE! celebrates the aesthetic and affective excesses of Jane Stanfo
+ rd\, the Gilded Age founder and matriarch of Stanford University. Bringing
+  together precious keepsakes\, souvenirs\, archaeological detritus\, and s
+ pooky messages from beyond the grave\, the exhibition reveals the campy un
+ derside of a familiar biography and perhaps an even more familiar murder m
+ ystery.\n\nFrom her elegant French gowns to a colossal painting of her jew
+ els\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/jan
+ e\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:Cantor Arts Center
+URL:https://museum.stanford.edu/exhibitions/jane
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[East Asia Library / Stanford University Libraries] Moments in the
+  History of East Asian Printing
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260828
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-localist-53020733796497-53020733941997@local-events
+DESCRIPTION:Moments in the History of East Asian Printing brings together 
+ rare books\, facsimiles\, woodblocks\, broadsheets\, illustrated books\, t
+ ypewriter materials\, and other objects from the East Asia Library’s col
+ lections. The exhibit explores selected episodes in the history of printin
+ g across China\, Korea\, and Japan\, from Buddhist woodblock printing and 
+ movable type to lithography\, popular publishing\, travel prints\, visual 
+ encyclopedias\, and the Chinese typewriter. Rather than offering a complet
+ e chronol\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:Lathrop Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Center for Continuing Medical Education] Stanford Orthop
+ aedic Trauma Symposium
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260828
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-localist-53002107624161-53002107624162@local-events
+DESCRIPTION:Overview\nCommunity orthopaedic surgeons take call. They manag
+ e open fractures\, periprosthetic failures\, and on-call dilemmas — ofte
+ n alone\, often under pressure. This symposium is built around those cases
+ .\n\nThe Stanford Orthopaedic Trauma Symposium brings together high-volume
+  trauma faculty for a focused\, case-driven weekend. The format covers wha
+ t matters in practice: emergency room management\, challenging fractures\,
+  and the decision-making that defines good trauma care. Didactics\, debate
+ s\, cas\n\nAges: All ages\nSource: https://stanford.cloud-cme.com/course/c
+ ourseoverview?P=0&EID=52907\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:The Quail Lodge
+URL:https://stanford.cloud-cme.com/course/courseoverview?P=0&EID=52907
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford University Libraries] Text Machines: Scarlet Thread of t
+ he Digital Order (1883-2026)
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260828
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-localist-53251159287291-53251159372372@local-events
+DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
+  Les laboureurs: poème tiré de Jocelyn\, whose pages (text and ornamen
+ ts) were entirely woven on a Jacquard loom by the firm of silk merchant Jo
+ seph-Alphonse Henry. This exhibition explores the cultural contexts and ma
+ terial conditions of Les laboureurs’ production\, and considers parall
+ els between technology-driven global change in the late nineteenth century
+  and in our current day. The exhibition includes microscope images reveali
+ ng the\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:Green Library\, Bing Wing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Office of Medical Student Affairs] University thesis\, D.M.A. fin
+ al project\, or Ph.D. dissertation\, last day to submit (noon).
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260828
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-localist-49464004398322-49464004399347@local-events
+DESCRIPTION:Ages: All ages\nLast synced: 2026-08-22 06:32 PDT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Department of Special Collections / Stanford University Libraries
+ ] Ginsberg at 100: Selections from the Allen Ginsberg Papers at Stanford
+DTSTART;TZID=America/Los_Angeles:20260828T100000
+DTEND;TZID=America/Los_Angeles:20260828T170000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-localist-52883532576991-52883532633392@local-events
+DESCRIPTION:Stanford University Libraries presents Ginsberg at 100: Select
+ ions from the Allen Ginsberg Papers at Stanford\, on view in the Peterson 
+ Gallery and Munger Rotunda of the Cecil H. Green Library from June 5 to Se
+ ptember 5\, 2026. \n\nIn honor of the centenary of Allen Ginsberg’s birt
+ h on June 3\, 1926\, Stanford University Libraries will host its first-eve
+ r exhibition of Ginsberg\, exploring his complex legacy as a poet\, activi
+ st\, promoter\, traveler\, spiritual seeker\, and teacher. The exhibition 
+ will dra\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:Green Library\, Bing Wing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Move-in for 1Ls
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10002795-1787529600-1787615999@law.stanford.edu-20
+ 26-08-24T00:00:00-07:00@local-events
+DESCRIPTION:https://law.stanford.edu/event/move-in-for-1ls/\n\nAges: All a
+ ges\nSource: https://law.stanford.edu/event/move-in-for-1ls/\nLast synced:
+  2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/move-in-for-1ls/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Last day to annul Autumn Registration (1L)
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003145-1787529600-1787615999@law.stanford.edu-20
+ 26-08-24T00:00:00-07:00@local-events
+DESCRIPTION:https://law.stanford.edu/event/last-day-to-annul-autumn-regist
+ ration-1l/\n\nAges: All ages\nSource: https://law.stanford.edu/event/last-
+ day-to-annul-autumn-registration-1l/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/last-day-to-annul-autumn-registration-1
+ l/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Mawlid al Nabi (Muslim)
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003149-1787529600-1787615999@law.stanford.edu-20
+ 26-08-24T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/mawlid-al-nabi
+ -muslim/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/mawlid-al-nabi-muslim/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Birth Anniversary of Prophet Zarathustra (Zoroastri
+ an)
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003151-1787529600-1787615999@law.stanford.edu-20
+ 26-08-24T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/birth-annivers
+ ary-of-prophet-zarathustra/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/birth-anniversary-of-prophet-zarathustr
+ a/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Orientation Begins
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10002796-1787616000-1787702399@law.stanford.edu-20
+ 26-08-25T00:00:00-07:00@local-events
+DESCRIPTION:https://law.stanford.edu/event/orientation-begins-2/\n\nAges: 
+ All ages\nSource: https://law.stanford.edu/event/orientation-begins-2/\nLa
+ st synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/orientation-begins-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Rock Center 50 Minutes: Geopolitics and Its Discont
+ ents with Michael Hanna\, hosted by Kimathi Marangu
+DTSTART;TZID=America/Los_Angeles:20260826T090000
+DTEND;TZID=America/Los_Angeles:20260826T100000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003131-1787734800-1787738400@law.stanford.edu-20
+ 26-08-26T09:00:00-07:00@local-events
+DESCRIPTION:Join the Rock Center for Corporate Governance for the next ins
+ tallment of Rock Center 50 Minutes\, a webinar series hosted by Kimathi M
+ arangu. Designed for corporate directors and senior executives\, the serie
+ s brings a governance perspective to relevant developments in business\, t
+ echnology\, and global affairs. \nIn this session\, Kimathi will welcome 
+ Michael Hanna\, U.S. Program Director of the International Crisis Group\,
+  for a briefing on the geopolitical dynamics corporate leaders should be w
+ atchi\n\nAges: All ages\nSource: https://law.stanford.edu/event/rock-cente
+ r-50-minutes-geopolitics-and-its-discontents-with-michael-hana-hosted-by-k
+ imathi-marangu/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:Online
+URL:https://law.stanford.edu/event/rock-center-50-minutes-geopolitics-and-
+ its-discontents-with-michael-hana-hosted-by-kimathi-marangu/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Raksha Bandhan (Hindu)
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003152-1787875200-1787961599@law.stanford.edu-20
+ 26-08-28T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/raksha-bandhan
+ /\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/raksha-bandhan/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Rock Center 50 Minutes: Earning the Next Step\, wit
+ h NBA Player Spencer Keith Jones\, hosted by Kimathi Marangu
+DTSTART;TZID=America/Los_Angeles:20260828T090000
+DTEND;TZID=America/Los_Angeles:20260828T100000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003192-1787907600-1787911200@law.stanford.edu-20
+ 26-08-28T09:00:00-07:00@local-events
+DESCRIPTION:Join the Rock Center for Corporate Governance for the next ins
+ tallment of Rock Center 50 Minutes\, a webinar series hosted by Kimathi M
+ arangu. Designed for corporate directors and senior executives\, the serie
+ s brings a governance perspective to timely developments in business\, tec
+ hnology\, and leadership. \nIn this installment\, Kimathi sits down on the
+  Stanford campus with Spencer Keith Jones\, Stanford ’23 (MS&E) and smal
+ l forward for the Denver Nuggets\, whose path to a full-time NBA roster sp
+ ot ha\n\nAges: All ages\nSource: https://law.stanford.edu/event/rock-cente
+ r-50-minutes-earning-the-next-step-with-nba-player-spencer-keith-jones-hos
+ ted-by-kimathi-marangu/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:Online
+URL:https://law.stanford.edu/event/rock-center-50-minutes-earning-the-next
+ -step-with-nba-player-spencer-keith-jones-hosted-by-kimathi-marangu/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] 1L/AdvDeg classes begin
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10002798-1788134400-1788220799@law.stanford.edu-20
+ 26-08-31T00:00:00-07:00@local-events
+DESCRIPTION:https://law.stanford.edu/event/1l-advdeg-classes-begin/\n\nAge
+ s: All ages\nSource: https://law.stanford.edu/event/1l-advdeg-classes-begi
+ n/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/1l-advdeg-classes-begin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] DoNut Stress/Snackteus Reus in the Library
+DTSTART;TZID=America/Los_Angeles:20260831T090000
+DTEND;TZID=America/Los_Angeles:20260831T120000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003227-1788166800-1788177600@law.stanford.edu-20
+ 26-08-31T09:00:00-07:00@local-events
+DESCRIPTION:To help kick off the first day of classes\, stop by the librar
+ y for donuts! This is a special early edition of an event we run during ex
+ ams\, so come check it out and see what’s in store later this term. Welc
+ ome to SLS from the whole library team!\n\nhttps://law.stanford.edu/event/
+ donut-stress-snackteus-reus-in-the-library/\n\nThis is a Stanford Law Scho
+ ol community event.\n\nAges: All ages\nSource: https://law.stanford.edu/ev
+ ent/donut-stress-snackteus-reus-in-the-library/\nLast synced: 2026-08-22 0
+ 6:32 PDT
+LOCATION:@ Stanford Law School\, 559 Nathan Abbott Way\, Stanford\, CA\, 9
+ 4305\, United States
+URL:https://law.stanford.edu/event/donut-stress-snackteus-reus-in-the-libr
+ ary/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Installation of the Sri Guru Granth Sahib Ji (Sikh)
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003153-1788220800-1788307199@law.stanford.edu-20
+ 26-09-01T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/installation-o
+ f-the-sri-guru-granth-sahib-ji/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/installation-of-the-sri-guru-granth-sah
+ ib-ji/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] 1L Private Sector Job Search Workshop
+DTSTART;TZID=America/Los_Angeles:20260901T130000
+DTEND;TZID=America/Los_Angeles:20260901T140000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003109-1788267600-1788271200@law.stanford.edu-20
+ 26-09-01T13:00:00-07:00@local-events
+DESCRIPTION:Learn about starting your private sector job search\, market r
+ ealities\, available resources and what you can do now to prepare.\n\nhttp
+ s://law.stanford.edu/event/1l-private-sector-job-search-workshop/\n\nThis 
+ is a Stanford Law School private/or invitation only event.\n\nAges: All ag
+ es\nSource: https://law.stanford.edu/event/1l-private-sector-job-search-wo
+ rkshop/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 290\, 559 Nathan Abbott Way\, Stanford\, CA\, 94305-8
+ 610\, United States
+URL:https://law.stanford.edu/event/1l-private-sector-job-search-workshop/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] SLS Social
+DTSTART;TZID=America/Los_Angeles:20260901T153000
+DTEND;TZID=America/Los_Angeles:20260901T170000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003228-1788276600-1788282000@law.stanford.edu-20
+ 26-09-01T15:30:00-07:00@local-events
+DESCRIPTION:All are invited to participate in the community social and mee
+ t our new students. Food will be provided by OSA\n\nhttps://law.stanford.e
+ du/event/sls-social/\n\nThis is a Stanford Law School private/or invitatio
+ n only event.\n\nAges: All ages\nSource: https://law.stanford.edu/event/sl
+ s-social/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Crocker Garden\, Crown Quadrangle\, 559 Nathan Abbott Way
+ \, Stanford\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/sls-social/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] NY (Columbia) and West Coast (UCLA) Job Fair Prepar
+ ation Session
+DTSTART;TZID=America/Los_Angeles:20260902T130000
+DTEND;TZID=America/Los_Angeles:20260902T150000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003134-1788354000-1788361200@law.stanford.edu-20
+ 26-09-02T13:00:00-07:00@local-events
+DESCRIPTION:This workshop is for the Advanced Degree students who are inte
+ rested in looking for private sector opportunities in the U.S. and worldwi
+ de.\n\nhttps://law.stanford.edu/event/ny-columbia-and-west-coast-ucla-job-
+ fair-preparation-session-2/\n\nThis is a Stanford Law School private/or in
+ vitation only event.\n\nAges: All ages\nSource: https://law.stanford.edu/e
+ vent/ny-columbia-and-west-coast-ucla-job-fair-preparation-session-2/\nLast
+  synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 190\, Crown Quadrangle 559 Nathan Abbott Way\, Stanfo
+ rd\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/ny-columbia-and-west-coast-ucla-job-fai
+ r-preparation-session-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Farm2Firm
+DTSTART;TZID=America/Los_Angeles:20260903T153000
+DTEND;TZID=America/Los_Angeles:20260903T173000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003060-1788449400-1788456600@law.stanford.edu-20
+ 26-09-03T15:30:00-07:00@local-events
+DESCRIPTION:TBD\n\nhttps://law.stanford.edu/event/farm2firm/\n\nThis is a 
+ Stanford Law School private/or invitation only event.\n\nAges: All ages\nS
+ ource: https://law.stanford.edu/event/farm2firm/\nLast synced: 2026-08-22 
+ 06:32 PDT
+LOCATION:@ SLS\, Crown Quadrangle\, 559 Nathan Abbott Way\, Stanford\, CA
+ \, 94305-8610\, United States
+URL:https://law.stanford.edu/event/farm2firm/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Sri Krishna Jayanti / Janmashtami (Hindu)
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003154-1788480000-1788566399@law.stanford.edu-20
+ 26-09-04T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/sri-krishna-ja
+ yanti-janmashtami/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/sri-krishna-jayanti-janmashtami/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Advanced Degree NY & CA Bar Presentation
+DTSTART;TZID=America/Los_Angeles:20260904T130000
+DTEND;TZID=America/Los_Angeles:20260904T140000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003110-1788526800-1788530400@law.stanford.edu-20
+ 26-09-04T13:00:00-07:00@local-events
+DESCRIPTION:If you are an Advanced Degree student and you have ANY plans 
+ to sit for either the New York or California Bar\, please come to this pre
+ sentation with Director of Academic Success\, Sarah Brim\, to learn about 
+ these bar exams and the steps you will need to complete to qualify to take
+  them.  Cookies and coffee will be provided\, but please plan to bring yo
+ ur own lunch.\n\nhttps://law.stanford.edu/event/advanced-degree-ny-ca-bar-
+ presentation-2/\n\nThis is a Stanford Law School private/or invitation onl
+ y ev\n\nAges: All ages\nSource: https://law.stanford.edu/event/advanced-de
+ gree-ny-ca-bar-presentation-2/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 190\, Crown Quadrangle 559 Nathan Abbott Way\, Stanfo
+ rd\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/advanced-degree-ny-ca-bar-presentation-
+ 2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Labor Day Holiday
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10002799-1788739200-1788825599@law.stanford.edu-20
+ 26-09-07T00:00:00-07:00@local-events
+DESCRIPTION:https://law.stanford.edu/event/labor-day-holiday-2/\n\nAges: A
+ ll ages\nSource: https://law.stanford.edu/event/labor-day-holiday-2/\nLast
+  synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/labor-day-holiday-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] S-Term Begins
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10002800-1788825600-1788911999@law.stanford.edu-20
+ 26-09-08T00:00:00-07:00@local-events
+DESCRIPTION:https://law.stanford.edu/event/s-term-begins-2/\n\nAges: All a
+ ges\nSource: https://law.stanford.edu/event/s-term-begins-2/\nLast synced:
+  2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/s-term-begins-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Paryushana-parva (Jain)
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260916
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003155-1788825600-1789516799@law.stanford.edu-20
+ 26-09-08T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/paryushana-par
+ va/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/paryushana-parva/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] 1L Spotlight Panel Series
+DTSTART;TZID=America/Los_Angeles:20260908T124500
+DTEND;TZID=America/Los_Angeles:20260908T140000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003116-1788871500-1788876000@law.stanford.edu-20
+ 26-09-08T12:45:00-07:00@local-events
+DESCRIPTION:For a few weeks in September\, we’ll be hosting a series of 
+ “spotlight” practice area panels. Each panel will focus on a few diffe
+ rent practice areas that fall together under a general topic. Experienced 
+ attorneys in those areas will talk about what that practice is like – wh
+ at they do day-to-day\, what they find interesting/challenging about their
+  work\, and how they got to where they are. Wondering what appellate litig
+ ation lawyers do? Think you might like to be an M&A attorney? The Spotligh
+ t Pan\n\nAges: All ages\nSource: https://law.stanford.edu/event/1l-spotlig
+ ht-panel-series/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 290\, 559 Nathan Abbott Way\, Stanford\, CA\, 94305-8
+ 610\, United States
+URL:https://law.stanford.edu/event/1l-spotlight-panel-series/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] U.S Networking Foundations – How to Conduct an In
+ formational Interview and Craft your Elevator Pitch (Workshop #2)
+DTSTART;TZID=America/Los_Angeles:20260908T130000
+DTEND;TZID=America/Los_Angeles:20260908T150000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003135-1788872400-1788879600@law.stanford.edu-20
+ 26-09-08T13:00:00-07:00@local-events
+DESCRIPTION:Building on Part 1\, we develop your method of contact and out
+ reach to professionals in your chosen practice area. Learn how to establis
+ h contact\, build and maintain these relationships. \nPart 2 of the OCS Pr
+ ofessional Development series for International Students.\n\nhttps://law.s
+ tanford.edu/event/u-s-networking-foundations-how-to-conduct-an-information
+ al-interview-and-craft-your-elevator-pitch-workshop-2/\n\nThis is a Stanfo
+ rd Law School private/or invitation only event.\n\nAges: All ages\nSource:
+  https://law.stanford.edu/event/u-s-networking-foundations-how-to-conduct-
+ an-informational-interview-and-craft-your-elevator-pitch-workshop-2/\nLast
+  synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 190\, Crown Quadrangle 559 Nathan Abbott Way\, Stanfo
+ rd\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/u-s-networking-foundations-how-to-condu
+ ct-an-informational-interview-and-craft-your-elevator-pitch-workshop-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] 1L Spotlight Panel Series
+DTSTART;TZID=America/Los_Angeles:20260909T124500
+DTEND;TZID=America/Los_Angeles:20260909T140000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003117-1788957900-1788962400@law.stanford.edu-20
+ 26-09-09T12:45:00-07:00@local-events
+DESCRIPTION:For a few weeks in September\, we’ll be hosting a series of 
+ “spotlight” practice area panels. Each panel will focus on a few diffe
+ rent practice areas that fall together under a general topic. Experienced 
+ attorneys in those areas will talk about what that practice is like – wh
+ at they do day-to-day\, what they find interesting/challenging about their
+  work\, and how they got to where they are. Wondering what appellate litig
+ ation lawyers do? Think you might like to be an M&A attorney? The Spotligh
+ t Pan\n\nAges: All ages\nSource: https://law.stanford.edu/event/1l-spotlig
+ ht-panel-series-2/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 290\, 559 Nathan Abbott Way\, Stanford\, CA\, 94305-8
+ 610\, United States
+URL:https://law.stanford.edu/event/1l-spotlight-panel-series-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Public Interest Faculty Perspectives
+DTSTART;TZID=America/Los_Angeles:20260909T124500
+DTEND;TZID=America/Los_Angeles:20260909T140000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003140-1788957900-1788962400@law.stanford.edu-20
+ 26-09-09T12:45:00-07:00@local-events
+DESCRIPTION:Meet Professors Jayashri Srikantiah\, Pamela S. Karlan\, Matth
+ ew J. Sanders\, and Michelle Wilde Anderson and hear how they built career
+ s in public interest and public service. Get their advice on navigating la
+ w school\, exploring career paths\, and finding your own direction. Bring 
+ your questions and your appetite! Please RSVP for lunch.\n\nhttps://law.st
+ anford.edu/event/public-interest-faculty-perspectives/\n\nThis is a Stanfo
+ rd Law School community event.\n\nRSVP for Lunch: https://docs.google.com/
+ sprea\n\nAges: All ages\nSource: https://law.stanford.edu/event/public-int
+ erest-faculty-perspectives/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 180\, Crown Quadrangle 559 Nathan Abbott Way\, Stanfo
+ rd\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/public-interest-faculty-perspectives/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] 1L Spotlight Panel Series
+DTSTART;TZID=America/Los_Angeles:20260910T124500
+DTEND;TZID=America/Los_Angeles:20260910T140000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003118-1789044300-1789048800@law.stanford.edu-20
+ 26-09-10T12:45:00-07:00@local-events
+DESCRIPTION:For a few weeks in September\, we’ll be hosting a series of 
+ “spotlight” practice area panels. Each panel will focus on a few diffe
+ rent practice areas that fall together under a general topic. Experienced 
+ attorneys in those areas will talk about what that practice is like – wh
+ at they do day-to-day\, what they find interesting/challenging about their
+  work\, and how they got to where they are. Wondering what appellate litig
+ ation lawyers do? Think you might like to be an M&A attorney? The Spotligh
+ t Pan\n\nAges: All ages\nSource: https://law.stanford.edu/event/1l-spotlig
+ ht-panel-series-3/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 290\, 559 Nathan Abbott Way\, Stanford\, CA\, 94305-8
+ 610\, United States
+URL:https://law.stanford.edu/event/1l-spotlight-panel-series-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Rosh Hashanah (Jewish)
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260914
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003156-1789084800-1789343999@law.stanford.edu-20
+ 26-09-11T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/rosh-hashanah/
+ \nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/rosh-hashanah/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] 1L Spotlight Panel Series
+DTSTART;TZID=America/Los_Angeles:20260911T124500
+DTEND;TZID=America/Los_Angeles:20260911T140000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003119-1789130700-1789135200@law.stanford.edu-20
+ 26-09-11T12:45:00-07:00@local-events
+DESCRIPTION:For a few weeks in September\, we’ll be hosting a series of 
+ “spotlight” practice area panels. Each panel will focus on a few diffe
+ rent practice areas that fall together under a general topic. Experienced 
+ attorneys in those areas will talk about what that practice is like – wh
+ at they do day-to-day\, what they find interesting/challenging about their
+  work\, and how they got to where they are. Wondering what appellate litig
+ ation lawyers do? Think you might like to be an M&A attorney? The Spotligh
+ t Pan\n\nAges: All ages\nSource: https://law.stanford.edu/event/1l-spotlig
+ ht-panel-series-4/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 290\, 559 Nathan Abbott Way\, Stanford\, CA\, 94305-8
+ 610\, United States
+URL:https://law.stanford.edu/event/1l-spotlight-panel-series-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] OCS Open House – Job Search and Resume Review for
+  Advanced Degree Students
+DTSTART;TZID=America/Los_Angeles:20260911T130000
+DTEND;TZID=America/Los_Angeles:20260911T150000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003136-1789131600-1789138800@law.stanford.edu-20
+ 26-09-11T13:00:00-07:00@local-events
+DESCRIPTION:TBD\n\nhttps://law.stanford.edu/event/ocs-open-house-job-searc
+ h-and-resume-review-for-advanced-degree-students/\n\nThis is a Stanford La
+ w School private/or invitation only event.\n\nAges: All ages\nSource: http
+ s://law.stanford.edu/event/ocs-open-house-job-search-and-resume-review-for
+ -advanced-degree-students/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 190\, Crown Quadrangle 559 Nathan Abbott Way\, Stanfo
+ rd\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/ocs-open-house-job-search-and-resume-re
+ view-for-advanced-degree-students/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Ganesh Chaturthi (Hindu)
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003157-1789344000-1789430399@law.stanford.edu-20
+ 26-09-14T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/ganesh-chaturt
+ hi/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/ganesh-chaturthi/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] 1L Spotlight Panel Series
+DTSTART;TZID=America/Los_Angeles:20260914T124500
+DTEND;TZID=America/Los_Angeles:20260914T140000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003120-1789389900-1789394400@law.stanford.edu-20
+ 26-09-14T12:45:00-07:00@local-events
+DESCRIPTION:For a few weeks in September\, we’ll be hosting a series of 
+ “spotlight” practice area panels. Each panel will focus on a few diffe
+ rent practice areas that fall together under a general topic. Experienced 
+ attorneys in those areas will talk about what that practice is like – wh
+ at they do day-to-day\, what they find interesting/challenging about their
+  work\, and how they got to where they are. Wondering what appellate litig
+ ation lawyers do? Think you might like to be an M&A attorney? The Spotligh
+ t Pan\n\nAges: All ages\nSource: https://law.stanford.edu/event/1l-spotlig
+ ht-panel-series-5/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 290\, 559 Nathan Abbott Way\, Stanford\, CA\, 94305-8
+ 610\, United States
+URL:https://law.stanford.edu/event/1l-spotlight-panel-series-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Samvatsari (Jain)
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003158-1789430400-1789516799@law.stanford.edu-20
+ 26-09-15T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/samvatsari/\nL
+ ast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/samvatsari/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] 1L Spotlight Panel Series
+DTSTART;TZID=America/Los_Angeles:20260915T124500
+DTEND;TZID=America/Los_Angeles:20260915T140000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003121-1789476300-1789480800@law.stanford.edu-20
+ 26-09-15T12:45:00-07:00@local-events
+DESCRIPTION:For a few weeks in September\, we’ll be hosting a series of 
+ “spotlight” practice area panels. Each panel will focus on a few diffe
+ rent practice areas that fall together under a general topic. Experienced 
+ attorneys in those areas will talk about what that practice is like – wh
+ at they do day-to-day\, what they find interesting/challenging about their
+  work\, and how they got to where they are. Wondering what appellate litig
+ ation lawyers do? Think you might like to be an M&A attorney? The Spotligh
+ t Pan\n\nAges: All ages\nSource: https://law.stanford.edu/event/1l-spotlig
+ ht-panel-series-6/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 290\, 559 Nathan Abbott Way\, Stanford\, CA\, 94305-8
+ 610\, United States
+URL:https://law.stanford.edu/event/1l-spotlight-panel-series-6/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Daslakshan-parva (Jain)
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260926
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003159-1789516800-1790380799@law.stanford.edu-20
+ 26-09-16T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/daslakshan-par
+ va/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/daslakshan-parva/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Transfer Student Orientation
+DTSTART;TZID=America/Los_Angeles:20260917T123000
+DTEND;TZID=America/Los_Angeles:20260917T140000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003128-1789648200-1789653600@law.stanford.edu-20
+ 26-09-17T12:30:00-07:00@local-events
+DESCRIPTION:This luncheon serves as an Orientation of sorts for our transf
+ er students. It’s a chance to meet SLS administrators\, SLA Co-President
+ s\, and a few classmates. We’ll go over the things we think transfer stu
+ dents need to know\, and answer questions. Afterwards\, we’ll provide a 
+ tour of the law school.\n\nhttps://law.stanford.edu/event/transfer-student
+ -orientation/\n\nThis is a Stanford Law School private/or invitation only 
+ event.\n\nRSVP: https://forms.gle/CT6RLAFNQ9qvZLm99\n\nAges: All ages\nSou
+ rce: https://law.stanford.edu/event/transfer-student-orientation/\nLast sy
+ nced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Crocker Garden\, Crown Quadrangle\, 559 Nathan Abbott Way
+ \, Stanford\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/transfer-student-orientation/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Constitution Day
+DTSTART;TZID=America/Los_Angeles:20260917T170000
+DTEND;TZID=America/Los_Angeles:20260917T183000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10002720-1789664400-1789669800@law.stanford.edu-20
+ 26-09-17T17:00:00-07:00@local-events
+DESCRIPTION:Since 2004\, all academic institutions that receive federal fu
+ nds are mandated by law to host educational events on or near September 17
+ . At Stanford University\, the Stanford Constitutional Law Center annually
+  does the honors. SLS Dean George Triantis\, Richard E. Lang Professor of 
+ Law\, and Michael McConnell\, Richard and Frances Mallery Professor of Law
+ \, director of the Constitutional Law Center\, and a senior fellow at the 
+ Hoover Institution\, will provide welcome remarks that underscore the impo
+ rt\n\nAges: All ages\nSource: https://law.stanford.edu/event/constitution-
+ day-2/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 290\, 559 Nathan Abbott Way\, Stanford\, CA\, 94305-8
+ 610\, United States
+URL:https://law.stanford.edu/event/constitution-day-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Yom Kippur (Jewish)
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260922
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003160-1789862400-1790035199@law.stanford.edu-20
+ 26-09-20T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/yom-kippur/\nL
+ ast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/yom-kippur/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] 1L/AdvDeg Monday Classes Meet
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10002801-1789948800-1790035199@law.stanford.edu-20
+ 26-09-21T00:00:00-07:00@local-events
+DESCRIPTION:https://law.stanford.edu/event/1l-advdeg-classes-meet/\n\nAges
+ : All ages\nSource: https://law.stanford.edu/event/1l-advdeg-classes-meet/
+ \nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/1l-advdeg-classes-meet/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Inside Mass Tort Litigation: A Lunch Talk with Lead
+ ing Plaintiffs’ Lawyers
+DTSTART;TZID=America/Los_Angeles:20260924T124500
+DTEND;TZID=America/Los_Angeles:20260924T134500
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003122-1790253900-1790257500@law.stanford.edu-20
+ 26-09-24T12:45:00-07:00@local-events
+DESCRIPTION:Some of the nation’s most consequential litigation — over 
+ the opioid crisis\, the Roundup herbicide\, and children’s safety on the
+  Roblox platform — is being led by a small group of plaintiffs’ lawyer
+ s. In this lunchtime talk\, some of these leading lawyers will discuss how
+  cases of this scale are built and litigated\, what the day-to-day work of
+  representing plaintiffs in mass torts and multidistrict litigation actua
+ lly involves\, and what career paths in plaintiffs’-side litigation look
+  like. Moder\n\nAges: All ages\nSource: https://law.stanford.edu/event/ins
+ ide-mass-tort-litigation-a-lunch-talk-with-leading-plaintiffs-lawyers/\nLa
+ st synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 290\, 559 Nathan Abbott Way\, Stanford\, CA\, 94305-8
+ 610\, United States
+URL:https://law.stanford.edu/event/inside-mass-tort-litigation-a-lunch-tal
+ k-with-leading-plaintiffs-lawyers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Sukkot (Jewish)
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003162-1790294400-1790985599@law.stanford.edu-20
+ 26-09-25T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/sukkot/\nLast 
+ synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/sukkot/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Student Organization Fair
+DTSTART;TZID=America/Los_Angeles:20260925T124500
+DTEND;TZID=America/Los_Angeles:20260925T140000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003139-1790340300-1790344800@law.stanford.edu-20
+ 26-09-25T12:45:00-07:00@local-events
+DESCRIPTION:All new students are welcome to participate in our student org
+ anization fair and get to know this year’s leaders and offerings.\n\nhtt
+ ps://law.stanford.edu/event/student-organization-fair/\n\nThis is a Stanfo
+ rd Law School private/or invitation only event.\n\nAges: All ages\nSource:
+  https://law.stanford.edu/event/student-organization-fair/\nLast synced: 2
+ 026-08-22 06:32 PDT
+LOCATION:@ SLS: Cooley Courtyard\, 559 Nathan Abbott Way\, Stanford\, CA\,
+  94305-8610\, United States
+URL:https://law.stanford.edu/event/student-organization-fair/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Pitru Paksha (Hindu)
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003163-1790380800-1790467199@law.stanford.edu-20
+ 26-09-26T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/pitru-paksha/
+ \nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/pitru-paksha/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Kshamavani (Jain)
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003164-1790467200-1790553599@law.stanford.edu-20
+ 26-09-27T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/kshamavani/\nL
+ ast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/kshamavani/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Shemini Atzeret (Jewish)
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003165-1790899200-1791071999@law.stanford.edu-20
+ 26-10-02T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/shemini-atzere
+ t/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/shemini-atzeret/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Simchat Torah (Jewish)
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003187-1790985600-1791158399@law.stanford.edu-20
+ 26-10-03T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/simchat-torah-
+ jewish/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/simchat-torah-jewish/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] SLS Wellness Week 2026
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003101-1791158400-1791590399@law.stanford.edu-20
+ 26-10-05T00:00:00-07:00@local-events
+DESCRIPTION:Events throughout the week. Details TBA.\n\nhttps://law.stanfo
+ rd.edu/event/sls-wellness-week-2026/\n\nThis is a Stanford Law School comm
+ unity event.\n\nAges: All ages\nSource: https://law.stanford.edu/event/sls
+ -wellness-week-2026/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS\, Crown Quadrangle\, 559 Nathan Abbott Way\, Stanford\, CA
+ \, 94305-8610\, United States
+URL:https://law.stanford.edu/event/sls-wellness-week-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Inside AI-Native: A Lunch Talk Exploring New Practi
+ ce Models
+DTSTART;TZID=America/Los_Angeles:20261005T124500
+DTEND;TZID=America/Los_Angeles:20261005T140000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003230-1791204300-1791208800@law.stanford.edu-20
+ 26-10-05T12:45:00-07:00@local-events
+DESCRIPTION:AI-native law firms are dominating industry headlines. This mo
+ del raises interesting questions about lawyer training and development\, i
+ nnovation and R&D\, risk and compliance\, nonlawyer investment\, and regul
+ atory frameworks\, among others. In this lunchtime talk\, lawyers at the f
+ rontline of AI-native legal services innovation will consider how the AI-n
+ ative model is transforming law practice. Open to the Stanford community\;
+  no legal background required. Lunch provided.\n\nhttps://law.stanford.edu
+ /ev\n\nAges: All ages\nSource: https://law.stanford.edu/event/inside-ai-na
+ tive-a-lunch-talk-exploring-new-practice-models/\nLast synced: 2026-08-22 
+ 06:32 PDT
+LOCATION:@ SLS: Room 290\, 559 Nathan Abbott Way\, Stanford\, CA\, 94305-8
+ 610\, United States
+URL:https://law.stanford.edu/event/inside-ai-native-a-lunch-talk-exploring
+ -new-practice-models/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Loan Repayment Assistance Program (LRAP) Info Sessi
+ on
+DTSTART;TZID=America/Los_Angeles:20261005T130000
+DTEND;TZID=America/Los_Angeles:20261005T140000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003137-1791205200-1791208800@law.stanford.edu-20
+ 26-10-05T13:00:00-07:00@local-events
+DESCRIPTION:Bring your lunch and join Senior Associate Dean Frank Brucato 
+ and Associate Dean Anna Wang for this overview of how the Loan Repayment A
+ ssistance Program works.\n\nhttps://law.stanford.edu/event/loan-repayment-
+ assistance-program-lrap-info-session-2/\n\nThis is a Stanford Law School c
+ ommunity event.\n\nPlease Register: https://docs.google.com/forms/d/e/1FAI
+ pQLScx900fLDr6ZqASLY8r6H6LP4u9Aq9rzhpF6Q0CRUycdxwFJQ/viewform?usp=header\n
+ \nAges: All ages\nSource: https://law.stanford.edu/event/loan-repayment-as
+ sistance-program-lrap-info-session-2/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 280B\, Crown Quadrangle\, 559 Nathan Abbott Way\, Sta
+ nford\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/loan-repayment-assistance-program-lrap-
+ info-session-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Criminal Justice Welcome Reception
+DTSTART;TZID=America/Los_Angeles:20261006T170000
+DTEND;TZID=America/Los_Angeles:20261006T190000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003083-1791306000-1791313200@law.stanford.edu-20
+ 26-10-06T17:00:00-07:00@local-events
+DESCRIPTION:The Stanford Criminal Justice Center invites you to meet and g
+ reet faculty\, staff\, local alumni\, and other students who share crimina
+ l justice interests. Abbee Cox (’18)\, criminal defense attorney at Nol
+ an Barton Olmos & Luciano\, will provide brief remarks. This event will ta
+ ke place in Professor Sklansky’s backyard. The address will be provided 
+ upon RSVP and closer to the event.\n\nhttps://law.stanford.edu/event/crimi
+ nal-justice-welcome-reception/\n\nThis is a Stanford Law School community 
+ event.\n\nAges: All ages\nSource: https://law.stanford.edu/event/criminal-
+ justice-welcome-reception/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:Offsite/Private Location
+URL:https://law.stanford.edu/event/criminal-justice-welcome-reception/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] SLS Firm Expo
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003059-1791417600-1791590399@law.stanford.edu-20
+ 26-10-08T00:00:00-07:00@local-events
+DESCRIPTION:TBD\n\nhttps://law.stanford.edu/event/sls-firm-expo/\n\nThis i
+ s a Stanford Law School private/or invitation only event.\n\nAges: All age
+ s\nSource: https://law.stanford.edu/event/sls-firm-expo/\nLast synced: 202
+ 6-08-22 06:32 PDT
+LOCATION:@ Stanford: Paul Brest Hall\, 555 Salvatierra Walk\, Stanford\, C
+ A\, 94305\, United States
+URL:https://law.stanford.edu/event/sls-firm-expo/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Navaratri (Hindu)
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003161-1791676800-1792454399@law.stanford.edu-20
+ 26-10-11T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/navaratri/\nLa
+ st synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/navaratri/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Faculty Panel – Careers in Academia
+DTSTART;TZID=America/Los_Angeles:20261012T124500
+DTEND;TZID=America/Los_Angeles:20261012T133000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003224-1791809100-1791811800@law.stanford.edu-20
+ 26-10-12T12:45:00-07:00@local-events
+DESCRIPTION:Come join SLA and learn about careers in academia as you consi
+ der your options during recruiting season.\n\nhttps://law.stanford.edu/eve
+ nt/faculty-panel-careers-in-academia/\n\nThis is a Stanford Law School com
+ munity event.\n\nAges: All ages\nSource: https://law.stanford.edu/event/fa
+ culty-panel-careers-in-academia/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 90\, Crown Quadrangle 559 Nathan Abbott Way\, Stanfor
+ d\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/faculty-panel-careers-in-academia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] New Advance Degree student lunch with OSA
+DTSTART;TZID=America/Los_Angeles:20261013T124500
+DTEND;TZID=America/Los_Angeles:20261013T140000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003123-1791895500-1791900000@law.stanford.edu-20
+ 26-10-13T12:45:00-07:00@local-events
+DESCRIPTION:New Advance Degree students are welcome to attend a lunch of t
+ he Office of Student Affairs. This is a chance for you to get to know our 
+ office and for us to learn more about you. Lunch provided.\n\nhttps://law.
+ stanford.edu/event/new-advance-degree-student-lunch-with-osa/\n\nThis is a
+  Stanford Law School private/or invitation only event.\n\nAges: All ages\n
+ Source: https://law.stanford.edu/event/new-advance-degree-student-lunch-wi
+ th-osa/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 270\, Crown Quadrangle\, 559 Nathan Abbott Way\, Stan
+ ford\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/new-advance-degree-student-lunch-with-o
+ sa/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Colombia\, Democracy\, and the Future of the Rule o
+ f Law: A Fireside Chat with Former President Álvaro Uribe Vélez and Sena
+ tor Paloma Valencia
+DTSTART;TZID=America/Los_Angeles:20261013T124500
+DTEND;TZID=America/Los_Angeles:20261013T140000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003132-1791895500-1791900000@law.stanford.edu-20
+ 26-10-13T12:45:00-07:00@local-events
+DESCRIPTION:The Neukom Center for the Rule of Law is proud to welcome form
+ er President of Colombia  Álvaro Uribe and former Colombian Senator Pal
+ oma Valencia for a fireside chat on the future of democracy and the rule o
+ f law in Colombia and Latin America. Colombia’s recent election highligh
+ ted concerns about violence\, public security\, and the strength of legal 
+ institutions in the country. We hope you can join us!\n\nhttps://law.stanf
+ ord.edu/event/colombia-democracy-and-the-future-of-the-rule-of-law-a-fires
+ ide\n\nAges: All ages\nSource: https://law.stanford.edu/event/colombia-dem
+ ocracy-and-the-future-of-the-rule-of-law-a-fireside-chat-with-former-presi
+ dent-alvaro-uribe-velez-and-senator-paloma-valencia/\nLast synced: 2026-08
+ -22 06:32 PDT
+LOCATION:@ SLS: Room 290\, 559 Nathan Abbott Way\, Stanford\, CA\, 94305-8
+ 610\, United States
+URL:https://law.stanford.edu/event/colombia-democracy-and-the-future-of-th
+ e-rule-of-law-a-fireside-chat-with-former-president-alvaro-uribe-velez-and
+ -senator-paloma-valencia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] The Secret Effort to Prevent the American Revolutio
+ n: A New Historical Discovery
+DTSTART;TZID=America/Los_Angeles:20261013T170000
+DTEND;TZID=America/Los_Angeles:20261013T180000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003141-1791910800-1791914400@law.stanford.edu-20
+ 26-10-13T17:00:00-07:00@local-events
+DESCRIPTION:Professor Jonathan Gienapp will discuss never-before-known-abo
+ ut documents\, written by John Dickinson in 1775\, that reveal his secret 
+ and previously unknown attempt to avert the American Revolution. This disc
+ overy was recently featured in the New York Times.\n\nhttps://law.stanford
+ .edu/event/the-secret-effort-to-prevent-the-american-revolution-a-new-hist
+ orical-discovery/\n\nThis event is open to the public.\n\nAges: All ages\n
+ Source: https://law.stanford.edu/event/the-secret-effort-to-prevent-the-am
+ erican-revolution-a-new-historical-discovery/\nLast synced: 2026-08-22 06:
+ 32 PDT
+LOCATION:@ SLS: Room 290\, 559 Nathan Abbott Way\, Stanford\, CA\, 94305-8
+ 610\, United States
+URL:https://law.stanford.edu/event/the-secret-effort-to-prevent-the-americ
+ an-revolution-a-new-historical-discovery/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] How Americans Enforce the Law
+DTSTART;TZID=America/Los_Angeles:20261015T170000
+DTEND;TZID=America/Los_Angeles:20261015T183000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003038-1792083600-1792089000@law.stanford.edu-20
+ 26-10-15T17:00:00-07:00@local-events
+DESCRIPTION:Unlike most democracies that rely on government agencies for r
+ egulatory enforcement\, the United States has developed a distinctly diffe
+ rent system–one that empowers ordinary citizens and their lawyers to enf
+ orce the law through more than 10\,000 “private rights of action” embe
+ dded in regulatory statutes. Why and how did this system develop and what 
+ are the implications for rule of law and democracy in the United States? P
+ lease join the Neukom Center to celebrate Faculty Director Professor Diego
+  Z\n\nAges: All ages\nSource: https://law.stanford.edu/event/how-americans
+ -enforce-the-law/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 280B\, Crown Quadrangle\, 559 Nathan Abbott Way\, Sta
+ nford\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/how-americans-enforce-the-law/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] SLS Dean's Circle Dinner
+DTSTART;TZID=America/Los_Angeles:20261015T180000
+DTEND;TZID=America/Los_Angeles:20261015T210000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10002999-1792087200-1792098000@law.stanford.edu-20
+ 26-10-15T18:00:00-07:00@local-events
+DESCRIPTION:The Dean’s Circle Dinner is a celebration of the law school
+ ’s most generous annual supporters.\n\nhttps://law.stanford.edu/event/sl
+ s-deans-circle-dinner-2/\n\nThis is a Stanford Law School private/or invit
+ ation only event.\n\nAges: All ages\nSource: https://law.stanford.edu/even
+ t/sls-deans-circle-dinner-2/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ Stanford: Canfield Courtyard
+URL:https://law.stanford.edu/event/sls-deans-circle-dinner-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Law & Society Junior Researchers Conference
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10002772-1792108800-1792195199@law.stanford.edu-20
+ 26-10-16T00:00:00-07:00@local-events
+DESCRIPTION:The Law & Society Junior Researchers Conference is a one-day a
+ cademic conference that brings together emerging scholars working at the i
+ ntersection of law and society. The conference provides a forum for junior
+  researchers to present works-in-progress\, receive substantive feedback f
+ rom peers and faculty\, and engage in interdisciplinary dialogue. The goal
+  is to foster rigorous\, constructive exchange and to build scholarly comm
+ unity among early-career academics.\n\nhttps://law.stanford.edu/event/law
+ \n\nAges: All ages\nSource: https://law.stanford.edu/event/law-society-jun
+ ior-researchers-conference/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 90\, Crown Quadrangle 559 Nathan Abbott Way\, Stanfor
+ d\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/law-society-junior-researchers-conferen
+ ce/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Stanford Law School Reunions
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003138-1792108800-1792281599@law.stanford.edu-20
+ 26-10-16T00:00:00-07:00@local-events
+DESCRIPTION:Stanford Law School welcomes the classes of 1971\, 1976\, 1981
+ \, 1986\, 1991\, 1996\, 2001\, 2006\, 2011\, 2016\, and 2021! \nStudents a
+ re invited to the Block Party on Saturday\, October 17\n\nhttps://cvent.me
+ /nNyaDX\n\nThis is a Stanford Law School community event.\n\nRegister Here
+ : https://cvent.me/nNyaDX\n\nAges: All ages\nSource: https://law.stanford.
+ edu/event/stanford-law-school-reunions/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS\, Crown Quadrangle\, 559 Nathan Abbott Way\, Stanford\, CA
+ \, 94305-8610\, United States
+URL:https://law.stanford.edu/event/stanford-law-school-reunions/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] 2026 Marshall Forum on AI
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10002850-1792281600-1792454399@law.stanford.edu-20
+ 26-10-18T00:00:00-07:00@local-events
+DESCRIPTION:tbd\n\nhttps://law.stanford.edu/event/2026-marshall-forum-on-a
+ i/\n\nThis event is open to the Stanford community.\n\nAges: All ages\nSou
+ rce: https://law.stanford.edu/event/2026-marshall-forum-on-ai/\nLast synce
+ d: 2026-08-22 06:32 PDT
+LOCATION:@ Stanford: Paul Brest Hall\, 555 Salvatierra Walk\, Stanford\, C
+ A\, 94305\, United States
+URL:https://law.stanford.edu/event/2026-marshall-forum-on-ai/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Vijayadashami (Dussehra) (Hindu)
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003166-1792454400-1792540799@law.stanford.edu-20
+ 26-10-20T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/vijayadashami-
+ dussehra/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/vijayadashami-dussehra/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] American Caesarism: Confronting an Executive Unboun
+ d
+DTSTART;TZID=America/Los_Angeles:20261020T124500
+DTEND;TZID=America/Los_Angeles:20261020T140000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003127-1792500300-1792504800@law.stanford.edu-20
+ 26-10-20T12:45:00-07:00@local-events
+DESCRIPTION:American Caesarism examines whether the United States faces ri
+ sks similar to those that transformed the Roman Republic into an autocracy
+  under Julius Caesar—namely\, the concentration of power in a single cha
+ rismatic leader who claims to embody the popular will while circumventing 
+ traditional institutional constraints. During Donald Trump’s presidency
+ \, scholars and commentators invoked this framework to analyze his norm-br
+ eaking behavior: his attacks on judicial independence\, attempts to person
+ al\n\nAges: All ages\nSource: https://law.stanford.edu/event/american-caes
+ arism-confronting-an-executive-unbound/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 280B\, Crown Quadrangle\, 559 Nathan Abbott Way\, Sta
+ nford\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/american-caesarism-confronting-an-execu
+ tive-unbound/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Lunch Conversation with Kevin Roose & Ethan Mollick
+ : The Future and Business of AI
+DTSTART;TZID=America/Los_Angeles:20261020T124500
+DTEND;TZID=America/Los_Angeles:20261020T140000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003133-1792500300-1792504800@law.stanford.edu-20
+ 26-10-20T12:45:00-07:00@local-events
+DESCRIPTION:A full-day Stanford Law program featuring Kevin Roose and Etha
+ n Mollick\, timed to the release of their new books on artificial intellig
+ ence. The program will bring Kevin and Ethan together with students\, Stan
+ ford faculty\, business and legal leaders\, and the broader public. \nStan
+ ford Law School and the broader Stanford Community are invited to join Kev
+ in and Ethan for a lunch conversation at Stanford Law School. \nThe larger
+  public is invited to join us for a keynote conversation with Kevin and Et
+ \n\nAges: All ages\nSource: https://law.stanford.edu/event/kevin-roose-eth
+ an-mollick-the-future-and-business-of-ai/\nLast synced: 2026-08-22 06:32 P
+ DT
+LOCATION:@ SLS: Room 290\, 559 Nathan Abbott Way\, Stanford\, CA\, 94305-8
+ 610\, United States
+URL:https://law.stanford.edu/event/kevin-roose-ethan-mollick-the-future-an
+ d-business-of-ai/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Twin Holy Birthdays (The Báb and Bahá’u’lláh
+ ) (Bahá'í)
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003167-1792627200-1792799999@law.stanford.edu-20
+ 26-10-22T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/twin-holy-birt
+ hdays-the-bab-and-bahaullah/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/twin-holy-birthdays-the-bab-and-bahaull
+ ah/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] AI Initiative Speaker Series
+DTSTART;TZID=America/Los_Angeles:20261022T124500
+DTEND;TZID=America/Los_Angeles:20261022T134500
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003046-1792673100-1792676700@law.stanford.edu-20
+ 26-10-22T12:45:00-07:00@local-events
+DESCRIPTION:Please save the date for the AI Initiative Speaker Series\, Fa
+ ll Quarter!! \nIn-person attendance is open to the Stanford Law School on-
+ campus community (students\, faculty\, and staff).  All others can attend
+  via livestream.\n\nhttps://law.stanford.edu/event/ai-initiative-speaker-s
+ eries-4/\n\nThis is a Stanford Law School community event.\n\nAges: All ag
+ es\nSource: https://law.stanford.edu/event/ai-initiative-speaker-series-4/
+ \nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 270\, Crown Quadrangle\, 559 Nathan Abbott Way\, Stan
+ ford\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/ai-initiative-speaker-series-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Rock Center Summer Associate Mixer
+DTSTART;TZID=America/Los_Angeles:20261022T160000
+DTEND;TZID=America/Los_Angeles:20261022T183000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10002723-1792684800-1792693800@law.stanford.edu-20
+ 26-10-22T16:00:00-07:00@local-events
+DESCRIPTION:The Rock Center will host an off-campus evening mixer bringi
+ ng together Stanford Law 1Ls with local corporate and litigation associate
+ s. The event will provide students with the chance to meet practicing atto
+ rneys\, learn more about different firms and practice areas\, and build pr
+ ofessional networks in a relaxed setting.\n\nhttps://law.stanford.edu/even
+ t/rock-center-summer-associate-mixer-2/\n\nThis event is open to the Stanf
+ ord community.\n\nAges: All ages\nSource: https://law.stanford.edu/event/r
+ ock-center-summer-associate-mixer-2/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:EVGR Pub & Beer Garden\, 716 Serra St.\, Stanford\, CA\, 94305
+URL:https://law.stanford.edu/event/rock-center-summer-associate-mixer-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Admin Day for Nov 3 a.m. Classes
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10002803-1792713600-1792799999@law.stanford.edu-20
+ 26-10-23T00:00:00-07:00@local-events
+DESCRIPTION:Classes regularly scheduled for the morning of Tuesday Nov 3 w
+ ill meet beginning 2:15 p.m.\n\nhttps://law.stanford.edu/event/admin-day-f
+ or-nov-3-a-m-classes/\n\nAges: All ages\nSource: https://law.stanford.edu/
+ event/admin-day-for-nov-3-a-m-classes/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/admin-day-for-nov-3-a-m-classes/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] 2027 Grad Class Reception
+DTSTART;TZID=America/Los_Angeles:20261023T163000
+DTEND;TZID=America/Los_Angeles:20261023T183000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003100-1792773000-1792780200@law.stanford.edu-20
+ 26-10-23T16:30:00-07:00@local-events
+DESCRIPTION:Whether you’ve been here 2+ years (JD students) or 2+ months
+  (AdvDeg students)\, it’s time to kick off the graduation celebration se
+ ason! Please join us for a celebratory reception for the Class of 2027. Th
+ is is an opportunity for graduating JD students to get to know their fello
+ w graduating classmates from the Advanced Degree program. Light refreshmen
+ ts will be served\, along with wine/beer/EANABS.\n\nhttps://law.stanford.e
+ du/event/2027-grad-class-reception/\n\nThis is a Stanford Law School priva
+ te/o\n\nAges: All ages\nSource: https://law.stanford.edu/event/2027-grad-c
+ lass-reception/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Russo Commons – Student Law Lounge\, 559 Nathan Abbott W
+ ay\, Stanford\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/2027-grad-class-reception/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Future of the Legal and Medical Professions Symposi
+ um
+DTSTART;TZID=America/Los_Angeles:20261026T084500
+DTEND;TZID=America/Los_Angeles:20261026T163000
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003130-1793004300-1793032200@law.stanford.edu-20
+ 26-10-26T08:45:00-07:00@local-events
+DESCRIPTION:Technology\, Trust & Transformation \n\n\n\n\n\nLaw and medici
+ ne are navigating many of the same changes: new technologies\, shifting ma
+ rkets\, and an evolving policy landscape reshaping how each profession ope
+ rates and whom it serves. \nThis full-day symposium brings together leader
+ s\, scholars\, and practitioners from Stanford\, peer institutions\, and i
+ ndustry for a cross-disciplinary conversation about these shared disruptio
+ ns. Together\, we’ll explore what law and medicine can learn from each o
+ ther as bot\n\nAges: All ages\nSource: https://law.stanford.edu/event/futu
+ re-of-the-legal-and-medical-professions-symposium/\nLast synced: 2026-08-2
+ 2 06:32 PDT
+LOCATION:@ Stanford: Paul Brest Hall\, 555 Salvatierra Walk\, Stanford\, C
+ A\, 94305\, United States
+URL:https://law.stanford.edu/event/future-of-the-legal-and-medical-profess
+ ions-symposium/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Kathina (Buddhism)
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003168-1793059200-1795564799@law.stanford.edu-20
+ 26-10-27T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/kathina/\nLast
+  synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/kathina/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Karva Chauth (Hindu)
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003169-1793145600-1793231999@law.stanford.edu-20
+ 26-10-28T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/karva-chauth/
+ \nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/karva-chauth/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] AI Initiative Speaker Series
+DTSTART;TZID=America/Los_Angeles:20261029T124500
+DTEND;TZID=America/Los_Angeles:20261029T134500
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003050-1793277900-1793281500@law.stanford.edu-20
+ 26-10-29T12:45:00-07:00@local-events
+DESCRIPTION:Save the date for the AI Initiative Speaker Series\, Fall Quar
+ ter! \nIn-person attendance is open to the Stanford Law School on-campus c
+ ommunity (students\, faculty\, and staff).  All others can attend via liv
+ estream.\n\nhttps://law.stanford.edu/event/ai-initiative-speaker-series-8/
+ \n\nThis is a Stanford Law School community event.\n\nAges: All ages\nSour
+ ce: https://law.stanford.edu/event/ai-initiative-speaker-series-8/\nLast s
+ ynced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 270\, Crown Quadrangle\, 559 Nathan Abbott Way\, Stan
+ ford\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/ai-initiative-speaker-series-8/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] On-Campus Public Interest Career Fair (OCPI)
+DTSTART;TZID=America/Los_Angeles:20261029T154500
+DTEND;TZID=America/Los_Angeles:20261029T184500
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003090-1793288700-1793299500@law.stanford.edu-20
+ 26-10-29T15:45:00-07:00@local-events
+DESCRIPTION:Join us for SLS’s inaugural public interest career fair invi
+ ting students to explore meaningful career paths in public interest and pu
+ blic service law. Details and registration coming soon.\n\nhttps://law.sta
+ nford.edu/event/on-campus-public-interest-interviews-1/\n\nThis is a Stanf
+ ord Law School community event.\n\nAges: All ages\nSource: https://law.sta
+ nford.edu/event/on-campus-public-interest-interviews-1/\nLast synced: 2026
+ -08-22 06:32 PDT
+LOCATION:@ SLS: Crocker Garden\, Crown Quadrangle\, 559 Nathan Abbott Way
+ \, Stanford\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/on-campus-public-interest-interviews-1/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] SLA Halloween
+DTSTART;TZID=America/Los_Angeles:20261030T190000
+DTEND;TZID=America/Los_Angeles:20261030T235900
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003221-1793386800-1793404740@law.stanford.edu-20
+ 26-10-30T19:00:00-07:00@local-events
+DESCRIPTION:TBD\n\nhttps://law.stanford.edu/event/sla-halloween/\n\nThis i
+ s a Stanford Law School community event.\n\nAges: All ages\nSource: https:
+ //law.stanford.edu/event/sla-halloween/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Multiple Rooms\, Crown Quadrangle\, 559 Nathan Abbott Way
+ \, Stanford\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/sla-halloween/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Samhain (Pagan/Wiccan)
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003170-1793404800-1793491199@law.stanford.edu-20
+ 26-10-31T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/samhain/\nLast
+  synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/samhain/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] All Saints Day (W) (Christian)
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003171-1793491200-1793577599@law.stanford.edu-20
+ 26-11-01T00:00:00-07:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/all-saints-day
+ -w/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/all-saints-day-w/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] All Souls Day (W) (Christian)
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003172-1793577600-1793663999@law.stanford.edu-20
+ 26-11-02T00:00:00-08:00@local-events
+DESCRIPTION:Stanford has long supported faculty\, students\, and staff in 
+ observing religious holidays of significance to them. In the complex proce
+ ss of creating the academic calendar\, religious holy days are but one of 
+ many considerations. The Office for Religious Life makes available to facu
+ lty\, staff and students a list of significant religious holidays at the b
+ eginning of each academic year. For any questions or concerns\, please con
+ tact the Office for Religious Life. \n\nYou can find a comprehensive listi
+ n\n\nAges: All ages\nSource: https://law.stanford.edu/event/all-souls-day-
+ w/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/all-souls-day-w/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Democracy Day – No Classes
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10002804-1793664000-1793750399@law.stanford.edu-20
+ 26-11-03T00:00:00-08:00@local-events
+DESCRIPTION:https://law.stanford.edu/event/democracy-day-no-classes-2/\n\n
+ Ages: All ages\nSource: https://law.stanford.edu/event/democracy-day-no-cl
+ asses-2/\nLast synced: 2026-08-22 06:32 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/democracy-day-no-classes-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] AI Initiative Speaker Series
+DTSTART;TZID=America/Los_Angeles:20261105T124500
+DTEND;TZID=America/Los_Angeles:20261105T134500
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10003049-1793882700-1793886300@law.stanford.edu-20
+ 26-11-05T12:45:00-08:00@local-events
+DESCRIPTION:Save the date for the AI Initiative Speaker Series\, Fall Quar
+ ter! \nIn-person attendance is open to the Stanford Law School on-campus c
+ ommunity (students\, faculty\, and staff).  All others can attend via liv
+ estream.\n\nhttps://law.stanford.edu/event/ai-initiative-speaker-series-7/
+ \n\nThis is a Stanford Law School community event.\n\nAges: All ages\nSour
+ ce: https://law.stanford.edu/event/ai-initiative-speaker-series-7/\nLast s
+ ynced: 2026-08-22 06:32 PDT
+LOCATION:@ SLS: Room 270\, Crown Quadrangle\, 559 Nathan Abbott Way\, Stan
+ ford\, CA\, 94305-8610\, United States
+URL:https://law.stanford.edu/event/ai-initiative-speaker-series-7/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Law] Admin Day for Nov 3 p.m. Classes
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+DTSTAMP:20260822T133235Z
+UID:stanford_campus-law-10002805-1793923200-1794009599@law.stanford.edu-20
+ 26-11-06T00:00:00-08:00@local-events
+DESCRIPTION:Classes regularly scheduled for the afternoon of Tuesday Nov 3
+  will meet beginning 2:15 p.m.\n\nhttps://law.stanford.edu/event/admin-day
+ -for-nov-3-p-m-classes-2/\n\nAges: All ages\nSource: https://law.stanford.
+ edu/event/admin-day-for-nov-3-p-m-classes-2/\nLast synced: 2026-08-22 06:3
+ 2 PDT
+LOCATION:CA
+URL:https://law.stanford.edu/event/admin-day-for-nov-3-p-m-classes-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Session 12 Banking And Deposit Franchise
 DTSTART;TZID=America/Los_Angeles:20260824T081500
 DTEND;TZID=America/Los_Angeles:20260825T164500
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- 60ea8334-7acf-4645-abc7-ed6358d0929b-2026-08-24T
  08:15:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-12-ban
- king-and-deposit-franchise\n\nAges: All ages\nLast synced: 2026-08-21 06:4
- 4 PDT
+ king-and-deposit-franchise\n\nAges: All ages\nLast synced: 2026-08-22 06:3
+ 2 PDT
 LOCATION:Landau Economics Building\, 579 Jane Stanford Way\, Stanford\, CA
   94305
 END:VEVENT
@@ -1365,12 +2807,12 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 13 Market Failures And Public Policy
 DTSTART;TZID=America/Los_Angeles:20260826T083000
 DTEND;TZID=America/Los_Angeles:20260827T154000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- c06bed1e-91c4-4aad-9aaa-239f41b5ab7e-2026-08-26T
  08:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-13-mar
- ket-failures-and-public-policy\n\nAges: All ages\nLast synced: 2026-08-21 
- 06:44 PDT
+ ket-failures-and-public-policy\n\nAges: All ages\nLast synced: 2026-08-22 
+ 06:32 PDT
 LOCATION:Landau Economics Building\, 579 Jane Stanford Way\, Stanford\, CA
   94305
 END:VEVENT
@@ -1378,11 +2820,11 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 14 Economics Transparency
 DTSTART;TZID=America/Los_Angeles:20260827T083000
 DTEND;TZID=America/Los_Angeles:20260828T163000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- 4ccac1f1-a89e-4b08-a023-5231c85eca52-2026-08-27T
  08:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-14-eco
- nomics-transparency\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ nomics-transparency\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Stanford Graduate School of Business\, M104\, 655 Knight Way\, St
  anford\, CA 94305
 END:VEVENT
@@ -1390,11 +2832,11 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 16 Economics Health Inequality
 DTSTART;TZID=America/Los_Angeles:20260831T081500
 DTEND;TZID=America/Los_Angeles:20260901T140000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- 965bbab4-0dcc-4d7b-93ea-db6559bd66ff-2026-08-31T
  08:15:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-16-eco
- nomics-health-inequality\n\nAges: All ages\nLast synced: 2026-08-21 06:44 
+ nomics-health-inequality\n\nAges: All ages\nLast synced: 2026-08-22 06:32 
  PDT
 LOCATION:Landau Economics Building\, 579 Jane Stanford Way\, Stanford\, CA
   94305
@@ -1404,12 +2846,12 @@ SUMMARY:[Economics] Session 15 Causes And Consequences Misallocation Theor
  y And Empirics
 DTSTART;TZID=America/Los_Angeles:20260831T120000
 DTEND;TZID=America/Los_Angeles:20260901T171500
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- 8ba2952c-2ad5-4870-bb31-bec5da486f81-2026-08-31T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-15-cau
  ses-and-consequences-misallocation-theory-and-empirics\n\nAges: All ages\n
- Last synced: 2026-08-21 06:44 PDT
+ Last synced: 2026-08-22 06:32 PDT
 LOCATION:Stanford Graduate School of Business\, P107\, 655 Knight Way\, St
  anford\, CA 94305
 END:VEVENT
@@ -1417,12 +2859,12 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 17 Macroeconomics Uncertainty And Volatility
 DTSTART;TZID=America/Los_Angeles:20260902T080000
 DTEND;TZID=America/Los_Angeles:20260904T170000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- 6315d8a8-ee42-45c6-b96d-c96cd83fed1e-2026-09-02T
  08:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-17-mac
  roeconomics-uncertainty-and-volatility\n\nAges: All ages\nLast synced: 202
- 6-08-21 06:44 PDT
+ 6-08-22 06:32 PDT
 LOCATION:Landau Economics Building\, 579 Jane Stanford Way\, Stanford\, CA
   94305
 END:VEVENT
@@ -1430,11 +2872,11 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 18 Psychology And Economics
 DTSTART;TZID=America/Los_Angeles:20260903T080000
 DTEND;TZID=America/Los_Angeles:20260904T190000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- 19fb1a10-5859-4a60-a9b4-173b6aab9305-2026-09-03T
  08:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-18-psy
- chology-and-economics\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ chology-and-economics\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:John A. and Cynthia Fry Gunn Building\, 366 Galvez Street\, Stanf
  ord\, CA 94305
 END:VEVENT
@@ -1442,11 +2884,11 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Session 19 Fiscal Sustainability
 DTSTART;TZID=America/Los_Angeles:20260908T083000
 DTEND;TZID=America/Los_Angeles:20260909T151500
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- 69d38572-2d47-4c3d-968b-4a821c18323c-2026-09-08T
  08:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-19-fis
- cal-sustainability\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ cal-sustainability\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Landau Economics Building\, 579 Jane Stanford Way\, Stanford\, CA
   94305
 END:VEVENT
@@ -1455,12 +2897,12 @@ SUMMARY:[Economics] Session 20 Models Labor Market And Aggregate Economy N
  ew Developments And Policy
 DTSTART;TZID=America/Los_Angeles:20260910T101500
 DTEND;TZID=America/Los_Angeles:20260911T164500
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- 74c0bdb7-5ced-4ce9-bc6d-9db635a4fd5a-2026-09-10T
  10:15:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/site-2026/session-20-mod
  els-labor-market-and-aggregate-economy-new-developments-and-policy\n\nAges
- : All ages\nLast synced: 2026-08-21 06:44 PDT
+ : All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Landau Economics Building\, 579 Jane Stanford Way\, Stanford\, CA
   94305
 END:VEVENT
@@ -1468,11 +2910,11 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Environmental Policy
 DTSTART;TZID=America/Los_Angeles:20260924T131500
 DTEND;TZID=America/Los_Angeles:20260924T143000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- fdd00ea0-db08-4dee-851d-c64576024353-2026-09-24T
  13:15:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/research-roundtable\n\nA
- ges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ ges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Y2E2 Building\, 299
 END:VEVENT
 BEGIN:VEVENT
@@ -1480,33 +2922,33 @@ SUMMARY:[Economics] Macroeconomics - Job Market Talk: Calvin He - Stanford
   University
 DTSTART;TZID=America/Los_Angeles:20260928T153000
 DTEND;TZID=America/Los_Angeles:20260928T164500
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- 2ffaae22-ed73-4f99-a929-73dfea8ea918-2026-09-28T
  15:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-21\n\nAges: All ages
- \nLast synced: 2026-08-21 06:44 PDT
+ \nLast synced: 2026-08-22 06:32 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Macroeconomics - Job Market Talk: Emmanuella Manu - St
  anford University
 DTSTART;TZID=America/Los_Angeles:20261005T153000
 DTEND;TZID=America/Los_Angeles:20261005T164500
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- 24b87911-b1e4-40b4-b637-cb75d990eed4-2026-10-05T
  15:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-27\n\nAges: All ages
- \nLast synced: 2026-08-21 06:44 PDT
+ \nLast synced: 2026-08-22 06:32 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Environmental Policy - Guojun He - University of Hong 
  Kong
 DTSTART;TZID=America/Los_Angeles:20261008T131500
 DTEND;TZID=America/Los_Angeles:20261008T143000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- 71e96040-11ce-4e10-a349-7da0cad58377-2026-10-08T
  13:15:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/paper-tba-11\n\nAges: Al
- l ages\nLast synced: 2026-08-21 06:44 PDT
+ l ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Y2E2 Building\, 299
 END:VEVENT
 BEGIN:VEVENT
@@ -1514,44 +2956,44 @@ SUMMARY:[Economics] Macroeconomics - Job Market Talk: Rafael Costa Berriel
   Abreu - Stanford University
 DTSTART;TZID=America/Los_Angeles:20261012T153000
 DTEND;TZID=America/Los_Angeles:20261012T164500
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- 6e347317-05d2-41e2-91a8-29a6f7683e0a-2026-10-12T
  15:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-33\n\nAges: All ages
- \nLast synced: 2026-08-21 06:44 PDT
+ \nLast synced: 2026-08-22 06:32 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Macroeconomics - Job Market Talk: Reiko Laski - Stanfo
  rd University
 DTSTART;TZID=America/Los_Angeles:20261019T153000
 DTEND;TZID=America/Los_Angeles:20261019T164500
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- c90af7aa-3c84-41b7-b16b-bf093f9db327-2026-10-19T
  15:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-35\n\nAges: All ages
- \nLast synced: 2026-08-21 06:44 PDT
+ \nLast synced: 2026-08-22 06:32 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Macroeconomics - Job Market Talk: Daria Matviienko - S
  tanford University
 DTSTART;TZID=America/Los_Angeles:20261026T153000
 DTEND;TZID=America/Los_Angeles:20261026T164500
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- 981dfe0b-b2bf-499e-b9c0-e88cf64decdb-2026-10-26T
  15:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-36\n\nAges: All ages
- \nLast synced: 2026-08-21 06:44 PDT
+ \nLast synced: 2026-08-22 06:32 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Environmental Policy - David Keith - University of Chi
  cago
 DTSTART;TZID=America/Los_Angeles:20261105T131500
 DTEND;TZID=America/Los_Angeles:20261105T143000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- 74b7c596-ed8e-4106-813d-34ac923ff4b9-2026-11-05T
  13:15:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/practical-geoengineering
- \n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ \n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Y2E2 Building\, 299
 END:VEVENT
 BEGIN:VEVENT
@@ -1559,11 +3001,11 @@ SUMMARY:[Economics] Department Seminar - Emi Nakamura - University of Cali
  fornia\, Berkeley
 DTSTART;TZID=America/Los_Angeles:20261118T153000
 DTEND;TZID=America/Los_Angeles:20261118T170000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- 616b58ac-5ff6-4afc-a8aa-c08986ef2339-2026-11-18T
  15:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/be-confirmed-0\n\nAges: 
- All ages\nLast synced: 2026-08-21 06:44 PDT
+ All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:GSB G101
 END:VEVENT
 BEGIN:VEVENT
@@ -1571,12 +3013,12 @@ SUMMARY:[Economics] Environmental Policy - Ishan Nath - Harvard Kennedy Sc
  hool
 DTSTART;TZID=America/Los_Angeles:20261119T131500
 DTEND;TZID=America/Los_Angeles:20261119T143000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- 8306b9a5-3a1d-4480-b2c4-fb1f0de21e08-2026-11-19T
  13:15:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/trade-policy-and-food-se
  curity-climate-and-geopolitical-risk\n\nAges: All ages\nLast synced: 2026-
- 08-21 06:44 PDT
+ 08-22 06:32 PDT
 LOCATION:Y2E2 Building\, 299
 END:VEVENT
 BEGIN:VEVENT
@@ -1584,158 +3026,158 @@ SUMMARY:[Economics] Environmental Policy - Matto Mildenberger - University
   of California\, Santa Barbara
 DTSTART;TZID=America/Los_Angeles:20261203T131500
 DTEND;TZID=America/Los_Angeles:20261203T143000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:stanford_campus-econ- 562d547c-5336-402e-b481-b809f2407bc3-2026-12-03T
  13:15:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/paper-tba-18\n\nAges: Al
- l ages\nLast synced: 2026-08-21 06:44 PDT
+ l ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Y2E2 Building\, 299
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Design Thinking Bootcamp
 DTSTART;TZID=America/Los_Angeles:20260908T000000
 DTEND;TZID=America/Los_Angeles:20260908T010000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:dschool-dschool-Design Thinking Bootcamp-2026-09-08T00:00:00@local-eve
  nts
 DESCRIPTION:Design Thinking BootcampSept 8-11\, 20264-dayWorkshopOn Campus
- \n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ \n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Design Thinking Bootcamp
 DTSTART;TZID=America/Los_Angeles:20260909T000000
 DTEND;TZID=America/Los_Angeles:20260909T010000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:dschool-dschool-Design Thinking Bootcamp-2026-09-09T00:00:00@local-eve
  nts
 DESCRIPTION:Design Thinking BootcampSept 8-11\, 20264-dayWorkshopOn Campus
- \n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ \n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Design Thinking Bootcamp
 DTSTART;TZID=America/Los_Angeles:20260910T000000
 DTEND;TZID=America/Los_Angeles:20260910T010000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:dschool-dschool-Design Thinking Bootcamp-2026-09-10T00:00:00@local-eve
  nts
 DESCRIPTION:Design Thinking BootcampSept 8-11\, 20264-dayWorkshopOn Campus
- \n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ \n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Design Thinking Bootcamp
 DTSTART;TZID=America/Los_Angeles:20260911T000000
 DTEND;TZID=America/Los_Angeles:20260911T010000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:dschool-dschool-Design Thinking Bootcamp-2026-09-11T00:00:00@local-eve
  nts
 DESCRIPTION:Design Thinking BootcampSept 8-11\, 20264-dayWorkshopOn Campus
- \n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ \n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Human-Centered AI for Social Impact
 DTSTART;TZID=America/Los_Angeles:20261007T000000
 DTEND;TZID=America/Los_Angeles:20261007T010000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:dschool-dschool-Human-Centered AI for Social Impact-2026-10-07T00:00:0
  0@local-events
 DESCRIPTION:Human-Centered AI for Social ImpactOct 7-9\, 20262.5-dayWorksh
- opOn Campus\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ opOn Campus\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Human-Centered AI for Social Impact
 DTSTART;TZID=America/Los_Angeles:20261008T000000
 DTEND;TZID=America/Los_Angeles:20261008T010000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:dschool-dschool-Human-Centered AI for Social Impact-2026-10-08T00:00:0
  0@local-events
 DESCRIPTION:Human-Centered AI for Social ImpactOct 7-9\, 20262.5-dayWorksh
- opOn Campus\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ opOn Campus\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Human-Centered AI for Social Impact
 DTSTART;TZID=America/Los_Angeles:20261009T000000
 DTEND;TZID=America/Los_Angeles:20261009T010000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:dschool-dschool-Human-Centered AI for Social Impact-2026-10-09T00:00:0
  0@local-events
 DESCRIPTION:Human-Centered AI for Social ImpactOct 7-9\, 20262.5-dayWorksh
- opOn Campus\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ opOn Campus\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Human-Centered Design for Local Government:…
 DTSTART;TZID=America/Los_Angeles:20261022T000000
 DTEND;TZID=America/Los_Angeles:20261022T010000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:dschool-dschool-Human-Centered Design for Local Government:…-2026-10
  -22T00:00:00@local-events
 DESCRIPTION:Human-Centered Design for Local Government:…Oct 22\, 20263-s
- essionsWorkshopOnline\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ essionsWorkshopOnline\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Introductory Design Thinking Workshop
 DTSTART;TZID=America/Los_Angeles:20260911T000000
 DTEND;TZID=America/Los_Angeles:20260911T010000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:dschool-dschool-Introductory Design Thinking Workshop-2026-09-11T00:00
  :00@local-events
 DESCRIPTION:Introductory Design Thinking WorkshopSeptember 11\, 2026Worksh
- opOn Campus\n\nAges: All ages\nLast synced: 2026-08-21 06:44 PDT
+ opOn Campus\n\nAges: All ages\nLast synced: 2026-08-22 06:32 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Adventures in Design: A d.school Experience -…
 DTSTART;TZID=America/Los_Angeles:20260908T000000
 DTEND;TZID=America/Los_Angeles:20260908T010000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:dschool-dschool-Adventures in Design: A d.school Experience -…-2026-
  09-08T00:00:00@local-events
 DESCRIPTION:Adventures in Design: A d.school Experience -…Sept 8-11\, 20
  264 Day SessionWorkshopOn Campus\n\nAges: All ages\nLast synced: 2026-08-2
- 1 06:44 PDT
+ 2 06:32 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Adventures in Design: A d.school Experience -…
 DTSTART;TZID=America/Los_Angeles:20260909T000000
 DTEND;TZID=America/Los_Angeles:20260909T010000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:dschool-dschool-Adventures in Design: A d.school Experience -…-2026-
  09-09T00:00:00@local-events
 DESCRIPTION:Adventures in Design: A d.school Experience -…Sept 8-11\, 20
  264 Day SessionWorkshopOn Campus\n\nAges: All ages\nLast synced: 2026-08-2
- 1 06:44 PDT
+ 2 06:32 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Adventures in Design: A d.school Experience -…
 DTSTART;TZID=America/Los_Angeles:20260910T000000
 DTEND;TZID=America/Los_Angeles:20260910T010000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:dschool-dschool-Adventures in Design: A d.school Experience -…-2026-
  09-10T00:00:00@local-events
 DESCRIPTION:Adventures in Design: A d.school Experience -…Sept 8-11\, 20
  264 Day SessionWorkshopOn Campus\n\nAges: All ages\nLast synced: 2026-08-2
- 1 06:44 PDT
+ 2 06:32 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Adventures in Design: A d.school Experience -…
 DTSTART;TZID=America/Los_Angeles:20260911T000000
 DTEND;TZID=America/Los_Angeles:20260911T010000
-DTSTAMP:20260821T134432Z
+DTSTAMP:20260822T133235Z
 UID:dschool-dschool-Adventures in Design: A d.school Experience -…-2026-
  09-11T00:00:00@local-events
 DESCRIPTION:Adventures in Design: A d.school Experience -…Sept 8-11\, 20
  264 Day SessionWorkshopOn Campus\n\nAges: All ages\nLast synced: 2026-08-2
- 1 06:44 PDT
+ 2 06:32 PDT
 LOCATION:On Campus
 END:VEVENT
 END:VCALENDAR
