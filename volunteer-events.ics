@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] VolunTEEN Hour
 DTSTART;TZID=America/Los_Angeles:20260928T180000
 DTEND;TZID=America/Los_Angeles:20260928T190000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:smcl-6a6d088e0d65ac360043966b@local-events
 DESCRIPTION:Need some volunteer hours but don’t have a lot of time to co
  mmit? High school students can drop in to our library to help us with task
@@ -21,7 +21,7 @@ DESCRIPTION:Need some volunteer hours but don’t have a lot of time to co
   volunteer task every last Monday of the month between 6-7 PM. We’ll vou
  ch for your time well spent!\n\nAges: 12-18\nRegistration: none\nSource: h
  ttps://smcl.bibliocommons.com/events/6a6d088e0d65ac360043966b\nLast synced
- : 2026-08-27 15:50 PDT
+ : 2026-08-28 15:54 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6a6d088e0d65ac360043966b
 END:VEVENT
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] VolunTEEN Hour
 DTSTART;TZID=America/Los_Angeles:20261228T180000
 DTEND;TZID=America/Los_Angeles:20261228T190000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:smcl-6a6d088e0d65ac360043966e@local-events
 DESCRIPTION:Need some volunteer hours but don’t have a lot of time to co
  mmit? High school students can drop in to our library to help us with task
@@ -39,7 +39,7 @@ DESCRIPTION:Need some volunteer hours but don’t have a lot of time to co
   volunteer task every last Monday of the month between 6-7 PM. We’ll vou
  ch for your time well spent!\n\nAges: 12-18\nRegistration: none\nSource: h
  ttps://smcl.bibliocommons.com/events/6a6d088e0d65ac360043966e\nLast synced
- : 2026-08-27 15:50 PDT
+ : 2026-08-28 15:54 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6a6d088e0d65ac360043966e
 END:VEVENT
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] VolunTEEN Hour
 DTSTART;TZID=America/Los_Angeles:20261026T180000
 DTEND;TZID=America/Los_Angeles:20261026T190000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:smcl-6a6d088e0d65ac360043966c@local-events
 DESCRIPTION:Need some volunteer hours but don’t have a lot of time to co
  mmit? High school students can drop in to our library to help us with task
@@ -57,7 +57,7 @@ DESCRIPTION:Need some volunteer hours but don’t have a lot of time to co
   volunteer task every last Monday of the month between 6-7 PM. We’ll vou
  ch for your time well spent!\n\nAges: 12-18\nRegistration: none\nSource: h
  ttps://smcl.bibliocommons.com/events/6a6d088e0d65ac360043966c\nLast synced
- : 2026-08-27 15:50 PDT
+ : 2026-08-28 15:54 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6a6d088e0d65ac360043966c
 END:VEVENT
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] VolunTEEN Hour
 DTSTART;TZID=America/Los_Angeles:20261130T180000
 DTEND;TZID=America/Los_Angeles:20261130T190000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:smcl-6a6d088e0d65ac360043966d@local-events
 DESCRIPTION:Need some volunteer hours but don’t have a lot of time to co
  mmit? High school students can drop in to our library to help us with task
@@ -75,7 +75,7 @@ DESCRIPTION:Need some volunteer hours but don’t have a lot of time to co
   volunteer task every last Monday of the month between 6-7 PM. We’ll vou
  ch for your time well spent!\n\nAges: 12-18\nRegistration: none\nSource: h
  ttps://smcl.bibliocommons.com/events/6a6d088e0d65ac360043966d\nLast synced
- : 2026-08-27 15:50 PDT
+ : 2026-08-28 15:54 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6a6d088e0d65ac360043966d
 END:VEVENT
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Day of Service
 DTSTART;TZID=America/Los_Angeles:20260912T090000
 DTEND;TZID=America/Los_Angeles:20260912T130000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:sancarlos-1100@local-events
 DESCRIPTION:Join fellow community members in giving back and making a mean
  ingful impact throughout the city. This event offers the chance to connect
@@ -94,7 +94,7 @@ DESCRIPTION:Join fellow community members in giving back and making a mean
  fee and donuts will be available for registered volunteers. For additional
   information\, please visit www.cityofsancarlos.org/dayofservice.&nbsp\;\n
  \nAges: All ages\nSource: https://www.cityofsancarlos.org/business_detail_
- T10_R101.php\nLast synced: 2026-08-27 15:50 PDT
+ T10_R101.php\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Vista Park and Highlands Park
 URL:https://www.cityofsancarlos.org/business_detail_T10_R101.php
 END:VEVENT
@@ -102,12 +102,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Farm Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20260829T090000
 DTEND;TZID=America/Los_Angeles:20260829T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:hiddenvilla-468-202608290900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/468-farm-volunteer-day/region-HV/\n\nAges: Family / all ag
  es\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/c
- atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-27 15:50 PD
+ atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-28 15:54 PD
  T
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/468-farm-volunteer-day/re
@@ -117,12 +117,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Farm Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20260902T090000
 DTEND;TZID=America/Los_Angeles:20260902T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:hiddenvilla-468-202609020900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/468-farm-volunteer-day/region-HV/\n\nAges: Family / all ag
  es\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/c
- atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-27 15:50 PD
+ atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-28 15:54 PD
  T
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/468-farm-volunteer-day/re
@@ -132,12 +132,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Farm Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20260905T090000
 DTEND;TZID=America/Los_Angeles:20260905T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:hiddenvilla-468-202609050900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/468-farm-volunteer-day/region-HV/\n\nAges: Family / all ag
  es\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/c
- atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-27 15:50 PD
+ atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-28 15:54 PD
  T
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/468-farm-volunteer-day/re
@@ -147,12 +147,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Farm Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20260909T090000
 DTEND;TZID=America/Los_Angeles:20260909T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:hiddenvilla-468-202609090900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/468-farm-volunteer-day/region-HV/\n\nAges: Family / all ag
  es\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/c
- atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-27 15:50 PD
+ atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-28 15:54 PD
  T
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/468-farm-volunteer-day/re
@@ -162,12 +162,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Farm Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20260912T090000
 DTEND;TZID=America/Los_Angeles:20260912T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:hiddenvilla-468-202609120900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/468-farm-volunteer-day/region-HV/\n\nAges: Family / all ag
  es\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/c
- atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-27 15:50 PD
+ atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-28 15:54 PD
  T
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/468-farm-volunteer-day/re
@@ -177,12 +177,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Farm Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20260916T090000
 DTEND;TZID=America/Los_Angeles:20260916T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:hiddenvilla-468-202609160900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/468-farm-volunteer-day/region-HV/\n\nAges: Family / all ag
  es\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/c
- atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-27 15:50 PD
+ atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-28 15:54 PD
  T
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/468-farm-volunteer-day/re
@@ -192,12 +192,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Farm Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20260919T090000
 DTEND;TZID=America/Los_Angeles:20260919T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:hiddenvilla-468-202609190900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/468-farm-volunteer-day/region-HV/\n\nAges: Family / all ag
  es\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/c
- atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-27 15:50 PD
+ atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-28 15:54 PD
  T
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/468-farm-volunteer-day/re
@@ -207,12 +207,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Farm Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20260923T090000
 DTEND;TZID=America/Los_Angeles:20260923T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:hiddenvilla-468-202609230900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/468-farm-volunteer-day/region-HV/\n\nAges: Family / all ag
  es\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/c
- atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-27 15:50 PD
+ atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-28 15:54 PD
  T
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/468-farm-volunteer-day/re
@@ -222,12 +222,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Farm Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20260926T090000
 DTEND;TZID=America/Los_Angeles:20260926T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:hiddenvilla-468-202609260900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/468-farm-volunteer-day/region-HV/\n\nAges: Family / all ag
  es\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/c
- atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-27 15:50 PD
+ atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-28 15:54 PD
  T
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/468-farm-volunteer-day/re
@@ -237,12 +237,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Farm Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20260930T090000
 DTEND;TZID=America/Los_Angeles:20260930T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:hiddenvilla-468-202609300900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/468-farm-volunteer-day/region-HV/\n\nAges: Family / all ag
  es\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/c
- atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-27 15:50 PD
+ atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-08-28 15:54 PD
  T
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/468-farm-volunteer-day/re
@@ -252,13 +252,13 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Weekend Volunteer Training
 DTSTART;TZID=America/Los_Angeles:20260912T100000
 DTEND;TZID=America/Los_Angeles:20260912T143000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:hiddenvilla-534-202609121000@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/534-weekend-volunteer-training/region-HV/\n\nAges: Family 
  / all ages\nRegistration: required\nSource: https://www.hiddenvilla.org/pr
  ograms/catalog/534-weekend-volunteer-training/region-HV/\nLast synced: 202
- 6-08-27 15:50 PDT
+ 6-08-28 15:54 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/534-weekend-volunteer-tra
  ining/region-HV/
@@ -267,13 +267,13 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Weekend Volunteer Training
 DTSTART;TZID=America/Los_Angeles:20260927T100000
 DTEND;TZID=America/Los_Angeles:20260927T143000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:hiddenvilla-534-202609271000@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/534-weekend-volunteer-training/region-HV/\n\nAges: Family 
  / all ages\nRegistration: required\nSource: https://www.hiddenvilla.org/pr
  ograms/catalog/534-weekend-volunteer-training/region-HV/\nLast synced: 202
- 6-08-27 15:50 PDT
+ 6-08-28 15:54 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/534-weekend-volunteer-tra
  ining/region-HV/
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Volunteer Outdoors at Redwood Grove in Los Altos
 DTSTART;TZID=America/Los_Angeles:20260904T090000
 DTEND;TZID=America/Los_Angeles:20260904T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:grassrootsecology-volunteer-outdoors-redwood-grove@local-events
 DESCRIPTION:Volunteer your time to help increase biodiversity in Los Altos
   at Redwood Grove Nature Preserve!\n\nGrassroots Ecology has no minimum ag
@@ -290,7 +290,7 @@ DESCRIPTION:Volunteer your time to help increase biodiversity in Los Altos
  s required. Tools and gloves provided.\n\nAges: All ages (under-13 with ad
  ult\, minor waiver required)\nRegistration: required\nSource: https://www.
  grassrootsecology.org/event-calendar/2026/09/04/volunteer-outdoors-redwood
- -grove\nLast synced: 2026-08-27 15:50 PDT
+ -grove\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Redwood Grove Nature Preserve (map)
 URL:https://www.grassrootsecology.org/event-calendar/2026/09/04/volunteer-
  outdoors-redwood-grove
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Boost Biodiversity at Russian Ridge Open Space Preserve
 DTSTART;TZID=America/Los_Angeles:20260909T090000
 DTEND;TZID=America/Los_Angeles:20260909T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:grassrootsecology-volunteer-at-russian-ridge@local-events
 DESCRIPTION:Celebrate California Biodiversity Day by volunteering at Russi
  an Ridge Open Space Preserve!\n\nGrassroots Ecology has no minimum age\; c
@@ -307,7 +307,7 @@ DESCRIPTION:Celebrate California Biodiversity Day by volunteering at Russi
  uired. Tools and gloves provided.\n\nAges: All ages (under-13 with adult\,
   minor waiver required)\nRegistration: required\nSource: https://www.grass
  rootsecology.org/event-calendar/2026/09/09/volunteer-at-russian-ridge\nLas
- t synced: 2026-08-27 15:50 PDT
+ t synced: 2026-08-28 15:54 PDT
 LOCATION:Russian Ridge Preserve Parking (map)
 URL:https://www.grassrootsecology.org/event-calendar/2026/09/09/volunteer-
  at-russian-ridge
@@ -316,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:[RWC] 2026 Coastal Cleanup Day in Redwood City
 DTSTART;TZID=America/Los_Angeles:20260919T083000
 DTEND;TZID=America/Los_Angeles:20260919T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:grassrootsecology-coastal-cleanup-day-redwood-city@local-events
 DESCRIPTION:Join California's largest cleanup event\, Coastal Cleanup Day!
   Hosted by the City of Redwood City.\n\nGrassroots Ecology has no minimum 
@@ -324,7 +324,7 @@ DESCRIPTION:Join California's largest cleanup event\, Coastal Cleanup Day!
   is required. Tools and gloves provided.\n\nAges: All ages (under-13 with 
  adult\, minor waiver required)\nRegistration: required\nSource: https://ww
  w.grassrootsecology.org/event-calendar/2026/09/19/coastal-cleanup-day-redw
- ood-city\nLast synced: 2026-08-27 15:50 PDT
+ ood-city\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Public Works Services (map)
 URL:https://www.grassrootsecology.org/event-calendar/2026/09/19/coastal-cl
  eanup-day-redwood-city
@@ -333,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:[MP] 2026 Coastal Cleanup Day at San Francisquito Creek
 DTSTART;TZID=America/Los_Angeles:20260919T090000
 DTEND;TZID=America/Los_Angeles:20260919T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:grassrootsecology-coastal-cleanup-day-at-san-francisquito-creek@local-
  events
 DESCRIPTION:Grassroots Ecology and the City of Menlo Park are partnering t
@@ -343,7 +343,7 @@ DESCRIPTION:Grassroots Ecology and the City of Menlo Park are partnering t
  ovided.\n\nAges: All ages (under-13 with adult\, minor waiver required)\nR
  egistration: required\nSource: https://www.grassrootsecology.org/event-cal
  endar/2026/09/19/coastal-cleanup-day-at-san-francisquito-creek\nLast synce
- d: 2026-08-27 15:50 PDT
+ d: 2026-08-28 15:54 PDT
 LOCATION:1 Alma Street Menlo Park\, CA\, 94025 United States (map)
 URL:https://www.grassrootsecology.org/event-calendar/2026/09/19/coastal-cl
  eanup-day-at-san-francisquito-creek
@@ -352,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:[EPA] 2026 Coastal Cleanup Day at Cooley Landing
 DTSTART;TZID=America/Los_Angeles:20260919T090000
 DTEND;TZID=America/Los_Angeles:20260919T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:grassrootsecology-coastal-cleanup-day-at-cooley-landing@local-events
 DESCRIPTION:Join us for California's largest cleanup event\, Coastal Clean
  up Day! Enjoy your time at the baylands and help pick up trash!\n\nGrassro
@@ -360,7 +360,7 @@ DESCRIPTION:Join us for California's largest cleanup event\, Coastal Clean
  an adult and a minor waiver is required. Tools and gloves provided.\n\nAge
  s: All ages (under-13 with adult\, minor waiver required)\nRegistration: r
  equired\nSource: https://www.grassrootsecology.org/event-calendar/2026/09/
- 19/coastal-cleanup-day-at-cooley-landing\nLast synced: 2026-08-27 15:50 PD
+ 19/coastal-cleanup-day-at-cooley-landing\nLast synced: 2026-08-28 15:54 PD
  T
 LOCATION:Cooley Landing (map)
 URL:https://www.grassrootsecology.org/event-calendar/2026/09/19/coastal-cl
@@ -370,7 +370,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Stinkwort Weeding Party at Byrne Preserve in Los Altos Hills
 DTSTART;TZID=America/Los_Angeles:20260920T083000
 DTEND;TZID=America/Los_Angeles:20260920T113000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:grassrootsecology-volunteer-at-byrne-preserve@local-events
 DESCRIPTION:Join us for an early morning weeding party to help native plan
  ts thrive in the grassland at Byrne Preserve!\n\nGrassroots Ecology has no
@@ -378,7 +378,7 @@ DESCRIPTION:Join us for an early morning weeding party to help native plan
  or waiver is required. Tools and gloves provided.\n\nAges: All ages (under
  -13 with adult\, minor waiver required)\nRegistration: required\nSource: h
  ttps://www.grassrootsecology.org/event-calendar/2026/09/20/volunteer-at-by
- rne-preserve\nLast synced: 2026-08-27 15:50 PDT
+ rne-preserve\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Byrne Preserve (map)
 URL:https://www.grassrootsecology.org/event-calendar/2026/09/20/volunteer-
  at-byrne-preserve
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Sheet Mulch at Foothills Nature Preserve in Palo Alto
 DTSTART;TZID=America/Los_Angeles:20260920T130000
 DTEND;TZID=America/Los_Angeles:20260920T160000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:grassrootsecology-volunteer-outdoors-foothills-nature-preserve@local-e
  vents
 DESCRIPTION:Volunteer your time to prepare a planting area to increase bio
@@ -396,7 +396,7 @@ DESCRIPTION:Volunteer your time to prepare a planting area to increase bio
  ver is required. Tools and gloves provided.\n\nAges: All ages (under-13 wi
  th adult\, minor waiver required)\nRegistration: required\nSource: https:/
  /www.grassrootsecology.org/event-calendar/2026/09/20/volunteer-outdoors-fo
- othills-nature-preserve\nLast synced: 2026-08-27 15:50 PDT
+ othills-nature-preserve\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Foothills Nature Preserve Interpretive Center (map)
 URL:https://www.grassrootsecology.org/event-calendar/2026/09/20/volunteer-
  outdoors-foothills-nature-preserve
@@ -405,7 +405,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Habitat Restoration at Eden Landing (Hayward)
 DTSTART;TZID=America/Los_Angeles:20261003T090000
 DTEND;TZID=America/Los_Angeles:20261003T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:savethebay-1355690@local-events
 DESCRIPTION:Come join us at Eden Landing Ecological Reserve to help restor
  e former industrial salt ponds into healthy salt marsh habitat! This visio
@@ -423,42 +423,17 @@ DESCRIPTION:Come join us at Eden Landing Ecological Reserve to help restor
   event — confirm with STB before registering.\n\nAges: 8+ recommended (6
  + with parent\, per-event confirmation)\nRegistration: required\nSource: h
  ttps://savesfbay.org/event/habitat-restoration-at-eden-landing-hayward-1jx
- wyay/\nLast synced: 2026-08-27 15:50 PDT
+ wyay/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:San Francisco Bay Area
 URL:https://savesfbay.org/event/habitat-restoration-at-eden-landing-haywar
  d-1jxwyay/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[SM] Friends of Edgewood Natural Preserve: Weed Warriors
-DTSTART;TZID=America/Los_Angeles:20260828T090000
-DTEND;TZID=America/Los_Angeles:20260828T120000
-DTSTAMP:20260827T225018Z
-UID:flowstobay-17282-1787907600-1787918400@flowstobay.org@local-events
-DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
- d Warriors program and protect Edgewood’s amazing biodiversity by contro
- lling and removing invasive\, non-native plants. We’ll have great opport
- unities to see native wildflowers and other plants\, and to learn about lo
- cal ecology from other volunteers and local experts.Teens are welcome\, bu
- t must each be accompanied by one of their own parents\; unaccompanied adu
- lt students must have proof of age. Friday sessions run year round… meet
- ing locations are determined weekly\, so contact us for more information (
- or join our email contact list). For more info and contact details go to h
- ttps://friendsofedgewood.org/habitat-restoration. \nEWW operates by permit
-  from County Parks… please don’t do any weeding on your own! \nLocatio
- n: Edgewood County Park & Natural Preserve in San Mateo County. \nSIGN UP 
- HERE\n\nAges: Varies per event — many family-friendly. Confirm with even
- t host.\nSource: https://flowstobay.org/calendar/friends-of-edgewood-natur
- al-preserve-weed-warriors-2026-08-28/\nLast synced: 2026-08-27 15:50 PDT
-LOCATION:Edgewood County Park & Natural Preserve\, CA\, United States
-URL:https://flowstobay.org/calendar/friends-of-edgewood-natural-preserve-w
- eed-warriors-2026-08-28/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[SM] Compost and Mulch Best Practices - Advanced Professional Work
  shop/Certification (Online)
 DTSTART;TZID=America/Los_Angeles:20260903T090000
 DTEND;TZID=America/Los_Angeles:20260903T133000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-19405-1788426000-1788442200@flowstobay.org@local-events
 DESCRIPTION:Date: Thursday\, September 3\, 2026\nTime: 9:00 AM – 1:30 
  PM\n \nCost:  \n\n$275 – Regular Admission – Advanced Professional Wo
@@ -503,7 +478,7 @@ DESCRIPTION:Date: Thursday\, September 3\, 2026\nTime: 9:00 AM – 1:30
   Kennedy Ave\, Suite 210\, San Francisco\, CA 94129\n\nAges: Varies per ev
  ent — many family-friendly. Confirm with event host.\nSource: https://fl
  owstobay.org/calendar/compost-and-mulch-best-practices-advanced-profession
- al-workshop-certification-online/\nLast synced: 2026-08-27 15:50 PDT
+ al-workshop-certification-online/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Online\, CA\, United States
 URL:https://flowstobay.org/calendar/compost-and-mulch-best-practices-advan
  ced-professional-workshop-certification-online/
@@ -512,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Friends of Edgewood Natural Preserve: Weed Warriors
 DTSTART;TZID=America/Los_Angeles:20260904T090000
 DTEND;TZID=America/Los_Angeles:20260904T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17291-1788512400-1788523200@flowstobay.org@local-events
 DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
  d Warriors program and protect Edgewood’s amazing biodiversity by contro
@@ -528,7 +503,7 @@ DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
  n: Edgewood County Park & Natural Preserve in San Mateo County. \nSIGN UP 
  HERE\n\nAges: Varies per event — many family-friendly. Confirm with even
  t host.\nSource: https://flowstobay.org/calendar/friends-of-edgewood-natur
- al-preserve-weed-warriors-2026-09-04/\nLast synced: 2026-08-27 15:50 PDT
+ al-preserve-weed-warriors-2026-09-04/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Edgewood County Park & Natural Preserve\, CA\, United States
 URL:https://flowstobay.org/calendar/friends-of-edgewood-natural-preserve-w
  eed-warriors-2026-09-04/
@@ -537,7 +512,7 @@ BEGIN:VEVENT
 SUMMARY:[PAC] San Pedro Creek Cleanup
 DTSTART;TZID=America/Los_Angeles:20260905T090000
 DTEND;TZID=America/Los_Angeles:20260905T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17292-1788598800-1788606000@flowstobay.org@local-events
 DESCRIPTION:Monthly on the first Saturday \nWhere to Meet: At the end of S
  an Pedro Terrace Rd by the trail head. 751 San Pedro Terrace Rd\, Pacifica
@@ -545,7 +520,7 @@ DESCRIPTION:Monthly on the first Saturday \nWhere to Meet: At the end of S
   more information. \nNO REGISTRATION REQUIRED\n\nAges: Varies per event 
  — many family-friendly. Confirm with event host.\nSource: https://flowst
  obay.org/calendar/san-pedro-creek-cleanup-2026-09-05/\nLast synced: 2026-0
- 8-27 15:50 PDT
+ 8-28 15:54 PDT
 LOCATION:751 San Pedro Terrace Rd 751 San Pedro Terrace Rd\, Pacifica\, CA
   94044\, USA\, 751 San Pedro Terrace Rd.\, Pacifica\, CA\, 94044\, United 
  States
@@ -555,7 +530,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Friends of Edgewood Road Warriors: Adopt-A-Highway Workday
 DTSTART;TZID=America/Los_Angeles:20260906T090000
 DTEND;TZID=America/Los_Angeles:20260906T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17297-1788685200-1788696000@flowstobay.org@local-events
 DESCRIPTION:Adopt-A-Highway\n\n\nRoad Warriors\nThe Friends of Edgewood or
  ganization has adopted a 1.7-mile stretch of northbound I-280 adjacent to 
@@ -573,7 +548,7 @@ DESCRIPTION:Adopt-A-Highway\n\n\nRoad Warriors\nThe Friends of Edgewood or
   safety training\, and equipment.\n\nAges: Varies per event — many famil
  y-friendly. Confirm with event host.\nSource: https://flowstobay.org/calen
  dar/friends-of-edgewood-road-warriors-adopt-a-highway-workday-2026-09-06/
- \nLast synced: 2026-08-27 15:50 PDT
+ \nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Edgewood County Park & Natural Preserve\, CA\, United States
 URL:https://flowstobay.org/calendar/friends-of-edgewood-road-warriors-adop
  t-a-highway-workday-2026-09-06/
@@ -583,7 +558,7 @@ SUMMARY:[SM] Master Gardener Plant Clinic at the San Mateo Arboretum Socie
  ty
 DTSTART;TZID=America/Los_Angeles:20260906T120000
 DTEND;TZID=America/Los_Angeles:20260906T150000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17298-1788696000-1788706800@flowstobay.org@local-events
 DESCRIPTION:San Mateo Arboretum in Central Park\n101 9th Avenue\nSan Mateo
  \, CA 94401\nContact: mgsmsf@ucanr.edu\nSponsor: Master Gardeners of San
@@ -596,7 +571,7 @@ DESCRIPTION:San Mateo Arboretum in Central Park\n101 9th Avenue\nSan Mateo
   so they can be correctly identified. \nRegistration is not required.\n\nA
  ges: Varies per event — many family-friendly. Confirm with event host.\n
  Source: https://flowstobay.org/calendar/master-gardener-plant-clinic-at-th
- e-san-mateo-arboretum-2026-09-06/\nLast synced: 2026-08-27 15:50 PDT
+ e-san-mateo-arboretum-2026-09-06/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:San Mateo Arboretum in Central Park\, 101 9th Avenue\, San Mateo
  \, 94401
 URL:https://flowstobay.org/calendar/master-gardener-plant-clinic-at-the-sa
@@ -606,7 +581,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Friends of Edgewood Natural Preserve: Weed Warriors
 DTSTART;TZID=America/Los_Angeles:20260911T090000
 DTEND;TZID=America/Los_Angeles:20260911T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17302-1789117200-1789128000@flowstobay.org@local-events
 DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
  d Warriors program and protect Edgewood’s amazing biodiversity by contro
@@ -622,7 +597,7 @@ DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
  n: Edgewood County Park & Natural Preserve in San Mateo County. \nSIGN UP 
  HERE\n\nAges: Varies per event — many family-friendly. Confirm with even
  t host.\nSource: https://flowstobay.org/calendar/friends-of-edgewood-natur
- al-preserve-weed-warriors-2026-09-11/\nLast synced: 2026-08-27 15:50 PDT
+ al-preserve-weed-warriors-2026-09-11/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Edgewood County Park & Natural Preserve\, CA\, United States
 URL:https://flowstobay.org/calendar/friends-of-edgewood-natural-preserve-w
  eed-warriors-2026-09-11/
@@ -631,7 +606,7 @@ BEGIN:VEVENT
 SUMMARY:[SSF] Sign Hill Stewards: Habitat Restoration
 DTSTART;TZID=America/Los_Angeles:20260912T090000
 DTEND;TZID=America/Los_Angeles:20260912T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17408-1789203600-1789214400@flowstobay.org@local-events
 DESCRIPTION:Many rare plant and animal species live on Sign Hill’s nativ
  e grasslands\, including the endangered mission blue butterfly. Help us co
@@ -650,7 +625,7 @@ DESCRIPTION:Many rare plant and animal species live on Sign Hill’s nativ
  ach volunteer. Volunteers should expect some hiking on steep terrain. \nRE
  GISTER HERE\n\nAges: Varies per event — many family-friendly. Confirm wi
  th event host.\nSource: https://flowstobay.org/calendar/sign-hill-stewards
- -habitat-restoration-2026-09-12/\nLast synced: 2026-08-27 15:50 PDT
+ -habitat-restoration-2026-09-12/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Sign Hill Parking Lot\, 964 Ridgeview Ct\, South San Francisco\, 
  CA\, 94080\, United States
 URL:https://flowstobay.org/calendar/sign-hill-stewards-habitat-restoration
@@ -660,7 +635,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] The HEAL Project Community Farm Day
 DTSTART;TZID=America/Los_Angeles:20260912T090000
 DTEND;TZID=America/Los_Angeles:20260912T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17303-1789203600-1789214400@flowstobay.org@local-events
 DESCRIPTION:Now offering Community Farm Days! Gatherings are held on the
   second Saturday of the month from 9am-12pm\, Year-round. Heavy rain can
@@ -684,7 +659,7 @@ DESCRIPTION:Now offering Community Farm Days! Gatherings are held on the
  hey are not allowed at the farm. \nRSVP HERE \nPLEASE MAKE SURE TO SIGN OU
  R REQUIRED WAIVER\n\nAges: Varies per event — many family-friendly. Conf
  irm with event host.\nSource: https://flowstobay.org/calendar/the-heal-pro
- ject-community-farm-day-2026-09-12/\nLast synced: 2026-08-27 15:50 PDT
+ ject-community-farm-day-2026-09-12/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:San Mateo County School Farm\, 500 Bridgeport Drive\, Half Moon B
  ay\, CA\, 94019\, United States
 URL:https://flowstobay.org/calendar/the-heal-project-community-farm-day-20
@@ -695,7 +670,7 @@ SUMMARY:[PAC] San Pedro Valley Park: Trail and Habitat Restoration Work Da
  ys
 DTSTART;TZID=America/Los_Angeles:20260912T090000
 DTEND;TZID=America/Los_Angeles:20260912T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17304-1789203600-1789214400@flowstobay.org@local-events
 DESCRIPTION:Trail and Habitat Restoration Work Days \nEach month\, the se
  cond Saturday is designated for Trail Work and the third Saturday is 
@@ -716,7 +691,7 @@ DESCRIPTION:Trail and Habitat Restoration Work Days \nEach month\, the se
   of the Friends’ volunteers who are there.\n\nAges: Varies per event —
   many family-friendly. Confirm with event host.\nSource: https://flowstoba
  y.org/calendar/san-pedro-valley-park-trail-and-habitat-restoration-work-da
- ys-2026-09-12/\nLast synced: 2026-08-27 15:50 PDT
+ ys-2026-09-12/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:San Pedro Valley Park\, 600 Oddstad Blvd\, Pacifica\, CA\, 94044
  \, United States
 URL:https://flowstobay.org/calendar/san-pedro-valley-park-trail-and-habita
@@ -726,7 +701,7 @@ BEGIN:VEVENT
 SUMMARY:[SSF] Sign Hill Stewards: Habitat Restoration
 DTSTART;TZID=America/Los_Angeles:20260918T090000
 DTEND;TZID=America/Los_Angeles:20260918T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17407-1789722000-1789732800@flowstobay.org@local-events
 DESCRIPTION:Many rare plant and animal species live on Sign Hill’s nativ
  e grasslands\, including the endangered mission blue butterfly. Help us co
@@ -745,7 +720,7 @@ DESCRIPTION:Many rare plant and animal species live on Sign Hill’s nativ
  ach volunteer. Volunteers should expect some hiking on steep terrain. \nRE
  GISTER HERE\n\nAges: Varies per event — many family-friendly. Confirm wi
  th event host.\nSource: https://flowstobay.org/calendar/sign-hill-stewards
- -habitat-restoration-2026-09-18/\nLast synced: 2026-08-27 15:50 PDT
+ -habitat-restoration-2026-09-18/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Sign Hill Parking Lot\, 964 Ridgeview Ct\, South San Francisco\, 
  CA\, 94080\, United States
 URL:https://flowstobay.org/calendar/sign-hill-stewards-habitat-restoration
@@ -755,7 +730,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Friends of Edgewood Natural Preserve: Weed Warriors
 DTSTART;TZID=America/Los_Angeles:20260918T090000
 DTEND;TZID=America/Los_Angeles:20260918T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17409-1789722000-1789732800@flowstobay.org@local-events
 DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
  d Warriors program and protect Edgewood’s amazing biodiversity by contro
@@ -771,7 +746,7 @@ DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
  n: Edgewood County Park & Natural Preserve in San Mateo County. \nSIGN UP 
  HERE\n\nAges: Varies per event — many family-friendly. Confirm with even
  t host.\nSource: https://flowstobay.org/calendar/friends-of-edgewood-natur
- al-preserve-weed-warriors-2026-09-18/\nLast synced: 2026-08-27 15:50 PDT
+ al-preserve-weed-warriors-2026-09-18/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Edgewood County Park & Natural Preserve\, CA\, United States
 URL:https://flowstobay.org/calendar/friends-of-edgewood-natural-preserve-w
  eed-warriors-2026-09-18/
@@ -780,7 +755,7 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Esplanade Beach Cleanup
 DTSTART;TZID=America/Los_Angeles:20260919T090000
 DTEND;TZID=America/Los_Angeles:20260919T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17422-1789808400-1789815600@flowstobay.org@local-events
 DESCRIPTION:Time: 3rd Saturday of the month from 9am to 11am. \nWhere to M
  eet: Meet at the top of the stairs on Esplanade Avenue next to Oceanair
@@ -808,7 +783,7 @@ DESCRIPTION:Time: 3rd Saturday of the month from 9am to 11am. \nWhere to M
  ext-esplanade-beach-cleanup/ \nRegister Here!\n\nAges: Varies per event 
  — many family-friendly. Confirm with event host.\nSource: https://flowst
  obay.org/calendar/esplanade-beach-cleanup-3-2026-09-19/\nLast synced: 2026
- -08-27 15:50 PDT
+ -08-28 15:54 PDT
 LOCATION:Esplanade Beach\, 360 Esplanade Ave\,\, Pacifica\, CA\, 94044\, U
  nited States
 URL:https://flowstobay.org/calendar/esplanade-beach-cleanup-3-2026-09-19/
@@ -817,7 +792,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Coastal Cleanup Day 2026
 DTSTART;TZID=America/Los_Angeles:20260919T090000
 DTEND;TZID=America/Los_Angeles:20260919T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-19254-1789808400-1789819200@flowstobay.org@local-events
 DESCRIPTION:Coastal Cleanup Day is an annual waterway and land cleanup hel
  d in September. It’s California’s largest volunteer event and brings c
@@ -833,7 +808,7 @@ DESCRIPTION:Coastal Cleanup Day is an annual waterway and land cleanup hel
  own cleanup location\, please contact Connie Tran at (650) 388-2096 or ct
  ran1@smcgov.org.\n\nAges: Varies per event — many family-friendly. Confi
  rm with event host.\nSource: https://flowstobay.org/calendar/coastal-clean
- up-day-2026/\nLast synced: 2026-08-27 15:50 PDT
+ up-day-2026/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:TBD\, CA
 URL:https://flowstobay.org/calendar/coastal-cleanup-day-2026/
 END:VEVENT
@@ -841,7 +816,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Friends of Edgewood Natural Preserve: Weed Warriors
 DTSTART;TZID=America/Los_Angeles:20260925T090000
 DTEND;TZID=America/Los_Angeles:20260925T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17539-1790326800-1790337600@flowstobay.org@local-events
 DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
  d Warriors program and protect Edgewood’s amazing biodiversity by contro
@@ -857,7 +832,7 @@ DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
  n: Edgewood County Park & Natural Preserve in San Mateo County. \nSIGN UP 
  HERE\n\nAges: Varies per event — many family-friendly. Confirm with even
  t host.\nSource: https://flowstobay.org/calendar/friends-of-edgewood-natur
- al-preserve-weed-warriors-2026-09-25/\nLast synced: 2026-08-27 15:50 PDT
+ al-preserve-weed-warriors-2026-09-25/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Edgewood County Park & Natural Preserve\, CA\, United States
 URL:https://flowstobay.org/calendar/friends-of-edgewood-natural-preserve-w
  eed-warriors-2026-09-25/
@@ -866,7 +841,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Mussel Rock Beach Cleanup
 DTSTART;TZID=America/Los_Angeles:20260926T090000
 DTEND;TZID=America/Los_Angeles:20260926T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17534-1790413200-1790420400@flowstobay.org@local-events
 DESCRIPTION:About the Cleanup:\nTime: Fourth Saturday of the month from 9
  am-11am\, rain or shine. Check our online monthly calendar for exact dat
@@ -895,7 +870,7 @@ DESCRIPTION:About the Cleanup:\nTime: Fourth Saturday of the month from 9
  no public restrooms at this site. \nSign Up Here!\n\nAges: Varies per even
  t — many family-friendly. Confirm with event host.\nSource: https://flow
  stobay.org/calendar/mussel-rock-beach-cleanup-4-2026-09-26/\nLast synced: 
- 2026-08-27 15:50 PDT
+ 2026-08-28 15:54 PDT
 LOCATION:Mussel Rock Beach – Meet at the Mussel Rock carpark located at 
  the lower coastal end of Westline Drive by the second entrance to Allied W
  aste Transfer Station.\, CA\, United States
@@ -906,7 +881,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Friends of Edgewood Natural Preserve: Weed Warriors
 DTSTART;TZID=America/Los_Angeles:20261002T090000
 DTEND;TZID=America/Los_Angeles:20261002T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17540-1790931600-1790942400@flowstobay.org@local-events
 DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
  d Warriors program and protect Edgewood’s amazing biodiversity by contro
@@ -922,7 +897,7 @@ DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
  n: Edgewood County Park & Natural Preserve in San Mateo County. \nSIGN UP 
  HERE\n\nAges: Varies per event — many family-friendly. Confirm with even
  t host.\nSource: https://flowstobay.org/calendar/friends-of-edgewood-natur
- al-preserve-weed-warriors-2026-10-02/\nLast synced: 2026-08-27 15:50 PDT
+ al-preserve-weed-warriors-2026-10-02/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Edgewood County Park & Natural Preserve\, CA\, United States
 URL:https://flowstobay.org/calendar/friends-of-edgewood-natural-preserve-w
  eed-warriors-2026-10-02/
@@ -931,7 +906,7 @@ BEGIN:VEVENT
 SUMMARY:[PAC] San Pedro Creek Cleanup
 DTSTART;TZID=America/Los_Angeles:20261003T090000
 DTEND;TZID=America/Los_Angeles:20261003T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17535-1791018000-1791025200@flowstobay.org@local-events
 DESCRIPTION:Monthly on the first Saturday \nWhere to Meet: At the end of S
  an Pedro Terrace Rd by the trail head. 751 San Pedro Terrace Rd\, Pacifica
@@ -939,7 +914,7 @@ DESCRIPTION:Monthly on the first Saturday \nWhere to Meet: At the end of S
   more information. \nNO REGISTRATION REQUIRED\n\nAges: Varies per event 
  — many family-friendly. Confirm with event host.\nSource: https://flowst
  obay.org/calendar/san-pedro-creek-cleanup-2026-10-03/\nLast synced: 2026-0
- 8-27 15:50 PDT
+ 8-28 15:54 PDT
 LOCATION:751 San Pedro Terrace Rd 751 San Pedro Terrace Rd\, Pacifica\, CA
   94044\, USA\, 751 San Pedro Terrace Rd.\, Pacifica\, CA\, 94044\, United 
  States
@@ -949,7 +924,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Friends of Edgewood Road Warriors: Adopt-A-Highway Workday
 DTSTART;TZID=America/Los_Angeles:20261003T090000
 DTEND;TZID=America/Los_Angeles:20261003T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17533-1791018000-1791028800@flowstobay.org@local-events
 DESCRIPTION:Adopt-A-Highway\n\n\nRoad Warriors\nThe Friends of Edgewood or
  ganization has adopted a 1.7-mile stretch of northbound I-280 adjacent to 
@@ -967,7 +942,7 @@ DESCRIPTION:Adopt-A-Highway\n\n\nRoad Warriors\nThe Friends of Edgewood or
   safety training\, and equipment.\n\nAges: Varies per event — many famil
  y-friendly. Confirm with event host.\nSource: https://flowstobay.org/calen
  dar/friends-of-edgewood-road-warriors-adopt-a-highway-workday-2-2026-10-03
- /\nLast synced: 2026-08-27 15:50 PDT
+ /\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Edgewood County Park & Natural Preserve\, CA\, United States
 URL:https://flowstobay.org/calendar/friends-of-edgewood-road-warriors-adop
  t-a-highway-workday-2-2026-10-03/
@@ -977,7 +952,7 @@ SUMMARY:[SM] Master Gardener Plant Clinic at the San Mateo Arboretum Socie
  ty
 DTSTART;TZID=America/Los_Angeles:20261004T120000
 DTEND;TZID=America/Los_Angeles:20261004T150000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17536-1791115200-1791126000@flowstobay.org@local-events
 DESCRIPTION:San Mateo Arboretum in Central Park\n101 9th Avenue\nSan Mateo
  \, CA 94401\nContact: mgsmsf@ucanr.edu\nSponsor: Master Gardeners of San
@@ -990,7 +965,7 @@ DESCRIPTION:San Mateo Arboretum in Central Park\n101 9th Avenue\nSan Mateo
   so they can be correctly identified. \nRegistration is not required.\n\nA
  ges: Varies per event — many family-friendly. Confirm with event host.\n
  Source: https://flowstobay.org/calendar/master-gardener-plant-clinic-at-th
- e-san-mateo-arboretum-2026-10-04/\nLast synced: 2026-08-27 15:50 PDT
+ e-san-mateo-arboretum-2026-10-04/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:San Mateo Arboretum in Central Park\, 101 9th Avenue\, San Mateo
  \, 94401
 URL:https://flowstobay.org/calendar/master-gardener-plant-clinic-at-the-sa
@@ -1000,7 +975,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Friends of Edgewood Natural Preserve: Weed Warriors
 DTSTART;TZID=America/Los_Angeles:20261009T090000
 DTEND;TZID=America/Los_Angeles:20261009T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17541-1791536400-1791547200@flowstobay.org@local-events
 DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
  d Warriors program and protect Edgewood’s amazing biodiversity by contro
@@ -1016,7 +991,7 @@ DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
  n: Edgewood County Park & Natural Preserve in San Mateo County. \nSIGN UP 
  HERE\n\nAges: Varies per event — many family-friendly. Confirm with even
  t host.\nSource: https://flowstobay.org/calendar/friends-of-edgewood-natur
- al-preserve-weed-warriors-2026-10-09/\nLast synced: 2026-08-27 15:50 PDT
+ al-preserve-weed-warriors-2026-10-09/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Edgewood County Park & Natural Preserve\, CA\, United States
 URL:https://flowstobay.org/calendar/friends-of-edgewood-natural-preserve-w
  eed-warriors-2026-10-09/
@@ -1025,7 +1000,7 @@ BEGIN:VEVENT
 SUMMARY:[SSF] Sign Hill Stewards: Habitat Restoration
 DTSTART;TZID=America/Los_Angeles:20261010T090000
 DTEND;TZID=America/Los_Angeles:20261010T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17603-1791622800-1791633600@flowstobay.org@local-events
 DESCRIPTION:Many rare plant and animal species live on Sign Hill’s nativ
  e grasslands\, including the endangered mission blue butterfly. Help us co
@@ -1044,7 +1019,7 @@ DESCRIPTION:Many rare plant and animal species live on Sign Hill’s nativ
  ach volunteer. Volunteers should expect some hiking on steep terrain. \nRE
  GISTER HERE\n\nAges: Varies per event — many family-friendly. Confirm wi
  th event host.\nSource: https://flowstobay.org/calendar/sign-hill-stewards
- -habitat-restoration-2026-10-10/\nLast synced: 2026-08-27 15:50 PDT
+ -habitat-restoration-2026-10-10/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Sign Hill Parking Lot\, 964 Ridgeview Ct\, South San Francisco\, 
  CA\, 94080\, United States
 URL:https://flowstobay.org/calendar/sign-hill-stewards-habitat-restoration
@@ -1054,7 +1029,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] The HEAL Project Community Farm Day
 DTSTART;TZID=America/Los_Angeles:20261010T090000
 DTEND;TZID=America/Los_Angeles:20261010T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17537-1791622800-1791633600@flowstobay.org@local-events
 DESCRIPTION:Now offering Community Farm Days! Gatherings are held on the
   second Saturday of the month from 9am-12pm\, Year-round. Heavy rain can
@@ -1078,7 +1053,7 @@ DESCRIPTION:Now offering Community Farm Days! Gatherings are held on the
  hey are not allowed at the farm. \nRSVP HERE \nPLEASE MAKE SURE TO SIGN OU
  R REQUIRED WAIVER\n\nAges: Varies per event — many family-friendly. Conf
  irm with event host.\nSource: https://flowstobay.org/calendar/the-heal-pro
- ject-community-farm-day-2026-10-10/\nLast synced: 2026-08-27 15:50 PDT
+ ject-community-farm-day-2026-10-10/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:San Mateo County School Farm\, 500 Bridgeport Drive\, Half Moon B
  ay\, CA\, 94019\, United States
 URL:https://flowstobay.org/calendar/the-heal-project-community-farm-day-20
@@ -1089,7 +1064,7 @@ SUMMARY:[PAC] San Pedro Valley Park: Trail and Habitat Restoration Work Da
  ys
 DTSTART;TZID=America/Los_Angeles:20261010T090000
 DTEND;TZID=America/Los_Angeles:20261010T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17538-1791622800-1791633600@flowstobay.org@local-events
 DESCRIPTION:Trail and Habitat Restoration Work Days \nEach month\, the se
  cond Saturday is designated for Trail Work and the third Saturday is 
@@ -1110,7 +1085,7 @@ DESCRIPTION:Trail and Habitat Restoration Work Days \nEach month\, the se
   of the Friends’ volunteers who are there.\n\nAges: Varies per event —
   many family-friendly. Confirm with event host.\nSource: https://flowstoba
  y.org/calendar/san-pedro-valley-park-trail-and-habitat-restoration-work-da
- ys-2026-10-10/\nLast synced: 2026-08-27 15:50 PDT
+ ys-2026-10-10/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:San Pedro Valley Park\, 600 Oddstad Blvd\, Pacifica\, CA\, 94044
  \, United States
 URL:https://flowstobay.org/calendar/san-pedro-valley-park-trail-and-habita
@@ -1120,7 +1095,7 @@ BEGIN:VEVENT
 SUMMARY:[SSF] Sign Hill Stewards: Habitat Restoration
 DTSTART;TZID=America/Los_Angeles:20261016T090000
 DTEND;TZID=America/Los_Angeles:20261016T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17602-1792141200-1792152000@flowstobay.org@local-events
 DESCRIPTION:Many rare plant and animal species live on Sign Hill’s nativ
  e grasslands\, including the endangered mission blue butterfly. Help us co
@@ -1139,7 +1114,7 @@ DESCRIPTION:Many rare plant and animal species live on Sign Hill’s nativ
  ach volunteer. Volunteers should expect some hiking on steep terrain. \nRE
  GISTER HERE\n\nAges: Varies per event — many family-friendly. Confirm wi
  th event host.\nSource: https://flowstobay.org/calendar/sign-hill-stewards
- -habitat-restoration-2026-10-16/\nLast synced: 2026-08-27 15:50 PDT
+ -habitat-restoration-2026-10-16/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Sign Hill Parking Lot\, 964 Ridgeview Ct\, South San Francisco\, 
  CA\, 94080\, United States
 URL:https://flowstobay.org/calendar/sign-hill-stewards-habitat-restoration
@@ -1149,7 +1124,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Friends of Edgewood Natural Preserve: Weed Warriors
 DTSTART;TZID=America/Los_Angeles:20261016T090000
 DTEND;TZID=America/Los_Angeles:20261016T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17604-1792141200-1792152000@flowstobay.org@local-events
 DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
  d Warriors program and protect Edgewood’s amazing biodiversity by contro
@@ -1165,7 +1140,7 @@ DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
  n: Edgewood County Park & Natural Preserve in San Mateo County. \nSIGN UP 
  HERE\n\nAges: Varies per event — many family-friendly. Confirm with even
  t host.\nSource: https://flowstobay.org/calendar/friends-of-edgewood-natur
- al-preserve-weed-warriors-2026-10-16/\nLast synced: 2026-08-27 15:50 PDT
+ al-preserve-weed-warriors-2026-10-16/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Edgewood County Park & Natural Preserve\, CA\, United States
 URL:https://flowstobay.org/calendar/friends-of-edgewood-natural-preserve-w
  eed-warriors-2026-10-16/
@@ -1174,7 +1149,7 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Esplanade Beach Cleanup
 DTSTART;TZID=America/Los_Angeles:20261017T090000
 DTEND;TZID=America/Los_Angeles:20261017T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17605-1792227600-1792234800@flowstobay.org@local-events
 DESCRIPTION:Time: 3rd Saturday of the month from 9am to 11am. \nWhere to M
  eet: Meet at the top of the stairs on Esplanade Avenue next to Oceanair
@@ -1202,7 +1177,7 @@ DESCRIPTION:Time: 3rd Saturday of the month from 9am to 11am. \nWhere to M
  ext-esplanade-beach-cleanup/ \nRegister Here!\n\nAges: Varies per event 
  — many family-friendly. Confirm with event host.\nSource: https://flowst
  obay.org/calendar/esplanade-beach-cleanup-3-2026-10-17/\nLast synced: 2026
- -08-27 15:50 PDT
+ -08-28 15:54 PDT
 LOCATION:Esplanade Beach\, 360 Esplanade Ave\,\, Pacifica\, CA\, 94044\, U
  nited States
 URL:https://flowstobay.org/calendar/esplanade-beach-cleanup-3-2026-10-17/
@@ -1211,7 +1186,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Friends of Edgewood Natural Preserve: Weed Warriors
 DTSTART;TZID=America/Los_Angeles:20261023T090000
 DTEND;TZID=America/Los_Angeles:20261023T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17752-1792746000-1792756800@flowstobay.org@local-events
 DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
  d Warriors program and protect Edgewood’s amazing biodiversity by contro
@@ -1227,7 +1202,7 @@ DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
  n: Edgewood County Park & Natural Preserve in San Mateo County. \nSIGN UP 
  HERE\n\nAges: Varies per event — many family-friendly. Confirm with even
  t host.\nSource: https://flowstobay.org/calendar/friends-of-edgewood-natur
- al-preserve-weed-warriors-2026-10-23/\nLast synced: 2026-08-27 15:50 PDT
+ al-preserve-weed-warriors-2026-10-23/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Edgewood County Park & Natural Preserve\, CA\, United States
 URL:https://flowstobay.org/calendar/friends-of-edgewood-natural-preserve-w
  eed-warriors-2026-10-23/
@@ -1236,7 +1211,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Mussel Rock Beach Cleanup
 DTSTART;TZID=America/Los_Angeles:20261024T090000
 DTEND;TZID=America/Los_Angeles:20261024T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17751-1792832400-1792839600@flowstobay.org@local-events
 DESCRIPTION:About the Cleanup:\nTime: Fourth Saturday of the month from 9
  am-11am\, rain or shine. Check our online monthly calendar for exact dat
@@ -1265,7 +1240,7 @@ DESCRIPTION:About the Cleanup:\nTime: Fourth Saturday of the month from 9
  no public restrooms at this site. \nSign Up Here!\n\nAges: Varies per even
  t — many family-friendly. Confirm with event host.\nSource: https://flow
  stobay.org/calendar/mussel-rock-beach-cleanup-4-2026-10-24/\nLast synced: 
- 2026-08-27 15:50 PDT
+ 2026-08-28 15:54 PDT
 LOCATION:Mussel Rock Beach – Meet at the Mussel Rock carpark located at 
  the lower coastal end of Westline Drive by the second entrance to Allied W
  aste Transfer Station.\, CA\, United States
@@ -1276,7 +1251,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Friends of Edgewood Natural Preserve: Weed Warriors
 DTSTART;TZID=America/Los_Angeles:20261030T090000
 DTEND;TZID=America/Los_Angeles:20261030T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:flowstobay-17758-1793350800-1793361600@flowstobay.org@local-events
 DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
  d Warriors program and protect Edgewood’s amazing biodiversity by contro
@@ -1292,23 +1267,50 @@ DESCRIPTION:Come help the California Native Plant Society’s Edgewood Wee
  n: Edgewood County Park & Natural Preserve in San Mateo County. \nSIGN UP 
  HERE\n\nAges: Varies per event — many family-friendly. Confirm with even
  t host.\nSource: https://flowstobay.org/calendar/friends-of-edgewood-natur
- al-preserve-weed-warriors-2026-10-30/\nLast synced: 2026-08-27 15:50 PDT
+ al-preserve-weed-warriors-2026-10-30/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Edgewood County Park & Natural Preserve\, CA\, United States
 URL:https://flowstobay.org/calendar/friends-of-edgewood-natural-preserve-w
  eed-warriors-2026-10-30/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[SM] Friends of Edgewood Road Warriors: Adopt-A-Highway Workday
+DTSTART;TZID=America/Los_Angeles:20261101T090000
+DTEND;TZID=America/Los_Angeles:20261101T120000
+DTSTAMP:20260828T225428Z
+UID:flowstobay-17756-1793523600-1793534400@flowstobay.org@local-events
+DESCRIPTION:Adopt-A-Highway\n\n\nRoad Warriors\nThe Friends of Edgewood or
+ ganization has adopted a 1.7-mile stretch of northbound I-280 adjacent to 
+ Edgewood Park. This segment was originally adopted in 1989 by Ken Seydel\,
+  who graciously transferred responsibility to the Friends of Edgewood in 1
+ 998. Ken served as program coordinator until 2014 and continues as to part
+ icipate as a volunteer. \nThe Adopt-A-Highway group meets at the Edgewood 
+ Road / I-280 Park & Ride lot in the morning of the first Saturday of even-
+ numbered months and the first Sunday of odd-numbered (schedule changes are
+  made due to holidays and weather). Work teams disperse along the adopted 
+ area to bag litter and move debris to collection points. \nFor further inf
+ ormation about the Friends of Edgewood Adopt-A-Highway program\, contact D
+ ave Hershey at road-warriors-coord@friendsofedgewood.org. Adopt-A-Highway
+  is conducted in cooperation with Caltrans\, which provides instructions\,
+  safety training\, and equipment.\n\nAges: Varies per event — many famil
+ y-friendly. Confirm with event host.\nSource: https://flowstobay.org/calen
+ dar/friends-of-edgewood-road-warriors-adopt-a-highway-workday-2026-11-01/
+ \nLast synced: 2026-08-28 15:54 PDT
+LOCATION:Edgewood County Park & Natural Preserve\, CA\, United States
+URL:https://flowstobay.org/calendar/friends-of-edgewood-road-warriors-adop
+ t-a-highway-workday-2026-11-01/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[PAC] Esplanade Beach Cleanup\, Pacifica
 DTSTART;TZID=America/Los_Angeles:20260919T090000
 DTEND;TZID=America/Los_Angeles:20260919T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:pacificbeach-next-esplanade-beach-cleanup-2026-09-19@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-esplanade-beach-cleanup/\nL
- ast synced: 2026-08-27 15:50 PDT
+ ast synced: 2026-08-28 15:54 PDT
 LOCATION:Pacifica
 URL:https://www.pacificbeachcoalition.org/next-esplanade-beach-cleanup/
 END:VEVENT
@@ -1316,14 +1318,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Esplanade Beach Cleanup\, Pacifica
 DTSTART;TZID=America/Los_Angeles:20261017T090000
 DTEND;TZID=America/Los_Angeles:20261017T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:pacificbeach-next-esplanade-beach-cleanup-2026-10-17@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-esplanade-beach-cleanup/\nL
- ast synced: 2026-08-27 15:50 PDT
+ ast synced: 2026-08-28 15:54 PDT
 LOCATION:Pacifica
 URL:https://www.pacificbeachcoalition.org/next-esplanade-beach-cleanup/
 END:VEVENT
@@ -1331,14 +1333,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Esplanade Beach Cleanup\, Pacifica
 DTSTART;TZID=America/Los_Angeles:20261121T090000
 DTEND;TZID=America/Los_Angeles:20261121T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:pacificbeach-next-esplanade-beach-cleanup-2026-11-21@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-esplanade-beach-cleanup/\nL
- ast synced: 2026-08-27 15:50 PDT
+ ast synced: 2026-08-28 15:54 PDT
 LOCATION:Pacifica
 URL:https://www.pacificbeachcoalition.org/next-esplanade-beach-cleanup/
 END:VEVENT
@@ -1346,14 +1348,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Esplanade Beach Cleanup\, Pacifica
 DTSTART;TZID=America/Los_Angeles:20261220T090000
 DTEND;TZID=America/Los_Angeles:20261220T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:pacificbeach-next-esplanade-beach-cleanup-2026-12-20@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-esplanade-beach-cleanup/\nL
- ast synced: 2026-08-27 15:50 PDT
+ ast synced: 2026-08-28 15:54 PDT
 LOCATION:Pacifica
 URL:https://www.pacificbeachcoalition.org/next-esplanade-beach-cleanup/
 END:VEVENT
@@ -1361,14 +1363,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Linda Mar Beach Cleanup\, Pacifica
 DTSTART;TZID=America/Los_Angeles:20260919T090000
 DTEND;TZID=America/Los_Angeles:20260919T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:pacificbeach-next-beach-cleanup-linda-mar-2026-09-19@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-beach-cleanup-linda-mar/\nL
- ast synced: 2026-08-27 15:50 PDT
+ ast synced: 2026-08-28 15:54 PDT
 LOCATION:Pacifica
 URL:https://www.pacificbeachcoalition.org/next-beach-cleanup-linda-mar/
 END:VEVENT
@@ -1376,14 +1378,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Linda Mar Beach Cleanup\, Pacifica
 DTSTART;TZID=America/Los_Angeles:20261017T090000
 DTEND;TZID=America/Los_Angeles:20261017T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:pacificbeach-next-beach-cleanup-linda-mar-2026-10-17@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-beach-cleanup-linda-mar/\nL
- ast synced: 2026-08-27 15:50 PDT
+ ast synced: 2026-08-28 15:54 PDT
 LOCATION:Pacifica
 URL:https://www.pacificbeachcoalition.org/next-beach-cleanup-linda-mar/
 END:VEVENT
@@ -1391,14 +1393,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Linda Mar Beach Cleanup\, Pacifica
 DTSTART;TZID=America/Los_Angeles:20261121T090000
 DTEND;TZID=America/Los_Angeles:20261121T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:pacificbeach-next-beach-cleanup-linda-mar-2026-11-21@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-beach-cleanup-linda-mar/\nL
- ast synced: 2026-08-27 15:50 PDT
+ ast synced: 2026-08-28 15:54 PDT
 LOCATION:Pacifica
 URL:https://www.pacificbeachcoalition.org/next-beach-cleanup-linda-mar/
 END:VEVENT
@@ -1406,14 +1408,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Linda Mar Beach Cleanup\, Pacifica
 DTSTART;TZID=America/Los_Angeles:20261220T090000
 DTEND;TZID=America/Los_Angeles:20261220T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:pacificbeach-next-beach-cleanup-linda-mar-2026-12-20@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-beach-cleanup-linda-mar/\nL
- ast synced: 2026-08-27 15:50 PDT
+ ast synced: 2026-08-28 15:54 PDT
 LOCATION:Pacifica
 URL:https://www.pacificbeachcoalition.org/next-beach-cleanup-linda-mar/
 END:VEVENT
@@ -1421,14 +1423,14 @@ BEGIN:VEVENT
 SUMMARY:[FC] Foster City Cleanup
 DTSTART;TZID=America/Los_Angeles:20260919T090000
 DTEND;TZID=America/Los_Angeles:20260919T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:pacificbeach-next-cleanup-foster-city-2026-09-19@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-cleanup-foster-city/\nLast 
- synced: 2026-08-27 15:50 PDT
+ synced: 2026-08-28 15:54 PDT
 LOCATION:Pacifica\, CA
 URL:https://www.pacificbeachcoalition.org/next-cleanup-foster-city/
 END:VEVENT
@@ -1436,14 +1438,14 @@ BEGIN:VEVENT
 SUMMARY:[FC] Foster City Cleanup
 DTSTART;TZID=America/Los_Angeles:20261018T090000
 DTEND;TZID=America/Los_Angeles:20261018T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:pacificbeach-next-cleanup-foster-city-2026-10-18@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-cleanup-foster-city/\nLast 
- synced: 2026-08-27 15:50 PDT
+ synced: 2026-08-28 15:54 PDT
 LOCATION:Pacifica\, CA
 URL:https://www.pacificbeachcoalition.org/next-cleanup-foster-city/
 END:VEVENT
@@ -1451,14 +1453,14 @@ BEGIN:VEVENT
 SUMMARY:[FC] Foster City Cleanup
 DTSTART;TZID=America/Los_Angeles:20261115T090000
 DTEND;TZID=America/Los_Angeles:20261115T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:pacificbeach-next-cleanup-foster-city-2026-11-15@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-cleanup-foster-city/\nLast 
- synced: 2026-08-27 15:50 PDT
+ synced: 2026-08-28 15:54 PDT
 LOCATION:Pacifica\, CA
 URL:https://www.pacificbeachcoalition.org/next-cleanup-foster-city/
 END:VEVENT
@@ -1466,14 +1468,14 @@ BEGIN:VEVENT
 SUMMARY:[FC] Foster City Cleanup
 DTSTART;TZID=America/Los_Angeles:20261220T090000
 DTEND;TZID=America/Los_Angeles:20261220T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:pacificbeach-next-cleanup-foster-city-2026-12-20@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-cleanup-foster-city/\nLast 
- synced: 2026-08-27 15:50 PDT
+ synced: 2026-08-28 15:54 PDT
 LOCATION:Pacifica\, CA
 URL:https://www.pacificbeachcoalition.org/next-cleanup-foster-city/
 END:VEVENT
@@ -1481,14 +1483,14 @@ BEGIN:VEVENT
 SUMMARY:[HMB] Montara Beach Cleanup
 DTSTART;TZID=America/Los_Angeles:20260919T090000
 DTEND;TZID=America/Los_Angeles:20260919T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:pacificbeach-next-beach-cleanup-montara-2026-09-19@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-beach-cleanup-montara/\nLas
- t synced: 2026-08-27 15:50 PDT
+ t synced: 2026-08-28 15:54 PDT
 LOCATION:Pacifica\, CA
 URL:https://www.pacificbeachcoalition.org/next-beach-cleanup-montara/
 END:VEVENT
@@ -1496,14 +1498,14 @@ BEGIN:VEVENT
 SUMMARY:[HMB] Montara Beach Cleanup
 DTSTART;TZID=America/Los_Angeles:20261010T090000
 DTEND;TZID=America/Los_Angeles:20261010T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:pacificbeach-next-beach-cleanup-montara-2026-10-10@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-beach-cleanup-montara/\nLas
- t synced: 2026-08-27 15:50 PDT
+ t synced: 2026-08-28 15:54 PDT
 LOCATION:Pacifica\, CA
 URL:https://www.pacificbeachcoalition.org/next-beach-cleanup-montara/
 END:VEVENT
@@ -1511,14 +1513,14 @@ BEGIN:VEVENT
 SUMMARY:[HMB] Montara Beach Cleanup
 DTSTART;TZID=America/Los_Angeles:20261114T090000
 DTEND;TZID=America/Los_Angeles:20261114T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:pacificbeach-next-beach-cleanup-montara-2026-11-14@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-beach-cleanup-montara/\nLas
- t synced: 2026-08-27 15:50 PDT
+ t synced: 2026-08-28 15:54 PDT
 LOCATION:Pacifica\, CA
 URL:https://www.pacificbeachcoalition.org/next-beach-cleanup-montara/
 END:VEVENT
@@ -1526,14 +1528,14 @@ BEGIN:VEVENT
 SUMMARY:[HMB] Montara Beach Cleanup
 DTSTART;TZID=America/Los_Angeles:20261212T090000
 DTEND;TZID=America/Los_Angeles:20261212T110000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:pacificbeach-next-beach-cleanup-montara-2026-12-12@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-beach-cleanup-montara/\nLas
- t synced: 2026-08-27 15:50 PDT
+ t synced: 2026-08-28 15:54 PDT
 LOCATION:Pacifica\, CA
 URL:https://www.pacificbeachcoalition.org/next-beach-cleanup-montara/
 END:VEVENT
@@ -1541,7 +1543,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20260912T100000
 DTEND;TZID=America/Los_Angeles:20260912T150000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:static_recurring-bikex-2026-09-12@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -1550,7 +1552,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-08-27 15:50 PDT
+ ps://bikex.org/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -1559,7 +1561,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20260926T100000
 DTEND;TZID=America/Los_Angeles:20260926T150000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:static_recurring-bikex-2026-09-26@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -1568,7 +1570,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-08-27 15:50 PDT
+ ps://bikex.org/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -1577,7 +1579,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:static_recurring-bikex-2026-10-10@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -1586,7 +1588,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-08-27 15:50 PDT
+ ps://bikex.org/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -1595,7 +1597,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20261024T100000
 DTEND;TZID=America/Los_Angeles:20261024T150000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:static_recurring-bikex-2026-10-24@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -1604,7 +1606,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-08-27 15:50 PDT
+ ps://bikex.org/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -1613,7 +1615,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20261114T100000
 DTEND;TZID=America/Los_Angeles:20261114T150000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:static_recurring-bikex-2026-11-14@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -1622,7 +1624,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-08-27 15:50 PDT
+ ps://bikex.org/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -1631,7 +1633,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20261128T100000
 DTEND;TZID=America/Los_Angeles:20261128T150000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:static_recurring-bikex-2026-11-28@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -1640,7 +1642,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-08-27 15:50 PDT
+ ps://bikex.org/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -1649,7 +1651,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20261212T100000
 DTEND;TZID=America/Los_Angeles:20261212T150000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:static_recurring-bikex-2026-12-12@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -1658,7 +1660,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-08-27 15:50 PDT
+ ps://bikex.org/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -1667,7 +1669,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20261226T100000
 DTEND;TZID=America/Los_Angeles:20261226T150000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:static_recurring-bikex-2026-12-26@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -1676,7 +1678,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-08-27 15:50 PDT
+ ps://bikex.org/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -1685,7 +1687,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20270109T100000
 DTEND;TZID=America/Los_Angeles:20270109T150000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:static_recurring-bikex-2027-01-09@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -1694,7 +1696,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-08-27 15:50 PDT
+ ps://bikex.org/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -1703,7 +1705,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20270123T100000
 DTEND;TZID=America/Los_Angeles:20270123T150000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:static_recurring-bikex-2027-01-23@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -1712,7 +1714,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-08-27 15:50 PDT
+ ps://bikex.org/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -1721,7 +1723,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20270213T100000
 DTEND;TZID=America/Los_Angeles:20270213T150000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:static_recurring-bikex-2027-02-13@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -1730,7 +1732,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-08-27 15:50 PDT
+ ps://bikex.org/\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -1739,14 +1741,14 @@ BEGIN:VEVENT
 SUMMARY:[SM] California Coastal Cleanup Day (countywide)
 DTSTART;TZID=America/Los_Angeles:20260919T090000
 DTEND;TZID=America/Los_Angeles:20260919T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:static_recurring-coastal-cleanup-day-2026-09-19@local-events
 DESCRIPTION:Annual California Coastal Cleanup Day — the state's largest 
  volunteer event. Cleanup sites all over San Mateo County beaches\, creeks
  \, and parks\; check smchealth.org/ccd for the sign-up map closer to the d
  ate.\n\nAll ages welcome with a parent. Gloves\, bags\, and pickers provid
  ed at most sites.\n\nAges: All ages (with parent)\nRegistration: required
- \nSource: https://www.smchealth.org/ccd\nLast synced: 2026-08-27 15:50 PDT
+ \nSource: https://www.smchealth.org/ccd\nLast synced: 2026-08-28 15:54 PDT
 LOCATION:San Mateo County (multiple sites — see smchealth.org/ccd)
 URL:https://www.smchealth.org/ccd
 END:VEVENT
@@ -1755,7 +1757,7 @@ SUMMARY:[O'Donohue Family Stanford Educational Farm] Volunteering at Stanf
  ord Educational Farm
 DTSTART;TZID=America/Los_Angeles:20260829T093000
 DTEND;TZID=America/Los_Angeles:20260829T113000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:stanford_campus-localist-47557682677329-51288078599118@local-events
 DESCRIPTION:Volunteers help keep the farm running. Volunteer tasks vary fr
  om week to week. Farm tasks may include keeping our fields free of weeds a
@@ -1765,7 +1767,7 @@ DESCRIPTION:Volunteers help keep the farm running. Volunteer tasks vary fr
  s you don't mind getting dirty! We have gloves and tools for all.\n\nWe we
  lcome volunteers 10 years old and older. Those between 10 and 14 years old
   a\n\nAges: All ages\nSource: https://farm.stanford.edu/volunteering\nLast
-  synced: 2026-08-27 15:50 PDT
+  synced: 2026-08-28 15:54 PDT
 LOCATION:O'Donohue Educational Farm
 URL:https://farm.stanford.edu/volunteering
 END:VEVENT
@@ -1773,7 +1775,7 @@ BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Public Tour | A Closer Look
 DTSTART;TZID=America/Los_Angeles:20260829T130000
 DTEND;TZID=America/Los_Angeles:20260829T140000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:stanford_campus-localist-53737430719656-53737430721707@local-events
 DESCRIPTION:Discover new details\, perspectives\, and connections with Can
  tor’s “A Closer Look” tours. Led by a Stanford Student Guide or volu
@@ -1783,16 +1785,16 @@ DESCRIPTION:Discover new details\, perspectives\, and connections with Can
  t require a reservation and are free of charge. The tour will last between
   45 minutes and an hour\, depending on the flow of conversation! Please ch
  eck in a\n\nAges: All ages\nSource: https://museum.stanford.edu/\nLast syn
- ced: 2026-08-27 15:50 PDT
+ ced: 2026-08-28 15:54 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Cantor Arts] Public Tour | A Closer Look
+SUMMARY:[Cantor Arts] [Cancelled] Public Tour | A Closer Look
 DTSTART;TZID=America/Los_Angeles:20260829T150000
 DTEND;TZID=America/Los_Angeles:20260829T160000
-DTSTAMP:20260827T225018Z
-UID:stanford_campus-localist-53737452675144-53737452677195@local-events
+DTSTAMP:20260828T225428Z
+UID:stanford_campus-localist-53755560975894-53818761047489@local-events
 DESCRIPTION:Discover new details\, perspectives\, and connections with Can
  tor’s “A Closer Look” tours. Led by a Stanford Student Guide or volu
  nteer Museum Engagement Guide\, each tour focuses on three to four artwork
@@ -1801,16 +1803,16 @@ DESCRIPTION:Discover new details\, perspectives\, and connections with Can
  t require a reservation and are free of charge. The tour will last between
   45 minutes and an hour\, depending on the flow of conversation! Please ch
  eck in a\n\nAges: All ages\nSource: https://museum.stanford.edu/\nLast syn
- ced: 2026-08-27 15:50 PDT
+ ced: 2026-08-28 15:54 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Cantor Arts] Public Tour | A Closer Look
+SUMMARY:[Cantor Arts] [Cancelled] Public Tour | A Closer Look
 DTSTART;TZID=America/Los_Angeles:20260830T130000
 DTEND;TZID=America/Los_Angeles:20260830T140000
-DTSTAMP:20260827T225018Z
-UID:stanford_campus-localist-53737430719656-53737430723756@local-events
+DTSTAMP:20260828T225428Z
+UID:stanford_campus-localist-53755608877782-53818755985324@local-events
 DESCRIPTION:Discover new details\, perspectives\, and connections with Can
  tor’s “A Closer Look” tours. Led by a Stanford Student Guide or volu
  nteer Museum Engagement Guide\, each tour focuses on three to four artwork
@@ -1819,7 +1821,7 @@ DESCRIPTION:Discover new details\, perspectives\, and connections with Can
  t require a reservation and are free of charge. The tour will last between
   45 minutes and an hour\, depending on the flow of conversation! Please ch
  eck in a\n\nAges: All ages\nSource: https://museum.stanford.edu/\nLast syn
- ced: 2026-08-27 15:50 PDT
+ ced: 2026-08-28 15:54 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/
 END:VEVENT
@@ -1827,7 +1829,7 @@ BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Public Tour | A Closer Look
 DTSTART;TZID=America/Los_Angeles:20260830T150000
 DTEND;TZID=America/Los_Angeles:20260830T160000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:stanford_campus-localist-53737452675144-53737452678220@local-events
 DESCRIPTION:Discover new details\, perspectives\, and connections with Can
  tor’s “A Closer Look” tours. Led by a Stanford Student Guide or volu
@@ -1837,7 +1839,7 @@ DESCRIPTION:Discover new details\, perspectives\, and connections with Can
  t require a reservation and are free of charge. The tour will last between
   45 minutes and an hour\, depending on the flow of conversation! Please ch
  eck in a\n\nAges: All ages\nSource: https://museum.stanford.edu/\nLast syn
- ced: 2026-08-27 15:50 PDT
+ ced: 2026-08-28 15:54 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/
 END:VEVENT
@@ -1846,7 +1848,7 @@ SUMMARY:[O'Donohue Family Stanford Educational Farm] Volunteering at Stanf
  ord Educational Farm - Weekday
 DTSTART;TZID=America/Los_Angeles:20260902T090000
 DTEND;TZID=America/Los_Angeles:20260902T120000
-DTSTAMP:20260827T225018Z
+DTSTAMP:20260828T225428Z
 UID:stanford_campus-localist-51888083181057-51888105046677@local-events
 DESCRIPTION:Volunteers help keep the farm running. Volunteer tasks vary fr
  om week to week. Farm tasks may include keeping our fields free of weeds a
@@ -1856,7 +1858,7 @@ DESCRIPTION:Volunteers help keep the farm running. Volunteer tasks vary fr
  s you don't mind getting dirty! We have gloves and tools for all.\n\nWe we
  lcome volunteers 10 years old and older. Those between 10 and 14 years old
   a\n\nAges: All ages\nSource: https://farm.stanford.edu/volunteering\nLast
-  synced: 2026-08-27 15:50 PDT
+  synced: 2026-08-28 15:54 PDT
 LOCATION:O'Donohue Educational Farm
 URL:https://farm.stanford.edu/volunteering
 END:VEVENT
