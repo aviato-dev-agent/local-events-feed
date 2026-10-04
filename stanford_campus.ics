@@ -8,251 +8,11 @@ X-WR-CALNAME:Stanford Campus Events
 X-PUBLISHED-TTL:PT1H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:[Stanford Data Science] Empirical Methods in the Age of AI
-DTSTART;TZID=America/Los_Angeles:20261003T080000
-DTEND;TZID=America/Los_Angeles:20261003T180000
-DTSTAMP:20261003T170104Z
-UID:stanford_campus-localist-53932526909284-53932526911334@local-events
-DESCRIPTION:Artificial intelligence is transforming how researchers collec
- t\, analyze\, and learn from data. As AI systems become increasingly integ
- rated into scientific discovery\, business decision-making\, and policy an
- alysis\, they are reshaping both the questions researchers can ask and the
-  methods they use to answer them.\n\nHosted by the Stanford Causal Science
-  Center and the Graduate School of Business\, the Empirical Methods in the
-  Age of AI Conference brings together leading academics and industry pract
- it\n\nAges: All ages\nSource: https://datascience.stanford.edu/events/conf
- erence/empirical-methods-age-ai\nLast synced: 2026-10-03 10:01 PDT
-LOCATION:Simonyi Conference Center\, CoDa
-URL:https://datascience.stanford.edu/events/conference/empirical-methods-a
- ge-ai
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Stanford] Meditation and Speaker Panel with Dzogchen Ponlop Rinpo
- che
-DTSTART;TZID=America/Los_Angeles:20261003T094500
-DTEND;TZID=America/Los_Angeles:20261003T170000
-DTSTAMP:20261003T170104Z
-UID:stanford_campus-localist-54135678914439-54135678915464@local-events
-DESCRIPTION:Join the Buddhist Community at Stanford (BCAS) for a day with 
- Dzogchen Ponlop Rinpoche on Saturday\, October 3\, 2026\, featuring medita
- tion\, Buddhist teaching\, and a conversation across contemplative wisdom
- \, artificial intelligence\, and economics. Co-sponsored by the Stanford S
- peakers Bureau.\n\n9:45–11:30 a.m. — Meditation and Dharma Talk\nCIRCL
- E Sanctuary\, 3rd floor\, Old Union\, 520 Lasuen Mall.\nA guided meditatio
- n and Buddhist teaching led by Dzogchen Ponlop Rinpoche\, exploring practi
- cal methods fo\n\nAges: All ages\nSource: https://docs.google.com/forms/d/
- e/1FAIpQLSfX6AHvtd6hEmA_Ki9MFi0GZZy_KMHpPEXnbiJvt4apRiKugg/viewform\nLast 
- synced: 2026-10-03 10:01 PDT
-LOCATION:Old Union and Memorial Church
-URL:https://docs.google.com/forms/d/e/1FAIpQLSfX6AHvtd6hEmA_Ki9MFi0GZZy_KM
- HpPEXnbiJvt4apRiKugg/viewform
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Department of Special Collections / Stanford University Libraries
- ] A Vision of Paris: The Roxane Debuisson Collection at Stanford
-DTSTART;TZID=America/Los_Angeles:20261003T100000
-DTEND;TZID=America/Los_Angeles:20261003T180000
-DTSTAMP:20261003T170104Z
-UID:stanford_campus-localist-53861575489955-53861575497135@local-events
-DESCRIPTION:Stanford University Libraries presents A Vision of Paris: the 
- Roxane Debuisson Collection at Stanford\, on view in the Peterson Gallery 
- and Munger Rotunda of the Cecil H. Green Library from September 22\, 2026 
- to January 24\, 2027. \n\nRoxane Debuisson (1927–2018) dedicated sixty y
- ears to documenting the transformation of the city of Paris during the nin
- eteenth century.  If Roxane Debuisson could not stop the changes she saw u
- nderway in the late 20th century\, she could at least preserve the city’
- s ea\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
-LOCATION:Green Library\, Bing Wing
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Cardinal Nights] Explore the Bay: California's Great America
-DTSTART;TZID=America/Los_Angeles:20261003T100000
-DTEND;TZID=America/Los_Angeles:20261003T163000
-DTSTAMP:20261003T170104Z
-UID:stanford_campus-localist-54100481644372-54100481646421@local-events
-DESCRIPTION:Join Cardinal Nights on an exhilarating trip to California's G
- reat America\, the Bay Area's local amusement park 🎢\nTickets are $20 a
- nd include roundtrip transportation. Limited Financial Assistance for tick
- ets is available\, please follow this link.\nPlease note that your Humanit
- ix ticket WILL NOT gain you entry to the park. Your tickets will be transf
- erred to you via your Stanford email closer to the event date.\n\nCardinal
-  Nights will be providing transportation to and from the park.\nBuses will
-  dep\n\nAges: All ages\nSource: https://events.humanitix.com/explore-the-b
- ay-california-s-great-america-es7rkmqz?_gl=1*16nb9dc*_gcl_au*OTA0MTkwNTkyL
- jE3ODkwNzk3NjQ.*_ga*MjA2MjM2MjQ1LjE3ODkwNzk3NjU.*_ga_LHKW5FR9N6*czE3OTA2MT
- E2NjUkbzQkZzEkdDE3OTA2MTI0MTMkajU2JGwwJGgw\nLast synced: 2026-10-03 10:01 
- PDT
-LOCATION:California's Great America
-URL:https://events.humanitix.com/explore-the-bay-california-s-great-americ
- a-es7rkmqz?_gl=1*16nb9dc*_gcl_au*OTA0MTkwNTkyLjE3ODkwNzk3NjQ.*_ga*MjA2MjM2
- MjQ1LjE3ODkwNzk3NjU.*_ga_LHKW5FR9N6*czE3OTA2MTE2NjUkbzQkZzEkdDE3OTA2MTI0MT
- MkajU2JGwwJGgw
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Cantor Arts] In Focus: Asian American Art from the Collection
-DTSTART;TZID=America/Los_Angeles:20261003T100000
-DTEND;TZID=America/Los_Angeles:20261003T170000
-DTSTAMP:20261003T170104Z
-UID:stanford_campus-localist-53552587390086-53552587445448@local-events
-DESCRIPTION:In Focus: Asian American Art from the Collection showcases rec
- ent acquisitions made through the Cantor’s Asian American Art Initiative
-  (AAAI)\, offering a glimpse into one of the fastest-growing areas of the 
- museum’s collection. Many of the works on view are being presented for t
- he first time.\n\nFounded in 2018 by Stanford art history professor Marci 
- Kwon and Cantor associate curator of modern and contemporary art Aleesa Pi
- tchamarn Alexander\, the AAAI is one of the nation's leading museum initia
- ti\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/focu
- s-asian-american-art-collection\nLast synced: 2026-10-03 10:01 PDT
-LOCATION:Cantor Arts Center
-URL:https://museum.stanford.edu/exhibitions/focus-asian-american-art-colle
- ction
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Cantor Arts] Public Tour |  Auguste Rodin
-DTSTART;TZID=America/Los_Angeles:20261003T113000
-DTEND;TZID=America/Los_Angeles:20261003T123000
-DTSTAMP:20261003T170104Z
-UID:stanford_campus-localist-53694822395653-53694860291099@local-events
-DESCRIPTION:Join us for a tour of our indoor and outdoor Rodin Sculptures!
-  Our collection spans three galleries\, an outdoor sculpture garden\, and 
- features nearly 100 Rodin sculptures essential to telling his story and re
- presenting his groundbreaking engagement with the body.\n\nIMAGE: Auguste 
- Rodin (France\, 1840–1917)\, The Age of Bronze (L’Âge d’airain)\, 1
- 875-1876. Bronze\, cast c. 1920. Gift of the B. Gerald Cantor Collection\,
-  1983.300\n\nPublic Tours: Fridays and Saturdays at 11:30am \n\nAdmission 
- Info\n\nTours do\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
-LOCATION:Cantor Arts Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Cantor Arts] Gallery Conversations | JANE!
-DTSTART;TZID=America/Los_Angeles:20261003T140000
-DTEND;TZID=America/Los_Angeles:20261003T150000
-DTSTAMP:20261003T170104Z
-UID:stanford_campus-localist-53818764048938-53818815566927@local-events
-DESCRIPTION:Join us for casual in-gallery conversations in our special exh
- ibition\, JANE!\, facilitated by our Museum Engagement Guides. Enjoy a spo
- tlight tour focusining on a single object\, followed by an open conversati
- on. \n\nCurated by Associate Curator of European Art\, Patrick R. Crowley
- \, JANE! celebrates the aesthetic and affective excesses of Jane Stanford
- \, the Gilded Age founder and matriarch of Stanford University. Bringing t
- ogether precious keepsakes\, souvenirs\, archaeological detritus\, and spo
- oky mes\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions
- /jane\nLast synced: 2026-10-03 10:01 PDT
-LOCATION:Cantor Arts Center
-URL:https://museum.stanford.edu/exhibitions/jane
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Department of Music] Undergraduate Composers Reading Concert
-DTSTART;TZID=America/Los_Angeles:20261003T193000
-DTEND;TZID=America/Los_Angeles:20261003T210000
-DTSTAMP:20261003T170104Z
-UID:stanford_campus-localist-54116867547734-54116879570668@local-events
-DESCRIPTION:Join us for a special reading concert featuring new works by S
- tanford Undergraduate Composers performed by talented guest artists Siddha
- rth Pant\, piano\; Kevin Stewart\, soprano sax\; Isaac López\, alto sax\;
-  David Henderson\, tenor sax\; Thomas Colburn\, baritone sax\; and conduct
- ed by Matilda Hofman.\n\nAdmission Information\n\nFree admission\n\nAges: 
- All ages\nSource: https://ccrma.stanford.edu/events/departure-duo-new-work
- s-stanford-graduate-composers\nLast synced: 2026-10-03 10:01 PDT
-LOCATION:Braun Music Center
-URL:https://ccrma.stanford.edu/events/departure-duo-new-works-stanford-gra
- duate-composers
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Stanford] Carolyn Lazard: Long Take
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261004
-DTSTAMP:20261003T170104Z
-UID:stanford_campus-localist-52881224936195-52881225020223@local-events
-DESCRIPTION:Carolyn Lazard: Long Take is a multimedia exhibition that begi
- ns with a score for a performance and unfolds as a series of interventions
-  that engage accessibility as an artistic material.\n\nMade in collaborati
- on with dancer Jerron Herman and poet and artist Joselia Rebekah Hughes\, 
- the central work\, Leans\, Reverses (2022)\, emerges from the relationship
-  between a dance performance\, its recording\, and transcription (a choreo
- graphic score\, captions\, and audio description). The installation includ
- es t\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
-LOCATION:Cantor Arts Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Cantor Arts] JANE! An intimate exploration of Gilded Age excess 
-  and the enigmatic life and death of Jane Stanford
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261004
-DTSTAMP:20261003T170104Z
-UID:stanford_campus-localist-52880326677126-52880513782591@local-events
-DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
- ley\, JANE! celebrates the aesthetic and affective excesses of Jane Stanfo
- rd\, the Gilded Age founder and matriarch of Stanford University. Bringing
-  together precious keepsakes\, souvenirs\, archaeological detritus\, and s
- pooky messages from beyond the grave\, the exhibition reveals the campy un
- derside of a familiar biography and perhaps an even more familiar murder m
- ystery.\n\nFrom her elegant French gowns to a colossal painting of her jew
- els\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/jan
- e\nLast synced: 2026-10-03 10:01 PDT
-LOCATION:Cantor Arts Center
-URL:https://museum.stanford.edu/exhibitions/jane
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[East Asia Library / Stanford University Libraries] Korean Indigen
- ous Futures: The Art of Kim Bong-Jun 김봉준 판화전: 토착적 미래
- - K아트\, 디아스포라\, 세계
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261004
-DTSTAMP:20261003T170104Z
-UID:stanford_campus-localist-53878610973590-53878610980764@local-events
-DESCRIPTION:The East Asia Library at Stanford University will host a print
-  exhibition by Kim Bong-Jun\, a leading figure in Korean Minjung (People
- ’s) Art\, from September 29 to December 11\, 2026. Active since the 1980
- s\, Kim has developed a distinctive visual language that combines traditio
- nal Korean folk art and popular expression with contemporary art\, reflect
- ing the lives and realities of ordinary people and envisioning possibiliti
- es for a more just and ecological future. The exhibition explores Kim’s 
- conce\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
-LOCATION:Lathrop Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Cantor Arts] Solid Pictures: Photosculpture and the Making of Mod
- ern Likeness
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261004
-DTSTAMP:20261003T170104Z
-UID:stanford_campus-localist-52881097589713-52881097600995@local-events
-DESCRIPTION:Before 3D printing\, there was photosculpture. Curated by Patr
- ick R. Crowley\, Associate Curator of European Art\, Solid Pictures is the
-  first major exhibition to explore these largely overlooked objects first 
- conceived in 1859 by the twenty-nine-year-old French artist and inventor F
- rançois Willème. Employing projection technologies and mechanical instru
- ments\, Willème and his team of operators translated photographic negativ
- es into solid figures across a variety of media\, aiming to create afforda
- bl\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/soli
- d-pictures\nLast synced: 2026-10-03 10:01 PDT
-LOCATION:Cantor Arts Center
-URL:https://museum.stanford.edu/exhibitions/solid-pictures
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Stanford University Libraries] Text Machines: Scarlet Thread of t
- he Digital Order (1883-2026)
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261004
-DTSTAMP:20261003T170104Z
-UID:stanford_campus-localist-53251159287291-53251159401081@local-events
-DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
-  Les laboureurs: poème tiré de Jocelyn\, whose pages (text and ornamen
- ts) were entirely woven on a Jacquard loom by the firm of silk merchant Jo
- seph-Alphonse Henry. This exhibition explores the cultural contexts and ma
- terial conditions of Les laboureurs’ production\, and considers parall
- els between technology-driven global change in the late nineteenth century
-  and in our current day. The exhibition includes microscope images reveali
- ng the\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
-LOCATION:Green Library\, Bing Wing
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Department of Special Collections / Stanford University Libraries
  ] A Vision of Paris: The Roxane Debuisson Collection at Stanford
 DTSTART;TZID=America/Los_Angeles:20261004T100000
 DTEND;TZID=America/Los_Angeles:20261004T180000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53861575489955-53861575498160@local-events
 DESCRIPTION:Stanford University Libraries presents A Vision of Paris: the 
  Roxane Debuisson Collection at Stanford\, on view in the Peterson Gallery 
@@ -261,14 +21,14 @@ DESCRIPTION:Stanford University Libraries presents A Vision of Paris: the
  ears to documenting the transformation of the city of Paris during the nin
  eteenth century.  If Roxane Debuisson could not stop the changes she saw u
  nderway in the late 20th century\, she could at least preserve the city’
- s ea\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ s ea\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Cantor Arts] In Focus: Asian American Art from the Collection
 DTSTART;TZID=America/Los_Angeles:20261004T100000
 DTEND;TZID=America/Los_Angeles:20261004T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53552587390086-53552587445449@local-events
 DESCRIPTION:In Focus: Asian American Art from the Collection showcases rec
  ent acquisitions made through the Cantor’s Asian American Art Initiative
@@ -278,7 +38,7 @@ DESCRIPTION:In Focus: Asian American Art from the Collection showcases rec
  Kwon and Cantor associate curator of modern and contemporary art Aleesa Pi
  tchamarn Alexander\, the AAAI is one of the nation's leading museum initia
  ti\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/focu
- s-asian-american-art-collection\nLast synced: 2026-10-03 10:01 PDT
+ s-asian-american-art-collection\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/focus-asian-american-art-colle
  ction
@@ -288,7 +48,7 @@ SUMMARY:[Office for Religious & Spiritual Life] University Public Worship
  Fr. Bartholomew Hutcherson\, OP Preaching
 DTSTART;TZID=America/Los_Angeles:20261004T110000
 DTEND;TZID=America/Los_Angeles:20261004T120000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54127675503638-54127675503639@local-events
 DESCRIPTION:Ecumenical Christian Service with Fr. Bartholomew Hutcherson\,
   OP\, Chaplain Affiliate\, Catholic Community at Stanford\, preaching.\n\n
@@ -298,7 +58,7 @@ DESCRIPTION:Ecumenical Christian Service with Fr. Bartholomew Hutcherson\,
  Church\, we cultivate a community of compassion and belonging through ecum
  enical Christian worship and occasional multifaith celebrations.\n\nAges: 
  All ages\nSource: https://orsl.stanford.edu/university-public-worship\nLas
- t synced: 2026-10-03 10:01 PDT
+ t synced: 2026-10-04 10:19 PDT
 LOCATION:Memorial Church
 URL:https://orsl.stanford.edu/university-public-worship
 END:VEVENT
@@ -307,7 +67,7 @@ SUMMARY:[Art & Architecture Library / Department of Art & Art History] Ele
  ctric Contrasts: the Art of the Detail
 DTSTART;TZID=America/Los_Angeles:20261004T120000
 DTEND;TZID=America/Los_Angeles:20261004T180000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53490384005179-53490384017479@local-events
 DESCRIPTION:Electric Contrasts: The Art of the Detail brings together phot
  obooks and magazines to show how the revolution of photography in the late
@@ -316,14 +76,14 @@ DESCRIPTION:Electric Contrasts: The Art of the Detail brings together phot
  ures in the National Gallery as a starting point to illuminate the impact 
  black and white photographic details of Old Master paintings had on new wa
  ys of seeing in the early 20th century. The exhibition reveals the ana\n\n
- Ages: All ages\nLast synced: 2026-10-03 10:01 PDT
+ Ages: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:McMurtry Building
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Gallery Conversations | JANE!
 DTSTART;TZID=America/Los_Angeles:20261004T140000
 DTEND;TZID=America/Los_Angeles:20261004T150000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53818764048938-53818815567952@local-events
 DESCRIPTION:Join us for casual in-gallery conversations in our special exh
  ibition\, JANE!\, facilitated by our Museum Engagement Guides. Enjoy a spo
@@ -333,7 +93,7 @@ DESCRIPTION:Join us for casual in-gallery conversations in our special exh
  \, the Gilded Age founder and matriarch of Stanford University. Bringing t
  ogether precious keepsakes\, souvenirs\, archaeological detritus\, and spo
  oky mes\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions
- /jane\nLast synced: 2026-10-03 10:01 PDT
+ /jane\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/jane
 END:VEVENT
@@ -341,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:[Stanford Recreation and Wellness] New FusionGO app
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54126932427481-54126932432604@local-events
 DESCRIPTION:We’ve moved to a new FusionGO app – your all-in-one pass f
  or quick facility access\, live class schedules\, membership management\, 
@@ -349,7 +109,7 @@ DESCRIPTION:We’ve moved to a new FusionGO app – your all-in-one pass f
  e App Store or Google Play Store today!\n\nAges: All ages\nSource: https:/
  /rec.stanford.edu/#:~:text=Download%20the%20new%20FusionGO%20app%20on%20th
  e%20Apple%20App%20Store%20or%20Google%20Play%20Store%20today!\nLast synced
- : 2026-10-03 10:01 PDT
+ : 2026-10-04 10:19 PDT
 URL:https://rec.stanford.edu/#:~:text=Download%20the%20new%20FusionGO%20ap
  p%20on%20the%20Apple%20App%20Store%20or%20Google%20Play%20Store%20today!
 END:VEVENT
@@ -358,7 +118,7 @@ SUMMARY:[Sustainability Accelerator] Big Earth Hackathon: Wildland Fire Ch
  allenge
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53922734404263-53922734463670@local-events
 DESCRIPTION:Big Earth Hackathon: Wildland Fire Challenge bridges the gap b
  etween innovation and impact by bringing Stanford students together with r
@@ -368,7 +128,7 @@ DESCRIPTION:Big Earth Hackathon: Wildland Fire Challenge bridges the gap b
  fall quarter at Stanford\, open to undergraduates\, graduate students\, an
  d postdocs across all disciplines at Stanford. Teams will tackle some of t
  he mo\n\nAges: All ages\nSource: https://www.stanfordbigearthhackathon.com
- /\nLast synced: 2026-10-03 10:01 PDT
+ /\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Y2E2 Building
 URL:https://www.stanfordbigearthhackathon.com/
 END:VEVENT
@@ -377,7 +137,7 @@ SUMMARY:[Branner Earth Sciences Library / Stanford University Libraries] B
  ranner Library Book & Map Exhibit - Water in the West
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53993437264584-53993484575861@local-events
 DESCRIPTION:Branner Earth Sciences Library & Map Collection Exhibit: \n\nW
  ater in the West\n\nOur Fall 2026 exhibition highlights the water resource
@@ -386,14 +146,14 @@ DESCRIPTION:Branner Earth Sciences Library & Map Collection Exhibit: \n\nW
  s guides series published by the Water Education Foundation\, which aim to
   foster public understanding of water resources. \n\nThese resources help 
  inform collaborative decision-making to build collective solutions for wat
- er is\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ er is\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Mitchell Earth Sciences
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Stanford] Carolyn Lazard: Long Take
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-52881224936195-52881225021248@local-events
 DESCRIPTION:Carolyn Lazard: Long Take is a multimedia exhibition that begi
  ns with a score for a performance and unfolds as a series of interventions
@@ -402,7 +162,7 @@ DESCRIPTION:Carolyn Lazard: Long Take is a multimedia exhibition that begi
  the central work\, Leans\, Reverses (2022)\, emerges from the relationship
   between a dance performance\, its recording\, and transcription (a choreo
  graphic score\, captions\, and audio description). The installation includ
- es t\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ es t\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Cantor Arts Center
 END:VEVENT
 BEGIN:VEVENT
@@ -410,7 +170,7 @@ SUMMARY:[Cantor Arts] JANE! An intimate exploration of Gilded Age excess
   and the enigmatic life and death of Jane Stanford
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-52880326677126-52880513783616@local-events
 DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
  ley\, JANE! celebrates the aesthetic and affective excesses of Jane Stanfo
@@ -420,7 +180,7 @@ DESCRIPTION:Curated by Associate Curator of European Art\, Patrick R. Crow
  derside of a familiar biography and perhaps an even more familiar murder m
  ystery.\n\nFrom her elegant French gowns to a colossal painting of her jew
  els\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/jan
- e\nLast synced: 2026-10-03 10:01 PDT
+ e\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/jane
 END:VEVENT
@@ -430,7 +190,7 @@ SUMMARY:[East Asia Library / Stanford University Libraries] Korean Indigen
  - K아트\, 디아스포라\, 세계
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53878610973590-53878610981789@local-events
 DESCRIPTION:The East Asia Library at Stanford University will host a print
   exhibition by Kim Bong-Jun\, a leading figure in Korean Minjung (People
@@ -439,7 +199,7 @@ DESCRIPTION:The East Asia Library at Stanford University will host a print
  nal Korean folk art and popular expression with contemporary art\, reflect
  ing the lives and realities of ordinary people and envisioning possibiliti
  es for a more just and ecological future. The exhibition explores Kim’s 
- conce\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ conce\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Lathrop Library
 END:VEVENT
 BEGIN:VEVENT
@@ -447,7 +207,7 @@ SUMMARY:[Cantor Arts] Solid Pictures: Photosculpture and the Making of Mod
  ern Likeness
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-52881097589713-52881097602020@local-events
 DESCRIPTION:Before 3D printing\, there was photosculpture. Curated by Patr
  ick R. Crowley\, Associate Curator of European Art\, Solid Pictures is the
@@ -457,7 +217,7 @@ DESCRIPTION:Before 3D printing\, there was photosculpture. Curated by Patr
  ments\, Willème and his team of operators translated photographic negativ
  es into solid figures across a variety of media\, aiming to create afforda
  bl\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/soli
- d-pictures\nLast synced: 2026-10-03 10:01 PDT
+ d-pictures\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/solid-pictures
 END:VEVENT
@@ -466,7 +226,7 @@ SUMMARY:[Stanford University Libraries] Text Machines: Scarlet Thread of t
  he Digital Order (1883-2026)
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53251159287291-53251159402106@local-events
 DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
   Les laboureurs: poème tiré de Jocelyn\, whose pages (text and ornamen
@@ -475,7 +235,7 @@ DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
  terial conditions of Les laboureurs’ production\, and considers parall
  els between technology-driven global change in the late nineteenth century
   and in our current day. The exhibition includes microscope images reveali
- ng the\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ ng the\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
@@ -483,7 +243,7 @@ SUMMARY:[Stanford] Stanford Center for AI Safety (SAFE) Annual Meeting 202
  6
 DTSTART;TZID=America/Los_Angeles:20261005T083000
 DTEND;TZID=America/Los_Angeles:20261005T093000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54073122839767-54073122840792@local-events
 DESCRIPTION:Each year the Stanford Center for AI Safety (SAFE) Annual Meet
  ing brings together researchers\, industry leaders\, and students for a da
@@ -493,7 +253,7 @@ DESCRIPTION:Each year the Stanford Center for AI Safety (SAFE) Annual Meet
   together leading voices from frontier AI labs\, top academic institutions
  \, and the AI research and funding community.\n\nAges: All ages\nSource: h
  ttps://aisafety.stanford.edu/events/annual-meeting-2026.html\nLast synced:
-  2026-10-03 10:01 PDT
+  2026-10-04 10:19 PDT
 LOCATION:Paul Brest Hall\, Stanford University
 URL:https://aisafety.stanford.edu/events/annual-meeting-2026.html
 END:VEVENT
@@ -502,7 +262,7 @@ SUMMARY:[Art & Architecture Library / Department of Art & Art History] Ele
  ctric Contrasts: the Art of the Detail
 DTSTART;TZID=America/Los_Angeles:20261005T090000
 DTEND;TZID=America/Los_Angeles:20261005T190000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53490384005179-53490384018504@local-events
 DESCRIPTION:Electric Contrasts: The Art of the Detail brings together phot
  obooks and magazines to show how the revolution of photography in the late
@@ -511,7 +271,7 @@ DESCRIPTION:Electric Contrasts: The Art of the Detail brings together phot
  ures in the National Gallery as a starting point to illuminate the impact 
  black and white photographic details of Old Master paintings had on new wa
  ys of seeing in the early 20th century. The exhibition reveals the ana\n\n
- Ages: All ages\nLast synced: 2026-10-03 10:01 PDT
+ Ages: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:McMurtry Building
 END:VEVENT
 BEGIN:VEVENT
@@ -519,7 +279,7 @@ SUMMARY:[Department of Special Collections / Stanford University Libraries
  ] A Vision of Paris: The Roxane Debuisson Collection at Stanford
 DTSTART;TZID=America/Los_Angeles:20261005T100000
 DTEND;TZID=America/Los_Angeles:20261005T180000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53861575489955-53861575498161@local-events
 DESCRIPTION:Stanford University Libraries presents A Vision of Paris: the 
  Roxane Debuisson Collection at Stanford\, on view in the Peterson Gallery 
@@ -528,7 +288,7 @@ DESCRIPTION:Stanford University Libraries presents A Vision of Paris: the
  ears to documenting the transformation of the city of Paris during the nin
  eteenth century.  If Roxane Debuisson could not stop the changes she saw u
  nderway in the late 20th century\, she could at least preserve the city’
- s ea\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ s ea\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
@@ -536,14 +296,14 @@ SUMMARY:[Stanford Doerr School of Sustainability] Risk\, Resilience\, and
  Adaptation Solution Area Workshop
 DTSTART;TZID=America/Los_Angeles:20261005T100000
 DTEND;TZID=America/Los_Angeles:20261005T140000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54010611952260-54010611953285@local-events
 DESCRIPTION:The Risk\, Resilience\, and Adaptation Solution Area is hostin
  g a workshop for faculty and senior researchers October 5\, 2026 from 10:0
  0 am to 2:00 pm. Join us to learn more about the planning grant RFP and to
   discuss potential project ideas with colleagues. RSVP by September 30\, 2
  026.\n\nAges: All ages\nSource: https://sustainability.stanford.edu/soluti
- on-areas-program\nLast synced: 2026-10-03 10:01 PDT
+ on-areas-program\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Press Building
 URL:https://sustainability.stanford.edu/solution-areas-program
 END:VEVENT
@@ -551,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:[Cantor Arts] In Focus: Asian American Art from the Collection
 DTSTART;TZID=America/Los_Angeles:20261005T110000
 DTEND;TZID=America/Los_Angeles:20261005T180000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53552587390086-53552587446474@local-events
 DESCRIPTION:In Focus: Asian American Art from the Collection showcases rec
  ent acquisitions made through the Cantor’s Asian American Art Initiative
@@ -561,7 +321,7 @@ DESCRIPTION:In Focus: Asian American Art from the Collection showcases rec
  Kwon and Cantor associate curator of modern and contemporary art Aleesa Pi
  tchamarn Alexander\, the AAAI is one of the nation's leading museum initia
  ti\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/focu
- s-asian-american-art-collection\nLast synced: 2026-10-03 10:01 PDT
+ s-asian-american-art-collection\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/focus-asian-american-art-colle
  ction
@@ -571,7 +331,7 @@ SUMMARY:[Student Affairs / Vaden Health Services] it's kinda chic to get v
  accinated: flu & COVID shots at Vaden Health Center
 DTSTART;TZID=America/Los_Angeles:20261005T110000
 DTEND;TZID=America/Los_Angeles:20261005T163000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54048209812704-54048209813729@local-events
 DESCRIPTION:Join us at one of three upcoming flu and COVID events at the V
  aden Health Center to safeguard your health and contribute to a healthier 
@@ -581,7 +341,7 @@ DESCRIPTION:Join us at one of three upcoming flu and COVID events at the V
  nce plan. Note\, however\, that if you have Kaiser or another limited-netw
  ork plan\, the cost of the COVID vaccination may not be covered unless you
   g\n\nAges: All ages\nSource: https://vaden.stanford.edu/vaccinations\nLas
- t synced: 2026-10-03 10:01 PDT
+ t synced: 2026-10-04 10:19 PDT
 LOCATION:Vaden Student Health Center
 URL:https://vaden.stanford.edu/vaccinations
 END:VEVENT
@@ -590,7 +350,7 @@ SUMMARY:[Environmental Health and Safety] Vaden: Flu & COVID-19 Vaccinatio
  n Clinic
 DTSTART;TZID=America/Los_Angeles:20261005T110000
 DTEND;TZID=America/Los_Angeles:20261005T163000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54046164806066-54046164808115@local-events
 DESCRIPTION:Keep Stanford Healthy: Campus Flu & COVID-19 Vaccination Clini
  c\n\nAs we head into the autumn season\, let’s work together to keep our
@@ -600,7 +360,7 @@ DESCRIPTION:Keep Stanford Healthy: Campus Flu & COVID-19 Vaccination Clini
  wide vaccination clinics to get your seasonal flu shot and updated COVID-1
  9 vaccine. \n\nWho is Eligible?\n\nAll students\, faculty\, staff\, postdo
  cs\, reti\n\nAges: All ages\nSource: http://flu.stanford.edu\nLast synced:
-  2026-10-03 10:01 PDT
+  2026-10-04 10:19 PDT
 LOCATION:Vaden Student Health Center
 URL:http://flu.stanford.edu
 END:VEVENT
@@ -609,7 +369,7 @@ SUMMARY:[Center on Democracy\, Development and the Rule of Law] Book Talk:
   How to Survive Authoritarianism
 DTSTART;TZID=America/Los_Angeles:20261005T120000
 DTEND;TZID=America/Los_Angeles:20261005T131500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54101631933905-54101642183553@local-events
 DESCRIPTION:Join the Center on Democracy\, Development and the Rule of Law
   for a conversation with Maria Kuznetsova and Dan Storyev\, Russian journa
@@ -619,7 +379,7 @@ DESCRIPTION:Join the Center on Democracy\, Development and the Rule of Law
  eed to invent a vocabulary for it: Russians already built one over generat
  ions of contending with illiberal rule. Kuznetsova and Storyev compile\n\n
  Ages: All ages\nSource: https://cddrl.fsi.stanford.edu/events/book-talk-ho
- w-survive-authoritarianism\nLast synced: 2026-10-03 10:01 PDT
+ w-survive-authoritarianism\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Encina Hall
 URL:https://cddrl.fsi.stanford.edu/events/book-talk-how-survive-authoritar
  ianism
@@ -628,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:[Stanford BeWell] Eating to Support Brain Health
 DTSTART;TZID=America/Los_Angeles:20261005T120000
 DTEND;TZID=America/Los_Angeles:20261005T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53950937001025-53950937002050@local-events
 DESCRIPTION:Research shows that specific dietary patterns and nutrient cho
  ices can play a crucial role in preventing cognitive decline\, with some e
@@ -639,7 +399,7 @@ DESCRIPTION:Research shows that specific dietary patterns and nutrient cho
  g vegetables\, extra virgin olive oil\, and beans. Additionally\, you will
  \n\nAges: All ages\nSource: https://healthyliving.stanford.edu/classes/reg
  ister/class_detail.php?t=1cce34dfd3cbss383d348a508b1be48cc821&ci=1252818\n
- Last synced: 2026-10-03 10:01 PDT
+ Last synced: 2026-10-04 10:19 PDT
 URL:https://healthyliving.stanford.edu/classes/register/class_detail.php?t
  =1cce34dfd3cbss383d348a508b1be48cc821&ci=1252818
 END:VEVENT
@@ -648,7 +408,7 @@ SUMMARY:[Stanford BeWell / Stanford Healthy Living] Eating to Support Brai
  n Health
 DTSTART;TZID=America/Los_Angeles:20261005T120000
 DTEND;TZID=America/Los_Angeles:20261005T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53741880033061-53741880034088@local-events
 DESCRIPTION:Research shows that specific dietary patterns and nutrient cho
  ices can play a crucial role in preventing cognitive decline\, with some e
@@ -659,7 +419,7 @@ DESCRIPTION:Research shows that specific dietary patterns and nutrient cho
  g vegetables\, extra virgin olive oil\, and beans. Additionally\, you will
  \n\nAges: All ages\nSource: https://healthyliving.stanford.edu/classes/reg
  ister/class_detail.php?t=1cce34dfd3cbss383d348a508b1be48cc821&ci=1252818\n
- Last synced: 2026-10-03 10:01 PDT
+ Last synced: 2026-10-04 10:19 PDT
 URL:https://healthyliving.stanford.edu/classes/register/class_detail.php?t
  =1cce34dfd3cbss383d348a508b1be48cc821&ci=1252818
 END:VEVENT
@@ -667,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:[Knight Initiative for Brain Resilience] Shuke Xiao and Lun Wang
 DTSTART;TZID=America/Los_Angeles:20261005T120000
 DTEND;TZID=America/Los_Angeles:20261005T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53759577110232-53759577111258@local-events
 DESCRIPTION:Shuke XiaoPostdoc fellow\, Stanford University\n\nLong Lab\n\n
  MCT6 Gates Gut-Derived Glycolytic Signals to Control Systemic FeedingBio\n
@@ -677,7 +437,7 @@ DESCRIPTION:Shuke XiaoPostdoc fellow\, Stanford University\n\nLong Lab\n\n
  in Biology\, and pursued PhD at Yale University under the supervision of D
  r. John Carlson. He has a broad interest in understanding the chemical lan
  gu\n\nAges: All ages\nSource: https://brainresilience.stanford.edu/node/58
- 39\nLast synced: 2026-10-03 10:01 PDT
+ 39\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Stanford Neurosciences Building
 URL:https://brainresilience.stanford.edu/node/5839
 END:VEVENT
@@ -686,9 +446,9 @@ SUMMARY:[Energy Science & Engineering] ESE Seminar - Arun Majumdar | Dean
  \, Stanford Doerr School of Sustainability
 DTSTART;TZID=America/Los_Angeles:20261005T123000
 DTEND;TZID=America/Los_Angeles:20261005T132000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54116967988832-54116967989857@local-events
-DESCRIPTION:Ages: All ages\nLast synced: 2026-10-03 10:01 PDT
+DESCRIPTION:Ages: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Green Earth Sciences Building
 END:VEVENT
 BEGIN:VEVENT
@@ -696,7 +456,7 @@ SUMMARY:[Deborah L. Rhode Center on the Legal Profession] AI-Native: A Lun
  ch Talk Exploring New Practice Models
 DTSTART;TZID=America/Los_Angeles:20261005T124500
 DTEND;TZID=America/Los_Angeles:20261005T140000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54038221734418-54038221734419@local-events
 DESCRIPTION:Event attedance is limited to Stanford community\; no legal ba
  ckground required. Lunch provided to registered attendees. \n\nAI-native l
@@ -706,7 +466,7 @@ DESCRIPTION:Event attedance is limited to Stanford community\; no legal ba
  g others. In this lunchtime talk\, lawyers at the frontline of AI-native l
  egal services innovation will consider how the AI-native model is transfor
  min\n\nAges: All ages\nSource: https://law.stanford.edu/event-change-reque
- st-title-description/?eventid=582443\nLast synced: 2026-10-03 10:01 PDT
+ st-title-description/?eventid=582443\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Stanford Law School
 URL:https://law.stanford.edu/event-change-request-title-description/?event
  id=582443
@@ -716,7 +476,7 @@ SUMMARY:[Department of Art & Art History / Stanford Arts Institute] Tangli
  ng the Digital: Weaving\, Printmaking\, Computing
 DTSTART;TZID=America/Los_Angeles:20261005T130000
 DTEND;TZID=America/Los_Angeles:20261005T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53948654465100-53948654472273@local-events
 DESCRIPTION:Digital objects are often seen as alien to craft\, as though n
  o hands had shaped them. They can be copied endlessly and exactly\, bereft
@@ -725,7 +485,7 @@ DESCRIPTION:Digital objects are often seen as alien to craft\, as though n
   circulated. The printing press and the Jacquard loom initiated processes 
  of automation that displaced human hands—and that still animate our digi
  tal tools.\n\nWarp and weft describe not just a textile structure but a lo
- gic\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ gic\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:McMurtry Building
 END:VEVENT
 BEGIN:VEVENT
@@ -734,7 +494,7 @@ SUMMARY:[Stanford Doerr School of Sustainability] Dean’s Lecture Series:
  Schneider
 DTSTART;TZID=America/Los_Angeles:20261005T150000
 DTEND;TZID=America/Los_Angeles:20261005T163000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53948910551391-53949050493343@local-events
 DESCRIPTION:The Stanford Doerr School of Sustainability Dean's Lecture Ser
  ies is a forum that brings together scholars and thought leaders to discus
@@ -744,7 +504,7 @@ DESCRIPTION:The Stanford Doerr School of Sustainability Dean's Lecture Ser
   Lecture Series featuring Frontiers in Climate Science\, featuring Scienti
  sts Isla Simpson and Tapio Schneider.\n\nFrontiers in Climate Science is a
   two\n\nAges: All ages\nSource: https://cvent.me/8Ae3Xr\nLast synced: 2026
- -10-03 10:01 PDT
+ -10-04 10:19 PDT
 LOCATION:Jen-Hsun Huang Building (School of Engineering)
 URL:https://cvent.me/8Ae3Xr
 END:VEVENT
@@ -754,7 +514,7 @@ SUMMARY:[Wu Tsai Neurosciences Institute / Stanford Institute for Human-Ce
  ty in Science through Analogical Reasoning
 DTSTART;TZID=America/Los_Angeles:20261005T160000
 DTEND;TZID=America/Los_Angeles:20261005T173000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54047780562791-54047780563816@local-events
 DESCRIPTION:Abstract\n\nAutonomous science promises to augment scientific 
  discovery\, particularly in complex fields like biomedicine. However\, thi
@@ -765,7 +525,7 @@ DESCRIPTION:Abstract\n\nAutonomous science promises to augment scientific
  gical reasoning (AR) as a new approach to solution generation. AR generat
  \n\nAges: All ages\nSource: https://neuroscience.stanford.edu/events/semin
  ar-series-wu-tsai-neuro/center-neural-data-science-seminar-series\nLast sy
- nced: 2026-10-03 10:01 PDT
+ nced: 2026-10-04 10:19 PDT
 LOCATION:Stanford Neurosciences Building
 URL:https://neuroscience.stanford.edu/events/seminar-series-wu-tsai-neuro/
  center-neural-data-science-seminar-series
@@ -775,7 +535,7 @@ SUMMARY:[Department of Music] Ron Alexander Memorial Lectures in Musicolog
  y – Matthew D. Morrison\, Stanford University
 DTSTART;TZID=America/Los_Angeles:20261005T163000
 DTEND;TZID=America/Los_Angeles:20261005T180000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54001970911713-54001984446298@local-events
 DESCRIPTION:Title: Right vs. Rights: How AI Challenges Copyright and IP in
   Music\n\nAbstract: While the developments in AI and popular music continu
@@ -785,7 +545,7 @@ DESCRIPTION:Title: Right vs. Rights: How AI Challenges Copyright and IP in
   largely a result of historical determination of music as property in rela
  tion to tangible or “literate” forms of representation versus how musi
  c\n\nAges: All ages\nSource: https://music.stanford.edu/news-events/lectur
- es-and-forums\nLast synced: 2026-10-03 10:01 PDT
+ es-and-forums\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Braun Music Center
 URL:https://music.stanford.edu/news-events/lectures-and-forums
 END:VEVENT
@@ -795,7 +555,7 @@ SUMMARY:[Precourt Institute for Energy] Stanford Energy Seminar | Improvin
  \, Stanford University
 DTSTART;TZID=America/Los_Angeles:20261005T163000
 DTEND;TZID=America/Los_Angeles:20261005T172000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53552162402582-53552165694710@local-events
 DESCRIPTION:The Stanford Energy Seminar has been a mainstay of energy enga
  gement at Stanford for nearly 20 years and is one of the flagship programs
@@ -805,7 +565,7 @@ DESCRIPTION:The Stanford Energy Seminar has been a mainstay of energy enga
  eds to build generation\, storage\, and transmission infrastructure to mee
  t growing electricity demand. However\, there is a lack of decision tools 
  and fra\n\nAges: All ages\nSource: https://energy.stanford.edu/events/ener
- gy-seminar/about-energy-seminar\nLast synced: 2026-10-03 10:01 PDT
+ gy-seminar/about-energy-seminar\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Shriram Center
 URL:https://energy.stanford.edu/events/energy-seminar/about-energy-seminar
 END:VEVENT
@@ -814,7 +574,7 @@ SUMMARY:[Change Leadership for Sustainability] Sustainability Science and
  Practice Coterm Info Session 2026
 DTSTART;TZID=America/Los_Angeles:20261005T173000
 DTEND;TZID=America/Los_Angeles:20261005T183000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53887249559656-53887249561705@local-events
 DESCRIPTION:Interested in leading change for a sustainable future? The Sus
  tainability Science and Practice Coterminal Master's Program (SUST) prepar
@@ -824,27 +584,27 @@ DESCRIPTION:Interested in leading change for a sustainable future? The Sus
  out the SUST program and receive guidance on the application process.\n\nI
  nfo Session dates for Autumn Quarter\, 2026:\n\nWeek 3: Monday\, October 5
  th\n\nAges: All ages\nSource: sustainabilityleadership.stanford.edu\nLast 
- synced: 2026-10-03 10:01 PDT
+ synced: 2026-10-04 10:19 PDT
 URL:sustainabilityleadership.stanford.edu
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Office for Religious & Spiritual Life] Multifaith Dinner
 DTSTART;TZID=America/Los_Angeles:20261005T180000
 DTEND;TZID=America/Los_Angeles:20261005T190000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53969516956850-53969516957875@local-events
 DESCRIPTION:Join us\, the Office for Religious and Spiritual Life\, for di
  nner and great conversation. No experience necessary! Students of all fait
  h (and no faith) are welcome! We are looking forward to share food and dis
  cussions with one another. Get ready to eat!\n\nPlease RSVP so that we can
-  order enough food.\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+  order enough food.\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Old Union
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Stanford] BCAS Weekly Meditation
 DTSTART;TZID=America/Los_Angeles:20261005T190000
 DTEND;TZID=America/Los_Angeles:20261005T193000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54135592918030-54135592919055@local-events
 DESCRIPTION:Join the Buddhist Community at Stanford (BCAS) for weekly medi
  tation. Everyone is welcome\, regardless of religious affiliation or exper
@@ -854,7 +614,7 @@ DESCRIPTION:Join the Buddhist Community at Stanford (BCAS) for weekly medi
  ions are usually unguided\, with guided practice offered when there is int
  erest.\n\nWednesday dinner: Before each Wednesday sit\, join us for dinner
   a\n\nAges: All ages\nSource: https://bcas.stanford.edu/\nLast synced: 202
- 6-10-03 10:01 PDT
+ 6-10-04 10:19 PDT
 LOCATION:Old Union
 URL:https://bcas.stanford.edu/
 END:VEVENT
@@ -863,7 +623,7 @@ SUMMARY:[Office of Substance Use Programs Education & Resources (SUPER)] L
  earn about Consent & Communication (CoCo Workshop) + Free Boba!
 DTSTART;TZID=America/Los_Angeles:20261005T190000
 DTEND;TZID=America/Los_Angeles:20261005T200000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54004200169921-54004200170946@local-events
 DESCRIPTION:What is CoCo?\n\nConsent is present in all relationships\, int
  eractions\, and situations. The Consent & Communication (CoCo) Workshop ai
@@ -873,7 +633,7 @@ DESCRIPTION:What is CoCo?\n\nConsent is present in all relationships\, int
  d communities. Join us for this 60 minute session and learn to build a cul
  ture of consent alongside us! \n\nYou can find our list of training dates 
  belo\n\nAges: All ages\nSource: https://docs.google.com/forms/d/1ZnLgyf3YM
- fk8-GEIcOtaPpXCYpu9mLKzjNpyM4d2LdU/preview\nLast synced: 2026-10-03 10:01 
+ fk8-GEIcOtaPpXCYpu9mLKzjNpyM4d2LdU/preview\nLast synced: 2026-10-04 10:19 
  PDT
 LOCATION:The Well House\, Lobby
 URL:https://docs.google.com/forms/d/1ZnLgyf3YMfk8-GEIcOtaPpXCYpu9mLKzjNpyM
@@ -883,7 +643,7 @@ BEGIN:VEVENT
 SUMMARY:[Stanford Recreation and Wellness] New FusionGO app
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54126932427481-54126932433629@local-events
 DESCRIPTION:We’ve moved to a new FusionGO app – your all-in-one pass f
  or quick facility access\, live class schedules\, membership management\, 
@@ -891,7 +651,7 @@ DESCRIPTION:We’ve moved to a new FusionGO app – your all-in-one pass f
  e App Store or Google Play Store today!\n\nAges: All ages\nSource: https:/
  /rec.stanford.edu/#:~:text=Download%20the%20new%20FusionGO%20app%20on%20th
  e%20Apple%20App%20Store%20or%20Google%20Play%20Store%20today!\nLast synced
- : 2026-10-03 10:01 PDT
+ : 2026-10-04 10:19 PDT
 URL:https://rec.stanford.edu/#:~:text=Download%20the%20new%20FusionGO%20ap
  p%20on%20the%20Apple%20App%20Store%20or%20Google%20Play%20Store%20today!
 END:VEVENT
@@ -901,7 +661,7 @@ SUMMARY:[East Asia Library / Stanford University Libraries] Korean Indigen
  - K아트\, 디아스포라\, 세계
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53878610973590-53878610983838@local-events
 DESCRIPTION:The East Asia Library at Stanford University will host a print
   exhibition by Kim Bong-Jun\, a leading figure in Korean Minjung (People
@@ -910,7 +670,7 @@ DESCRIPTION:The East Asia Library at Stanford University will host a print
  nal Korean folk art and popular expression with contemporary art\, reflect
  ing the lives and realities of ordinary people and envisioning possibiliti
  es for a more just and ecological future. The exhibition explores Kim’s 
- conce\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ conce\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Lathrop Library
 END:VEVENT
 BEGIN:VEVENT
@@ -918,7 +678,7 @@ SUMMARY:[Cantor Arts] Solid Pictures: Photosculpture and the Making of Mod
  ern Likeness
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-52881097589713-52881097603045@local-events
 DESCRIPTION:Before 3D printing\, there was photosculpture. Curated by Patr
  ick R. Crowley\, Associate Curator of European Art\, Solid Pictures is the
@@ -928,7 +688,7 @@ DESCRIPTION:Before 3D printing\, there was photosculpture. Curated by Patr
  ments\, Willème and his team of operators translated photographic negativ
  es into solid figures across a variety of media\, aiming to create afforda
  bl\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/soli
- d-pictures\nLast synced: 2026-10-03 10:01 PDT
+ d-pictures\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/solid-pictures
 END:VEVENT
@@ -937,7 +697,7 @@ SUMMARY:[Stanford University Libraries] Text Machines: Scarlet Thread of t
  he Digital Order (1883-2026)
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53251159287291-53251159403131@local-events
 DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
   Les laboureurs: poème tiré de Jocelyn\, whose pages (text and ornamen
@@ -946,14 +706,14 @@ DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
  terial conditions of Les laboureurs’ production\, and considers parall
  els between technology-driven global change in the late nineteenth century
   and in our current day. The exhibition includes microscope images reveali
- ng the\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ ng the\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Department of Surgery] Global Surgery Grand Rounds
 DTSTART;TZID=America/Los_Angeles:20261006T070000
 DTEND;TZID=America/Los_Angeles:20261006T080000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53744627116961-53744627116962@local-events
 DESCRIPTION:Director of Global Engagement Dr. Tom Weiser has invited Andre
  as Wladis\, MD\, PhD to present the annual Department of Surgery Global Su
@@ -962,7 +722,7 @@ DESCRIPTION:Director of Global Engagement Dr. Tom Weiser has invited Andre
  \, conflict medicine\, and global surgical systems. In March 2026 he was a
  ppointed Medical Director at the United Nations Headquarters in New York\,
   where he is responsible for the healthcare provided to UN staff and peace
- \n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ \n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Li Ka Shing Center
 END:VEVENT
 BEGIN:VEVENT
@@ -971,7 +731,7 @@ SUMMARY:[Office of Pediatric Education] Pediatric Grand Rounds (CME): Brai
  sychiatric Diseases
 DTSTART;TZID=America/Los_Angeles:20261006T080000
 DTEND;TZID=America/Los_Angeles:20261006T090000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54055372554908-54055411334228@local-events
 DESCRIPTION:The Harvey J. Cohen\, MD\, PhD\, Endowed Lectureship in Pediat
  rics\nBrain in a Dish\, Cure in a Pipeline: Organoid-Based Drug Discovery 
@@ -981,7 +741,7 @@ DESCRIPTION:The Harvey J. Cohen\, MD\, PhD\, Endowed Lectureship in Pediat
  l review the potential of brain organoids derived from induced pluripotent
   stem cells (iPSCs) as tools for understanding human brain development\, f
  unction and i\n\nAges: All ages\nSource: https://med.stanford.edu/pediatri
- cs/education/grandrounds.html\nLast synced: 2026-10-03 10:01 PDT
+ cs/education/grandrounds.html\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Center for Academic Medicine
 URL:https://med.stanford.edu/pediatrics/education/grandrounds.html
 END:VEVENT
@@ -990,7 +750,7 @@ SUMMARY:[Stanford Social Innovation Review] Closing the Rental Wealth Gap:
   An SSIR Author Conversation
 DTSTART;TZID=America/Los_Angeles:20261006T090000
 DTEND;TZID=America/Los_Angeles:20261006T094500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53931154382036-53931154384085@local-events
 DESCRIPTION:Join a conversation with Katie Deal about her Fall 2026 SSIR a
  rticle “Closing the Rental Wealth Gap.” Katie will talk with Deputy Ed
@@ -999,7 +759,7 @@ DESCRIPTION:Join a conversation with Katie Deal about her Fall 2026 SSIR a
  s vice president of the Lafayette Square Institute.\n\nJoin the live conve
  rsation on Tuesday\, October 6\, at 9 a.m. PST/12 p.m. EST.\n\nAges: All a
  ges\nSource: https://stanford.zoom.us/webinar/register/3017883668623/WN_sF
- C3i-TwQPq6fLInU4B1bg\nLast synced: 2026-10-03 10:01 PDT
+ C3i-TwQPq6fLInU4B1bg\nLast synced: 2026-10-04 10:19 PDT
 URL:https://stanford.zoom.us/webinar/register/3017883668623/WN_sFC3i-TwQPq
  6fLInU4B1bg
 END:VEVENT
@@ -1008,7 +768,7 @@ SUMMARY:[Art & Architecture Library / Department of Art & Art History] Ele
  ctric Contrasts: the Art of the Detail
 DTSTART;TZID=America/Los_Angeles:20261006T090000
 DTEND;TZID=America/Los_Angeles:20261006T190000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53490384005179-53490384019529@local-events
 DESCRIPTION:Electric Contrasts: The Art of the Detail brings together phot
  obooks and magazines to show how the revolution of photography in the late
@@ -1017,7 +777,7 @@ DESCRIPTION:Electric Contrasts: The Art of the Detail brings together phot
  ures in the National Gallery as a starting point to illuminate the impact 
  black and white photographic details of Old Master paintings had on new wa
  ys of seeing in the early 20th century. The exhibition reveals the ana\n\n
- Ages: All ages\nLast synced: 2026-10-03 10:01 PDT
+ Ages: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:McMurtry Building
 END:VEVENT
 BEGIN:VEVENT
@@ -1025,7 +785,7 @@ SUMMARY:[Department of Special Collections / Stanford University Libraries
  ] A Vision of Paris: The Roxane Debuisson Collection at Stanford
 DTSTART;TZID=America/Los_Angeles:20261006T100000
 DTEND;TZID=America/Los_Angeles:20261006T180000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53861575489955-53861575499186@local-events
 DESCRIPTION:Stanford University Libraries presents A Vision of Paris: the 
  Roxane Debuisson Collection at Stanford\, on view in the Peterson Gallery 
@@ -1034,20 +794,20 @@ DESCRIPTION:Stanford University Libraries presents A Vision of Paris: the
  ears to documenting the transformation of the city of Paris during the nin
  eteenth century.  If Roxane Debuisson could not stop the changes she saw u
  nderway in the late 20th century\, she could at least preserve the city’
- s ea\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ s ea\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Hoover] Nerds of the Roundtable: The Distributed Space Age
 DTSTART;TZID=America/Los_Angeles:20261006T100000
 DTEND;TZID=America/Los_Angeles:20261006T110000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53923679627540-53923679627541@local-events
 DESCRIPTION:Ages: All ages\nSource: https://www.hoover.org/news/technology
  -policy-accelerator-launches-nerds-roundtable?_gl=1*10zmbpl*_gcl_aw*R0NMLj
  E3ODcwNzAzOTYuQ2p3S0NBandoWkRVQmhCR0Vpd0FiaTViamtLX0FlRFF5aWZaS25MNnJaaXR3
  YkNETTR6UzZfTkdwQmJPX0I4SEV3a0VCdGlzMThGVHlob0NnY1lRQXZEX0J3RQ..*_gcl\nLas
- t synced: 2026-10-03 10:01 PDT
+ t synced: 2026-10-04 10:19 PDT
 LOCATION:George P. Shultz Building
 URL:https://www.hoover.org/news/technology-policy-accelerator-launches-ner
  ds-roundtable?_gl=1*10zmbpl*_gcl_aw*R0NMLjE3ODcwNzAzOTYuQ2p3S0NBandoWkRVQm
@@ -1059,7 +819,7 @@ SUMMARY:[Environmental Health and Safety] SU Wellness Fair: Flu & COVID-19
   Vaccination Clinic
 DTSTART;TZID=America/Los_Angeles:20261006T103000
 DTEND;TZID=America/Los_Angeles:20261006T143000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54012302942844-54012302942845@local-events
 DESCRIPTION:Keep Stanford Healthy: Campus Flu & COVID-19 Vaccination Clini
  c\n\nAs we head into the autumn season\, let’s work together to keep our
@@ -1069,7 +829,7 @@ DESCRIPTION:Keep Stanford Healthy: Campus Flu & COVID-19 Vaccination Clini
  wide vaccination clinics to get your seasonal flu shot and updated COVID-1
  9 vaccine. \n\nWho is Eligible?\n\nAll students\, faculty\, staff\, postdo
  cs\, reti\n\nAges: All ages\nSource: http://flu.stanford.edu\nLast synced:
-  2026-10-03 10:01 PDT
+  2026-10-04 10:19 PDT
 LOCATION:Koret Plaza / ACSR
 URL:http://flu.stanford.edu
 END:VEVENT
@@ -1077,7 +837,7 @@ BEGIN:VEVENT
 SUMMARY:[Stanford BeWell] Wellness Fair (Stanford campus)
 DTSTART;TZID=America/Los_Angeles:20261006T103000
 DTEND;TZID=America/Los_Angeles:20261006T133000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53621182716911-53621189220911@local-events
 DESCRIPTION:BeWell and our partner\, Stanford Benefits\, warmly invite all
   staff and faculty to enjoy this annual celebration of well-being and comm
@@ -1086,7 +846,7 @@ DESCRIPTION:BeWell and our partner\, Stanford Benefits\, warmly invite all
  the Open Enrollment period (starting Oct. 19)\,  creating a timely opportu
  nity to engage directly with the people behind your benefits and ask your 
  questions face to face. Learn about preventive care and establishing healt
- h\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ h\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Koret Plaza
 END:VEVENT
 BEGIN:VEVENT
@@ -1095,7 +855,7 @@ SUMMARY:[Stanford Woods Institute for the Environment] Climate Horizons |
  e
 DTSTART;TZID=America/Los_Angeles:20261006T110000
 DTEND;TZID=America/Los_Angeles:20261006T120000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54108251511021-54108251515118@local-events
 DESCRIPTION:Climate Horizons will bring approximately 10 leading climate s
  cholars to Stanford to present frontier research\, highlight emerging rese
@@ -1104,7 +864,7 @@ DESCRIPTION:Climate Horizons will bring approximately 10 leading climate s
  he Stanford Woods Institute for the Environment\, the series will include 
  seminars and presentations as well as discussions and informal meetings de
  signed to foster interdisciplinary exchange and strengthen connections\n\n
- Ages: All ages\nLast synced: 2026-10-03 10:01 PDT
+ Ages: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Press Building
 END:VEVENT
 BEGIN:VEVENT
@@ -1113,7 +873,7 @@ SUMMARY:[Earth & Planetary Sciences] Earth & Planetary Sciences Seminar -
  crime\, art"
 DTSTART;TZID=America/Los_Angeles:20261006T120000
 DTEND;TZID=America/Los_Angeles:20261006T131500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54098519141202-54098519142227@local-events
 DESCRIPTION:Abstract: Mars is an exciting frontier\, with opportunities to
   discover what might exist within its sedimentary layers and surface landf
@@ -1122,7 +882,7 @@ DESCRIPTION:Abstract: Mars is an exciting frontier\, with opportunities to
  (cemented mineral masses) compared with “blueberries” found on the red
   planet\, helped scientists understand past waters on Mars. Other terrestr
  ial examples of soft-sediment deformation and weathering show remarkable s
- \n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ \n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Building 320\, Geology Corner
 END:VEVENT
 BEGIN:VEVENT
@@ -1130,7 +890,7 @@ SUMMARY:[Center for International Security and Cooperation (CISAC)] Enemie
  s in Agreement: Political Volatility and the Design of Arms Control
 DTSTART;TZID=America/Los_Angeles:20261006T120000
 DTEND;TZID=America/Los_Angeles:20261006T131500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53605515226527-53605515226528@local-events
 DESCRIPTION:About the event: Why do adversaries sometimes cooperate to res
  train their military competition? Why do they design arms control agreemen
@@ -1141,7 +901,7 @@ DESCRIPTION:About the event: Why do adversaries sometimes cooperate to res
  from domestic political changes - such as leadership transitions or so\n\n
  Ages: All ages\nSource: https://cisac.fsi.stanford.edu/events/enemies-agre
  ement-political-volatility-and-design-arms-control-jane-vaynman\nLast sync
- ed: 2026-10-03 10:01 PDT
+ ed: 2026-10-04 10:19 PDT
 LOCATION:Encina Hall
 URL:https://cisac.fsi.stanford.edu/events/enemies-agreement-political-vola
  tility-and-design-arms-control-jane-vaynman
@@ -1152,7 +912,7 @@ SUMMARY:[StorageX Initiative] Sustainable Systems Seminar Lunch Series -
  ilding Permit Mining
 DTSTART;TZID=America/Los_Angeles:20261006T120000
 DTEND;TZID=America/Los_Angeles:20261006T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54109828886328-54109838735183@local-events
 DESCRIPTION:This week's speaker is:\n\nSam Bobick\, Ph.D. Student\, Stanfo
  rd University\n"ElectriPedia: Mapping Electrification Progress at Scale vi
@@ -1161,7 +921,7 @@ DESCRIPTION:This week's speaker is:\n\nSam Bobick\, Ph.D. Student\, Stanfo
  \, yielding emissions reductions as the grid decarbonizes and consumers ad
  opt distributed energy resources such as rooftop solar and batteries. In t
  his talk\, I will introduce ElectriPedia\, a nationwide\, address-level el
- ectrifica\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ ectrifica\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Y2E2 Building
 END:VEVENT
 BEGIN:VEVENT
@@ -1169,7 +929,7 @@ SUMMARY:[Department of Art & Art History / Stanford Arts Institute] Tangli
  ng the Digital: Weaving\, Printmaking\, Computing
 DTSTART;TZID=America/Los_Angeles:20261006T130000
 DTEND;TZID=America/Los_Angeles:20261006T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53948654465100-53948654473298@local-events
 DESCRIPTION:Digital objects are often seen as alien to craft\, as though n
  o hands had shaped them. They can be copied endlessly and exactly\, bereft
@@ -1178,7 +938,7 @@ DESCRIPTION:Digital objects are often seen as alien to craft\, as though n
   circulated. The printing press and the Jacquard loom initiated processes 
  of automation that displaced human hands—and that still animate our digi
  tal tools.\n\nWarp and weft describe not just a textile structure but a lo
- gic\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ gic\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:McMurtry Building
 END:VEVENT
 BEGIN:VEVENT
@@ -1186,7 +946,7 @@ SUMMARY:[Institute for Diversity in the Arts (IDA)] History of Art and Stu
  dent Organizing with Dr. Omowale Satterwhite
 DTSTART;TZID=America/Los_Angeles:20261006T141500
 DTEND;TZID=America/Los_Angeles:20261006T152000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54075679384949-54075679384950@local-events
 DESCRIPTION:Organizing + the Legacy of Committee on Black Performing Arts 
  (CBPA)  |  Intro to IDA Public Sessions\n\nGuests: Alexis Jones\, Dr. Omow
@@ -1196,7 +956,7 @@ DESCRIPTION:Organizing + the Legacy of Committee on Black Performing Arts
  foremother to the Institute for Diversity in the Arts (IDA.) We'll hear fr
  om guests about the political context that propelled its creation\, includ
  i\n\nAges: All ages\nSource: https://luma.com/lu488sej\nLast synced: 2026-
- 10-03 10:01 PDT
+ 10-04 10:19 PDT
 LOCATION:Harmony House
 URL:https://luma.com/lu488sej
 END:VEVENT
@@ -1205,7 +965,7 @@ SUMMARY:[McCoy Family Center for Ethics in Society] Ethics in Society Open
   House
 DTSTART;TZID=America/Los_Angeles:20261006T143000
 DTEND;TZID=America/Los_Angeles:20261006T163000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54046166010695-54046182046284@local-events
 DESCRIPTION:You’re Invited! Join us for the McCoy Family Center for Ethi
  cs in Society's Open House!\n\nRSVP here!\n\nAre you a returning friend of
@@ -1215,7 +975,7 @@ DESCRIPTION:You’re Invited! Join us for the McCoy Family Center for Ethi
  il dialogue and academic programs.\n \nWalk-ins also welcome. This event i
  s exclusively for Stanford community members.\n\nAges: All ages\nSource: h
  ttps://docs.google.com/forms/d/e/1FAIpQLSfHAav68eIfWrwoBiQPXyWQUksInaSfzXb
- rhaXaXjo3_heTKA/viewform?usp=dialog\nLast synced: 2026-10-03 10:01 PDT
+ rhaXaXjo3_heTKA/viewform?usp=dialog\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Meyer Green
 URL:https://docs.google.com/forms/d/e/1FAIpQLSfHAav68eIfWrwoBiQPXyWQUksIna
  SfzXbrhaXaXjo3_heTKA/viewform?usp=dialog
@@ -1225,7 +985,7 @@ SUMMARY:[Research Data Services (RDS) / Stanford University Libraries] AI
  for Text-Intensive Research
 DTSTART;TZID=America/Los_Angeles:20261006T150000
 DTEND;TZID=America/Los_Angeles:20261006T160000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53944457356137-53944457357162@local-events
 DESCRIPTION:Date and Time: 3–4PM\, Tuesday\, October 6\, 2026Location: V
  elma Denning Room (120F)\, Green Library & Virtual (zoom link provided upo
@@ -1234,7 +994,7 @@ DESCRIPTION:Date and Time: 3–4PM\, Tuesday\, October 6\, 2026Location: V
  dels (LLMs) and explains how to leverage them effectively and responsibly 
  in text-intensive research. It covers alternative computational methods fo
  r text analysis\, strategies for evaluating AI models for specific researc
- h\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ h\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
@@ -1242,14 +1002,14 @@ SUMMARY:[Design Group\, Mechanical Engineering] ME310 Paper Bike Challenge
   2026
 DTSTART;TZID=America/Los_Angeles:20261006T150000
 DTEND;TZID=America/Los_Angeles:20261006T180000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54137201114992-54137201116017@local-events
 DESCRIPTION:Paper Bike: A human-powered vehicle made entirely of paper pro
  ducts. Not necessarily a bike at all!\n\nThe paper bikes mission is design
  ed to kick-off ME310 every academic year. Student teams spend the first tw
  o weeks of this course creating a bike (vehicle)\, designed to complete ce
  rtain challenges\, using nothing more than cardboard and paper.\n\nAges: A
- ll ages\nLast synced: 2026-10-03 10:01 PDT
+ ll ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Terman Fountain
 END:VEVENT
 BEGIN:VEVENT
@@ -1257,7 +1017,7 @@ SUMMARY:[Applied Physics/Physics Colloquium] Applied Physics/Physics Collo
  quium: Robert Huang - "High-rate qLDPC processors"
 DTSTART;TZID=America/Los_Angeles:20261006T153000
 DTEND;TZID=America/Los_Angeles:20261006T163000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54036343928909-54036343929934@local-events
 DESCRIPTION:Abstract: Despite significant progress on quantum low-density 
  parity-check (qLDPC) codes\, building qLDPC processors that are high-rate
@@ -1266,7 +1026,7 @@ DESCRIPTION:Abstract: Despite significant progress on quantum low-density
  coding rate 20% and check weight 9\, based on non-abelian groups. Their no
  n-abelian structure evades distance bounds constraining abelian counterpar
  ts\, allowing mitten codes to reach distance 18 and beyond with just a few
-  h\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+  h\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Hewlett Teaching Center
 END:VEVENT
 BEGIN:VEVENT
@@ -1275,7 +1035,7 @@ SUMMARY:[Center for Human and Planetary Health / Stanford Doerr School of
  rd community building a healthier future for people and the planet?
 DTSTART;TZID=America/Los_Angeles:20261006T153000
 DTEND;TZID=America/Los_Angeles:20261006T180000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53746050079540-53746050080565@local-events
 DESCRIPTION:Join the Stanford Center for Human and Planetary Health on Tue
  sday\, October 6 in an annual showcase bringing together people from acros
@@ -1284,7 +1044,7 @@ DESCRIPTION:Join the Stanford Center for Human and Planetary Health on Tue
   education\, and action at the intersections of health and the environment
  . We’ll explore a range of topics\, including climate and health\, disea
  se ecology\, pollution\, healthy and sustainable food systems\, plastics a
- nd healt\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ nd healt\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Mackenzie Room
 END:VEVENT
 BEGIN:VEVENT
@@ -1292,7 +1052,7 @@ SUMMARY:[Vice Presidency for the Arts (VPA)] How to: Plan Your Arts Projec
  t
 DTSTART;TZID=America/Los_Angeles:20261006T153000
 DTEND;TZID=America/Los_Angeles:20261006T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53923139939323-53923144472023@local-events
 DESCRIPTION:You've got a great project idea — now what? Learn how to bui
  ld a project plan you'll actually finish\, and discover the free campus re
@@ -1302,7 +1062,7 @@ DESCRIPTION:You've got a great project idea — now what? Learn how to bui
  ativity. Workshops are open to all students--from the "arts curious" to th
  ose ready to deepen existing skills.\n\nAges: All ages\nSource: https://ar
  ts.stanford.edu/office-of-the-vice-president-for-the-arts/roble-arts-gym/r
- ag-workshops/\nLast synced: 2026-10-03 10:01 PDT
+ ag-workshops/\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Roble Arts Gym
 URL:https://arts.stanford.edu/office-of-the-vice-president-for-the-arts/ro
  ble-arts-gym/rag-workshops/
@@ -1312,7 +1072,7 @@ SUMMARY:[Counseling and Psychological Services (CAPS)\, Vaden Health Servi
  ces] Living with OCD
 DTSTART;TZID=America/Los_Angeles:20261006T153000
 DTEND;TZID=America/Los_Angeles:20261006T163000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53737089188900-53737115468071@local-events
 DESCRIPTION:The experience of OCD (Obsessive Compulsive Disorder) can be i
  solating and stressful.\n\nThis is an open and ongoing group for students 
@@ -1321,7 +1081,7 @@ DESCRIPTION:The experience of OCD (Obsessive Compulsive Disorder) can be i
  sing self-compassion\, and enhancing overall coping and wellness.\n\nMeeti
  ng with a facilitator is required to join this group. Registration opens i
  n September 2026.This group will take place in-person on Tuesdays from 3:3
- 0\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ 0\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Vaden Student Health Center
 END:VEVENT
 BEGIN:VEVENT
@@ -1329,7 +1089,7 @@ SUMMARY:[Stanford University Libraries] Stanford University Libraries 101:
   Library Basics (Evening Session)
 DTSTART;TZID=America/Los_Angeles:20261006T160000
 DTEND;TZID=America/Los_Angeles:20261006T163000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54121588400111-54121588404208@local-events
 DESCRIPTION:Image Credit: Linnea Johnson\n\nNew to Stanford?  Join us at t
  he Green Library reference desk for a 20-minute crash course in library ba
@@ -1339,7 +1099,7 @@ DESCRIPTION:Image Credit: Linnea Johnson\n\nNew to Stanford?  Join us at t
  d books\, articles\, media on any topic: demo of SearchWorks and Articles+
   and overview of other databases\, and quick search tips\n\n📖 Locate bo
  oks in the library:\n\nAges: All ages\nSource: https://library.stanford.ed
- u/libraries/cecil-h-green-library\nLast synced: 2026-10-03 10:01 PDT
+ u/libraries/cecil-h-green-library\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Green Library\, Bing Wing
 URL:https://library.stanford.edu/libraries/cecil-h-green-library
 END:VEVENT
@@ -1348,7 +1108,7 @@ SUMMARY:[Stanford BeWell / Stanford Healthy Living] Preserving the Fall Ap
  ple Harvest
 DTSTART;TZID=America/Los_Angeles:20261006T173000
 DTEND;TZID=America/Los_Angeles:20261006T190000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53741880094507-53741880095534@local-events
 DESCRIPTION:Apples are one of the quintessential flavors of fall. Join us 
  for this hands-on workshop at the O'Donohue Family Stanford Educational Fa
@@ -1359,7 +1119,7 @@ DESCRIPTION:Apples are one of the quintessential flavors of fall. Join us
   learn the key concepts behind safe\, effective preservation and go throug
  h a\n\nAges: All ages\nSource: https://healthyliving.stanford.edu/classes/
  register/class_detail.php?t=1cce34dfd3cbss383d348a508b1be48cc821&ci=125280
- 3\nLast synced: 2026-10-03 10:01 PDT
+ 3\nLast synced: 2026-10-04 10:19 PDT
 URL:https://healthyliving.stanford.edu/classes/register/class_detail.php?t
  =1cce34dfd3cbss383d348a508b1be48cc821&ci=1252803
 END:VEVENT
@@ -1368,7 +1128,7 @@ SUMMARY:[Stanford] The Guardrails are Holding: A Case for Confidence in Am
  erican Institutions
 DTSTART;TZID=America/Los_Angeles:20261006T173000
 DTEND;TZID=America/Los_Angeles:20261006T183000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54001635177162-54001635178187@local-events
 DESCRIPTION:Join the Stanford University Libraries for a thoughtful lectur
  e on the perseverance of American institutions and the case for optimism i
@@ -1377,7 +1137,7 @@ DESCRIPTION:Join the Stanford University Libraries for a thoughtful lectur
  The evidence that our institutions are under pressure is overwhelming\, bu
  t that does not mean they are failing. Institutions are resilient because 
  they were designed to be redundant\, competitive\, and difficult for any s
- ing\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ ing\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Hohbach Hall
 END:VEVENT
 BEGIN:VEVENT
@@ -1386,7 +1146,7 @@ SUMMARY:[Explore Energy House / Precourt Institute for Energy] Explore Ene
   Sustainability
 DTSTART;TZID=America/Los_Angeles:20261006T180000
 DTEND;TZID=America/Los_Angeles:20261006T192000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54067704899002-54067704900027@local-events
 DESCRIPTION:The Explore Energy Seminar series is a weekly residential educ
  ation experience hosted by the Explore Energy House engaging current topic
@@ -1395,7 +1155,7 @@ DESCRIPTION:The Explore Energy Seminar series is a weekly residential educ
  itions\, including strategies to accelerate both innovation and deployment
  .\n\nJoin the seminar on Tuesday\, October 6th to hear from:\n\nDean Arun 
  MajumdarProfessor Hamdi Tchelepi\n\nAges: All ages\nSource: https://explor
- e-energy.stanford.edu/\nLast synced: 2026-10-03 10:01 PDT
+ e-energy.stanford.edu/\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Elliott Program Center
 URL:https://explore-energy.stanford.edu/
 END:VEVENT
@@ -1403,7 +1163,7 @@ BEGIN:VEVENT
 SUMMARY:[Stanford Recreation and Wellness] New FusionGO app
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-54126932427481-54126932435678@local-events
 DESCRIPTION:We’ve moved to a new FusionGO app – your all-in-one pass f
  or quick facility access\, live class schedules\, membership management\, 
@@ -1411,7 +1171,7 @@ DESCRIPTION:We’ve moved to a new FusionGO app – your all-in-one pass f
  e App Store or Google Play Store today!\n\nAges: All ages\nSource: https:/
  /rec.stanford.edu/#:~:text=Download%20the%20new%20FusionGO%20app%20on%20th
  e%20Apple%20App%20Store%20or%20Google%20Play%20Store%20today!\nLast synced
- : 2026-10-03 10:01 PDT
+ : 2026-10-04 10:19 PDT
 URL:https://rec.stanford.edu/#:~:text=Download%20the%20new%20FusionGO%20ap
  p%20on%20the%20Apple%20App%20Store%20or%20Google%20Play%20Store%20today!
 END:VEVENT
@@ -1420,7 +1180,7 @@ SUMMARY:[Sustainability Accelerator] Big Earth Hackathon: Wildland Fire Ch
  allenge
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53922734404263-53922734474936@local-events
 DESCRIPTION:Big Earth Hackathon: Wildland Fire Challenge bridges the gap b
  etween innovation and impact by bringing Stanford students together with r
@@ -1430,7 +1190,7 @@ DESCRIPTION:Big Earth Hackathon: Wildland Fire Challenge bridges the gap b
  fall quarter at Stanford\, open to undergraduates\, graduate students\, an
  d postdocs across all disciplines at Stanford. Teams will tackle some of t
  he mo\n\nAges: All ages\nSource: https://www.stanfordbigearthhackathon.com
- /\nLast synced: 2026-10-03 10:01 PDT
+ /\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Y2E2 Building
 URL:https://www.stanfordbigearthhackathon.com/
 END:VEVENT
@@ -1440,7 +1200,7 @@ SUMMARY:[East Asia Library / Stanford University Libraries] Korean Indigen
  - K아트\, 디아스포라\, 세계
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53878610973590-53878610984863@local-events
 DESCRIPTION:The East Asia Library at Stanford University will host a print
   exhibition by Kim Bong-Jun\, a leading figure in Korean Minjung (People
@@ -1449,7 +1209,7 @@ DESCRIPTION:The East Asia Library at Stanford University will host a print
  nal Korean folk art and popular expression with contemporary art\, reflect
  ing the lives and realities of ordinary people and envisioning possibiliti
  es for a more just and ecological future. The exhibition explores Kim’s 
- conce\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ conce\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Lathrop Library
 END:VEVENT
 BEGIN:VEVENT
@@ -1457,7 +1217,7 @@ SUMMARY:[Cantor Arts] Solid Pictures: Photosculpture and the Making of Mod
  ern Likeness
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-52881097589713-52881097603046@local-events
 DESCRIPTION:Before 3D printing\, there was photosculpture. Curated by Patr
  ick R. Crowley\, Associate Curator of European Art\, Solid Pictures is the
@@ -1467,7 +1227,7 @@ DESCRIPTION:Before 3D printing\, there was photosculpture. Curated by Patr
  ments\, Willème and his team of operators translated photographic negativ
  es into solid figures across a variety of media\, aiming to create afforda
  bl\n\nAges: All ages\nSource: https://museum.stanford.edu/exhibitions/soli
- d-pictures\nLast synced: 2026-10-03 10:01 PDT
+ d-pictures\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/exhibitions/solid-pictures
 END:VEVENT
@@ -1476,7 +1236,7 @@ SUMMARY:[Stanford University Libraries] Text Machines: Scarlet Thread of t
  he Digital Order (1883-2026)
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53251159287291-53251159404156@local-events
 DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
   Les laboureurs: poème tiré de Jocelyn\, whose pages (text and ornamen
@@ -1485,14 +1245,14 @@ DESCRIPTION:Stanford Libraries now holds an 1883 edition of a rare book\,
  terial conditions of Les laboureurs’ production\, and considers parall
  els between technology-driven global change in the late nineteenth century
   and in our current day. The exhibition includes microscope images reveali
- ng the\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ ng the\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Green Library\, Bing Wing
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Stanford] Stanford Perioperative Medicine Symposium
 DTSTART;TZID=America/Los_Angeles:20261007T083000
 DTEND;TZID=America/Los_Angeles:20261007T113000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-localist-53939754598976-53939754600001@local-events
 DESCRIPTION:For hospitalists\, APPs\, and other inpatient clinicians carin
  g for surgical patients\n\nThe Stanford Surgical Co-Management (SCM) hospi
@@ -1502,21 +1262,280 @@ DESCRIPTION:For hospitalists\, APPs\, and other inpatient clinicians carin
  is a rapidly growing area of hospital medicine and primary care practice. 
  Clinicians are frequently responsible for perioperative evaluation\, perio
  per\n\nAges: All ages\nSource: https://med.stanford.edu/hospitalmedicine/e
- ducation/PerioperativeMedicineSymposium.html\nLast synced: 2026-10-03 10:0
- 1 PDT
+ ducation/PerioperativeMedicineSymposium.html\nLast synced: 2026-10-04 10:1
+ 9 PDT
 URL:https://med.stanford.edu/hospitalmedicine/education/PerioperativeMedic
  ineSymposium.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Environmental Health and Safety] Clark Center: Flu & COVID-19 Vac
+ cination Clinic
+DTSTART;TZID=America/Los_Angeles:20261007T090000
+DTEND;TZID=America/Los_Angeles:20261007T160000
+DTSTAMP:20261004T171918Z
+UID:stanford_campus-localist-54012334885643-54012334887692@local-events
+DESCRIPTION:Keep Stanford Healthy: Campus Flu & COVID-19 Vaccination Clini
+ c\n\nAs we head into the autumn season\, let’s work together to keep our
+  campus safe\, healthy\, and thriving. We encourage all members of the Sta
+ nford community to take a proactive step in protecting themselves and thei
+ r colleagues by getting vaccinated. Join us at one of our upcoming campus-
+ wide vaccination clinics to get your seasonal flu shot and updated COVID-1
+ 9 vaccine. \n\nWho is Eligible?\n\nAll students\, faculty\, staff\, postdo
+ cs\, reti\n\nAges: All ages\nSource: http://flu.stanford.edu\nLast synced:
+  2026-10-04 10:19 PDT
+LOCATION:Clark Center
+URL:http://flu.stanford.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Art & Architecture Library / Department of Art & Art History] Ele
+ ctric Contrasts: the Art of the Detail
+DTSTART;TZID=America/Los_Angeles:20261007T090000
+DTEND;TZID=America/Los_Angeles:20261007T190000
+DTSTAMP:20261004T171918Z
+UID:stanford_campus-localist-53490384005179-53490384020554@local-events
+DESCRIPTION:Electric Contrasts: The Art of the Detail brings together phot
+ obooks and magazines to show how the revolution of photography in the late
+  19th and early 20th century changed the history of art. Electric Contrast
+ s takes Kenneth Clark’s landmark 1938 book One Hundred Details from Pict
+ ures in the National Gallery as a starting point to illuminate the impact 
+ black and white photographic details of Old Master paintings had on new wa
+ ys of seeing in the early 20th century. The exhibition reveals the ana\n\n
+ Ages: All ages\nLast synced: 2026-10-04 10:19 PDT
+LOCATION:McMurtry Building
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Department of Special Collections / Stanford University Libraries
+ ] A Vision of Paris: The Roxane Debuisson Collection at Stanford
+DTSTART;TZID=America/Los_Angeles:20261007T100000
+DTEND;TZID=America/Los_Angeles:20261007T180000
+DTSTAMP:20261004T171918Z
+UID:stanford_campus-localist-53861575489955-53861575499187@local-events
+DESCRIPTION:Stanford University Libraries presents A Vision of Paris: the 
+ Roxane Debuisson Collection at Stanford\, on view in the Peterson Gallery 
+ and Munger Rotunda of the Cecil H. Green Library from September 22\, 2026 
+ to January 24\, 2027. \n\nRoxane Debuisson (1927–2018) dedicated sixty y
+ ears to documenting the transformation of the city of Paris during the nin
+ eteenth century.  If Roxane Debuisson could not stop the changes she saw u
+ nderway in the late 20th century\, she could at least preserve the city’
+ s ea\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
+LOCATION:Green Library\, Bing Wing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Center on Democracy\, Development and the Rule of Law / FSI] Isra
+ el Insights Webinar with Amos Harel — Three Years Since October 7: Cause
+ s and Consequences
+DTSTART;TZID=America/Los_Angeles:20261007T100000
+DTEND;TZID=America/Los_Angeles:20261007T111500
+DTSTAMP:20261004T171918Z
+UID:stanford_campus-localist-53808864393173-53808872522298@local-events
+DESCRIPTION:Three years after the October 7\, 2023\, invasion and massacre
+ \, the questions and consequences surrounding the worst security failure i
+ n Israel's modern history continue to reverberate. With no National Commis
+ sion of Inquiry established by the Netanyahu government to investigate how
+  Israel was caught off-guard and no definite end to the multi-front war th
+ at followed the Hamas attack (in Gaza\, Lebanon\, Iran\, and Yemen)\, how 
+ can we make sense of October 7 and its aftermath? Join Amichai Magen and O
+ r\n\nAges: All ages\nSource: https://cddrl.fsi.stanford.edu/events/israel-
+ insights-webinar-amos-harel-three-years-october-7-causes-and-consequences
+ \nLast synced: 2026-10-04 10:19 PDT
+URL:https://cddrl.fsi.stanford.edu/events/israel-insights-webinar-amos-har
+ el-three-years-october-7-causes-and-consequences
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Hoover] The Hoover Institution Center for Revitalizing American I
+ nstitutions discussing Redrawing the Rules? Mid-Decade Redistricting and t
+ he Future of Elections
+DTSTART;TZID=America/Los_Angeles:20261007T100000
+DTEND;TZID=America/Los_Angeles:20261007T113000
+DTSTAMP:20261004T171918Z
+UID:stanford_campus-localist-53809401977226-53809401978251@local-events
+DESCRIPTION:The Hoover Institution Center for Revitalizing American Instit
+ utions webinar series features speakers who are developing innovative idea
+ s\, conducting groundbreaking research\, and taking important actions to i
+ mprove trust and efficacy in American institutions. Speaker expertise and 
+ topics span governmental institutions\, civic organizations and practice\,
+  and the role of public opinion and culture in shaping our democracy. The 
+ webinar series builds awareness about how we can individually and collec\n
+ \nAges: All ages\nSource: https://www.hoover.org/events/redrawing-rules-mi
+ d-decade-redistricting-and-future-elections\nLast synced: 2026-10-04 10:19
+  PDT
+URL:https://www.hoover.org/events/redrawing-rules-mid-decade-redistricting
+ -and-future-elections
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Bechtel International Center] International Spouse Coffee ☕️
+DTSTART;TZID=America/Los_Angeles:20261007T103000
+DTEND;TZID=America/Los_Angeles:20261007T120000
+DTSTAMP:20261004T171918Z
+UID:stanford_campus-localist-54098975772259-54098975773285@local-events
+DESCRIPTION:You are welcome to join our International Spouse Coffee anytim
+ e from 10:30 a.m. to noon enjoying coffee\, cookies & great conversations.
+ \n\nThe Coffee events are ideal opportunities to make new friends & learn 
+ more about Bechtel’s programs\, classes & workshops\, the Stanford campu
+ s\, and helpful resources in the nearby communities. No registration is re
+ quired - just stop by! Every Wednesday from 10:30 a.m. to 12:00 p.m. at th
+ e Bechtel International Center\, Assembly room. \n\nJoin us for our Specia
+ l Int\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
+LOCATION:Bechtel International Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford University Libraries] Text as data: Using Redivis and AI
+  to analyze historical news sentiment
+DTSTART;TZID=America/Los_Angeles:20261007T110000
+DTEND;TZID=America/Los_Angeles:20261007T120000
+DTSTAMP:20261004T171918Z
+UID:stanford_campus-localist-53986144935643-53986201072206@local-events
+DESCRIPTION:This hands-on workshop introduces social scientists to Redivis
+  as a platform for text-based research\, using an AI-powered sentiment ana
+ lysis task as a working example. Participants will use Redivis's no-code t
+ ransform interface to prepare a real dataset of historical newspaper cover
+ age using a subset of the Library of Congress's Chronicling America collec
+ tion\, then run a guided Python notebook that applies a modern language mo
+ del to measure shifts in tone over time. This is a practical\, applied\n\n
+ Ages: All ages\nLast synced: 2026-10-04 10:19 PDT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford BeWell / Stanford Healthy Living] BABBLE - Back After Ba
+ by Bonding Leave Ends
+DTSTART;TZID=America/Los_Angeles:20261007T113000
+DTEND;TZID=America/Los_Angeles:20261007T130000
+DTSTAMP:20261004T171918Z
+UID:stanford_campus-localist-53741880135473-53741880136500@local-events
+DESCRIPTION:Returning to work after welcoming a new baby can be both excit
+ ing and challenging. As a working parent\, you may be navigating new routi
+ nes and shifting priorities and have questions about balancing work\, fami
+ ly\, and self-care during this important transition. You do not have to na
+ vigate this phase alone.\n\nIn this supportive and interactive virtual wor
+ kshop\, you will learn about campus and community resources available at S
+ tanford to help you blend your work and family needs. Gain actionable tips
+ \n\nAges: All ages\nSource: https://healthyliving.stanford.edu/classes/reg
+ ister/class_detail.php?t=1cce34dfd3cbss383d348a508b1be48cc821&ci=1252805\n
+ Last synced: 2026-10-04 10:19 PDT
+URL:https://healthyliving.stanford.edu/classes/register/class_detail.php?t
+ =1cce34dfd3cbss383d348a508b1be48cc821&ci=1252805
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Bill Lane Center for the American West / Center for Comparative S
+ tudies in Race and Ethnicity] Building 360 Open House
+DTSTART;TZID=America/Los_Angeles:20261007T113000
+DTEND;TZID=America/Los_Angeles:20261007T133000
+DTSTAMP:20261004T171918Z
+UID:stanford_campus-localist-53994679393617-53994679393618@local-events
+DESCRIPTION:The Bill Lane Center for the American West\, Taube Center for 
+ Jewish Studies\, and the Center for Comparative Studies in Race & Ethnicit
+ y (CCSRE) invite you to the annual Building 360 Open House!\n\nWe invite e
+ veryone interested in engaging with our communities and learning more abou
+ t who we are and what we do to drop by. Connect with faculty\, staff\, and
+  students from the Bill Lane Center\, Taube Center\, and CCSRE! Our staff 
+ will be available to answer questions about programs\, events\, the majori
+ ng/m\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
+LOCATION:Building 360
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Division of Literatures\, Cultures\, and Languages / Department o
+ f German Studies] CMEMS: Jutta Eming presents\, "Precious Monsters"
+DTSTART;TZID=America/Los_Angeles:20261007T120000
+DTEND;TZID=America/Los_Angeles:20261007T131500
+DTSTAMP:20261004T171918Z
+UID:stanford_campus-localist-54095405981823-54095417082000@local-events
+DESCRIPTION:Organized and hosted by the Center for Medieval and Early Mode
+ rn Studies (CMEMS).\n\nJutta Eming (Freie Universität Berlin) presents\, 
+ "Precious Monsters: Cundrie and Malcreatiure in Wolfram von Eschenbach's '
+ Parzival' as Gifts for the 'Wunderkammer' (Pz. 519)"\n\nWith a response fr
+ om Vera Geranpayeh (German\, Stanford).\n\n \n\nThe CMEMS Workshop series 
+ meets most Wednesdays during the academic year. Lunch is provided. See the
+  CMEMS website for the list of upcoming speakers.\n\nAges: All ages\nLast 
+ synced: 2026-10-04 10:19 PDT
+LOCATION:Building 260\, Pigott Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Department of Psychiatry] CREATE Webinar - TherapyTrainer: Advanc
+ ing Therapist Training Through AI Simulation
+DTSTART;TZID=America/Los_Angeles:20261007T120000
+DTEND;TZID=America/Los_Angeles:20261007T130000
+DTSTAMP:20261004T171918Z
+UID:stanford_campus-localist-54039290067006-54039295871976@local-events
+DESCRIPTION:Join us on October 7th 12-1pm PT for a closer look at the deve
+ lopment and evaluation of CREATE's signature project\, TherapyTrainer. \n
+ \nTherapyTrainer is designed to help therapists learn and practice Written
+  Exposure Therapy (WET)\, a brief evidence-based treatment for post-trauma
+ tic stress disorder (PTSD)\, using AI-simulated patients and an AI consult
+ ant that provides personalized feedback.\n\nIn this webinar\, members of t
+ he CREATE research team will introduce TherapyTrainer and the clinical and
+  im\n\nAges: All ages\nSource: https://create.stanford.edu/events/therapyt
+ rainer-advancing-therapist-training-through-ai-simulation\nLast synced: 20
+ 26-10-04 10:19 PDT
+URL:https://create.stanford.edu/events/therapytrainer-advancing-therapist-
+ training-through-ai-simulation
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Archaeology Center] Distinguished Lecture Series Lunch Talk | Two
+  Modes of Sedentism on the Tibetan Plateau
+DTSTART;TZID=America/Los_Angeles:20261007T120000
+DTEND;TZID=America/Los_Angeles:20261007T130000
+DTSTAMP:20261004T171918Z
+UID:stanford_campus-localist-53971964567762-53971964568787@local-events
+DESCRIPTION:Each quarter\, the Stanford Archaeology Center invites promine
+ nt archaeologists from around the globe to be in residence for a week as a
+  Distinguished Lecturer. During their residency\, the Distinguished Lectur
+ er gives two lectures and interacts with faculty\, postdoctoral scholars a
+ nd students. Stanford Archaeology Center will host Prof. Xiaoyan Yang  Lan
+ zhou University over two days (Oct 7 and Oct 8 for the Fall Quarter of thi
+ s academic year. \n\nAbstract:\n\nSedentism is one of the milestone events
+ \n\nAges: All ages\nSource: https://archaeology.stanford.edu/events/distin
+ guished-lecture-series\nLast synced: 2026-10-04 10:19 PDT
+LOCATION:Building 500\, Archaeology Center
+URL:https://archaeology.stanford.edu/events/distinguished-lecture-series
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford Institute for Human-Centered Artificial Intelligence (HA
+ I)] HAI Seminar with Tim de Silva
+DTSTART;TZID=America/Los_Angeles:20261007T120000
+DTEND;TZID=America/Los_Angeles:20261007T131500
+DTSTAMP:20261004T171918Z
+UID:stanford_campus-localist-53861040222429-53861040222430@local-events
+DESCRIPTION:AI Financial Advice: Supply\, Demand\, and Life Cycle Implicat
+ ions\n\nHAI Seminar with Tim de Silva\n\nVisit our website to learn more a
+ bout the event agenda\, speakers\, and other details\n\nGenerative AI has 
+ the potential to improve financial decision-making\, but the research sugg
+ ests that its impact is likely to vary across individuals. Consequently\, 
+ while current general-purpose LLMs often provide advice that aligns with s
+ tandard financial guidance\, this advice is sensitive to demand and\, ther
+ efore\, d\n\nAges: All ages\nSource: https://hai.stanford.edu/events/tim-d
+ e-silva-ai-financial-advice-supply-demand-and-life-cycle-implications\nLas
+ t synced: 2026-10-04 10:19 PDT
+LOCATION:Gates Computer Science Building
+URL:https://hai.stanford.edu/events/tim-de-silva-ai-financial-advice-suppl
+ y-demand-and-life-cycle-implications
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Stanford] Medicine Grand Rounds with Ziad Obermeyer\, MD\, MPhil
+DTSTART;TZID=America/Los_Angeles:20261007T120000
+DTEND;TZID=America/Los_Angeles:20261007T130000
+DTSTAMP:20261004T171918Z
+UID:stanford_campus-localist-53809488435214-53809488436239@local-events
+DESCRIPTION:Stanford Department of Medicine would like to invite all Stanf
+ ord community members to attend this instance of the Medicine Grand Rounds
+  (MGR) series\, which will feature a UC Berkeley physician-researcher and 
+ one of TIME's 100 most influential people in AI\, whose work uncovering ra
+ cial bias in healthcare algorithms helped spark a national reckoning with 
+ how machine learning can distort medical decision-making.\n\nCE accreditat
+ ion info here.\n\nCME Activity ID: 58644\n\nMOC Credit (1): Complete this 
+ fo\n\nAges: All ages\nSource: https://medicine.stanford.edu/education/gran
+ d-rounds.html\nLast synced: 2026-10-04 10:19 PDT
+LOCATION:Li Ka Shing Center
+URL:https://medicine.stanford.edu/education/grand-rounds.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Student Workshop - Theory Economics (graduate students
   and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261005T113000
 DTEND;TZID=America/Los_Angeles:20261005T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- c3418bd7-8e65-4f0c-8d96-876facab4ad1-2026-10-05T
  11:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/luiz-carpizo-jmc\n\nAges
- : All ages\nLast synced: 2026-10-03 10:01 PDT
+ : All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -1524,23 +1543,23 @@ SUMMARY:[Economics] Student Workshop - Econometrics (graduate students and
   faculty only)
 DTSTART;TZID=America/Los_Angeles:20261005T120000
 DTEND;TZID=America/Los_Angeles:20261005T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 64dee1d0-8b5f-4720-9806-b1e7b96b9740-2026-10-05T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/open-session-37\n\nAges:
-  All ages\nLast synced: 2026-10-03 10:01 PDT
+  All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:GSB E102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Development - Joao Francisco Pugliese (Job Talk)
 DTSTART;TZID=America/Los_Angeles:20261005T133000
 DTEND;TZID=America/Los_Angeles:20261005T145000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 378be171-5ba4-4db2-aeeb-2b759c8cd7d5-2026-10-05T
  13:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/consumer-misperceptions-
  and-redistribution-financial-products-evidence-brazilian-consorcios\n\nAge
- s: All ages\nLast synced: 2026-10-03 10:01 PDT
+ s: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -1548,11 +1567,11 @@ SUMMARY:[Economics] Macroeconomics - Job Market Talk: Emmanuella Kyei Manu
   - Stanford University
 DTSTART;TZID=America/Los_Angeles:20261005T154500
 DTEND;TZID=America/Los_Angeles:20261005T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 24b87911-b1e4-40b4-b637-cb75d990eed4-2026-10-05T
  15:45:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/migrant-networks-and-cli
- mate-change\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ mate-change\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:655 Knight Way\, Stanford\, GSB\, Room M109
 END:VEVENT
 BEGIN:VEVENT
@@ -1560,11 +1579,11 @@ SUMMARY:[Economics] Behavioral and Experimental - Pietro Ortoleva - Prince
  ton University
 DTSTART;TZID=America/Los_Angeles:20261005T154500
 DTEND;TZID=America/Los_Angeles:20261005T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- fea46108-5f83-45d2-8a5c-7d4d805800ac-2026-10-05T
  15:45:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/reference-points-informa
- tion\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ tion\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -1572,11 +1591,11 @@ SUMMARY:[Economics] Student Workshop - Development (graduate students and
  faculty only)
 DTSTART;TZID=America/Los_Angeles:20261006T103000
 DTEND;TZID=America/Los_Angeles:20261006T113000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 94ed7c68-4b8a-4926-b1b6-7eb6a397e0e8-2026-10-06T
  10:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/danielle-handel-0\n\nAge
- s: All ages\nLast synced: 2026-10-03 10:01 PDT
+ s: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas B
 END:VEVENT
 BEGIN:VEVENT
@@ -1584,46 +1603,46 @@ SUMMARY:[Economics] Student Workshop - Macroeconomics (graduate students a
  nd faculty only)
 DTSTART;TZID=America/Los_Angeles:20261006T120000
 DTEND;TZID=America/Los_Angeles:20261006T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 8ad9a6c1-d6a3-41ab-900c-f8bbfd507ca3-2026-10-06T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/sam-wycherley-0\n\nAges:
-  All ages\nLast synced: 2026-10-03 10:01 PDT
+  All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Econometrics - Sizhu Lu - Stanford University
 DTSTART;TZID=America/Los_Angeles:20261007T100000
 DTEND;TZID=America/Los_Angeles:20261007T110000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 7c4e5a3f-75da-4e9a-a6cb-6d0b266ce0d9-2026-10-07T
  10:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/estimating-treatment-eff
  ects-competing-intercurrent-events-randomized-controlled-trials\n\nAges: A
- ll ages\nLast synced: 2026-10-03 10:01 PDT
+ ll ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Labor
 DTSTART;TZID=America/Los_Angeles:20261007T133000
 DTEND;TZID=America/Los_Angeles:20261007T144500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 69dce277-0616-484e-b7fa-0cc731e7b819-2026-10-07T
  13:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/no-seminar-jams-week-30
- \n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ \n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Joint Applied Micro Seminar - Carolyn Stein - Universi
  ty of California\, Berkeley
 DTSTART;TZID=America/Los_Angeles:20261007T153000
 DTEND;TZID=America/Los_Angeles:20261007T164500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 6b1012b6-6a7c-4390-8d87-d24f83376cc4-2026-10-07T
  15:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/how-artificial-intellige
  nce-shapes-science-evidence-alphafold\n\nAges: All ages\nLast synced: 2026
- -10-03 10:01 PDT
+ -10-04 10:19 PDT
 LOCATION:GSB Gunn Building\, G102
 END:VEVENT
 BEGIN:VEVENT
@@ -1631,11 +1650,11 @@ SUMMARY:[Economics] Student Workshop - Applied Economics (graduate student
  s and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261008T123000
 DTEND;TZID=America/Los_Angeles:20261008T133000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 3c882769-b5a6-4bd1-ac7a-7505bc50cbda-2026-10-08T
  12:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/kyra-frye-and-samuel-tha
- u\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ u\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -1643,12 +1662,12 @@ SUMMARY:[Economics] Environmental Policy - Guojun He - University of Hong
  Kong
 DTSTART;TZID=America/Los_Angeles:20261008T131500
 DTEND;TZID=America/Los_Angeles:20261008T143000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 71e96040-11ce-4e10-a349-7da0cad58377-2026-10-08T
  13:15:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/carbon-markets-chinese-c
  haracteristics-design-consequences\n\nAges: All ages\nLast synced: 2026-10
- -03 10:01 PDT
+ -04 10:19 PDT
 LOCATION:Y2E2 Building\, 299
 END:VEVENT
 BEGIN:VEVENT
@@ -1656,12 +1675,12 @@ SUMMARY:[Economics] Student Workshop - Industrial Organization  (graduate
  students and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261008T150000
 DTEND;TZID=America/Los_Angeles:20261008T163000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 5a018d89-26a2-439d-8ef4-ef2a277090e9-2026-10-08T
  15:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/ben-barrett-30-min-taryn
  -oconnor-30-min-zahra-thabet-30-min\n\nAges: All ages\nLast synced: 2026-1
- 0-03 10:01 PDT
+ 0-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -1669,11 +1688,11 @@ SUMMARY:[Economics] Student Workshop - Labor and Public (graduate students
   and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261009T103000
 DTEND;TZID=America/Los_Angeles:20261009T113000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 03c23844-75c1-4143-813c-f7f90197d758-2026-10-09T
  10:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/janet-stefanov-5\n\nAges
- : All ages\nLast synced: 2026-10-03 10:01 PDT
+ : All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -1681,11 +1700,11 @@ SUMMARY:[Economics] Student Workshop - Pat Bajari IO Lunch (graduate stude
  nts and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261009T120000
 DTEND;TZID=America/Los_Angeles:20261009T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 8d3f7bba-b469-42fc-8558-a7496d62aa6f-2026-10-09T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/james-han-paper-discussi
- on-60-min\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ on-60-min\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:GSB BC332
 END:VEVENT
 BEGIN:VEVENT
@@ -1693,11 +1712,11 @@ SUMMARY:[Economics] Student Workshop - Behavioral and Experimental Economi
  cs (graduate students and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261009T120000
 DTEND;TZID=America/Los_Angeles:20261009T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- b5df40fb-d0c6-477a-ba86-4b6bce8c4afa-2026-10-09T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/pete-robertson-6\n\nAges
- : All ages\nLast synced: 2026-10-03 10:01 PDT
+ : All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -1705,11 +1724,11 @@ SUMMARY:[Economics] Student Workshop - Theory Economics (graduate students
   and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261012T113000
 DTEND;TZID=America/Los_Angeles:20261012T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- e96df9a2-0395-47de-90e9-65ccc4e8901f-2026-10-12T
  11:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/klajdi-hoxha-jmc\n\nAges
- : All ages\nLast synced: 2026-10-03 10:01 PDT
+ : All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -1717,22 +1736,22 @@ SUMMARY:[Economics] Student Workshop - Econometrics (graduate students and
   faculty only)
 DTSTART;TZID=America/Los_Angeles:20261012T120000
 DTEND;TZID=America/Los_Angeles:20261012T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 324a5383-e53b-47b5-9f94-d117e9a68828-2026-10-12T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/xuelin-yang-0\n\nAges: A
- ll ages\nLast synced: 2026-10-03 10:01 PDT
+ ll ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:GSB E102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Development - Sarah Winton - Dartmouth University
 DTSTART;TZID=America/Los_Angeles:20261012T133000
 DTEND;TZID=America/Los_Angeles:20261012T145000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- ef34c4de-192d-4acc-9d71-fbdfd7ea422b-2026-10-12T
  13:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-52\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -1740,11 +1759,11 @@ SUMMARY:[Economics] Macroeconomics - Job Market Talk: Rafael Costa Berriel
   Abreu - Stanford University
 DTSTART;TZID=America/Los_Angeles:20261012T154500
 DTEND;TZID=America/Los_Angeles:20261012T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 6e347317-05d2-41e2-91a8-29a6f7683e0a-2026-10-12T
  15:45:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/how-liquidity-regulation
- s-create-illiquidity\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ s-create-illiquidity\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:655 Knight Way\, Stanford\, GSB\, Room M109
 END:VEVENT
 BEGIN:VEVENT
@@ -1752,11 +1771,11 @@ SUMMARY:[Economics] Student Workshop - Development (graduate students and
  faculty only)
 DTSTART;TZID=America/Los_Angeles:20261013T103000
 DTEND;TZID=America/Los_Angeles:20261013T113000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 56b8249e-44c7-45ee-98dc-cb5fc4ea8736-2026-10-13T
  10:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/lucas-warwar-1\n\nAges: 
- All ages\nLast synced: 2026-10-03 10:01 PDT
+ All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas B
 END:VEVENT
 BEGIN:VEVENT
@@ -1764,12 +1783,12 @@ SUMMARY:[Economics] IO\, Public\, Labor\, Urban\, and Sustainability Semin
  ar (IOPLUS) - Nathaniel Hickok - University of Pennsylvania
 DTSTART;TZID=America/Los_Angeles:20261013T120000
 DTEND;TZID=America/Los_Angeles:20261013T131500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- c896593c-e9e8-4834-956f-7f85e0f9996c-2026-10-13T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/environmental-regulation
  -irreversible-investments-evidence-high-plains-aquifer-depletion\n\nAges: 
- All ages\nLast synced: 2026-10-03 10:01 PDT
+ All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Class of 1968 Building\, Room C102
 END:VEVENT
 BEGIN:VEVENT
@@ -1777,11 +1796,11 @@ SUMMARY:[Economics] Student Workshop - Macroeconomics (graduate students a
  nd faculty only)
 DTSTART;TZID=America/Los_Angeles:20261013T120000
 DTEND;TZID=America/Los_Angeles:20261013T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- a11c4a5d-58b0-4770-bdd5-931d3d825041-2026-10-13T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/magne-gregoire-30-min-be
- rnardo-fernandes-30-min\n\nAges: All ages\nLast synced: 2026-10-03 10:01 P
+ rnardo-fernandes-30-min\n\nAges: All ages\nLast synced: 2026-10-04 10:19 P
  DT
 LOCATION:Landau 351
 END:VEVENT
@@ -1789,22 +1808,22 @@ BEGIN:VEVENT
 SUMMARY:[Economics] Labor\, Public Economics
 DTSTART;TZID=America/Los_Angeles:20261013T133000
 DTEND;TZID=America/Los_Angeles:20261013T144500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 25b8b450-622f-42cc-93bb-05ab838754cb-2026-10-13T
  13:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/cecilia-moreira-stanford
- -university-job-talk\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ -university-job-talk\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Labor
 DTSTART;TZID=America/Los_Angeles:20261014T133000
 DTEND;TZID=America/Los_Angeles:20261014T144500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- b123fadc-db9b-4c5a-a2c3-623f46e9534a-2026-10-14T
  13:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/shelby-buchmann-stanford
- -university-job-talk\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ -university-job-talk\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -1812,22 +1831,22 @@ SUMMARY:[Economics] Economic History - Ali Yaycıoğlu - Stanford Universi
  ty
 DTSTART;TZID=America/Los_Angeles:20261014T153000
 DTEND;TZID=America/Los_Angeles:20261014T164500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 0366cda2-fdb2-4fc2-b742-adbf44ddf92f-2026-10-14T
  15:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-42\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Econometrics - Jaume Vives - New York University
 DTSTART;TZID=America/Los_Angeles:20261014T160000
 DTEND;TZID=America/Los_Angeles:20261014T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 1348175f-254a-42b7-9281-9b278b9fd0db-2026-10-14T
  16:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-56\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -1835,11 +1854,11 @@ SUMMARY:[Economics] Student Workshop - Applied Economics (graduate student
  s and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261015T123000
 DTEND;TZID=America/Los_Angeles:20261015T133000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 97562740-4638-418c-9d27-89ea81d44058-2026-10-15T
  12:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/sumhith-aradhyula\n\nAge
- s: All ages\nLast synced: 2026-10-03 10:01 PDT
+ s: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -1847,11 +1866,11 @@ SUMMARY:[Economics] Student Workshop - Industrial Organization  (graduate
  students and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261015T150000
 DTEND;TZID=America/Los_Angeles:20261015T163000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 8036a44d-57ca-4ffa-af39-03f1891e7275-2026-10-15T
  15:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/ryan-cummings-45-min-sil
- via-pedersoli-45-min\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ via-pedersoli-45-min\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -1859,11 +1878,11 @@ SUMMARY:[Economics] Student Workshop - Labor and Public (graduate students
   and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261016T103000
 DTEND;TZID=America/Los_Angeles:20261016T113000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 1daf4f55-ba75-4e62-8902-50cef8b4be3e-2026-10-16T
  10:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/gideon-moore-4\n\nAges: 
- All ages\nLast synced: 2026-10-03 10:01 PDT
+ All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -1871,11 +1890,11 @@ SUMMARY:[Economics] Student Workshop - Pat Bajari IO Lunch (graduate stude
  nts and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261016T120000
 DTEND;TZID=America/Los_Angeles:20261016T133000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- ae2d2c3d-252a-496c-948b-54397f7412e4-2026-10-16T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tess-snyder-practice-job
- -talk-90-min\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ -talk-90-min\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:GSB BC332
 END:VEVENT
 BEGIN:VEVENT
@@ -1883,11 +1902,11 @@ SUMMARY:[Economics] Student Workshop - Theory Economics (graduate students
   and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261019T120000
 DTEND;TZID=America/Los_Angeles:20261019T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 130d92ce-241b-4187-8d29-2f0347d35c9b-2026-10-19T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/dorsa-majdi\n\nAges: All
-  ages\nLast synced: 2026-10-03 10:01 PDT
+  ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -1895,22 +1914,22 @@ SUMMARY:[Economics] Student Workshop - Econometrics (graduate students and
   faculty only)
 DTSTART;TZID=America/Los_Angeles:20261019T120000
 DTEND;TZID=America/Los_Angeles:20261019T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 60c80870-2d33-4143-9427-bfb6c1d720d3-2026-10-19T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/bryan-park\n\nAges: All 
- ages\nLast synced: 2026-10-03 10:01 PDT
+ ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:GSB E102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Development - Eliana La Ferrara - Harvard University
 DTSTART;TZID=America/Los_Angeles:20261019T133000
 DTEND;TZID=America/Los_Angeles:20261019T145000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 23119cd1-8c6b-4d7b-993a-cc9c78a528f2-2026-10-19T
  13:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-90\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -1918,11 +1937,11 @@ SUMMARY:[Economics] Macroeconomics - Job Market Talk: Reiko Laski - Stanfo
  rd University
 DTSTART;TZID=America/Los_Angeles:20261019T154500
 DTEND;TZID=America/Los_Angeles:20261019T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- c90af7aa-3c84-41b7-b16b-bf093f9db327-2026-10-19T
  15:45:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-35\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:655 Knight Way\, Stanford\, GSB\, Room M109
 END:VEVENT
 BEGIN:VEVENT
@@ -1930,11 +1949,11 @@ SUMMARY:[Economics] Behavioral and Experimental - Ulrike Malmendier - Univ
  ersity of California\, Berkeley
 DTSTART;TZID=America/Los_Angeles:20261019T154500
 DTEND;TZID=America/Los_Angeles:20261019T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 5357a5e6-4bf0-4f69-8745-35c48fa62547-2026-10-19T
  15:45:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/paper-tba-50\n\nAges: Al
- l ages\nLast synced: 2026-10-03 10:01 PDT
+ l ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -1942,11 +1961,11 @@ SUMMARY:[Economics] Student Workshop - Development (graduate students and
  faculty only)
 DTSTART;TZID=America/Los_Angeles:20261020T103000
 DTEND;TZID=America/Los_Angeles:20261020T113000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- f284593d-5e47-42a7-8b23-a63b7f21bfd2-2026-10-20T
  10:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/sumhith-veda-aradhyula-1
- \n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ \n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau  - Lucas B
 END:VEVENT
 BEGIN:VEVENT
@@ -1954,11 +1973,11 @@ SUMMARY:[Economics] IO\, Public\, Labor\, Urban\, and Sustainability Semin
  ar (IOPLUS) - Lindsey Currier - University of Chicago
 DTSTART;TZID=America/Los_Angeles:20261020T120000
 DTEND;TZID=America/Los_Angeles:20261020T131500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- be5fc3c4-4eec-4031-a0c4-894395b1333d-2026-10-20T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-39\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Class of 1968 Building\, Room C102
 END:VEVENT
 BEGIN:VEVENT
@@ -1966,33 +1985,33 @@ SUMMARY:[Economics] Student Workshop - Macroeconomics (graduate students a
  nd faculty only)
 DTSTART;TZID=America/Los_Angeles:20261020T120000
 DTEND;TZID=America/Los_Angeles:20261020T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 67e80e0c-9f52-41d2-8a74-4d2cc7eda703-2026-10-20T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/janet-stefanov-4\n\nAges
- : All ages\nLast synced: 2026-10-03 10:01 PDT
+ : All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Labor - Josh Lerner - Harvard Business School
 DTSTART;TZID=America/Los_Angeles:20261021T133000
 DTEND;TZID=America/Los_Angeles:20261021T144500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- e6bef854-b451-4869-9392-da110bd2d7e8-2026-10-21T
  13:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-45\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Economic History - Lavar Edmonds - Stanford University
 DTSTART;TZID=America/Los_Angeles:20261021T153000
 DTEND;TZID=America/Los_Angeles:20261021T164500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 3d16e95a-3e8b-4e72-9eae-9c01902c7573-2026-10-21T
  15:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-43\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2000,11 +2019,11 @@ SUMMARY:[Economics] Econometrics - Mikkel Plagborg-Moller - University of
  Chicago
 DTSTART;TZID=America/Los_Angeles:20261021T160000
 DTEND;TZID=America/Los_Angeles:20261021T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 4364202b-af63-41f6-a6f3-8e004a8e080b-2026-10-21T
  16:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-57\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -2012,11 +2031,11 @@ SUMMARY:[Economics] Student Workshop - Labor and Public (graduate students
   and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261023T103000
 DTEND;TZID=America/Los_Angeles:20261023T113000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 7e031160-061a-4092-a161-61850723b14a-2026-10-23T
  10:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/no-meeting-applied-jmc\n
- \nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ \nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2024,11 +2043,11 @@ SUMMARY:[Economics] Student Workshop - Theory Economics (graduate students
   and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261026T120000
 DTEND;TZID=America/Los_Angeles:20261026T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 798e46b5-ba4b-4371-838f-26281f943f1a-2026-10-26T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/thanawat-sornwanee-0\n\n
- Ages: All ages\nLast synced: 2026-10-03 10:01 PDT
+ Ages: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2036,11 +2055,11 @@ SUMMARY:[Economics] Student Workshop - Econometrics (graduate students and
   faculty only)
 DTSTART;TZID=America/Los_Angeles:20261026T120000
 DTEND;TZID=America/Los_Angeles:20261026T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 8c6c4040-19b3-4347-856a-c1a20612e08e-2026-10-26T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/i-han-lai\n\nAges: All a
- ges\nLast synced: 2026-10-03 10:01 PDT
+ ges\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:TBD
 END:VEVENT
 BEGIN:VEVENT
@@ -2048,11 +2067,11 @@ SUMMARY:[Economics] Health Economics - Christopher Carpenter - Vanderbilt
  University
 DTSTART;TZID=America/Los_Angeles:20261026T120000
 DTEND;TZID=America/Los_Angeles:20261026T131500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 443e7a52-bca8-4531-b974-f15a87128118-2026-10-26T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/list-experiment-evidence
- -gender-affirming-care\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PD
+ -gender-affirming-care\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PD
  T
 LOCATION:Encina Commons\, Room 119
 END:VEVENT
@@ -2061,11 +2080,11 @@ SUMMARY:[Economics] Development\, Labor - Livia Alfonsi - Harvard Business
   School
 DTSTART;TZID=America/Los_Angeles:20261026T133000
 DTEND;TZID=America/Los_Angeles:20261026T145000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 287d20ee-e29f-49ee-aa38-a5f31ceae0fa-2026-10-26T
  13:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-47\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -2073,11 +2092,11 @@ SUMMARY:[Economics] Macroeconomics - Job Market Talk: Daria Matviienko - S
  tanford University
 DTSTART;TZID=America/Los_Angeles:20261026T154500
 DTEND;TZID=America/Los_Angeles:20261026T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 981dfe0b-b2bf-499e-b9c0-e88cf64decdb-2026-10-26T
  15:45:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-36\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:655 Knight Way\, Stanford\, GSB\, Room M109
 END:VEVENT
 BEGIN:VEVENT
@@ -2085,12 +2104,12 @@ SUMMARY:[Economics] Behavioral and Experimental - Ania Jaroszewicz - Unive
  rsity of California\, San Diego
 DTSTART;TZID=America/Los_Angeles:20261026T154500
 DTEND;TZID=America/Los_Angeles:20261026T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 88093bee-67c7-4b42-bf4d-0fac186118d6-2026-10-26T
  15:45:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/effect-unrestricted-cash
  -lives-and-livelihoods-experimental-evidence-boston\n\nAges: All ages\nLas
- t synced: 2026-10-03 10:01 PDT
+ t synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -2098,11 +2117,11 @@ SUMMARY:[Economics] Student Workshop - Development (graduate students and
  faculty only)
 DTSTART;TZID=America/Los_Angeles:20261027T103000
 DTEND;TZID=America/Los_Angeles:20261027T113000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- e5b87988-98ce-46b9-a386-0d04e166c7ab-2026-10-27T
  10:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/juan-david-torres-3\n\nA
- ges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ ges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas B
 END:VEVENT
 BEGIN:VEVENT
@@ -2110,11 +2129,11 @@ SUMMARY:[Economics] IO\, Public\, Labor\, Urban\, and Sustainability Semin
  ar (IOPLUS) - Alan Sorensen - University of Wisconsin
 DTSTART;TZID=America/Los_Angeles:20261027T120000
 DTEND;TZID=America/Los_Angeles:20261027T131500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 6415d8e8-2dc2-4b07-a641-3236e3946b61-2026-10-27T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-53\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Class of 1968 Building\, Room C102
 END:VEVENT
 BEGIN:VEVENT
@@ -2122,11 +2141,11 @@ SUMMARY:[Economics] Student Workshop - Macroeconomics (graduate students a
  nd faculty only)
 DTSTART;TZID=America/Los_Angeles:20261027T120000
 DTEND;TZID=America/Los_Angeles:20261027T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 589e1143-45e2-4f89-9279-76401c77c11f-2026-10-27T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tomas-tapak-0\n\nAges: A
- ll ages\nLast synced: 2026-10-03 10:01 PDT
+ ll ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2134,11 +2153,11 @@ SUMMARY:[Economics] Economic History - Matías Cabello - Martin Luther Uni
  versity Halle-Wittenberg
 DTSTART;TZID=America/Los_Angeles:20261028T153000
 DTEND;TZID=America/Los_Angeles:20261028T164500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- ab99944c-ec3b-42e6-a80b-0915202e477f-2026-10-28T
  15:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-44\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2146,11 +2165,11 @@ SUMMARY:[Economics] Econometrics - Hamsa Bastani - University of Pennsylva
  nia
 DTSTART;TZID=America/Los_Angeles:20261028T160000
 DTEND;TZID=America/Los_Angeles:20261028T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 3f5c9a47-b847-4050-8383-807d236a86c8-2026-10-28T
  16:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-58\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -2158,11 +2177,11 @@ SUMMARY:[Economics] Student Workshop - Applied Economics (graduate student
  s and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261029T123000
 DTEND;TZID=America/Los_Angeles:20261029T133000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 4d2a8aba-4c94-45e7-8d0b-c095f5d2ec23-2026-10-29T
  12:30:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/mary-reader-0\n\nAges: A
- ll ages\nLast synced: 2026-10-03 10:01 PDT
+ ll ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2170,11 +2189,11 @@ SUMMARY:[Economics] Student Workshop - Industrial Organization  (graduate
  students and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261029T150000
 DTEND;TZID=America/Los_Angeles:20261029T163000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- e84e409d-b76f-4af3-8cdd-f3810c2e7ca7-2026-10-29T
  15:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/gideon-moore-45-min-sami
- ra-gholami-45-min\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ ra-gholami-45-min\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2182,11 +2201,11 @@ SUMMARY:[Economics] Student Workshop - Pat Bajari IO Lunch (graduate stude
  nts and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261030T120000
 DTEND;TZID=America/Los_Angeles:20261030T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 876a2187-b78b-45fa-a5ca-caf13b163cf8-2026-10-30T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/wendy-yin-paper-discussi
- on-60-min\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ on-60-min\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:GSB BC332
 END:VEVENT
 BEGIN:VEVENT
@@ -2194,11 +2213,11 @@ SUMMARY:[Economics] Student Workshop - Theory Economics (graduate students
   and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261102T120000
 DTEND;TZID=America/Los_Angeles:20261102T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 94c02f77-840a-427b-97d5-32a0c4774dd1-2026-11-02T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/jiarui-xie-0\n\nAges: Al
- l ages\nLast synced: 2026-10-03 10:01 PDT
+ l ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2206,33 +2225,33 @@ SUMMARY:[Economics] Student Workshop - Econometrics (graduate students and
   faculty only)
 DTSTART;TZID=America/Los_Angeles:20261102T120000
 DTEND;TZID=America/Los_Angeles:20261102T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 3935af5c-51d2-43ee-9cf4-2341f9325178-2026-11-02T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/amar-venugopal-8\n\nAges
- : All ages\nLast synced: 2026-10-03 10:01 PDT
+ : All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:GSB E104
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Development - Amen Jalal - Harvard University
 DTSTART;TZID=America/Los_Angeles:20261102T133000
 DTEND;TZID=America/Los_Angeles:20261102T145000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- dcd23a88-17f5-4953-9b61-a2952b0930d8-2026-11-02T
  13:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-91\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Macroeconomics - David Weil - Brown University
 DTSTART;TZID=America/Los_Angeles:20261102T154500
 DTEND;TZID=America/Los_Angeles:20261102T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 9161db19-7d42-4e98-b2a1-fd5233431a45-2026-11-02T
  15:45:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-69\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:655 Knight Way\, Stanford\, GSB\, Room M109
 END:VEVENT
 BEGIN:VEVENT
@@ -2240,23 +2259,23 @@ SUMMARY:[Economics] IO\, Public\, Labor\, Urban\, and Sustainability Semin
  ar (IOPLUS) - Nick Tsivanidis - University of California at Berkeley
 DTSTART;TZID=America/Los_Angeles:20261103T120000
 DTEND;TZID=America/Los_Angeles:20261103T131500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 3eb8200c-8d1a-4ea4-823b-550235843984-2026-11-03T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-33\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Class of 1968 Building\, Room C102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Public Economics - Danny Yagan - UC Berkeley
 DTSTART;TZID=America/Los_Angeles:20261103T133000
 DTEND;TZID=America/Los_Angeles:20261103T144500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 67891810-9bdf-48cf-a7b7-c6da43cc4b78-2026-11-03T
  13:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/equality-opportunity-vs-
  equality-outcomes-theory-optimal-predistribution\n\nAges: All ages\nLast s
- ynced: 2026-10-03 10:01 PDT
+ ynced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2264,11 +2283,11 @@ SUMMARY:[Economics] Labor - Shelly Lundberg - University of California\, S
  anta Barbara
 DTSTART;TZID=America/Los_Angeles:20261104T133000
 DTEND;TZID=America/Los_Angeles:20261104T144500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 385285c2-0051-413d-8e68-d7aba68c12d9-2026-11-04T
  13:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-51\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2276,11 +2295,11 @@ SUMMARY:[Economics] Economic History - Alvaro Calderon - Stanford Universi
  ty
 DTSTART;TZID=America/Los_Angeles:20261104T153000
 DTEND;TZID=America/Los_Angeles:20261104T164500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- c9a01961-5737-43a8-a57e-91ccf61f2a96-2026-11-04T
  15:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-21\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2288,11 +2307,11 @@ SUMMARY:[Economics] Econometrics - Cristina Gualdani - Queen Mary Universi
  ty of London
 DTSTART;TZID=America/Los_Angeles:20261104T160000
 DTEND;TZID=America/Los_Angeles:20261104T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- e812ff68-d5a1-4179-a8ff-258478f1ab9a-2026-11-04T
  16:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-59\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -2300,11 +2319,11 @@ SUMMARY:[Economics] Student Workshop - Applied Economics (graduate student
  s and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261105T123000
 DTEND;TZID=America/Los_Angeles:20261105T133000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 02af6786-5a44-48e6-bc1b-04297a9a086a-2026-11-05T
  12:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/yailin-navarro\n\nAges: 
- All ages\nLast synced: 2026-10-03 10:01 PDT
+ All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2312,11 +2331,11 @@ SUMMARY:[Economics] Environmental Policy - David Keith - University of Chi
  cago
 DTSTART;TZID=America/Los_Angeles:20261105T131500
 DTEND;TZID=America/Los_Angeles:20261105T143000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 74b7c596-ed8e-4106-813d-34ac923ff4b9-2026-11-05T
  13:15:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/practical-geoengineering
- \n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ \n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Y2E2 Building\, 299
 END:VEVENT
 BEGIN:VEVENT
@@ -2324,11 +2343,11 @@ SUMMARY:[Economics] Student Workshop - Industrial Organization  (graduate
  students and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261105T150000
 DTEND;TZID=America/Los_Angeles:20261105T163000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 91534bc1-ecb9-4e9f-a133-d9b77ea8b422-2026-11-05T
  15:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/miguel-borrero-45-min-ha
- rry-cooperman-45-min\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ rry-cooperman-45-min\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2336,11 +2355,11 @@ SUMMARY:[Economics] Student Workshop - Labor and Public (graduate students
   and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261106T103000
 DTEND;TZID=America/Los_Angeles:20261106T113000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- d4616c01-519a-40fa-a9f7-4d9ff3f5d757-2026-11-06T
  10:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/marco-medina\n\nAges: Al
- l ages\nLast synced: 2026-10-03 10:01 PDT
+ l ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2348,11 +2367,11 @@ SUMMARY:[Economics] Student Workshop - Pat Bajari IO Lunch (graduate stude
  nts and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261106T120000
 DTEND;TZID=America/Los_Angeles:20261106T133000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- af35036d-b30b-4f37-a445-8289953fc807-2026-11-06T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/santiago-varela-seoane-p
- ractice-job-talk-90-min\n\nAges: All ages\nLast synced: 2026-10-03 10:01 P
+ ractice-job-talk-90-min\n\nAges: All ages\nLast synced: 2026-10-04 10:19 P
  DT
 LOCATION:GSB BC332
 END:VEVENT
@@ -2361,11 +2380,11 @@ SUMMARY:[Economics] Student Workshop - Behavioral and Experimental Economi
  cs (graduate students and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261106T120000
 DTEND;TZID=America/Los_Angeles:20261106T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- f4456704-5571-41cf-832e-a85f4d15ad8e-2026-11-06T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/chanjoo-lee-1\n\nAges: A
- ll ages\nLast synced: 2026-10-03 10:01 PDT
+ ll ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2373,11 +2392,11 @@ SUMMARY:[Economics] International Trade - Diana Van Patten - Yale Universi
  ty
 DTSTART;TZID=America/Los_Angeles:20261106T130000
 DTEND;TZID=America/Los_Angeles:20261106T140000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- b482f671-1a25-4f50-bc04-d5c254c06981-2026-11-06T
  13:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-65\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -2385,11 +2404,11 @@ SUMMARY:[Economics] International Trade - Felix Tintelnot - Duke Universit
  y
 DTSTART;TZID=America/Los_Angeles:20261106T143000
 DTEND;TZID=America/Los_Angeles:20261106T153000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 4b93333b-ce3c-4978-97a0-844ada9afb04-2026-11-06T
  14:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-66\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -2397,11 +2416,11 @@ SUMMARY:[Economics] International Trade - Cecile Gaubert - University of C
  alifornia\, Berkeley
 DTSTART;TZID=America/Los_Angeles:20261106T160000
 DTEND;TZID=America/Los_Angeles:20261106T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 1af092c5-677b-4877-87da-e552aa65733a-2026-11-06T
  16:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-67\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -2409,11 +2428,11 @@ SUMMARY:[Economics] Student Workshop - Theory Economics (graduate students
   and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261109T113000
 DTEND;TZID=America/Los_Angeles:20261109T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- da89f137-f9e1-49e7-bc51-1f88fa2bb442-2026-11-09T
  11:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/joey-feffer-jmc\n\nAges:
-  All ages\nLast synced: 2026-10-03 10:01 PDT
+  All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2421,22 +2440,22 @@ SUMMARY:[Economics] Student Workshop - Econometrics (graduate students and
   faculty only)
 DTSTART;TZID=America/Los_Angeles:20261109T120000
 DTEND;TZID=America/Los_Angeles:20261109T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 85295e44-80a1-4588-9786-84cfa876088c-2026-11-09T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/sam-thau-1\n\nAges: All 
- ages\nLast synced: 2026-10-03 10:01 PDT
+ ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:GSB E102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Macroeconomics - Phillip Kircher - Cornell University
 DTSTART;TZID=America/Los_Angeles:20261109T154500
 DTEND;TZID=America/Los_Angeles:20261109T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 6031b14e-cbd2-426a-8940-b4d0efe8bdfd-2026-11-09T
  15:45:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-70\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:655 Knight Way\, Stanford\, GSB\, Room M109
 END:VEVENT
 BEGIN:VEVENT
@@ -2444,11 +2463,11 @@ SUMMARY:[Economics] Behavioral and Experimental - Alex Rees-Jones - Univer
  sity of Pennsylvania
 DTSTART;TZID=America/Los_Angeles:20261109T154500
 DTEND;TZID=America/Los_Angeles:20261109T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 9ae7f32a-7d95-4c40-8394-5fb62e908c38-2026-11-09T
  15:45:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/paper-tba-53\n\nAges: Al
- l ages\nLast synced: 2026-10-03 10:01 PDT
+ l ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -2456,11 +2475,11 @@ SUMMARY:[Economics] Student Workshop - Development (graduate students and
  faculty only)
 DTSTART;TZID=America/Los_Angeles:20261110T103000
 DTEND;TZID=America/Los_Angeles:20261110T113000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- ea565f10-92ed-4654-8cf0-e6cb2e48a546-2026-11-10T
  10:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/camilla-cherubini-30-min
- -monia-tomasella-30-min\n\nAges: All ages\nLast synced: 2026-10-03 10:01 P
+ -monia-tomasella-30-min\n\nAges: All ages\nLast synced: 2026-10-04 10:19 P
  DT
 LOCATION:Landau - Lucas B
 END:VEVENT
@@ -2469,33 +2488,33 @@ SUMMARY:[Economics] Student Workshop - Macroeconomics (graduate students a
  nd faculty only)
 DTSTART;TZID=America/Los_Angeles:20261110T120000
 DTEND;TZID=America/Los_Angeles:20261110T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 32a96e4c-0579-4473-8e2d-843f9e2e2240-2026-11-10T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/elena-vollmer\n\nAges: A
- ll ages\nLast synced: 2026-10-03 10:01 PDT
+ ll ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Labor
 DTSTART;TZID=America/Los_Angeles:20261111T133000
 DTEND;TZID=America/Los_Angeles:20261111T144500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- fdfbfc58-a21f-4161-93fc-90b6e4433cb8-2026-11-11T
  13:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/no-seminar-jams-week-31
- \n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ \n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Joint Applied Micro Seminar - Daniel Xu - Duke Univers
  ity
 DTSTART;TZID=America/Los_Angeles:20261111T153000
 DTEND;TZID=America/Los_Angeles:20261111T164500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 69aa4118-353c-48b3-a076-125b6b1afd57-2026-11-11T
  15:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/paper-tba-39\n\nAges: Al
- l ages\nLast synced: 2026-10-03 10:01 PDT
+ l ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:GSB Gunn Building\, G102
 END:VEVENT
 BEGIN:VEVENT
@@ -2503,11 +2522,11 @@ SUMMARY:[Economics] Student Workshop - Applied Economics (graduate student
  s and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261112T123000
 DTEND;TZID=America/Los_Angeles:20261112T133000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 42182ebe-e1cd-442d-a9c7-0520c020ca61-2026-11-12T
  12:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/lucas-warwar-3\n\nAges: 
- All ages\nLast synced: 2026-10-03 10:01 PDT
+ All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2515,11 +2534,11 @@ SUMMARY:[Economics] Student Workshop - Industrial Organization  (graduate
  students and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261112T150000
 DTEND;TZID=America/Los_Angeles:20261112T163000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 3ed35ebf-3a6c-43f1-96d1-ae68d2b7b8f5-2026-11-12T
  15:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/janet-stefanov-45-min-ma
- ry-reader-45-min\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ ry-reader-45-min\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2527,11 +2546,11 @@ SUMMARY:[Economics] Student Workshop - Labor and Public (graduate students
   and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261113T103000
 DTEND;TZID=America/Los_Angeles:20261113T113000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 3ef9a25d-19f7-46e9-8f8b-72f513d019bb-2026-11-13T
  10:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tamri-matiashvili-5\n\nA
- ges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ ges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2539,11 +2558,11 @@ SUMMARY:[Economics] Student Workshop - Pat Bajari IO Lunch (graduate stude
  nts and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261113T120000
 DTEND;TZID=America/Los_Angeles:20261113T133000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- ff2a22c5-1bd4-4253-b558-b8ec041dad50-2026-11-13T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/eva-lestant-practice-job
- -talk-90-min\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ -talk-90-min\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:GSB BC332
 END:VEVENT
 BEGIN:VEVENT
@@ -2551,11 +2570,11 @@ SUMMARY:[Economics] Student Workshop - Behavioral and Experimental Economi
  cs (graduate students and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261113T120000
 DTEND;TZID=America/Los_Angeles:20261113T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- bb1a39d4-afe3-4b44-a060-7542d55c79a0-2026-11-13T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/hakan-ozyilmaz-1\n\nAges
- : All ages\nLast synced: 2026-10-03 10:01 PDT
+ : All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2563,11 +2582,11 @@ SUMMARY:[Economics] Student Workshop - Theory Economics (graduate students
   and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261116T120000
 DTEND;TZID=America/Los_Angeles:20261116T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 59534b06-5b24-45ee-b8f3-592e12858541-2026-11-16T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/joanna-krysta-1\n\nAges:
-  All ages\nLast synced: 2026-10-03 10:01 PDT
+  All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2575,22 +2594,22 @@ SUMMARY:[Economics] Student Workshop - Econometrics (graduate students and
   faculty only)
 DTSTART;TZID=America/Los_Angeles:20261116T120000
 DTEND;TZID=America/Los_Angeles:20261116T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- a14d3423-5d5d-4ae1-ab29-da660a7016ad-2026-11-16T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/janelle-nelson-2\n\nAges
- : All ages\nLast synced: 2026-10-03 10:01 PDT
+ : All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:TBD
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Macroeconomics - George-Marios Angeletos
 DTSTART;TZID=America/Los_Angeles:20261116T154500
 DTEND;TZID=America/Los_Angeles:20261116T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 8a4496fe-d841-45f5-919f-8a554c774ea7-2026-11-16T
  15:45:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-71\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:655 Knight Way\, Stanford\, GSB\, Room M109
 END:VEVENT
 BEGIN:VEVENT
@@ -2598,11 +2617,11 @@ SUMMARY:[Economics] Behavioral and Experimental - Peter Schwardmann - Carn
  egie Mellon University
 DTSTART;TZID=America/Los_Angeles:20261116T154500
 DTEND;TZID=America/Los_Angeles:20261116T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 66e027c2-945c-4a7a-b930-cd4e257f011e-2026-11-16T
  15:45:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/paper-tba-54\n\nAges: Al
- l ages\nLast synced: 2026-10-03 10:01 PDT
+ l ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -2610,11 +2629,11 @@ SUMMARY:[Economics] Student Workshop - Development (graduate students and
  faculty only)
 DTSTART;TZID=America/Los_Angeles:20261117T103000
 DTEND;TZID=America/Los_Angeles:20261117T113000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- e86a8e00-07c6-479d-9b06-084e02552a59-2026-11-17T
  10:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/sahana-subramanyam-2\n\n
- Ages: All ages\nLast synced: 2026-10-03 10:01 PDT
+ Ages: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas B
 END:VEVENT
 BEGIN:VEVENT
@@ -2622,11 +2641,11 @@ SUMMARY:[Economics] Student Workshop - Macroeconomics (graduate students a
  nd faculty only)
 DTSTART;TZID=America/Los_Angeles:20261117T120000
 DTEND;TZID=America/Los_Angeles:20261117T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 684c1467-4fa8-4e9f-9ee5-1edee2bddc2a-2026-11-17T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/manu-magalhaes\n\nAges: 
- All ages\nLast synced: 2026-10-03 10:01 PDT
+ All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2634,33 +2653,33 @@ SUMMARY:[Economics] Econometrics - Filip Obradovic - University of Califor
  nia\, Los Angeles
 DTSTART;TZID=America/Los_Angeles:20261118T100000
 DTEND;TZID=America/Los_Angeles:20261118T110000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 29d381aa-f679-4ce9-9d90-3b5ec6371813-2026-11-18T
  10:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-60\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Labor
 DTSTART;TZID=America/Los_Angeles:20261118T133000
 DTEND;TZID=America/Los_Angeles:20261118T144500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- ea6d9cf4-5407-4f5c-8cee-0c5ae202c900-2026-11-18T
  13:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/no-seminar-department-se
- minar\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ minar\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Department Seminar - Emi Nakamura - University of Cali
  fornia\, Berkeley
 DTSTART;TZID=America/Los_Angeles:20261118T153000
 DTEND;TZID=America/Los_Angeles:20261118T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 616b58ac-5ff6-4afc-a8aa-c08986ef2339-2026-11-18T
  15:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/be-confirmed-0\n\nAges: 
- All ages\nLast synced: 2026-10-03 10:01 PDT
+ All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:GSB G101
 END:VEVENT
 BEGIN:VEVENT
@@ -2668,11 +2687,11 @@ SUMMARY:[Economics] Student Workshop - Applied Economics (graduate student
  s and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261119T123000
 DTEND;TZID=America/Los_Angeles:20261119T133000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- c01d9679-8c5d-4b28-ac0a-f64284d73c7f-2026-11-19T
  12:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/asia-kim-francavilla\n\n
- Ages: All ages\nLast synced: 2026-10-03 10:01 PDT
+ Ages: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2680,12 +2699,12 @@ SUMMARY:[Economics] Environmental Policy - Ishan Nath - Harvard Kennedy Sc
  hool
 DTSTART;TZID=America/Los_Angeles:20261119T131500
 DTEND;TZID=America/Los_Angeles:20261119T143000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 8306b9a5-3a1d-4480-b2c4-fb1f0de21e08-2026-11-19T
  13:15:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/trade-policy-and-food-se
  curity-climate-and-geopolitical-risk\n\nAges: All ages\nLast synced: 2026-
- 10-03 10:01 PDT
+ 10-04 10:19 PDT
 LOCATION:Y2E2 Building\, 299
 END:VEVENT
 BEGIN:VEVENT
@@ -2693,11 +2712,11 @@ SUMMARY:[Economics] Student Workshop - Industrial Organization  (graduate
  students and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261119T150000
 DTEND;TZID=America/Los_Angeles:20261119T163000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- fb938b00-dead-4872-bfe8-caf40aefa4b9-2026-11-19T
  15:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/chris-xue-45-min-josh-gr
- oss-45-min\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ oss-45-min\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2705,11 +2724,11 @@ SUMMARY:[Economics] Student Workshop - Labor and Public (graduate students
   and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261120T103000
 DTEND;TZID=America/Los_Angeles:20261120T113000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 9d2d164b-e082-4a42-900d-243eae1cd485-2026-11-20T
  10:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/silvia-pedersoli-0\n\nAg
- es: All ages\nLast synced: 2026-10-03 10:01 PDT
+ es: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2717,11 +2736,11 @@ SUMMARY:[Economics] Student Workshop - Pat Bajari IO Lunch (graduate stude
  nts and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261120T120000
 DTEND;TZID=America/Los_Angeles:20261120T133000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 4628761e-7b18-4200-a21b-8487f7832ec9-2026-11-20T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/kate-reinmuth-practice-j
- ob-talk-90-min\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ ob-talk-90-min\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:GSB BC332
 END:VEVENT
 BEGIN:VEVENT
@@ -2729,33 +2748,33 @@ SUMMARY:[Economics] Student Workshop - Behavioral and Experimental Economi
  cs (graduate students and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261120T120000
 DTEND;TZID=America/Los_Angeles:20261120T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- cc680f26-52f4-4749-85de-5ed1c3c8171a-2026-11-20T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/katelyn-cranney\n\nAges:
-  All ages\nLast synced: 2026-10-03 10:01 PDT
+  All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Econometrics
 DTSTART;TZID=America/Los_Angeles:20261125T160000
 DTEND;TZID=America/Los_Angeles:20261125T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- c8100c7d-9129-4d09-a32f-62ad5b68769f-2026-11-25T
  16:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/no-seminar-thanksgiving-
- week-23\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ week-23\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Student Workshop - Theory Economics (graduate students
   and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261130T120000
 DTEND;TZID=America/Los_Angeles:20261130T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- b17f5948-11e8-4599-b4a5-5302f6ace8fb-2026-11-30T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/chanjoo-lee-0\n\nAges: A
- ll ages\nLast synced: 2026-10-03 10:01 PDT
+ ll ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2763,22 +2782,22 @@ SUMMARY:[Economics] Student Workshop - Econometrics (graduate students and
   faculty only)
 DTSTART;TZID=America/Los_Angeles:20261130T120000
 DTEND;TZID=America/Los_Angeles:20261130T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 0675de8b-141e-470a-9bad-eb0798886b05-2026-11-30T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/sarah-vicol-4\n\nAges: A
- ll ages\nLast synced: 2026-10-03 10:01 PDT
+ ll ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:GSB E102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Macroeconomics - Gita Gopinath - Harvard University
 DTSTART;TZID=America/Los_Angeles:20261130T154500
 DTEND;TZID=America/Los_Angeles:20261130T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 77333b93-d5c0-4ae8-bfee-525f84fd1065-2026-11-30T
  15:45:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-72\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:655 Knight Way\, Stanford\, GSB\, Room M109
 END:VEVENT
 BEGIN:VEVENT
@@ -2786,11 +2805,11 @@ SUMMARY:[Economics] Behavioral and Experimental - Kailash Rajah - Stanford
   University
 DTSTART;TZID=America/Los_Angeles:20261130T154500
 DTEND;TZID=America/Los_Angeles:20261130T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- e66fbabc-5ab1-47b0-8328-e3cbcf8c3a58-2026-11-30T
  15:45:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/paper-tba-55\n\nAges: Al
- l ages\nLast synced: 2026-10-03 10:01 PDT
+ l ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -2798,11 +2817,11 @@ SUMMARY:[Economics] Student Workshop - Development (graduate students and
  faculty only)
 DTSTART;TZID=America/Los_Angeles:20261201T103000
 DTEND;TZID=America/Los_Angeles:20261201T113000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 9fc24d5e-98ee-4003-ac2f-d1a357b3ad2e-2026-12-01T
  10:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/kyra-frye-3\n\nAges: All
-  ages\nLast synced: 2026-10-03 10:01 PDT
+  ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas B
 END:VEVENT
 BEGIN:VEVENT
@@ -2810,33 +2829,33 @@ SUMMARY:[Economics] Student Workshop - Macroeconomics (graduate students a
  nd faculty only)
 DTSTART;TZID=America/Los_Angeles:20261201T120000
 DTEND;TZID=America/Los_Angeles:20261201T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 401564b7-a0b9-4b53-98e1-56d1aec14188-2026-12-01T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tomer-fidelman\n\nAges: 
- All ages\nLast synced: 2026-10-03 10:01 PDT
+ All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Labor
 DTSTART;TZID=America/Los_Angeles:20261202T133000
 DTEND;TZID=America/Los_Angeles:20261202T144500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 78d079a2-4693-4237-91ba-032a26540d3c-2026-12-02T
  13:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/no-seminar-jams-week-32
- \n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ \n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Joint Applied Micro Seminar - Ellora Derenoncourt - Pr
  inceton University
 DTSTART;TZID=America/Los_Angeles:20261202T153000
 DTEND;TZID=America/Los_Angeles:20261202T164500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- c843f367-da83-404e-8e06-aad62996a5c3-2026-12-02T
  15:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/paper-tba-40\n\nAges: Al
- l ages\nLast synced: 2026-10-03 10:01 PDT
+ l ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:GSB MBA Class of 1968 Building\, C105
 END:VEVENT
 BEGIN:VEVENT
@@ -2844,11 +2863,11 @@ SUMMARY:[Economics] Student Workshop - Applied Economics (graduate student
  s and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261203T123000
 DTEND;TZID=America/Los_Angeles:20261203T133000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- ea997369-ab96-4e9c-8c88-6c321ebf0987-2026-12-03T
  12:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/lauren-harris-2\n\nAges:
-  All ages\nLast synced: 2026-10-03 10:01 PDT
+  All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2856,11 +2875,11 @@ SUMMARY:[Economics] Environmental Policy - Matto Mildenberger - University
   of California\, Santa Barbara
 DTSTART;TZID=America/Los_Angeles:20261203T131500
 DTEND;TZID=America/Los_Angeles:20261203T143000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 562d547c-5336-402e-b481-b809f2407bc3-2026-12-03T
  13:15:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/paper-tba-18\n\nAges: Al
- l ages\nLast synced: 2026-10-03 10:01 PDT
+ l ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Y2E2 Building\, 299
 END:VEVENT
 BEGIN:VEVENT
@@ -2868,11 +2887,11 @@ SUMMARY:[Economics] Student Workshop - Industrial Organization  (graduate
  students and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261203T150000
 DTEND;TZID=America/Los_Angeles:20261203T163000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 94227d5f-97e5-4da3-b33b-669841876e1d-2026-12-03T
  15:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/sam-thau-60-min-cristian
- a-firullo-30-min\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ a-firullo-30-min\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2880,11 +2899,11 @@ SUMMARY:[Economics] Student Workshop - Labor and Public (graduate students
   and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261204T103000
 DTEND;TZID=America/Los_Angeles:20261204T113000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- cc589538-c376-4abe-b6b2-2a7a1a7e60de-2026-12-04T
  10:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/kate-reinmuth-6\n\nAges:
-  All ages\nLast synced: 2026-10-03 10:01 PDT
+  All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2892,11 +2911,11 @@ SUMMARY:[Economics] Student Workshop - Pat Bajari IO Lunch (graduate stude
  nts and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261204T120000
 DTEND;TZID=America/Los_Angeles:20261204T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 3bcb159e-4a87-4c08-9742-4eced468c37d-2026-12-04T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/taryn-oconnor-paper-disc
- ussion-60-min\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ ussion-60-min\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:GSB BC332
 END:VEVENT
 BEGIN:VEVENT
@@ -2904,11 +2923,11 @@ SUMMARY:[Economics] Student Workshop - Behavioral and Experimental Economi
  cs (graduate students and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261204T120000
 DTEND;TZID=America/Los_Angeles:20261204T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 9a286cf7-e80e-4a0e-b27e-52ef247c388e-2026-12-04T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/martin-serramo-2\n\nAges
- : All ages\nLast synced: 2026-10-03 10:01 PDT
+ : All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2916,22 +2935,22 @@ SUMMARY:[Economics] Student Workshop - Econometrics (graduate students and
   faculty only)
 DTSTART;TZID=America/Los_Angeles:20261207T120000
 DTEND;TZID=America/Los_Angeles:20261207T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- a7b739c8-455b-448b-8cc5-8b1aa570943b-2026-12-07T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/aditya-ghosh-0\n\nAges: 
- All ages\nLast synced: 2026-10-03 10:01 PDT
+ All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:TBD
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Development - Amit Khandelwal - Yale University
 DTSTART;TZID=America/Los_Angeles:20261207T133000
 DTEND;TZID=America/Los_Angeles:20261207T145000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 45240975-31b3-4f30-96d4-883716dea475-2026-12-07T
  13:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-92\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -2939,11 +2958,11 @@ SUMMARY:[Economics] Behavioral and Experimental - Ruru Hoong - Massachuset
  ts Institute of Technology
 DTSTART;TZID=America/Los_Angeles:20261207T154500
 DTEND;TZID=America/Los_Angeles:20261207T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- df4935d7-8a88-4ff3-880b-bfbbc45c23ec-2026-12-07T
  15:45:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/paper-tba-56\n\nAges: Al
- l ages\nLast synced: 2026-10-03 10:01 PDT
+ l ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas A
 END:VEVENT
 BEGIN:VEVENT
@@ -2951,11 +2970,11 @@ SUMMARY:[Economics] Student Workshop - Development (graduate students and
  faculty only)
 DTSTART;TZID=America/Los_Angeles:20261208T103000
 DTEND;TZID=America/Los_Angeles:20261208T113000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 93d1b3e0-0ab4-43e8-bf2d-3cbe252a2a73-2026-12-08T
  10:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/open-session-35\n\nAges:
-  All ages\nLast synced: 2026-10-03 10:01 PDT
+  All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau - Lucas B
 END:VEVENT
 BEGIN:VEVENT
@@ -2963,11 +2982,11 @@ SUMMARY:[Economics] IO\, Public\, Labor\, Urban\, and Sustainability Semin
  ar (IOPLUS) - Karam Kang - University of Wisconsin
 DTSTART;TZID=America/Los_Angeles:20261208T120000
 DTEND;TZID=America/Los_Angeles:20261208T131500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 2007b361-47c2-49ff-bca3-7569a3ce4689-2026-12-08T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-78\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:GSB BC130
 END:VEVENT
 BEGIN:VEVENT
@@ -2975,22 +2994,22 @@ SUMMARY:[Economics] Student Workshop - Macroeconomics (graduate students a
  nd faculty only)
 DTSTART;TZID=America/Los_Angeles:20261208T120000
 DTEND;TZID=America/Los_Angeles:20261208T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- b6fd0b59-b061-4849-9f25-8d1aacc22483-2026-12-08T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tom-rutter\n\nAges: All 
- ages\nLast synced: 2026-10-03 10:01 PDT
+ ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Econometrics - Kevin Dano - Princeton University
 DTSTART;TZID=America/Los_Angeles:20261209T100000
 DTEND;TZID=America/Los_Angeles:20261209T110000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 7ced48a5-112c-4a7a-b229-24137bb6af7c-2026-12-09T
  10:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-61\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -2998,11 +3017,11 @@ SUMMARY:[Economics] Student Workshop - Industrial Organization  (graduate
  students and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261210T150000
 DTEND;TZID=America/Los_Angeles:20261210T163000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 150114c9-cdc7-402c-be2d-bf43e9d40b3b-2026-12-10T
  15:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/nick-scott-hearn-45-min-
- julia-park-45-min\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ julia-park-45-min\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -3010,11 +3029,11 @@ SUMMARY:[Economics] Student Workshop - Labor and Public (graduate students
   and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261211T103000
 DTEND;TZID=America/Los_Angeles:20261211T113000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- c38c93e8-5948-4ad4-b809-080215f3f340-2026-12-11T
  10:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/gabriela-wahba-1\n\nAges
- : All ages\nLast synced: 2026-10-03 10:01 PDT
+ : All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
@@ -3022,11 +3041,11 @@ SUMMARY:[Economics] Student Workshop - Pat Bajari IO Lunch (graduate stude
  nts and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261211T120000
 DTEND;TZID=America/Los_Angeles:20261211T130000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 88b1624a-0c9e-48ef-9e5c-6b9070f4a3f3-2026-12-11T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/federico-llarena-own-res
- earch-talk-60-min\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ earch-talk-60-min\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:GSB BC332
 END:VEVENT
 BEGIN:VEVENT
@@ -3034,22 +3053,22 @@ SUMMARY:[Economics] Student Workshop - Behavioral and Experimental Economi
  cs (graduate students and faculty only)
 DTSTART;TZID=America/Los_Angeles:20261211T120000
 DTEND;TZID=America/Los_Angeles:20261211T133000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- a4ab9156-7cd0-4005-8de5-44d364ff11f4-2026-12-11T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/vlasta-rasocha-jmc\n\nAg
- es: All ages\nLast synced: 2026-10-03 10:01 PDT
+ es: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Landau 351
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Macroeconomics - David Lagakos - Boston University
 DTSTART;TZID=America/Los_Angeles:20270208T154500
 DTEND;TZID=America/Los_Angeles:20270208T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 891f3dfb-c7f8-484d-b968-c02c21221a94-2027-02-08T
  15:45:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-73\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:655 Knight Way\, Stanford\, GSB\, Room M109
 END:VEVENT
 BEGIN:VEVENT
@@ -3057,33 +3076,33 @@ SUMMARY:[Economics] Joint Applied Micro Seminar - Leonardo Bursztyn - Univ
  ersity of Chicago
 DTSTART;TZID=America/Los_Angeles:20270210T153000
 DTEND;TZID=America/Los_Angeles:20270210T164500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- d2b3c90b-5959-4268-84a1-b94a4ee10efc-2027-02-10T
  15:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/paper-tba-38\n\nAges: Al
- l ages\nLast synced: 2026-10-03 10:01 PDT
+ l ages\nLast synced: 2026-10-04 10:19 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] IO\, Public\, Labor\, Urban\, and Sustainability Semin
  ar (IOPLUS) - Leon Musolff - University of Pennsylvania
 DTSTART;TZID=America/Los_Angeles:20270216T120000
 DTEND;TZID=America/Los_Angeles:20270216T131500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- bc6c9295-88fe-4117-898e-8458430d0e55-2027-02-16T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-79\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Macroeconomics - Erik Hurst - The University of Chicag
  o Booth
 DTSTART;TZID=America/Los_Angeles:20270222T154500
 DTEND;TZID=America/Los_Angeles:20270222T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 6ed3b18f-113e-4718-b9e7-b022750a42cc-2027-02-22T
  15:45:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-74\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:655 Knight Way\, Stanford\, GSB\, Room M109
 END:VEVENT
 BEGIN:VEVENT
@@ -3091,23 +3110,23 @@ SUMMARY:[Economics] IO\, Public\, Labor\, Urban\, and Sustainability Semin
  ar (IOPLUS) - Amy Finkelstein - Massachusetts Institute of Technology
 DTSTART;TZID=America/Los_Angeles:20270223T120000
 DTEND;TZID=America/Los_Angeles:20270223T131500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 9fd02bd2-3171-41db-ba0e-2943dd85e4db-2027-02-23T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-80\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Environmental Policy - Mushfiq Mobarak - Yale Universi
  ty
 DTSTART;TZID=America/Los_Angeles:20270225T131500
 DTEND;TZID=America/Los_Angeles:20270225T143000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 48aa14de-fab2-426a-ba3a-c3d718f8a157-2027-02-25T
  13:15:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/how-climate-shocks-produ
  ce-armed-rebellion-1970-bhola-cyclone-and-birth-bangladesh\n\nAges: All ag
- es\nLast synced: 2026-10-03 10:01 PDT
+ es\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Y2E2 Building\, 299
 END:VEVENT
 BEGIN:VEVENT
@@ -3115,11 +3134,11 @@ SUMMARY:[Economics] Macroeconomics - Jane Olmstead-Rumsey - London School
  of Economics
 DTSTART;TZID=America/Los_Angeles:20270301T154500
 DTEND;TZID=America/Los_Angeles:20270301T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 5576ae21-b035-4c45-af95-99f8f5074f4a-2027-03-01T
  15:45:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-75\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:655 Knight Way\, Stanford\, GSB\, Room M109
 END:VEVENT
 BEGIN:VEVENT
@@ -3127,22 +3146,22 @@ SUMMARY:[Economics] IO\, Public\, Labor\, Urban\, and Sustainability Semin
  ar (IOPLUS) - Gaston Illanes - Northwestern University
 DTSTART;TZID=America/Los_Angeles:20270302T120000
 DTEND;TZID=America/Los_Angeles:20270302T131500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 2a2c45d9-46fc-4a45-b377-b3267a967e2c-2027-03-02T
  12:00:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-81\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Macroeconomics - Mike Golosov - The University of Chic
  ago
 DTSTART;TZID=America/Los_Angeles:20270308T154500
 DTEND;TZID=America/Los_Angeles:20270308T170000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- da7a6b9e-fa4e-40c6-b419-df6aad8c18be-2027-03-08T
  15:45:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-76\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 LOCATION:655 Knight Way\, Stanford\, GSB\, Room M109
 END:VEVENT
 BEGIN:VEVENT
@@ -3150,22 +3169,22 @@ SUMMARY:[Economics] Joint Applied Micro Seminar - Pat Kline - University o
  f California\, Berkeley
 DTSTART;TZID=America/Los_Angeles:20270310T153000
 DTEND;TZID=America/Los_Angeles:20270310T164500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 9bbe6ed4-9158-4e57-a320-b4dc0a88f82f-2027-03-10T
  15:30:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/paper-tba-43\n\nAges: Al
- l ages\nLast synced: 2026-10-03 10:01 PDT
+ l ages\nLast synced: 2026-10-04 10:19 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] Environmental Policy - Seema Jayachandran - Princeton 
  University
 DTSTART;TZID=America/Los_Angeles:20270311T131500
 DTEND;TZID=America/Los_Angeles:20270311T143000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 2156d661-e27a-47f1-8cc9-3fec4cdf4556-2027-03-11T
  13:15:00-08:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/paper-tba-23\n\nAges: Al
- l ages\nLast synced: 2026-10-03 10:01 PDT
+ l ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Y2E2 Building\, 299
 END:VEVENT
 BEGIN:VEVENT
@@ -3173,11 +3192,11 @@ SUMMARY:[Economics] IO\, Public\, Labor\, Urban\, and Sustainability Semin
  ar (IOPLUS) - Aviv Nevo - University of Pennsylvania
 DTSTART;TZID=America/Los_Angeles:20270316T120000
 DTEND;TZID=America/Los_Angeles:20270316T131500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 82d7230c-b092-4715-bba7-10be134e2aa8-2027-03-16T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-82\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Economics] IO\, Public\, Labor\, Urban\, and Sustainability Semin
@@ -3185,21 +3204,21 @@ SUMMARY:[Economics] IO\, Public\, Labor\, Urban\, and Sustainability Semin
  itical Science
 DTSTART;TZID=America/Los_Angeles:20270330T120000
 DTEND;TZID=America/Los_Angeles:20270330T131500
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:stanford_campus-econ- 115ab5a7-6f2a-4d2b-8de3-18a3d96203d1-2027-03-30T
  12:00:00-07:00@local-events
 DESCRIPTION:https://economics.stanford.edu/events/tba-83\n\nAges: All ages
- \nLast synced: 2026-10-03 10:01 PDT
+ \nLast synced: 2026-10-04 10:19 PDT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] 2026 Book Talk: Creative Essentials with Andrew…
 DTSTART;TZID=America/Los_Angeles:20261013T000000
 DTEND;TZID=America/Los_Angeles:20261013T010000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:dschool-dschool-2026 Book Talk: Creative Essentials with Andrew…-202
  6-10-13T00:00:00@local-events
 DESCRIPTION:2026 Book Talk: Creative Essentials with Andrew…October 13\,
-  2026Guest LectureOnline\n\nAges: All ages\nLast synced: 2026-10-03 10:01 
+  2026Guest LectureOnline\n\nAges: All ages\nLast synced: 2026-10-04 10:19 
  PDT
 LOCATION:Online
 END:VEVENT
@@ -3207,34 +3226,34 @@ BEGIN:VEVENT
 SUMMARY:[d.school] 2026 Book Talk: Creative Essentials with Victor…
 DTSTART;TZID=America/Los_Angeles:20261110T000000
 DTEND;TZID=America/Los_Angeles:20261110T010000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:dschool-dschool-2026 Book Talk: Creative Essentials with Victor…-202
  6-11-10T00:00:00@local-events
 DESCRIPTION:2026 Book Talk: Creative Essentials with Victor…November 10
- \, 2026Guest LectureOnline\n\nAges: All ages\nLast synced: 2026-10-03 10:0
- 1 PDT
+ \, 2026Guest LectureOnline\n\nAges: All ages\nLast synced: 2026-10-04 10:1
+ 9 PDT
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] Liu Lecture: Llisa Demetrios
 DTSTART;TZID=America/Los_Angeles:20261028T000000
 DTEND;TZID=America/Los_Angeles:20261028T010000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:dschool-dschool-Liu Lecture: Llisa Demetrios-2026-10-28T00:00:00@local
  -events
 DESCRIPTION:Liu Lecture: Llisa DemetriosOctober 28\, 2026Guest SpeakerOn C
- ampus\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ ampus\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:On Campus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[d.school] 2026 Book Talk: Creative Essentials with Season…
 DTSTART;TZID=America/Los_Angeles:20261208T000000
 DTEND;TZID=America/Los_Angeles:20261208T010000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:dschool-dschool-2026 Book Talk: Creative Essentials with Season…-202
  6-12-08T00:00:00@local-events
 DESCRIPTION:2026 Book Talk: Creative Essentials with Season…December 8\,
-  2026Guest LectureOnline\n\nAges: All ages\nLast synced: 2026-10-03 10:01 
+  2026Guest LectureOnline\n\nAges: All ages\nLast synced: 2026-10-04 10:19 
  PDT
 LOCATION:Online
 END:VEVENT
@@ -3242,11 +3261,11 @@ BEGIN:VEVENT
 SUMMARY:[d.school] Human-Centered Design for Local Government:…
 DTSTART;TZID=America/Los_Angeles:20261022T000000
 DTEND;TZID=America/Los_Angeles:20261022T010000
-DTSTAMP:20261003T170104Z
+DTSTAMP:20261004T171918Z
 UID:dschool-dschool-Human-Centered Design for Local Government:…-2026-10
  -22T00:00:00@local-events
 DESCRIPTION:Human-Centered Design for Local Government:…Oct 22\, 20263-s
- essionsWorkshopOnline\n\nAges: All ages\nLast synced: 2026-10-03 10:01 PDT
+ essionsWorkshopOnline\n\nAges: All ages\nLast synced: 2026-10-04 10:19 PDT
 LOCATION:Online
 END:VEVENT
 END:VCALENDAR
