@@ -8,26 +8,14 @@ X-WR-CALNAME:College Sports
 X-PUBLISHED-TTL:PT1H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Stanford vs. Duke [Field Hockey]
-DTSTART;TZID=America/Los_Angeles:20261009T180000
-DTEND;TZID=America/Los_Angeles:20261009T200000
-DTSTAMP:20261009T184050Z
-UID:stanford-b0579d6614e5df461b9f74c6cdcb008ee0f354ae@local-events
-DESCRIPTION:Field Hockey -  Stanford vs. Duke https://gostanford.com/boxsc
- ore/27539\n\nAges: All ages\nSource: https://gostanford.com/boxscore/27539
- \nLast synced: 2026-10-09 11:40 PDT
-LOCATION:Varsity Turf (Maloney Field)\, Stanford\, CA
-URL:https://gostanford.com/boxscore/27539
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stanford vs. Santa Clara [Men's Water Polo]
 DTSTART;TZID=America/Los_Angeles:20261010T130000
 DTEND;TZID=America/Los_Angeles:20261010T150000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-a05cd67a4521f09ed9f68123deda988339acb1a8@local-events
 DESCRIPTION:Men's Water Polo -  Stanford vs. Santa Clara https://gostanfor
  d.com/boxscore/27482\n\nAges: All ages\nSource: https://gostanford.com/box
- score/27482\nLast synced: 2026-10-09 11:40 PDT
+ score/27482\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Avery Aquatic Center\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27482
 END:VEVENT
@@ -35,11 +23,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Wake Forest [Field Hockey]
 DTSTART;TZID=America/Los_Angeles:20261011T120000
 DTEND;TZID=America/Los_Angeles:20261011T140000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-a5bb4015b8e67da6f0787e77c4810fae11a62fc6@local-events
 DESCRIPTION:Field Hockey -  Stanford vs. Wake Forest https://gostanford.co
  m/boxscore/27540\n\nAges: All ages\nSource: https://gostanford.com/boxscor
- e/27540\nLast synced: 2026-10-09 11:40 PDT
+ e/27540\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Varsity Turf (Maloney Field)\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27540
 END:VEVENT
@@ -47,47 +35,47 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Clemson [Men's Soccer]
 DTSTART;TZID=America/Los_Angeles:20261011T180000
 DTEND;TZID=America/Los_Angeles:20261011T200000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-0a2f3f1951d1769bc6aff32525f150b8e0f9a1e8@local-events
 DESCRIPTION:Men's Soccer -  Stanford vs. Clemson https://gostanford.com/bo
  xscore/27581\n\nAges: All ages\nSource: https://gostanford.com/boxscore/27
- 581\nLast synced: 2026-10-09 11:40 PDT
+ 581\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Laird Q. Cagan Stadium\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27581
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stanford vs. Wake Forest [Women's Volleyball]
-DTSTART;TZID=America/Los_Angeles:20261016T190000
-DTEND;TZID=America/Los_Angeles:20261016T210000
-DTSTAMP:20261009T184050Z
-UID:stanford-84e7799e8e4de9033a744790896206d0cde8d812@local-events
-DESCRIPTION:Women's Volleyball -  Stanford vs. Wake Forest https://gostanf
- ord.com/boxscore/27602\n\nAges: All ages\nSource: https://gostanford.com/b
- oxscore/27602\nLast synced: 2026-10-09 11:40 PDT
-LOCATION:Maples Pavilion\, Stanford\, CA
-URL:https://gostanford.com/boxscore/27602
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stanford vs. California [Women's Soccer]
 DTSTART;TZID=America/Los_Angeles:20261016T190000
 DTEND;TZID=America/Los_Angeles:20261016T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-43e861567ec9d9f8edc3684c86f7086d6ab9f386@local-events
 DESCRIPTION:Women's Soccer -  Stanford vs. California https://gostanford.c
  om/boxscore/27689\n\nAges: All ages\nSource: https://gostanford.com/boxsco
- re/27689\nLast synced: 2026-10-09 11:40 PDT
+ re/27689\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Laird Q. Cagan Stadium\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27689
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stanford vs. Wake Forest [Women's Volleyball]
+DTSTART;TZID=America/Los_Angeles:20261016T190000
+DTEND;TZID=America/Los_Angeles:20261016T210000
+DTSTAMP:20261010T174029Z
+UID:stanford-84e7799e8e4de9033a744790896206d0cde8d812@local-events
+DESCRIPTION:Women's Volleyball -  Stanford vs. Wake Forest https://gostanf
+ ord.com/boxscore/27602\n\nAges: All ages\nSource: https://gostanford.com/b
+ oxscore/27602\nLast synced: 2026-10-10 10:40 PDT
+LOCATION:Maples Pavilion\, Stanford\, CA
+URL:https://gostanford.com/boxscore/27602
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stanford vs. Elon [Football]
 DTSTART;TZID=America/Los_Angeles:20261017T163000
 DTEND;TZID=America/Los_Angeles:20261017T183000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-e52e98105c79e466f61cf66a605f3bd5a47ed90d@local-events
 DESCRIPTION:Football -  Stanford vs. Elon espn.com/watch https://gostanfor
  d.com/boxscore/27049\n\nAges: All ages\nSource: https://gostanford.com/box
- score/27049\nLast synced: 2026-10-09 11:40 PDT
+ score/27049\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Stanford Stadium\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27049
 END:VEVENT
@@ -95,11 +83,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. NC State [Women's Volleyball]
 DTSTART;TZID=America/Los_Angeles:20261018T130000
 DTEND;TZID=America/Los_Angeles:20261018T150000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-1fece2b99b788a38c4ccdf3a83dcb69bc96f735f@local-events
 DESCRIPTION:Women's Volleyball -  Stanford vs. NC State https://gostanford
  .com/boxscore/27603\n\nAges: All ages\nSource: https://gostanford.com/boxs
- core/27603\nLast synced: 2026-10-09 11:40 PDT
+ core/27603\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27603
 END:VEVENT
@@ -107,11 +95,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. North Carolina St. [Football]
 DTSTART;TZID=America/Los_Angeles:20261023T193000
 DTEND;TZID=America/Los_Angeles:20261023T213000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-ee46a98083d85a22e4dad6170ccde6cf1f768555@local-events
 DESCRIPTION:Football -  Stanford vs. North Carolina St. https://gostanford
  .com/boxscore/27050\n\nAges: All ages\nSource: https://gostanford.com/boxs
- core/27050\nLast synced: 2026-10-09 11:40 PDT
+ core/27050\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Stanford Stadium\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27050
 END:VEVENT
@@ -119,11 +107,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Pacific [Women's Basketball]
 DTSTART;TZID=America/Los_Angeles:20261024T140000
 DTEND;TZID=America/Los_Angeles:20261024T160000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-5fcac47b83e13b16190ac662d9f4b4eaa1317ab7@local-events
 DESCRIPTION:Women's Basketball -  Stanford vs. Pacific https://gostanford.
  com/boxscore/27997\n\nAges: All ages\nSource: https://gostanford.com/boxsc
- ore/27997\nLast synced: 2026-10-09 11:40 PDT
+ ore/27997\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27997
 END:VEVENT
@@ -131,11 +119,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. UC Santa Barbara [Women's Basketball]
 DTSTART;TZID=America/Los_Angeles:20261028T180000
 DTEND;TZID=America/Los_Angeles:20261028T200000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-edbb89e1b655c8a0ffc0aae65dc745dcc462db6f@local-events
 DESCRIPTION:Women's Basketball -  Stanford vs. UC Santa Barbara https://go
  stanford.com/boxscore/28033\n\nAges: All ages\nSource: https://gostanford.
- com/boxscore/28033\nLast synced: 2026-10-09 11:40 PDT
+ com/boxscore/28033\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28033
 END:VEVENT
@@ -143,11 +131,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. California [Field Hockey]
 DTSTART;TZID=America/Los_Angeles:20261029T180000
 DTEND;TZID=America/Los_Angeles:20261029T200000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-d04f72da7ba688939eba3b27499988ac5078cfee@local-events
 DESCRIPTION:Field Hockey -  Stanford vs. California https://gostanford.com
  /boxscore/27544\n\nAges: All ages\nSource: https://gostanford.com/boxscore
- /27544\nLast synced: 2026-10-09 11:40 PDT
+ /27544\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Varsity Turf (Maloney Field)\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27544
 END:VEVENT
@@ -155,11 +143,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. NC State [Women's Soccer]
 DTSTART;TZID=America/Los_Angeles:20261029T190000
 DTEND;TZID=America/Los_Angeles:20261029T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-06040b339e122071d84a98555a7ae36ae778222a@local-events
 DESCRIPTION:Women's Soccer -  Stanford vs. NC State https://gostanford.com
  /boxscore/27691\n\nAges: All ages\nSource: https://gostanford.com/boxscore
- /27691\nLast synced: 2026-10-09 11:40 PDT
+ /27691\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Laird Q. Cagan Stadium\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27691
 END:VEVENT
@@ -167,11 +155,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. California [Men's Soccer]
 DTSTART;TZID=America/Los_Angeles:20261030T180000
 DTEND;TZID=America/Los_Angeles:20261030T200000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-6ce07e7ea16ccff6bfa7593723a7e902990bc7c5@local-events
 DESCRIPTION:Men's Soccer -  Stanford vs. California https://gostanford.com
  /boxscore/27584\n\nAges: All ages\nSource: https://gostanford.com/boxscore
- /27584\nLast synced: 2026-10-09 11:40 PDT
+ /27584\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Laird Q. Cagan Stadium\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27584
 END:VEVENT
@@ -179,11 +167,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. California [Women's Volleyball]
 DTSTART;TZID=America/Los_Angeles:20261030T190000
 DTEND;TZID=America/Los_Angeles:20261030T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-1ab619b7be733d2b7a2d0d9e97df3fc47d5a47f7@local-events
 DESCRIPTION:Women's Volleyball -  Stanford vs. California https://gostanfo
  rd.com/boxscore/27607\n\nAges: All ages\nSource: https://gostanford.com/bo
- xscore/27607\nLast synced: 2026-10-09 11:40 PDT
+ xscore/27607\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27607
 END:VEVENT
@@ -191,11 +179,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. USC [Men's Water Polo]
 DTSTART;TZID=America/Los_Angeles:20261031T130000
 DTEND;TZID=America/Los_Angeles:20261031T150000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-f162698619e5fb0b4d66624b18e585f19e9fa982@local-events
 DESCRIPTION:Men's Water Polo -  Stanford vs. USC https://gostanford.com/bo
  xscore/27486\n\nAges: All ages\nSource: https://gostanford.com/boxscore/27
- 486\nLast synced: 2026-10-09 11:40 PDT
+ 486\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Avery Aquatic Center\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27486
 END:VEVENT
@@ -203,11 +191,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. UCLA [Men's Water Polo]
 DTSTART;TZID=America/Los_Angeles:20261101T130000
 DTEND;TZID=America/Los_Angeles:20261101T150000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-75e5a1c3dd36712d611fe1d6def1f5fa73f2ed92@local-events
 DESCRIPTION:Men's Water Polo -  Stanford vs. UCLA https://gostanford.com/b
  oxscore/27487\n\nAges: All ages\nSource: https://gostanford.com/boxscore/2
- 7487\nLast synced: 2026-10-09 11:40 PDT
+ 7487\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Avery Aquatic Center\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27487
 END:VEVENT
@@ -215,11 +203,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Notre Dame [Women's Soccer]
 DTSTART;TZID=America/Los_Angeles:20261101T130000
 DTEND;TZID=America/Los_Angeles:20261101T150000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-d95020e34a0eed957fdf746bbf869106cc02302d@local-events
 DESCRIPTION:Women's Soccer -  Stanford vs. Notre Dame https://gostanford.c
  om/boxscore/27692\n\nAges: All ages\nSource: https://gostanford.com/boxsco
- re/27692\nLast synced: 2026-10-09 11:40 PDT
+ re/27692\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Laird Q. Cagan Stadium\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27692
 END:VEVENT
@@ -227,11 +215,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Eastern Washington [Men's Basketball]
 DTSTART;TZID=America/Los_Angeles:20261102T190000
 DTEND;TZID=America/Los_Angeles:20261102T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-806e79f07467d1abc25c465bf18360bea7448678@local-events
 DESCRIPTION:Men's Basketball -  Stanford vs. Eastern Washington https://go
  stanford.com/boxscore/27802\n\nAges: All ages\nSource: https://gostanford.
- com/boxscore/27802\nLast synced: 2026-10-09 11:40 PDT
+ com/boxscore/27802\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27802
 END:VEVENT
@@ -239,11 +227,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Saint Mary's [Women's Basketball]
 DTSTART;TZID=America/Los_Angeles:20261104T190000
 DTEND;TZID=America/Los_Angeles:20261104T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-e62ca2aa630648c8cbfaebfbbc972cfe1624eb49@local-events
 DESCRIPTION:Women's Basketball -  Stanford vs. Saint Mary's https://gostan
  ford.com/boxscore/28035\n\nAges: All ages\nSource: https://gostanford.com/
- boxscore/28035\nLast synced: 2026-10-09 11:40 PDT
+ boxscore/28035\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28035
 END:VEVENT
@@ -251,11 +239,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Oakland [Men's Basketball]
 DTSTART;TZID=America/Los_Angeles:20261106T190000
 DTEND;TZID=America/Los_Angeles:20261106T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-c8b26855d20eb8eaa729e5b7d5be524efdfd3c31@local-events
 DESCRIPTION:Men's Basketball -  Stanford vs. Oakland https://gostanford.co
  m/boxscore/27803\n\nAges: All ages\nSource: https://gostanford.com/boxscor
- e/27803\nLast synced: 2026-10-09 11:40 PDT
+ e/27803\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27803
 END:VEVENT
@@ -263,11 +251,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Fordham [Men's Water Polo]
 DTSTART;TZID=America/Los_Angeles:20261108T110000
 DTEND;TZID=America/Los_Angeles:20261108T130000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-c24e3e11ce2998ac698854f982672813845a7f43@local-events
 DESCRIPTION:Men's Water Polo -  Stanford vs. Fordham https://gostanford.co
  m/boxscore/27488\n\nAges: All ages\nSource: https://gostanford.com/boxscor
- e/27488\nLast synced: 2026-10-09 11:40 PDT
+ e/27488\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Avery Aquatic Center\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27488
 END:VEVENT
@@ -275,11 +263,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. UC Davis [Women's Basketball]
 DTSTART;TZID=America/Los_Angeles:20261108T140000
 DTEND;TZID=America/Los_Angeles:20261108T160000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-5881b360077a22fb434d06ae4beebdf9405f566a@local-events
 DESCRIPTION:Women's Basketball -  Stanford vs. UC Davis https://gostanford
  .com/boxscore/28036\n\nAges: All ages\nSource: https://gostanford.com/boxs
- core/28036\nLast synced: 2026-10-09 11:40 PDT
+ core/28036\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28036
 END:VEVENT
@@ -287,11 +275,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Rice [Men's Basketball]
 DTSTART;TZID=America/Los_Angeles:20261109T190000
 DTEND;TZID=America/Los_Angeles:20261109T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-720f1a0b43bad862470b48eaf1fa3fa0c85c8192@local-events
 DESCRIPTION:Men's Basketball -  Stanford vs. Rice https://gostanford.com/b
  oxscore/27804\n\nAges: All ages\nSource: https://gostanford.com/boxscore/2
- 7804\nLast synced: 2026-10-09 11:40 PDT
+ 7804\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27804
 END:VEVENT
@@ -299,11 +287,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. California [Men's Water Polo]
 DTSTART;TZID=America/Los_Angeles:20261113T180000
 DTEND;TZID=America/Los_Angeles:20261113T200000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-02411551a3930e8fa96bea06a67f44f7fe0137d7@local-events
 DESCRIPTION:Men's Water Polo -  Stanford vs. California https://gostanford
  .com/boxscore/27489\n\nAges: All ages\nSource: https://gostanford.com/boxs
- core/27489\nLast synced: 2026-10-09 11:40 PDT
+ core/27489\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Avery Aquatic Center\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27489
 END:VEVENT
@@ -311,11 +299,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Clemson [Women's Volleyball]
 DTSTART;TZID=America/Los_Angeles:20261113T190000
 DTEND;TZID=America/Los_Angeles:20261113T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-c023ca975304af1046b7597979c917729a6cf28d@local-events
 DESCRIPTION:Women's Volleyball -  Stanford vs. Clemson https://gostanford.
  com/boxscore/27610\n\nAges: All ages\nSource: https://gostanford.com/boxsc
- ore/27610\nLast synced: 2026-10-09 11:40 PDT
+ ore/27610\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27610
 END:VEVENT
@@ -323,11 +311,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Georgia Tech [Women's Volleyball]
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-30950275899876c46cf347bcd1f3641984973530@local-events
 DESCRIPTION:Women's Volleyball -  Stanford vs. Georgia Tech https://gostan
  ford.com/boxscore/27611\n\nAges: All ages\nSource: https://gostanford.com/
- boxscore/27611\nLast synced: 2026-10-09 11:40 PDT
+ boxscore/27611\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27611
 END:VEVENT
@@ -335,11 +323,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Gonzaga [Women's Basketball]
 DTSTART;TZID=America/Los_Angeles:20261115T140000
 DTEND;TZID=America/Los_Angeles:20261115T160000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-e2a9544d08720c5d56e393c6461c6806f3df8480@local-events
 DESCRIPTION:Women's Basketball -  Stanford vs. Gonzaga https://gostanford.
  com/boxscore/28038\n\nAges: All ages\nSource: https://gostanford.com/boxsc
- ore/28038\nLast synced: 2026-10-09 11:40 PDT
+ ore/28038\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28038
 END:VEVENT
@@ -347,11 +335,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. UC Irvine [Men's Basketball]
 DTSTART;TZID=America/Los_Angeles:20261117T190000
 DTEND;TZID=America/Los_Angeles:20261117T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-c64460681a352540c53fdfe6b1982d5f506cc9c0@local-events
 DESCRIPTION:Men's Basketball -  Stanford vs. UC Irvine https://gostanford.
  com/boxscore/27806\n\nAges: All ages\nSource: https://gostanford.com/boxsc
- ore/27806\nLast synced: 2026-10-09 11:40 PDT
+ ore/27806\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27806
 END:VEVENT
@@ -359,11 +347,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Sacramento State [Men's Basketball]
 DTSTART;TZID=America/Los_Angeles:20261119T190000
 DTEND;TZID=America/Los_Angeles:20261119T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-d699a65bcf48538436457588a346bdab304883cb@local-events
 DESCRIPTION:Men's Basketball -  Stanford vs. Sacramento State https://gost
  anford.com/boxscore/27807\n\nAges: All ages\nSource: https://gostanford.co
- m/boxscore/27807\nLast synced: 2026-10-09 11:40 PDT
+ m/boxscore/27807\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27807
 END:VEVENT
@@ -371,11 +359,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Syracuse [Women's Volleyball]
 DTSTART;TZID=America/Los_Angeles:20261120T190000
 DTEND;TZID=America/Los_Angeles:20261120T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-9777ecc2649ffc5a3bf5643e1571bab0e2c37563@local-events
 DESCRIPTION:Women's Volleyball -  Stanford vs. Syracuse https://gostanford
  .com/boxscore/27612\n\nAges: All ages\nSource: https://gostanford.com/boxs
- core/27612\nLast synced: 2026-10-09 11:40 PDT
+ core/27612\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27612
 END:VEVENT
@@ -383,11 +371,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Boston College [Women's Volleyball]
 DTSTART;TZID=America/Los_Angeles:20261122T120000
 DTEND;TZID=America/Los_Angeles:20261122T140000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-0d9fb0b922644196a59f053ddff5bfba7bfa7a46@local-events
 DESCRIPTION:Women's Volleyball -  Stanford vs. Boston College https://gost
  anford.com/boxscore/27613\n\nAges: All ages\nSource: https://gostanford.co
- m/boxscore/27613\nLast synced: 2026-10-09 11:40 PDT
+ m/boxscore/27613\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27613
 END:VEVENT
@@ -395,11 +383,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Pittsburgh [Women's Volleyball]
 DTSTART;TZID=America/Los_Angeles:20261124T190000
 DTEND;TZID=America/Los_Angeles:20261124T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-69d9919c278a5a836eb5894a87e4f29604a74a93@local-events
 DESCRIPTION:Women's Volleyball -  Stanford vs. Pittsburgh https://gostanfo
  rd.com/boxscore/27614\n\nAges: All ages\nSource: https://gostanford.com/bo
- xscore/27614\nLast synced: 2026-10-09 11:40 PDT
+ xscore/27614\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27614
 END:VEVENT
@@ -407,11 +395,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Portland [Men's Basketball]
 DTSTART;TZID=America/Los_Angeles:20261129T130000
 DTEND;TZID=America/Los_Angeles:20261129T150000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-a2b80ba9d494683e35be7a300340c69a054913d3@local-events
 DESCRIPTION:Men's Basketball -  Stanford vs. Portland https://gostanford.c
  om/boxscore/27810\n\nAges: All ages\nSource: https://gostanford.com/boxsco
- re/27810\nLast synced: 2026-10-09 11:40 PDT
+ re/27810\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27810
 END:VEVENT
@@ -419,11 +407,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Pacific [Men's Basketball]
 DTSTART;TZID=America/Los_Angeles:20261206T130000
 DTEND;TZID=America/Los_Angeles:20261206T150000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-50445617a9e57f14cf8be6a02accc3d48b31bb7a@local-events
 DESCRIPTION:Men's Basketball -  Stanford vs. Pacific https://gostanford.co
  m/boxscore/27812\n\nAges: All ages\nSource: https://gostanford.com/boxscor
- e/27812\nLast synced: 2026-10-09 11:40 PDT
+ e/27812\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27812
 END:VEVENT
@@ -431,11 +419,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Northern Colorado [Men's Basketball]
 DTSTART;TZID=America/Los_Angeles:20261214T190000
 DTEND;TZID=America/Los_Angeles:20261214T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-994ceb4e41668d49d9f61fc0d3e89acbad34e9fa@local-events
 DESCRIPTION:Men's Basketball -  Stanford vs. Northern Colorado https://gos
  tanford.com/boxscore/27813\n\nAges: All ages\nSource: https://gostanford.c
- om/boxscore/27813\nLast synced: 2026-10-09 11:40 PDT
+ om/boxscore/27813\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27813
 END:VEVENT
@@ -443,11 +431,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Arizona State [Women's Basketball]
 DTSTART;TZID=America/Los_Angeles:20261217T190000
 DTEND;TZID=America/Los_Angeles:20261217T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-8077509966a17012d4919cfe7b470aa1dc3badfc@local-events
 DESCRIPTION:Women's Basketball -  Stanford vs. Arizona State https://gosta
  nford.com/boxscore/28045\n\nAges: All ages\nSource: https://gostanford.com
- /boxscore/28045\nLast synced: 2026-10-09 11:40 PDT
+ /boxscore/28045\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28045
 END:VEVENT
@@ -455,11 +443,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. San Jose State [Men's Basketball]
 DTSTART;TZID=America/Los_Angeles:20261218T190000
 DTEND;TZID=America/Los_Angeles:20261218T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-907ef5c5c1257276b1ef436db247ac36d880e4c2@local-events
 DESCRIPTION:Men's Basketball -  Stanford vs. San Jose State https://gostan
  ford.com/boxscore/27814\n\nAges: All ages\nSource: https://gostanford.com/
- boxscore/27814\nLast synced: 2026-10-09 11:40 PDT
+ boxscore/27814\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27814
 END:VEVENT
@@ -467,11 +455,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. St. Thomas [Men's Basketball]
 DTSTART;TZID=America/Los_Angeles:20261222T170000
 DTEND;TZID=America/Los_Angeles:20261222T190000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-80b855e605db2e08d03c7793f768293d64c0c4e9@local-events
 DESCRIPTION:Men's Basketball -  Stanford vs. St. Thomas https://gostanford
  .com/boxscore/27815\n\nAges: All ages\nSource: https://gostanford.com/boxs
- core/27815\nLast synced: 2026-10-09 11:40 PDT
+ core/27815\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/27815
 END:VEVENT
@@ -479,11 +467,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Cal Poly [Women's Basketball]
 DTSTART;TZID=America/Los_Angeles:20261228T140000
 DTEND;TZID=America/Los_Angeles:20261228T160000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-c581794e6ebaf2a85f6785ab2ff03c44e2f22943@local-events
 DESCRIPTION:Women's Basketball -  Stanford vs. Cal Poly https://gostanford
  .com/boxscore/28047\n\nAges: All ages\nSource: https://gostanford.com/boxs
- core/28047\nLast synced: 2026-10-09 11:40 PDT
+ core/28047\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28047
 END:VEVENT
@@ -491,11 +479,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Virginia [Men's Basketball]
 DTSTART;TZID=America/Los_Angeles:20270106T180000
 DTEND;TZID=America/Los_Angeles:20270106T200000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-83218458ce03afe043e2ba5a2d3a26185bbfda0b@local-events
 DESCRIPTION:Men's Basketball -  Stanford vs. Virginia https://gostanford.c
  om/boxscore/28114\n\nAges: All ages\nSource: https://gostanford.com/boxsco
- re/28114\nLast synced: 2026-10-09 11:40 PDT
+ re/28114\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28114
 END:VEVENT
@@ -503,11 +491,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Miami [Women's Basketball]
 DTSTART;TZID=America/Los_Angeles:20270107T190000
 DTEND;TZID=America/Los_Angeles:20270107T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-6c28b79c7f7980e826a099b8ae21c7e5be6f5828@local-events
 DESCRIPTION:Women's Basketball -  Stanford vs. Miami https://gostanford.co
  m/boxscore/28080\n\nAges: All ages\nSource: https://gostanford.com/boxscor
- e/28080\nLast synced: 2026-10-09 11:40 PDT
+ e/28080\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28080
 END:VEVENT
@@ -515,11 +503,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Florida State [Men's Basketball]
 DTSTART;TZID=America/Los_Angeles:20270109T143000
 DTEND;TZID=America/Los_Angeles:20270109T163000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-97ae297b6b426ccb178aa8cd16acf398ffd91adc@local-events
 DESCRIPTION:Men's Basketball -  Stanford vs. Florida State https://gostanf
  ord.com/boxscore/28115\n\nAges: All ages\nSource: https://gostanford.com/b
- oxscore/28115\nLast synced: 2026-10-09 11:40 PDT
+ oxscore/28115\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28115
 END:VEVENT
@@ -527,35 +515,23 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. NC State [Women's Basketball]
 DTSTART;TZID=America/Los_Angeles:20270110T110000
 DTEND;TZID=America/Los_Angeles:20270110T130000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-1a3cf7c8613145a1cfa3f239ae3a7296dc565dee@local-events
 DESCRIPTION:Women's Basketball -  Stanford vs. NC State https://gostanford
  .com/boxscore/28081\n\nAges: All ages\nSource: https://gostanford.com/boxs
- core/28081\nLast synced: 2026-10-09 11:40 PDT
+ core/28081\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28081
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stanford vs. UC Santa Barbara [Women's Swimming & Diving]
-DTSTART;TZID=America/Los_Angeles:20270115T120000
-DTEND;TZID=America/Los_Angeles:20270115T140000
-DTSTAMP:20261009T184050Z
-UID:stanford-61a355f14469aa8d8f9876e1078ab4c65a452795@local-events
-DESCRIPTION:Women's Swimming & Diving -  Stanford vs. UC Santa Barbara htt
- ps://gostanford.com/boxscore/28176\n\nAges: All ages\nSource: https://gost
- anford.com/boxscore/28176\nLast synced: 2026-10-09 11:40 PDT
-LOCATION:Stanford\, CA
-URL:https://gostanford.com/boxscore/28176
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stanford vs. UCLA [Women's Swimming & Diving]
 DTSTART;TZID=America/Los_Angeles:20270115T120000
 DTEND;TZID=America/Los_Angeles:20270115T140000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-2ccfffc2424952e71d8fc8d672b6e991a658440f@local-events
 DESCRIPTION:Women's Swimming & Diving -  Stanford vs. UCLA https://gostanf
  ord.com/boxscore/28175\n\nAges: All ages\nSource: https://gostanford.com/b
- oxscore/28175\nLast synced: 2026-10-09 11:40 PDT
+ oxscore/28175\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Stanford\, CA
 URL:https://gostanford.com/boxscore/28175
 END:VEVENT
@@ -563,23 +539,35 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. UC Santa Barbara [Men's Swimming & Diving]
 DTSTART;TZID=America/Los_Angeles:20270115T120000
 DTEND;TZID=America/Los_Angeles:20270115T140000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-6c673f3039dc22b020052cf870541cea708e45de@local-events
 DESCRIPTION:Men's Swimming & Diving -  Stanford vs. UC Santa Barbara https
  ://gostanford.com/boxscore/28105\n\nAges: All ages\nSource: https://gostan
- ford.com/boxscore/28105\nLast synced: 2026-10-09 11:40 PDT
+ ford.com/boxscore/28105\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Stanford\, CA
 URL:https://gostanford.com/boxscore/28105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stanford vs. UC Santa Barbara [Women's Swimming & Diving]
+DTSTART;TZID=America/Los_Angeles:20270115T120000
+DTEND;TZID=America/Los_Angeles:20270115T140000
+DTSTAMP:20261010T174029Z
+UID:stanford-61a355f14469aa8d8f9876e1078ab4c65a452795@local-events
+DESCRIPTION:Women's Swimming & Diving -  Stanford vs. UC Santa Barbara htt
+ ps://gostanford.com/boxscore/28176\n\nAges: All ages\nSource: https://gost
+ anford.com/boxscore/28176\nLast synced: 2026-10-10 10:40 PDT
+LOCATION:Stanford\, CA
+URL:https://gostanford.com/boxscore/28176
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stanford vs. USC [Men's Swimming & Diving]
 DTSTART;TZID=America/Los_Angeles:20270116T113000
 DTEND;TZID=America/Los_Angeles:20270116T133000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-4322ac7a82c98626d29ae1a330e211f1d6faeaf6@local-events
 DESCRIPTION:Men's Swimming & Diving -  Stanford vs. USC https://gostanford
  .com/boxscore/28106\n\nAges: All ages\nSource: https://gostanford.com/boxs
- core/28106\nLast synced: 2026-10-09 11:40 PDT
+ core/28106\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Stanford\, CA
 URL:https://gostanford.com/boxscore/28106
 END:VEVENT
@@ -587,11 +575,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. USC [Women's Swimming & Diving]
 DTSTART;TZID=America/Los_Angeles:20270116T113000
 DTEND;TZID=America/Los_Angeles:20270116T133000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-50e5ef79e4606fd23bc43047958aad74801f8970@local-events
 DESCRIPTION:Women's Swimming & Diving -  Stanford vs. USC https://gostanfo
  rd.com/boxscore/28177\n\nAges: All ages\nSource: https://gostanford.com/bo
- xscore/28177\nLast synced: 2026-10-09 11:40 PDT
+ xscore/28177\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Stanford\, CA
 URL:https://gostanford.com/boxscore/28177
 END:VEVENT
@@ -599,11 +587,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Syracuse [Women's Basketball]
 DTSTART;TZID=America/Los_Angeles:20270121T190000
 DTEND;TZID=America/Los_Angeles:20270121T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-20ad79fe1f26bd3e0ec4724a51d65786c70ab2da@local-events
 DESCRIPTION:Women's Basketball -  Stanford vs. Syracuse https://gostanford
  .com/boxscore/28084\n\nAges: All ages\nSource: https://gostanford.com/boxs
- core/28084\nLast synced: 2026-10-09 11:40 PDT
+ core/28084\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28084
 END:VEVENT
@@ -611,11 +599,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. North Carolina [Women's Basketball]
 DTSTART;TZID=America/Los_Angeles:20270124T110000
 DTEND;TZID=America/Los_Angeles:20270124T130000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-c5d67c1ab614971bb9f8a0d547471f72ac8a82fd@local-events
 DESCRIPTION:Women's Basketball -  Stanford vs. North Carolina https://gost
  anford.com/boxscore/28085\n\nAges: All ages\nSource: https://gostanford.co
- m/boxscore/28085\nLast synced: 2026-10-09 11:40 PDT
+ m/boxscore/28085\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28085
 END:VEVENT
@@ -623,11 +611,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Syracuse [Men's Basketball]
 DTSTART;TZID=America/Los_Angeles:20270127T200000
 DTEND;TZID=America/Los_Angeles:20270127T220000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-c5336269480b8e91d3b199a52421552add48978c@local-events
 DESCRIPTION:Men's Basketball -  Stanford vs. Syracuse https://gostanford.c
  om/boxscore/28119\n\nAges: All ages\nSource: https://gostanford.com/boxsco
- re/28119\nLast synced: 2026-10-09 11:40 PDT
+ re/28119\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28119
 END:VEVENT
@@ -635,11 +623,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. NC State [Men's Basketball]
 DTSTART;TZID=America/Los_Angeles:20270130T170000
 DTEND;TZID=America/Los_Angeles:20270130T190000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-8e23fca80bcc9913c35b6a0375bf618367be6a37@local-events
 DESCRIPTION:Men's Basketball -  Stanford vs. NC State https://gostanford.c
  om/boxscore/28120\n\nAges: All ages\nSource: https://gostanford.com/boxsco
- re/28120\nLast synced: 2026-10-09 11:40 PDT
+ re/28120\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28120
 END:VEVENT
@@ -647,11 +635,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Georgia Tech [Women's Basketball]
 DTSTART;TZID=America/Los_Angeles:20270204T190000
 DTEND;TZID=America/Los_Angeles:20270204T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-d7392f67f3ebeed1ee6dacea16d05197cd3c3c9e@local-events
 DESCRIPTION:Women's Basketball -  Stanford vs. Georgia Tech https://gostan
  ford.com/boxscore/28088\n\nAges: All ages\nSource: https://gostanford.com/
- boxscore/28088\nLast synced: 2026-10-09 11:40 PDT
+ boxscore/28088\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28088
 END:VEVENT
@@ -659,11 +647,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Florida State [Women's Basketball]
 DTSTART;TZID=America/Los_Angeles:20270207T130000
 DTEND;TZID=America/Los_Angeles:20270207T150000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-d2988599de309481c2e36bd83f3f82a236803a78@local-events
 DESCRIPTION:Women's Basketball -  Stanford vs. Florida State https://gosta
  nford.com/boxscore/28089\n\nAges: All ages\nSource: https://gostanford.com
- /boxscore/28089\nLast synced: 2026-10-09 11:40 PDT
+ /boxscore/28089\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28089
 END:VEVENT
@@ -671,11 +659,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Miami [Men's Basketball]
 DTSTART;TZID=America/Los_Angeles:20270210T180000
 DTEND;TZID=America/Los_Angeles:20270210T200000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-b008683b61ceda4198cc17f6e5cc2d0d4c8f196b@local-events
 DESCRIPTION:Men's Basketball -  Stanford vs. Miami https://gostanford.com/
  boxscore/28123\n\nAges: All ages\nSource: https://gostanford.com/boxscore/
- 28123\nLast synced: 2026-10-09 11:40 PDT
+ 28123\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28123
 END:VEVENT
@@ -683,11 +671,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. California [Women's Basketball]
 DTSTART;TZID=America/Los_Angeles:20270211T190000
 DTEND;TZID=America/Los_Angeles:20270211T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-5ff92f2ef3cd423ce256471a85de91412b61097a@local-events
 DESCRIPTION:Women's Basketball -  Stanford vs. California https://gostanfo
  rd.com/boxscore/28090\n\nAges: All ages\nSource: https://gostanford.com/bo
- xscore/28090\nLast synced: 2026-10-09 11:40 PDT
+ xscore/28090\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28090
 END:VEVENT
@@ -695,11 +683,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Virginia Tech [Men's Basketball]
 DTSTART;TZID=America/Los_Angeles:20270213T133000
 DTEND;TZID=America/Los_Angeles:20270213T153000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-5ef5c879541c82a91646af0972345cd66a571503@local-events
 DESCRIPTION:Men's Basketball -  Stanford vs. Virginia Tech https://gostanf
  ord.com/boxscore/28124\n\nAges: All ages\nSource: https://gostanford.com/b
- oxscore/28124\nLast synced: 2026-10-09 11:40 PDT
+ oxscore/28124\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28124
 END:VEVENT
@@ -707,11 +695,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Wake Forest [Men's Basketball]
 DTSTART;TZID=America/Los_Angeles:20270224T200000
 DTEND;TZID=America/Los_Angeles:20270224T220000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-2eb5e9040304ebf6dd501e58779c506fe64ddde5@local-events
 DESCRIPTION:Men's Basketball -  Stanford vs. Wake Forest https://gostanfor
  d.com/boxscore/28127\n\nAges: All ages\nSource: https://gostanford.com/box
- score/28127\nLast synced: 2026-10-09 11:40 PDT
+ score/28127\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28127
 END:VEVENT
@@ -719,11 +707,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Pittsburgh [Women's Basketball]
 DTSTART;TZID=America/Los_Angeles:20270225T190000
 DTEND;TZID=America/Los_Angeles:20270225T210000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-86101aa0d313ac63943a97afc64c1c1401a0bed3@local-events
 DESCRIPTION:Women's Basketball -  Stanford vs. Pittsburgh https://gostanfo
  rd.com/boxscore/28093\n\nAges: All ages\nSource: https://gostanford.com/bo
- xscore/28093\nLast synced: 2026-10-09 11:40 PDT
+ xscore/28093\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28093
 END:VEVENT
@@ -731,11 +719,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. Boston College [Women's Basketball]
 DTSTART;TZID=America/Los_Angeles:20270228T140000
 DTEND;TZID=America/Los_Angeles:20270228T160000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-2a17d64bf3153f08530ae126662516fc92a7d897@local-events
 DESCRIPTION:Women's Basketball -  Stanford vs. Boston College https://gost
  anford.com/boxscore/28094\n\nAges: All ages\nSource: https://gostanford.co
- m/boxscore/28094\nLast synced: 2026-10-09 11:40 PDT
+ m/boxscore/28094\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28094
 END:VEVENT
@@ -743,11 +731,11 @@ BEGIN:VEVENT
 SUMMARY:Stanford vs. California [Men's Basketball]
 DTSTART;TZID=America/Los_Angeles:20270306T130000
 DTEND;TZID=America/Los_Angeles:20270306T150000
-DTSTAMP:20261009T184050Z
+DTSTAMP:20261010T174029Z
 UID:stanford-2add331af36d9643496ede2af8c709577bbda5cd@local-events
 DESCRIPTION:Men's Basketball -  Stanford vs. California https://gostanford
  .com/boxscore/28129\n\nAges: All ages\nSource: https://gostanford.com/boxs
- core/28129\nLast synced: 2026-10-09 11:40 PDT
+ core/28129\nLast synced: 2026-10-10 10:40 PDT
 LOCATION:Maples Pavilion\, Stanford\, CA
 URL:https://gostanford.com/boxscore/28129
 END:VEVENT
