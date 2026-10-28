@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Teen Hangout: Clay Charms
 DTSTART;TZID=America/Los_Angeles:20261102T180000
 DTEND;TZID=America/Los_Angeles:20261102T190000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcl-6acfbd8be06996003a837a86@local-events
 DESCRIPTION:Held on the first open Monday of every month\, each Teen Hango
  ut session features a new theme with art projects\, music\, snacks\, and c
@@ -19,7 +19,7 @@ DESCRIPTION:Held on the first open Monday of every month\, each Teen Hango
   your desk or add them to a keychain the possibilities are endless.\nNo re
  gistration required\, as supplies last.\n\nAges: 12-18\nRegistration: none
  \nSource: https://smcl.bibliocommons.com/events/6acfbd8be06996003a837a86\n
- Last synced: 2026-10-27 11:34 PDT
+ Last synced: 2026-10-28 11:42 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6acfbd8be06996003a837a86
 END:VEVENT
@@ -27,13 +27,13 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Mini Diwali Lantern
 DTSTART;TZID=America/Los_Angeles:20261103T160000
 DTEND;TZID=America/Los_Angeles:20261103T170000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcl-6acfbdb8de300e00451a699a@local-events
 DESCRIPTION:Join us in the Atherton Makerspace and stretch your inner arti
  st with a fun paper craft! This Tuesday\, we’ll be making mini paper Diw
  ali Lanterns. No registration required\, as supplies last.\n\nAges: 6-11\,
   12-18\nRegistration: none\nSource: https://smcl.bibliocommons.com/events/
- 6acfbdb8de300e00451a699a\nLast synced: 2026-10-27 11:34 PDT
+ 6acfbdb8de300e00451a699a\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6acfbdb8de300e00451a699a
 END:VEVENT
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Art Nook: Cardboard "Birch Bark" Bags
 DTSTART;TZID=America/Los_Angeles:20261116T160000
 DTEND;TZID=America/Los_Angeles:20261116T170000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcl-6ad75448e06996003a84b28d@local-events
 DESCRIPTION:Join us for a nature inspired craft! We'll be using cardboard 
  in the same way one could use birch bark to fold and sew a basket\, inspir
@@ -49,7 +49,7 @@ DESCRIPTION:Join us for a nature inspired craft! We'll be using cardboard
  ur new bag up and use it to carry whatever you need on the go! No registra
  tion required\, as supplies last.\n\nAges: 6-11\, 12-18\nRegistration: non
  e\nSource: https://smcl.bibliocommons.com/events/6ad75448e06996003a84b28d
- \nLast synced: 2026-10-27 11:34 PDT
+ \nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6ad75448e06996003a84b28d
 END:VEVENT
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Paws for Tales
 DTSTART;TZID=America/Los_Angeles:20261105T170000
 DTEND;TZID=America/Los_Angeles:20261105T180000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcl-6ac4c5aa9abb62002c6c8f3d@local-events
 DESCRIPTION:Do you have a reluctant reader? Sign your child up for a sessi
  on to practice reading with a therapy dog at the library.\n\nStudies show 
@@ -70,7 +70,7 @@ DESCRIPTION:Do you have a reluctant reader? Sign your child up for a sessi
   your 10-minute slot at smcl.org/pawsfortales! We do our best to accommoda
  te drop-ins whenever possible\, so feel free to stop by!\n\nAges: 6-11\nRe
  gistration: none\nSource: https://smcl.bibliocommons.com/events/6ac4c5aa9a
- bb62002c6c8f3d\nLast synced: 2026-10-27 11:34 PDT
+ bb62002c6c8f3d\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6ac4c5aa9abb62002c6c8f3d
 END:VEVENT
@@ -78,14 +78,14 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Art Nook: Paper Diyas and Rangolis
 DTSTART;TZID=America/Los_Angeles:20261102T160000
 DTEND;TZID=America/Los_Angeles:20261102T170000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcl-6ad7541a29c3d60033312688@local-events
 DESCRIPTION:Join us for a papercraft day all about celebrating Diwali! We'
  ll be making folded paper diyas and tissue paper rangolis to help make you
  r home cozy and colorful for the Festival of Lights. No registration requi
  red\, as supplies last.\n\nAges: 6-11\, 12-18\nRegistration: none\nSource:
   https://smcl.bibliocommons.com/events/6ad7541a29c3d60033312688\nLast sync
- ed: 2026-10-27 11:34 PDT
+ ed: 2026-10-28 11:42 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6ad7541a29c3d60033312688
 END:VEVENT
@@ -93,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Cheyenne and Mexica Shields
 DTSTART;TZID=America/Los_Angeles:20261202T160000
 DTEND;TZID=America/Los_Angeles:20261202T170000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcl-6ac6984ee06996003a81fcd8@local-events
 DESCRIPTION:Create your own shield\, or Chimalli\, while learning about th
  e Native American tribe of the Cheyenne and the Mexica indigenous people o
@@ -103,7 +103,7 @@ DESCRIPTION:Create your own shield\, or Chimalli\, while learning about th
  or children ages 6-11.  Supplies are limited to the first 25 participants.
   No registration required\, as supplies last.\n\nAges: 6-11\nRegistration:
   none\nSource: https://smcl.bibliocommons.com/events/6ac6984ee06996003a81f
- cd8\nLast synced: 2026-10-27 11:34 PDT
+ cd8\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6ac6984ee06996003a81fcd8
 END:VEVENT
@@ -111,13 +111,13 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Art Nook: Toppling Turtles
 DTSTART;TZID=America/Los_Angeles:20261130T160000
 DTEND;TZID=America/Los_Angeles:20261130T170000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcl-6ad7545ffee2d21deb247f0a@local-events
 DESCRIPTION:They stack and they tumble! We'll be transforming bottle caps 
  into stackable and tumble-able toppling turtles. See how high you can stac
  k them before they all go tumbling down! No registration required\, as sup
  plies last.\n\nAges: 6-11\nRegistration: none\nSource: https://smcl.biblio
- commons.com/events/6ad7545ffee2d21deb247f0a\nLast synced: 2026-10-27 11:34
+ commons.com/events/6ad7545ffee2d21deb247f0a\nLast synced: 2026-10-28 11:42
   PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6ad7545ffee2d21deb247f0a
@@ -126,13 +126,13 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Crazy Turkeys
 DTSTART;TZID=America/Los_Angeles:20261104T160000
 DTEND;TZID=America/Los_Angeles:20261104T170000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcl-6ac69806fee2d21deb21bf08@local-events
 DESCRIPTION:Join us as we make some wild and colorful turkeys out of clay!
   You can decorate your turkey to be as crazy as you want\, including tail 
  feathers that can light up. No registration required\, as supplies last.\n
  \nAges: 6-11\nRegistration: required\nSource: https://smcl.bibliocommons.c
- om/events/6ac69806fee2d21deb21bf08\nLast synced: 2026-10-27 11:34 PDT
+ om/events/6ac69806fee2d21deb21bf08\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6ac69806fee2d21deb21bf08
 END:VEVENT
@@ -140,13 +140,13 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Crafternoon: Pumpkin Embroidery Hoops
 DTSTART;TZID=America/Los_Angeles:20261110T160000
 DTEND;TZID=America/Los_Angeles:20261110T170000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcl-6ac6981ae06996003a81fcd6@local-events
 DESCRIPTION:Join us as we use our imagination and creativity to make art! 
  Today\, we’ll be decorating mini embroidery hoops with pumpkins made of 
  scrap fabric. No registration required\, as supplies last.\n\nAges: 6-11\,
   12-18\nRegistration: required\nSource: https://smcl.bibliocommons.com/eve
- nts/6ac6981ae06996003a81fcd6\nLast synced: 2026-10-27 11:34 PDT
+ nts/6ac6981ae06996003a81fcd6\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6ac6981ae06996003a81fcd6
 END:VEVENT
@@ -154,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Watercolor Wellness
 DTSTART;TZID=America/Los_Angeles:20261118T160000
 DTEND;TZID=America/Los_Angeles:20261118T170000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcl-6ad088a5fee2d21deb2367d3@local-events
 DESCRIPTION:Join us for a relaxing watercolor session! We will vary the th
  emes each month\, with different subjects\, and we will even have display 
@@ -162,7 +162,7 @@ DESCRIPTION:Join us for a relaxing watercolor session! We will vary the th
  anquil and therapeutic activity while exercising your creativity. All ages
   are welcome to join this drop-in event.\n\nAges: 6-11\, 12-18\nRegistrati
  on: none\nSource: https://smcl.bibliocommons.com/events/6ad088a5fee2d21deb
- 2367d3\nLast synced: 2026-10-27 11:34 PDT
+ 2367d3\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6ad088a5fee2d21deb2367d3
 END:VEVENT
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] STEAM Team: Pipe Cleaner Circuitry
 DTSTART;TZID=America/Los_Angeles:20261123T160000
 DTEND;TZID=America/Los_Angeles:20261123T170000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcl-6ac69834fee2d21deb21bf11@local-events
 DESCRIPTION:Today\, we'll be scientists\, engineers and beyond! Join us at
   the library the fourth Monday of every month for a new STEAM activity for
@@ -178,7 +178,7 @@ DESCRIPTION:Today\, we'll be scientists\, engineers and beyond! Join us at
  uble as circuits by using pipe cleaners to conduct the electricity! No reg
  istration\, as supplies last.\n\nAges: 6-11\, 12-18\nRegistration: require
  d\nSource: https://smcl.bibliocommons.com/events/6ac69834fee2d21deb21bf11
- \nLast synced: 2026-10-27 11:34 PDT
+ \nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6ac69834fee2d21deb21bf11
 END:VEVENT
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Beyond the Veil: The Arcane World of Tarot
 DTSTART;TZID=America/Los_Angeles:20261114T133000
 DTEND;TZID=America/Los_Angeles:20261114T143000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcl-6ab46e8eca248a002918057d@local-events
 DESCRIPTION:Explore the world of tarot in Basic Tarot\, a four-session int
  roductory program for teens 15+ and adults. Participants will learn the ba
@@ -203,7 +203,7 @@ DESCRIPTION:Explore the world of tarot in Basic Tarot\, a four-session int
  ed for practice during class. Participants are welcome to bring their own 
  deck if they have one.\n\n\nFor teens aged 15+ and adults.\n\nAges: 12-18
  \nRegistration: required\nSource: https://smcl.bibliocommons.com/events/6a
- b46e8eca248a002918057d\nLast synced: 2026-10-27 11:34 PDT
+ b46e8eca248a002918057d\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6ab46e8eca248a002918057d
 END:VEVENT
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Paws for Tales
 DTSTART;TZID=America/Los_Angeles:20261203T170000
 DTEND;TZID=America/Los_Angeles:20261203T180000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcl-6ac4c5aa9abb62002c6c8f3e@local-events
 DESCRIPTION:Do you have a reluctant reader? Sign your child up for a sessi
  on to practice reading with a therapy dog at the library.\n\nStudies show 
@@ -224,36 +224,15 @@ DESCRIPTION:Do you have a reluctant reader? Sign your child up for a sessi
   your 10-minute slot at smcl.org/pawsfortales! We do our best to accommoda
  te drop-ins whenever possible\, so feel free to stop by!\n\nAges: 6-11\nRe
  gistration: none\nSource: https://smcl.bibliocommons.com/events/6ac4c5aa9a
- bb62002c6c8f3e\nLast synced: 2026-10-27 11:34 PDT
+ bb62002c6c8f3e\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6ac4c5aa9abb62002c6c8f3e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Sugar Skull Decoration
-DTSTART;TZID=America/Los_Angeles:20261027T160000
-DTEND;TZID=America/Los_Angeles:20261027T173000
-DTSTAMP:20261027T183442Z
-UID:smcl-6aa9babcab7a8e0037c21223@local-events
-DESCRIPTION:Decorate your own colorful calavera\, or sugar skull\, for el 
- Día de los Muertos. Learn about the tradition of making sugar skull decor
- ations with a brief visual presentation. Día de Muertos is celebrated eve
- ry year between November 1st and November 2nd in many Latin American count
- ries to honor beloved ancestors. \n\nNo registration\, as supplies last. 
- \n\nDecora tu propia calavera para el Día de los Muertos. Conoce la tradi
- ción de elaborar estas decoraciones mediante una breve presentación visu
- al. El Día de los Muertos se celebra cada año entre el 1 y el 2 de novie
- mbre en muchos países de América Latina como una forma de honrar a los a
- ntepasados ​​queridos.\n\nAges: 6-11\, 12-18\nRegistration: none\nSour
- ce: https://smcl.bibliocommons.com/events/6aa9babcab7a8e0037c21223\nLast s
- ynced: 2026-10-27 11:34 PDT
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6aa9babcab7a8e0037c21223
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ATH] Beyond the Veil: The Arcane World of Tarot
 DTSTART;TZID=America/Los_Angeles:20261107T133000
 DTEND;TZID=America/Los_Angeles:20261107T143000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcl-6ab46e8eca248a002918057c@local-events
 DESCRIPTION:Explore the world of tarot in Basic Tarot\, a four-session int
  roductory program for teens 15+ and adults. Participants will learn the ba
@@ -270,7 +249,7 @@ DESCRIPTION:Explore the world of tarot in Basic Tarot\, a four-session int
  ed for practice during class. Participants are welcome to bring their own 
  deck if they have one.\n\n\nFor teens aged 15+ and adults.\n\nAges: 12-18
  \nRegistration: required\nSource: https://smcl.bibliocommons.com/events/6a
- b46e8eca248a002918057c\nLast synced: 2026-10-27 11:34 PDT
+ b46e8eca248a002918057c\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6ab46e8eca248a002918057c
 END:VEVENT
@@ -278,7 +257,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Jr. Sewing Machine Basics: Straight Stitches (Ages 6-18)
 DTSTART;TZID=America/Los_Angeles:20261117T160000
 DTEND;TZID=America/Los_Angeles:20261117T170000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcl-6ad8dedbfee2d21deb24c954@local-events
 DESCRIPTION:Are you ready to dive into the wonderful world of sewing? Join
   us in the Atherton Makerspace every third Tuesday of the month for Jr. Se
@@ -291,7 +270,7 @@ DESCRIPTION:Are you ready to dive into the wonderful world of sewing? Join
  terials will be provided. Space is limited\, so be sure to sign up online 
  at smcl.org or ask a staff member to assist you with registration.\n\nAges
  : 6-11\, 12-18\nRegistration: required\nSource: https://smcl.bibliocommons
- .com/events/6ad8dedbfee2d21deb24c954\nLast synced: 2026-10-27 11:34 PDT
+ .com/events/6ad8dedbfee2d21deb24c954\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6ad8dedbfee2d21deb24c954
 END:VEVENT
@@ -300,7 +279,7 @@ SUMMARY:[ATH] Traditional Copal Wood Alebrije Painting for Día de los Mue
  rtos
 DTSTART;TZID=America/Los_Angeles:20261105T160000
 DTEND;TZID=America/Los_Angeles:20261105T170000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcl-6aa9bb413dd190003e7236bb@local-events
 DESCRIPTION:Experience the magic of traditional Oaxacan folk art and celeb
  rate el Día de los Muertos by decorating your own alebrije made of copal 
@@ -323,7 +302,7 @@ DESCRIPTION:Experience the magic of traditional Oaxacan folk art and celeb
  laje multicolor o cualquier otra cosa que imagines!"\n\n\n\nThis program i
  s intended for children ages 8+. As supplies last.\n\nAges: 6-11\, 12-18\n
  Registration: required\nSource: https://smcl.bibliocommons.com/events/6aa9
- bb413dd190003e7236bb\nLast synced: 2026-10-27 11:34 PDT
+ bb413dd190003e7236bb\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6aa9bb413dd190003e7236bb
 END:VEVENT
@@ -331,7 +310,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] Reading Buddies Club: Native American Heritage
 DTSTART;TZID=America/Los_Angeles:20261119T160000
 DTEND;TZID=America/Los_Angeles:20261119T170000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcl-6ac99ca6e06996003a8295ce@local-events
 DESCRIPTION:Join us for a casual and fun kids' reading club\, where you ca
  n bring the books to us! We'll focus on a new theme each month\, with game
@@ -345,7 +324,7 @@ DESCRIPTION:Join us for a casual and fun kids' reading club\, where you ca
  ng club friends\, and earn your Reading Buddies Badge! No registration req
  uired\, as supplies last for the craft.\n\nAges: 6-11\nRegistration: none
  \nSource: https://smcl.bibliocommons.com/events/6ac99ca6e06996003a8295ce\n
- Last synced: 2026-10-27 11:34 PDT
+ Last synced: 2026-10-28 11:42 PDT
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6ac99ca6e06996003a8295ce
 END:VEVENT
@@ -353,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Halloween General Admission Hours
 DTSTART;TZID=America/Los_Angeles:20261031T100000
 DTEND;TZID=America/Los_Angeles:20261031T150000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:curiodyssey-41083@local-events
 DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\n\n\n\n\n		\n\n\n\n\n\n	
  \n		\n	\n\n\n\n\n	\n		\n			\n				\n					\n						\n	\n	\n\n						\n							A
@@ -362,8 +341,8 @@ DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\n\n\n\n\n		\n\n\n\n\n\n
  									\n										iCalendar									\n								\n															\n						
  			\n										Outlook 365									\n								\n															\n									
  \n										Outlook Live\n\nAges: Family / kids\nSource: https://curiodyss
- ey.org/event/halloween-general-admission-hours/\nLast synced: 2026-10-27 1
- 1:34 PDT
+ ey.org/event/halloween-general-admission-hours/\nLast synced: 2026-10-28 1
+ 1:42 PDT
 LOCATION:CuriOdyssey\, 1651 Coyote Point Dr\, San Mateo\, CA 94401
 URL:https://curiodyssey.org/event/halloween-general-admission-hours/
 END:VEVENT
@@ -371,7 +350,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Start of winter hours
 DTSTART;TZID=America/Los_Angeles:20261102T093000
 DTEND;TZID=America/Los_Angeles:20261102T163000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:curiodyssey-41386@local-events
 DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\n\n\n\n\n		\n\n\n\n\n\n	
  \n		\n	\n\n\n\n\n	\n		\n			\n				\n					\n						\n	\n	\n\n						\n							A
@@ -380,7 +359,7 @@ DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\n\n\n\n\n		\n\n\n\n\n\n
  									\n										iCalendar									\n								\n															\n						
  			\n										Outlook 365									\n								\n															\n									
  \n										Outlook Live\n\nAges: Family / kids\nSource: https://curiodyss
- ey.org/event/start-of-winter-hours/\nLast synced: 2026-10-27 11:34 PDT
+ ey.org/event/start-of-winter-hours/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:CuriOdyssey\, 1651 Coyote Point Dr\, San Mateo\, CA 94401
 URL:https://curiodyssey.org/event/start-of-winter-hours/
 END:VEVENT
@@ -388,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] First Friday Nights
 DTSTART;TZID=America/Los_Angeles:20261106T163000
 DTEND;TZID=America/Los_Angeles:20261106T200000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:curiodyssey-10000633@local-events
 DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\nOn the first Friday of e
  very month\, from 4:30 pm until 8 pm\, parents and kids celebrate together
@@ -399,7 +378,7 @@ DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\nOn the first Friday of e
  			\n									\n										Outlook 365									\n								\n															
  \n									\n										Outlook Live\n\nAges: Family / kids\nSource: https:
  //curiodyssey.org/event/first-friday-nights-24/2026-11-06/\nLast synced: 2
- 026-10-27 11:34 PDT
+ 026-10-28 11:42 PDT
 LOCATION:CuriOdyssey\, 1651 Coyote Point Dr\, San Mateo\, CA 94401
 URL:https://curiodyssey.org/event/first-friday-nights-24/2026-11-06/
 END:VEVENT
@@ -407,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Limited general admission hours on November 12
 DTSTART;TZID=America/Los_Angeles:20261112T100000
 DTEND;TZID=America/Los_Angeles:20261112T160000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:curiodyssey-41138@local-events
 DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\nEarly closure at 4 PM fo
  r a private event.\n\n\n\n		\n\n\n\n\n\n	\n		\n	\n\n\n\n\n	\n		\n			\n				
@@ -417,7 +396,7 @@ DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\nEarly closure at 4 PM fo
  						\n								\n															\n									\n										Outlook 365							
  		\n								\n															\n									\n										Outlook Live\n\nAges: 
  Family / kids\nSource: https://curiodyssey.org/event/limited-general-admis
- sion-hours-on-november-12/\nLast synced: 2026-10-27 11:34 PDT
+ sion-hours-on-november-12/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:CuriOdyssey\, 1651 Coyote Point Dr\, San Mateo\, CA 94401
 URL:https://curiodyssey.org/event/limited-general-admission-hours-on-novem
  ber-12/
@@ -426,7 +405,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Marsh Hike at Coyote Point
 DTSTART;TZID=America/Los_Angeles:20261120T140000
 DTEND;TZID=America/Los_Angeles:20261120T153000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:curiodyssey-10000709@local-events
 DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\nStep into the baylands a
  nd explore the vibrant marsh ecosystem right outside our doors. Join CuriO
@@ -441,7 +420,7 @@ DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\nStep into the baylands a
  ion. \n\nPlease note that parking is managed by San Mateo County Parks\, 
  and registrants will…\n\nAges: Family / kids\nSource: https://curiodysse
  y.org/event/marsh-hike-at-coyote-point-6/2026-11-20/\nLast synced: 2026-10
- -27 11:34 PDT
+ -28 11:42 PDT
 LOCATION:CuriOdyssey\, 1651 Coyote Point Dr\, San Mateo
 URL:https://curiodyssey.org/event/marsh-hike-at-coyote-point-6/2026-11-20/
 END:VEVENT
@@ -449,7 +428,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] First Friday Nights
 DTSTART;TZID=America/Los_Angeles:20261204T163000
 DTEND;TZID=America/Los_Angeles:20261204T200000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:curiodyssey-10000735@local-events
 DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\nOn the first Friday of e
  very month\, from 4:30 pm until 8 pm\, parents and kids celebrate together
@@ -460,27 +439,27 @@ DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\nOn the first Friday of e
  			\n									\n										Outlook 365									\n								\n															
  \n									\n										Outlook Live\n\nAges: Family / kids\nSource: https:
  //curiodyssey.org/event/first-friday-nights-24/2026-12-04/\nLast synced: 2
- 026-10-27 11:34 PDT
+ 026-10-28 11:42 PDT
 LOCATION:CuriOdyssey\, 1651 Coyote Point Dr\, San Mateo\, CA 94401
 URL:https://curiodyssey.org/event/first-friday-nights-24/2026-12-04/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[SM] Sensory Sunday
-DTSTART;TZID=America/Los_Angeles:20261213T140000
-DTEND;TZID=America/Los_Angeles:20261213T170000
-DTSTAMP:20261027T183442Z
-UID:curiodyssey-10000728@local-events
+DTSTART;TZID=America/Los_Angeles:20261213T133000
+DTEND;TZID=America/Los_Angeles:20261213T163000
+DTSTAMP:20261028T184231Z
+UID:curiodyssey-10000824@local-events
 DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\nSensory Sunday is an eve
  nt for visitors with sensory sensitivities.\n\nPreregistration is required
-  for Sensory Sunday. Registration opens Friday\, August 21 at 12 PM.\n\n\n
- \n				Note: $6 vehicle entrance fee\n	\n\n\n\n\n\n	\n		\n	\n\n\n\n\n	\n		
- \n			\n				\n					\n						\n	\n	\n\n						\n							Add to calendar						\n
- 						\n	\n\n					\n					\n						\n															\n									\n										G
- oogle Calendar									\n								\n															\n									\n										i
- Calendar									\n								\n															\n									\n										Outlook
-  365									\n								\n															\n									\n										Outlook Liv
- e\n\nAges: Family / kids\nSource: https://curiodyssey.org/event/sensory-su
- nday-10/2026-12-13/\nLast synced: 2026-10-27 11:34 PDT
+  for Sensory Sunday. \n\n\n\n				Note: $6 vehicle entrance fee\n	\n\n\n\n
+ \n\n	\n		\n	\n\n\n\n\n	\n		\n			\n				\n					\n						\n	\n	\n\n						\n			
+ 				Add to calendar						\n						\n	\n\n					\n					\n						\n												
+ 			\n									\n										Google Calendar									\n								\n												
+ 			\n									\n										iCalendar									\n								\n															\n	
+ 								\n										Outlook 365									\n								\n															\n					
+ 				\n										Outlook Live\n\nAges: Family / kids\nSource: https://curio
+ dyssey.org/event/sensory-sunday-10/2026-12-13/\nLast synced: 2026-10-28 11
+ :42 PDT
 LOCATION:CuriOdyssey\, 1651 Coyote Point Dr\, San Mateo\, CA 94401
 URL:https://curiodyssey.org/event/sensory-sunday-10/2026-12-13/
 END:VEVENT
@@ -488,7 +467,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] New Year’s Eve General Admission Hours
 DTSTART;TZID=America/Los_Angeles:20261231T093000
 DTEND;TZID=America/Los_Angeles:20261231T150000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:curiodyssey-10000821@local-events
 DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\n\n\n\n\n		\n\n\n\n\n\n	
  \n		\n	\n\n\n\n\n	\n		\n			\n				\n					\n						\n	\n	\n\n						\n							A
@@ -498,7 +477,7 @@ DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\n\n\n\n\n		\n\n\n\n\n\n
  			\n										Outlook 365									\n								\n															\n									
  \n										Outlook Live\n\nAges: Family / kids\nSource: https://curiodyss
  ey.org/event/new-years-eve-general-admission-hours/2026-12-31/\nLast synce
- d: 2026-10-27 11:34 PDT
+ d: 2026-10-28 11:42 PDT
 LOCATION:CuriOdyssey\, 1651 Coyote Point Dr\, San Mateo\, CA 94401
 URL:https://curiodyssey.org/event/new-years-eve-general-admission-hours/20
  26-12-31/
@@ -507,19 +486,19 @@ BEGIN:VEVENT
 SUMMARY:[SM] Sensory Sunday
 DTSTART;TZID=America/Los_Angeles:20270117T140000
 DTEND;TZID=America/Los_Angeles:20270117T170000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:curiodyssey-10000729@local-events
 DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\nSensory Sunday is an eve
  nt for visitors with sensory sensitivities.\n\nPreregistration is required
-  for Sensory Sunday. Registration opens Friday\, August 21 at 12 PM.\n\n\n
- \n				Note: $6 vehicle entrance fee\n	\n\n\n\n\n\n	\n		\n	\n\n\n\n\n	\n		
- \n			\n				\n					\n						\n	\n	\n\n						\n							Add to calendar						\n
- 						\n	\n\n					\n					\n						\n															\n									\n										G
- oogle Calendar									\n								\n															\n									\n										i
- Calendar									\n								\n															\n									\n										Outlook
-  365									\n								\n															\n									\n										Outlook Liv
- e\n\nAges: Family / kids\nSource: https://curiodyssey.org/event/sensory-su
- nday-10/2027-01-17/\nLast synced: 2026-10-27 11:34 PDT
+  for Sensory Sunday. \n\n\n\n				Note: $6 vehicle entrance fee\n	\n\n\n\n
+ \n\n	\n		\n	\n\n\n\n\n	\n		\n			\n				\n					\n						\n	\n	\n\n						\n			
+ 				Add to calendar						\n						\n	\n\n					\n					\n						\n												
+ 			\n									\n										Google Calendar									\n								\n												
+ 			\n									\n										iCalendar									\n								\n															\n	
+ 								\n										Outlook 365									\n								\n															\n					
+ 				\n										Outlook Live\n\nAges: Family / kids\nSource: https://curio
+ dyssey.org/event/sensory-sunday-10/2027-01-17/\nLast synced: 2026-10-28 11
+ :42 PDT
 LOCATION:CuriOdyssey\, 1651 Coyote Point Dr\, San Mateo\, CA 94401
 URL:https://curiodyssey.org/event/sensory-sunday-10/2027-01-17/
 END:VEVENT
@@ -527,7 +506,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Open Martin Luther King\, Jr. Day
 DTSTART;TZID=America/Los_Angeles:20270118T093000
 DTEND;TZID=America/Los_Angeles:20270118T163000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:curiodyssey-10000795@local-events
 DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\n\n\n\n\n		\n\n\n\n\n\n	
  \n		\n	\n\n\n\n\n	\n		\n			\n				\n					\n						\n	\n	\n\n						\n							A
@@ -537,7 +516,7 @@ DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\n\n\n\n\n		\n\n\n\n\n\n
  			\n										Outlook 365									\n								\n															\n									
  \n										Outlook Live\n\nAges: Family / kids\nSource: https://curiodyss
  ey.org/event/open-martin-luther-king-jr-day/2027-01-18/\nLast synced: 2026
- -10-27 11:34 PDT
+ -10-28 11:42 PDT
 LOCATION:CuriOdyssey\, 1651 Coyote Point Dr\, San Mateo\, CA 94401
 URL:https://curiodyssey.org/event/open-martin-luther-king-jr-day/2027-01-1
  8/
@@ -546,7 +525,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] First Friday Nights
 DTSTART;TZID=America/Los_Angeles:20270205T163000
 DTEND;TZID=America/Los_Angeles:20270205T200000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:curiodyssey-10000736@local-events
 DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\nOn the first Friday of e
  very month\, from 4:30 pm until 8 pm\, parents and kids celebrate together
@@ -557,7 +536,7 @@ DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\nOn the first Friday of e
  			\n									\n										Outlook 365									\n								\n															
  \n									\n										Outlook Live\n\nAges: Family / kids\nSource: https:
  //curiodyssey.org/event/first-friday-nights-24/2027-02-05/\nLast synced: 2
- 026-10-27 11:34 PDT
+ 026-10-28 11:42 PDT
 LOCATION:CuriOdyssey\, 1651 Coyote Point Dr\, San Mateo\, CA 94401
 URL:https://curiodyssey.org/event/first-friday-nights-24/2027-02-05/
 END:VEVENT
@@ -565,7 +544,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] Open Presidents’ Day
 DTSTART;TZID=America/Los_Angeles:20270215T100000
 DTEND;TZID=America/Los_Angeles:20270215T170000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:curiodyssey-10000362@local-events
 DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\n\n\n\n\n		\n\n\n\n\n\n	
  \n		\n	\n\n\n\n\n	\n		\n			\n				\n					\n						\n	\n	\n\n						\n							A
@@ -574,8 +553,8 @@ DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\n\n\n\n\n		\n\n\n\n\n\n
  									\n										iCalendar									\n								\n															\n						
  			\n										Outlook 365									\n								\n															\n									
  \n										Outlook Live\n\nAges: Family / kids\nSource: https://curiodyss
- ey.org/event/open-presidents-day/2027-02-15/\nLast synced: 2026-10-27 11:3
- 4 PDT
+ ey.org/event/open-presidents-day/2027-02-15/\nLast synced: 2026-10-28 11:4
+ 2 PDT
 LOCATION:CuriOdyssey\, 1651 Coyote Point Dr\, San Mateo\, CA 94401
 URL:https://curiodyssey.org/event/open-presidents-day/2027-02-15/
 END:VEVENT
@@ -583,7 +562,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] End of winter hours
 DTSTART;TZID=America/Los_Angeles:20270228T093000
 DTEND;TZID=America/Los_Angeles:20270228T163000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:curiodyssey-41388@local-events
 DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\n\n\n\n\n		\n\n\n\n\n\n	
  \n		\n	\n\n\n\n\n	\n		\n			\n				\n					\n						\n	\n	\n\n						\n							A
@@ -592,7 +571,7 @@ DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\n\n\n\n\n		\n\n\n\n\n\n
  									\n										iCalendar									\n								\n															\n						
  			\n										Outlook 365									\n								\n															\n									
  \n										Outlook Live\n\nAges: Family / kids\nSource: https://curiodyss
- ey.org/event/end-of-winter-hours/\nLast synced: 2026-10-27 11:34 PDT
+ ey.org/event/end-of-winter-hours/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:CuriOdyssey\, 1651 Coyote Point Dr\, San Mateo\, CA 94401
 URL:https://curiodyssey.org/event/end-of-winter-hours/
 END:VEVENT
@@ -600,7 +579,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] First Friday Nights
 DTSTART;TZID=America/Los_Angeles:20270305T163000
 DTEND;TZID=America/Los_Angeles:20270305T200000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:curiodyssey-10000737@local-events
 DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\nOn the first Friday of e
  very month\, from 4:30 pm until 8 pm\, parents and kids celebrate together
@@ -611,7 +590,7 @@ DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\nOn the first Friday of e
  			\n									\n										Outlook 365									\n								\n															
  \n									\n										Outlook Live\n\nAges: Family / kids\nSource: https:
  //curiodyssey.org/event/first-friday-nights-24/2027-03-05/\nLast synced: 2
- 026-10-27 11:34 PDT
+ 026-10-28 11:42 PDT
 LOCATION:CuriOdyssey\, 1651 Coyote Point Dr\, San Mateo\, CA 94401
 URL:https://curiodyssey.org/event/first-friday-nights-24/2027-03-05/
 END:VEVENT
@@ -619,7 +598,7 @@ BEGIN:VEVENT
 SUMMARY:[SM] First Friday Nights
 DTSTART;TZID=America/Los_Angeles:20270402T163000
 DTEND;TZID=America/Los_Angeles:20270402T200000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:curiodyssey-10000738@local-events
 DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\nOn the first Friday of e
  very month\, from 4:30 pm until 8 pm\, parents and kids celebrate together
@@ -630,7 +609,7 @@ DESCRIPTION:@ 			\n			\n							\n		\n			\n\n\n\n\nOn the first Friday of e
  			\n									\n										Outlook 365									\n								\n															
  \n									\n										Outlook Live\n\nAges: Family / kids\nSource: https:
  //curiodyssey.org/event/first-friday-nights-24/2027-04-02/\nLast synced: 2
- 026-10-27 11:34 PDT
+ 026-10-28 11:42 PDT
 LOCATION:CuriOdyssey\, 1651 Coyote Point Dr\, San Mateo\, CA 94401
 URL:https://curiodyssey.org/event/first-friday-nights-24/2027-04-02/
 END:VEVENT
@@ -638,7 +617,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] SMCAS Crestview Star Party
 DTSTART;TZID=America/Los_Angeles:20261107T170400
 DTEND;TZID=America/Los_Angeles:20261107T200400
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcas-crestview-20261107@local-events
 DESCRIPTION:SMCAS hosts a free public star party at Crestview Park in San 
  Carlos. All ages welcome. Members set up telescopes for public viewing of 
@@ -646,7 +625,7 @@ DESCRIPTION:SMCAS hosts a free public star party at Crestview Park in San
  :04)\; observing starts one hour after sunset. Free.\n\nCancels in rain\, 
  clouds\, fog\, or high wind — no official cancellation notice is issued.
  \n\nAges: All ages / family\nRegistration: none\nSource: https://smcas.net
- /events/star-parties/crestview-park/\nLast synced: 2026-10-27 11:34 PDT
+ /events/star-parties/crestview-park/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Crestview Park\, 1000 Crestview Dr\, San Carlos\, CA
 URL:https://smcas.net/events/star-parties/crestview-park/
 END:VEVENT
@@ -654,7 +633,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] SMCAS Crestview Star Party
 DTSTART;TZID=America/Los_Angeles:20261114T165800
 DTEND;TZID=America/Los_Angeles:20261114T195800
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcas-crestview-20261114@local-events
 DESCRIPTION:SMCAS hosts a free public star party at Crestview Park in San 
  Carlos. All ages welcome. Members set up telescopes for public viewing of 
@@ -662,7 +641,7 @@ DESCRIPTION:SMCAS hosts a free public star party at Crestview Park in San
  :58)\; observing starts one hour after sunset. Free.\n\nCancels in rain\, 
  clouds\, fog\, or high wind — no official cancellation notice is issued.
  \n\nAges: All ages / family\nRegistration: none\nSource: https://smcas.net
- /events/star-parties/crestview-park/\nLast synced: 2026-10-27 11:34 PDT
+ /events/star-parties/crestview-park/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Crestview Park\, 1000 Crestview Dr\, San Carlos\, CA
 URL:https://smcas.net/events/star-parties/crestview-park/
 END:VEVENT
@@ -670,7 +649,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] SMCAS Crestview Star Party
 DTSTART;TZID=America/Los_Angeles:20261219T165400
 DTEND;TZID=America/Los_Angeles:20261219T195400
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcas-crestview-20261219@local-events
 DESCRIPTION:SMCAS hosts a free public star party at Crestview Park in San 
  Carlos. All ages welcome. Members set up telescopes for public viewing of 
@@ -678,7 +657,7 @@ DESCRIPTION:SMCAS hosts a free public star party at Crestview Park in San
  :54)\; observing starts one hour after sunset. Free.\n\nCancels in rain\, 
  clouds\, fog\, or high wind — no official cancellation notice is issued.
  \n\nAges: All ages / family\nRegistration: none\nSource: https://smcas.net
- /events/star-parties/crestview-park/\nLast synced: 2026-10-27 11:34 PDT
+ /events/star-parties/crestview-park/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Crestview Park\, 1000 Crestview Dr\, San Carlos\, CA
 URL:https://smcas.net/events/star-parties/crestview-park/
 END:VEVENT
@@ -686,7 +665,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] SMCAS Crestview Star Party
 DTSTART;TZID=America/Los_Angeles:20261226T165800
 DTEND;TZID=America/Los_Angeles:20261226T195800
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:smcas-crestview-20261226@local-events
 DESCRIPTION:SMCAS hosts a free public star party at Crestview Park in San 
  Carlos. All ages welcome. Members set up telescopes for public viewing of 
@@ -694,7 +673,7 @@ DESCRIPTION:SMCAS hosts a free public star party at Crestview Park in San
  :58)\; observing starts one hour after sunset. Free.\n\nCancels in rain\, 
  clouds\, fog\, or high wind — no official cancellation notice is issued.
  \n\nAges: All ages / family\nRegistration: none\nSource: https://smcas.net
- /events/star-parties/crestview-park/\nLast synced: 2026-10-27 11:34 PDT
+ /events/star-parties/crestview-park/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Crestview Park\, 1000 Crestview Dr\, San Carlos\, CA
 URL:https://smcas.net/events/star-parties/crestview-park/
 END:VEVENT
@@ -702,12 +681,12 @@ BEGIN:VEVENT
 SUMMARY:[MP] Storytime
 DTSTART;TZID=America/Los_Angeles:20261029T101500
 DTEND;TZID=America/Los_Angeles:20261029T104500
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:menlopark-2026_06-12-Storytime-Alma-Thurs@local-events
 DESCRIPTION:Join us at the library with your little one for stories\, song
  s\, and fun!\n\nAges: children\nSource: https://www.menlopark.gov/Governme
  nt/Departments/Library-and-Community-Services/Events/Events-for-children/2
- 026_06-12-Storytime-Alma-Thurs\nLast synced: 2026-10-27 11:34 PDT
+ 026_06-12-Storytime-Alma-Thurs\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Menlo Park Library\, 800 Alma St.\, Menlo Park\, CA 94025
 URL:https://www.menlopark.gov/Government/Departments/Library-and-Community
  -Services/Events/Events-for-children/2026_06-12-Storytime-Alma-Thurs
@@ -716,21 +695,35 @@ BEGIN:VEVENT
 SUMMARY:[MP] Storytime
 DTSTART;TZID=America/Los_Angeles:20261030T101500
 DTEND;TZID=America/Los_Angeles:20261030T104500
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:menlopark-202606-12-Storytime-Alma-Fri@local-events
 DESCRIPTION:Join us at the library with your little one for stories\, song
  s\, and fun!\n\nAges: children\nSource: https://www.menlopark.gov/Governme
  nt/Departments/Library-and-Community-Services/Events/Events-for-children/2
- 02606-12-Storytime-Alma-Fri\nLast synced: 2026-10-27 11:34 PDT
+ 02606-12-Storytime-Alma-Fri\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Menlo Park Library\, 800 Alma St.\, Menlo Park\, CA 94025
 URL:https://www.menlopark.gov/Government/Departments/Library-and-Community
  -Services/Events/Events-for-children/202606-12-Storytime-Alma-Fri
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[MP] Storytime
+DTSTART;TZID=America/Los_Angeles:20261031T111500
+DTEND;TZID=America/Los_Angeles:20261031T114500
+DTSTAMP:20261028T184231Z
+UID:menlopark-202606-12-Storytime-Alma-Sat@local-events
+DESCRIPTION:Join us at the library with your little one for stories\, song
+ s\, and fun!\n\nAges: children\nSource: https://www.menlopark.gov/Governme
+ nt/Departments/Library-and-Community-Services/Events/Events-for-children/2
+ 02606-12-Storytime-Alma-Sat\nLast synced: 2026-10-28 11:42 PDT
+LOCATION:Menlo Park Library\, 800 Alma St.\, Menlo Park\, CA 94025
+URL:https://www.menlopark.gov/Government/Departments/Library-and-Community
+ -Services/Events/Events-for-children/202606-12-Storytime-Alma-Sat
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[RWC] Zoppe Family Circus
 DTSTART;TZID=America/Los_Angeles:20261101T100000
 DTEND;TZID=America/Los_Angeles:20261101T110000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:bayareakidfun-zoppe-net-20261101@local-events
 DESCRIPTION:For 177 years\, the Zoppé Italian Family Circus has been wowi
  ng audiences with their unique blend of acrobatics\, humor and family ente
@@ -739,7 +732,7 @@ DESCRIPTION:For 177 years\, the Zoppé Italian Family Circus has been wowi
  own as 10am/1h block.\nCheck source page for the actual time and details.
  \n\nSource: https://zoppe.net/\nAggregator: bayareakidfun.com\n\nAges: Fam
  ily-friendly (per bayareakidfun.com curation)\nSource: https://zoppe.net/
- \nLast synced: 2026-10-27 11:34 PDT
+ \nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Redwood City
 URL:https://zoppe.net/
 END:VEVENT
@@ -747,7 +740,7 @@ BEGIN:VEVENT
 SUMMARY:[WS] Holidays at Filoli
 DTSTART;TZID=America/Los_Angeles:20261114T100000
 DTEND;TZID=America/Los_Angeles:20261114T220000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:bayareakidfun-holidays-20261114@local-events
 DESCRIPTION:Holidays at Filoli: the Bay Area's grandest gilded estate tran
  sformed with Thistlewyck Village and 300\,000 twinkling lights.\n\nHoliday
@@ -756,7 +749,7 @@ DESCRIPTION:Holidays at Filoli: the Bay Area's grandest gilded estate tran
  page for the actual time and details.\n\nSource: https://filoli.org/holida
  ys/\nAggregator: bayareakidfun.com\n\nAges: Family-friendly (per bayareaki
  dfun.com curation)\nSource: https://filoli.org/holidays/\nLast synced: 202
- 6-10-27 11:34 PDT
+ 6-10-28 11:42 PDT
 LOCATION:Woodside
 URL:https://filoli.org/holidays/
 END:VEVENT
@@ -764,7 +757,7 @@ BEGIN:VEVENT
 SUMMARY:[HMB] A Christmas Carol
 DTSTART;TZID=America/Los_Angeles:20261204T100000
 DTEND;TZID=America/Los_Angeles:20261204T110000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:bayareakidfun-www-coastalrep-com-20261204@local-events
 DESCRIPTION:Theatre home page showing current show and what's happening at
   the theatre\n\nA Christmas Carol — Half Moon Bay\nDate listing: Decembe
@@ -772,34 +765,20 @@ DESCRIPTION:Theatre home page showing current show and what's happening at
  ck.\nCheck source page for the actual time and details.\n\nSource: https:/
  /www.coastalrep.com/\nAggregator: bayareakidfun.com\n\nAges: Family-friend
  ly (per bayareakidfun.com curation)\nSource: https://www.coastalrep.com/\n
- Last synced: 2026-10-27 11:34 PDT
+ Last synced: 2026-10-28 11:42 PDT
 LOCATION:Coastal Repertory Theatre\, 1167 Main Street\, Half Moon Bay\, CA
 URL:https://www.coastalrep.com/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[MP] NEW! 4th Tuesday Stories
-DTSTART;TZID=America/Los_Angeles:20261027T180000
-DTEND;TZID=America/Los_Angeles:20261027T193000
-DTSTAMP:20261027T183442Z
-UID:menlopark_city-20261027-Storytelling-Meetup@local-events
-DESCRIPTION:Be a storyteller or listener at our new monthly event!\n\nAges
- : All ages / family\nSource: https://www.menlopark.gov/Government/Departme
- nts/Library-and-Community-Services/Events/Events-for-adults/20261027-Story
- telling-Meetup\nLast synced: 2026-10-27 11:34 PDT
-LOCATION:Menlo Park Library\, 800 Alma St.\, Menlo Park\, CA 94025
-URL:https://www.menlopark.gov/Government/Departments/Library-and-Community
- -Services/Events/Events-for-adults/20261027-Storytelling-Meetup
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[MP] Poetry Night
 DTSTART;TZID=America/Los_Angeles:20261028T180000
 DTEND;TZID=America/Los_Angeles:20261028T191500
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:menlopark_city-20261028-Poetry-Night@local-events
 DESCRIPTION:Join our community of poetry lovers by sharing and listening t
  o great poems with us!\n\nAges: All ages / family\nSource: https://www.men
  lopark.gov/Government/Departments/Library-and-Community-Services/Events/Ev
- ents-for-adults/20261028-Poetry-Night\nLast synced: 2026-10-27 11:34 PDT
+ ents-for-adults/20261028-Poetry-Night\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Menlo Park Library\, 800 Alma St.\, Menlo Park\, CA 94025
 URL:https://www.menlopark.gov/Government/Departments/Library-and-Community
  -Services/Events/Events-for-adults/20261028-Poetry-Night
@@ -808,7 +787,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Community Blood Drive
 DTSTART;TZID=America/Los_Angeles:20261114T100000
 DTEND;TZID=America/Los_Angeles:20261114T150000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:sancarlos-916@local-events
 DESCRIPTION:Join Our Community Blood Drive with Stanford Blood Center Make
   a lifesaving impact and be a hero in your community! We're excited to inv
@@ -822,7 +801,7 @@ DESCRIPTION:Join Our Community Blood Drive with Stanford Blood Center Make
   &nbsp\;&nbsp\; Safe Environment:&nbsp\; Your health and safety are our to
  p priorities. We've implemented rigorous safety protocols to ensure a secu
  re don\n\nAges: All ages\nSource: https://www.sbcdonor.org/donor/schedules
- /zip\nLast synced: 2026-10-27 11:34 PDT
+ /zip\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:San Carlos Youth Center (1001 Chestnut Street\, San Carlos\, CA 9
  4070)
 URL:https://www.sbcdonor.org/donor/schedules/zip
@@ -831,10 +810,10 @@ BEGIN:VEVENT
 SUMMARY:[SC] Week of the Family
 DTSTART;TZID=America/Los_Angeles:20270122T000000
 DTEND;TZID=America/Los_Angeles:20270122T010000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:sancarlos-1099@local-events
 DESCRIPTION:Ages: All ages\nSource: https://www.sancarlosweekofthefamily.o
- rg/\nLast synced: 2026-10-27 11:34 PDT
+ rg/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:San Carlos\, CA
 URL:https://www.sancarlosweekofthefamily.org/
 END:VEVENT
@@ -842,7 +821,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Glow Pickleball
 DTSTART;TZID=America/Los_Angeles:20261112T190000
 DTEND;TZID=America/Los_Angeles:20261112T210000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:sancarlos-1119@local-events
 DESCRIPTION:Glow Pickleball is back and brighter than ever! Join us for tw
  o nights of glowing courts\, black lights\, energetic music\, and nonstop 
@@ -853,7 +832,7 @@ DESCRIPTION:Glow Pickleball is back and brighter than ever! Join us for tw
   and get ready to light up the night!\n\nAges: All ages\nSource: https://a
  nc.apm.activecommunities.com/sancarlos/activity/search?onlineSiteId=0&acti
  vity_select_param=2&activity_keyword=Glow%20Pickleball&viewMode=list\nLast
-  synced: 2026-10-27 11:34 PDT
+  synced: 2026-10-28 11:42 PDT
 LOCATION:San Carlos Youth Center (1001 Chestnut Street\, San Carlos\, CA 9
  4070)
 URL:https://anc.apm.activecommunities.com/sancarlos/activity/search?online
@@ -864,7 +843,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Diwali Downtown Celebration
 DTSTART;TZID=America/Los_Angeles:20261114T110000
 DTEND;TZID=America/Los_Angeles:20261114T140000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:sancarlos-1128@local-events
 DESCRIPTION:Join us downtown on the 700 Block of Laurel Street for Diwali 
  Downtown! Enjoy&nbsp\;vibrant&nbsp\;performances\, including showcases by 
@@ -872,7 +851,7 @@ DESCRIPTION:Join us downtown on the 700 Block of Laurel Street for Diwali
  \, enjoy music\, crafts\, and tasty bites from local chefs. For more infor
  mation\, visit cityofsancarlos.org/diwali . &nbsp\;\n\nAges: All ages\nSou
  rce: https://cms3.revize.com/revize/sancarlos/business_detail_T10_R450.php
- \nLast synced: 2026-10-27 11:34 PDT
+ \nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Downtown San Carlos
 URL:https://cms3.revize.com/revize/sancarlos/business_detail_T10_R450.php
 END:VEVENT
@@ -880,7 +859,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Trunk or Treat
 DTSTART;TZID=America/Los_Angeles:20261029T170000
 DTEND;TZID=America/Los_Angeles:20261029T190000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-293415@local-events
 DESCRIPTION:Thursday\, October 29\, 2026 | 5:00 PM – 7:00 PM\n\nGet read
  y for a spooktacular evening at the Hiller Aviation Museum’s Trunk or Tr
@@ -894,7 +873,7 @@ DESCRIPTION:Thursday\, October 29\, 2026 | 5:00 PM – 7:00 PM\n\nGet read
  ing\, a separate Haunted Hangar admission ticket is only needed if you’d
   like to enter that attraction. Come in costume\, bring your trick-or-trea
  t bag\, and enjoy a…\n\nAges: All ages\nSource: https://www.hiller.org/e
- vent/trunk-or-treat/\nLast synced: 2026-10-27 11:34 PDT
+ vent/trunk-or-treat/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/trunk-or-treat/
 END:VEVENT
@@ -902,7 +881,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Pumpkin Drop
 DTSTART;TZID=America/Los_Angeles:20261031T100000
 DTEND;TZID=America/Los_Angeles:20261031T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-10016513@local-events
 DESCRIPTION:Helicopter Pumpkin Drop & Kids Halloween Festival ​\n\nJoin 
  a unique celebration of Halloween excitement as the Hiller Aviation Museum
@@ -912,8 +891,8 @@ DESCRIPTION:Helicopter Pumpkin Drop & Kids Halloween Festival ​\n\nJoin
   the bell tolls noon!\n\nThe event included with Museum admission.\n\nHaun
  ted Hangar Display is included with museum admission.\n\nMuseum Members ar
  e Free. Just show your membership at the door.\n\nAges: Family / kids\nSou
- rce: https://www.hiller.org/event/pumpkin-drop/\nLast synced: 2026-10-27 1
- 1:34 PDT
+ rce: https://www.hiller.org/event/pumpkin-drop/\nLast synced: 2026-10-28 1
+ 1:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/pumpkin-drop/
 END:VEVENT
@@ -921,7 +900,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Straw Rocket Workshop
 DTSTART;TZID=America/Los_Angeles:20261101T110000
 DTEND;TZID=America/Los_Angeles:20261101T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-10017545@local-events
 DESCRIPTION:Straw Rocket Workshop\n\nExplore the world of rocketry!\nEach 
  Air Rocket Blastoff features an introduction to rocketry and Newton’s Th
@@ -933,7 +912,7 @@ DESCRIPTION:Straw Rocket Workshop\n\nExplore the world of rocketry!\nEach
   6\, 2026\n\nGet your tickets\n\nThis Event is included with museum admis
  sion.\nMuseum Members are Free. Just show your membership at the door.\n\n
  Ages: All ages\nSource: https://www.hiller.org/event/straw-rocket-workshop
- -2/2026-11-01/\nLast synced: 2026-10-27 11:34 PDT
+ -2/2026-11-01/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/straw-rocket-workshop-2/2026-11-01/
 END:VEVENT
@@ -941,7 +920,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Helicopter Adventure
 DTSTART;TZID=America/Los_Angeles:20261108T110000
 DTEND;TZID=America/Los_Angeles:20261108T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-10017532@local-events
 DESCRIPTION:Helicopter Adventure\n\nDiscover the world of vertical flight!
  \n\nEach Helicopter Adventure starts with an introduction to the developme
@@ -953,7 +932,7 @@ DESCRIPTION:Helicopter Adventure\n\nDiscover the world of vertical flight!
   2026\n\nGet your tickets\n\nThis Event is included with museum admission
  .\nMuseum Members are Free. Just show your membership at the door.\n\nAges
  : All ages\nSource: https://www.hiller.org/event/helicopter-adventure/2026
- -11-08/\nLast synced: 2026-10-27 11:34 PDT
+ -11-08/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/helicopter-adventure/2026-11-08/
 END:VEVENT
@@ -961,7 +940,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Starlight Nights
 DTSTART;TZID=America/Los_Angeles:20261113T170000
 DTEND;TZID=America/Los_Angeles:20261113T190000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-10017557@local-events
 DESCRIPTION:Starlight Nights\n\nFall and winter evenings come alive at the
   Hiller Aviation Museum’s Starlight Nights!  The museum and gift shop r
@@ -975,7 +954,7 @@ DESCRIPTION:Starlight Nights\n\nFall and winter evenings come alive at the
  \nFriday February 12\, 2027\n\nGet your tickets\n\nThis Event is included
   with museum admission.\nMuseum Members are Free. Just show your membershi
  p at the door.\n\nAges: All ages\nSource: https://www.hiller.org/event/sta
- rlight-nights/2026-11-13/\nLast synced: 2026-10-27 11:34 PDT
+ rlight-nights/2026-11-13/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/starlight-nights/2026-11-13/
 END:VEVENT
@@ -983,7 +962,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] E-Waste Recycling
 DTSTART;TZID=America/Los_Angeles:20261114T100000
 DTEND;TZID=America/Los_Angeles:20261114T130000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-282384@local-events
 DESCRIPTION:E-Waste Recycling & Shredding\n\nThe Golden State Hauling and 
  Demolition truck will be under the big Hiller Aviation Museum sign.\n\nDel
@@ -994,7 +973,7 @@ DESCRIPTION:E-Waste Recycling & Shredding\n\nThe Golden State Hauling and
  San Mateo Area Chamber of Commerce\, Hiller Aviation Museum\, and Jessica 
  Govea\, owner of Golden State Hauling and Demolition.\n\nAges: All ages\nS
  ource: https://www.hiller.org/event/e-waste-recycling/\nLast synced: 2026-
- 10-27 11:34 PDT
+ 10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/e-waste-recycling/
 END:VEVENT
@@ -1002,7 +981,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Robot Roundup
 DTSTART;TZID=America/Los_Angeles:20261122T110000
 DTEND;TZID=America/Los_Angeles:20261122T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-10017539@local-events
 DESCRIPTION:Line Tracing Robots\n\nExplore screen-free coding with line tr
  acing Ozobot Robots!\n\nWith Ozobot Color Code Magnets\, the magnet pieces
@@ -1016,7 +995,7 @@ DESCRIPTION:Line Tracing Robots\n\nExplore screen-free coding with line tr
  recognition\, and logical reasoning. By arranging the magnets in different
   sequences\, they create coded tracks that instruct Ozobot how to move\, c
  hange speed\,…\n\nAges: All ages\nSource: https://www.hiller.org/event/r
- obot-roundup-2/2026-11-22/\nLast synced: 2026-10-27 11:34 PDT
+ obot-roundup-2/2026-11-22/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/robot-roundup-2/2026-11-22/
 END:VEVENT
@@ -1024,7 +1003,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Turkey Toss!
 DTSTART;TZID=America/Los_Angeles:20261125T110000
 DTEND;TZID=America/Los_Angeles:20261125T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-293042@local-events
 DESCRIPTION:Helicopter Turkey Toss & Turkey Hunt\n\nIn Commemoration of ar
  guably the greatest sitcom episode ever aired on TV\, the 1978 WKRP in Cin
@@ -1038,7 +1017,7 @@ DESCRIPTION:Helicopter Turkey Toss & Turkey Hunt\n\nIn Commemoration of ar
  \, squeezable Turkeys that the kids can take home with them.\n\nTo quote A
  rthur Carlson\, the GM of WKRP\, “As God is my witness\, I thought Turke
  ys could fly!”\n\nThere…\n\nAges: Family / kids\nSource: https://www.h
- iller.org/event/turkey-toss-2/\nLast synced: 2026-10-27 11:34 PDT
+ iller.org/event/turkey-toss-2/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/turkey-toss-2/
 END:VEVENT
@@ -1046,7 +1025,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Glider Discovery
 DTSTART;TZID=America/Los_Angeles:20261129T110000
 DTEND;TZID=America/Los_Angeles:20261129T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-10017529@local-events
 DESCRIPTION:Glider Discovery\n\nDiscover the world of flight in a special 
  outdoor family event!\n\nLearn the names of the different parts of the air
@@ -1058,7 +1037,7 @@ DESCRIPTION:Glider Discovery\n\nDiscover the world of flight in a special
  \, 2026\n\nGet your tickets\n\nThis Event is included with museum admissi
  on.\nMuseum Members are Free. Just show your membership at the door.\n\nAg
  es: Family / kids\nSource: https://www.hiller.org/event/glider-discovery/2
- 026-11-29/\nLast synced: 2026-10-27 11:34 PDT
+ 026-11-29/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/glider-discovery/2026-11-29/
 END:VEVENT
@@ -1066,7 +1045,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Santa Arrives by Helicopter
 DTSTART;TZID=America/Los_Angeles:20261205T093000
 DTEND;TZID=America/Los_Angeles:20261205T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-279682@local-events
 DESCRIPTION:Santa Arrives by Helicopter!\nRain or Shine!\n\nMove over Rudo
  lph. Santa is arriving in his personal helicopter!\n\nNo charge for Santa
@@ -1076,7 +1055,7 @@ DESCRIPTION:Santa Arrives by Helicopter!\nRain or Shine!\n\nMove over Rudo
  \n\nGet your tickets\n\nThis Event is included with museum admission.\nMu
  seum Members are Free. Just show your membership at the door.\n\nSponsored
   by:\n\nAges: All ages\nSource: https://www.hiller.org/event/santa-arrives
- -by-helicopter/\nLast synced: 2026-10-27 11:34 PDT
+ -by-helicopter/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/santa-arrives-by-helicopter/
 END:VEVENT
@@ -1084,7 +1063,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Straw Rocket Workshop
 DTSTART;TZID=America/Los_Angeles:20261206T110000
 DTEND;TZID=America/Los_Angeles:20261206T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-10017546@local-events
 DESCRIPTION:Straw Rocket Workshop\n\nExplore the world of rocketry!\nEach 
  Air Rocket Blastoff features an introduction to rocketry and Newton’s Th
@@ -1096,7 +1075,7 @@ DESCRIPTION:Straw Rocket Workshop\n\nExplore the world of rocketry!\nEach
   6\, 2026\n\nGet your tickets\n\nThis Event is included with museum admis
  sion.\nMuseum Members are Free. Just show your membership at the door.\n\n
  Ages: All ages\nSource: https://www.hiller.org/event/straw-rocket-workshop
- -2/2026-12-06/\nLast synced: 2026-10-27 11:34 PDT
+ -2/2026-12-06/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/straw-rocket-workshop-2/2026-12-06/
 END:VEVENT
@@ -1104,7 +1083,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Members Only: Wings & Winter Wishes
 DTSTART;TZID=America/Los_Angeles:20261212T090000
 DTEND;TZID=America/Los_Angeles:20261212T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-293023@local-events
 DESCRIPTION:Members Only Party\nWings & Winter Wishes\nSaturday\, December
   12\, 9:00 AM – 12:00 PM\n\nOn December 12th\, the museum opens its door
@@ -1118,8 +1097,8 @@ DESCRIPTION:Members Only Party\nWings & Winter Wishes\nSaturday\, December
  .\n\nJoin us for a peaceful\, creative start to your day and help spread t
  he holiday spirit one handmade card at a time.\n\nBecome a member or renew
   your membership…\n\nAges: Family / kids\nSource: https://www.hiller.org
- /event/members-only-wings-and-winter-wishes/\nLast synced: 2026-10-27 11:3
- 4 PDT
+ /event/members-only-wings-and-winter-wishes/\nLast synced: 2026-10-28 11:4
+ 2 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/members-only-wings-and-winter-wishes/
 END:VEVENT
@@ -1127,7 +1106,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Helicopter Adventure
 DTSTART;TZID=America/Los_Angeles:20261213T110000
 DTEND;TZID=America/Los_Angeles:20261213T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-10017533@local-events
 DESCRIPTION:Helicopter Adventure\n\nDiscover the world of vertical flight!
  \n\nEach Helicopter Adventure starts with an introduction to the developme
@@ -1139,7 +1118,7 @@ DESCRIPTION:Helicopter Adventure\n\nDiscover the world of vertical flight!
   2026\n\nGet your tickets\n\nThis Event is included with museum admission
  .\nMuseum Members are Free. Just show your membership at the door.\n\nAges
  : All ages\nSource: https://www.hiller.org/event/helicopter-adventure/2026
- -12-13/\nLast synced: 2026-10-27 11:34 PDT
+ -12-13/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/helicopter-adventure/2026-12-13/
 END:VEVENT
@@ -1147,7 +1126,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Starlight Nights
 DTSTART;TZID=America/Los_Angeles:20261218T170000
 DTEND;TZID=America/Los_Angeles:20261218T190000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-10017543@local-events
 DESCRIPTION:Starlight Nights\n\nFall and winter evenings come alive at the
   Hiller Aviation Museum’s Starlight Nights!  The museum and gift shop r
@@ -1161,7 +1140,7 @@ DESCRIPTION:Starlight Nights\n\nFall and winter evenings come alive at the
  \nFriday February 12\, 2027\n\nGet your tickets\n\nThis Event is included
   with museum admission.\nMuseum Members are Free. Just show your membershi
  p at the door.\n\nAges: All ages\nSource: https://www.hiller.org/event/sta
- rlight-nights/2026-12-18/\nLast synced: 2026-10-27 11:34 PDT
+ rlight-nights/2026-12-18/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/starlight-nights/2026-12-18/
 END:VEVENT
@@ -1169,7 +1148,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Glider Discovery
 DTSTART;TZID=America/Los_Angeles:20261220T110000
 DTEND;TZID=America/Los_Angeles:20261220T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-10017530@local-events
 DESCRIPTION:Glider Discovery\n\nDiscover the world of flight in a special 
  outdoor family event!\n\nLearn the names of the different parts of the air
@@ -1181,7 +1160,7 @@ DESCRIPTION:Glider Discovery\n\nDiscover the world of flight in a special
  \, 2026\n\nGet your tickets\n\nThis Event is included with museum admissi
  on.\nMuseum Members are Free. Just show your membership at the door.\n\nAg
  es: Family / kids\nSource: https://www.hiller.org/event/glider-discovery/2
- 026-12-20/\nLast synced: 2026-10-27 11:34 PDT
+ 026-12-20/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/glider-discovery/2026-12-20/
 END:VEVENT
@@ -1189,7 +1168,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Open Cockpit Day
 DTSTART;TZID=America/Los_Angeles:20261226T100000
 DTEND;TZID=America/Los_Angeles:20261226T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-282988@local-events
 DESCRIPTION:Open Cockpit Day\n\nJoin us for a unique opportunity to gain a
   pilot’s eye perspective on many of the Hiller Aviation Museum’s aircr
@@ -1203,7 +1182,7 @@ DESCRIPTION:Open Cockpit Day\n\nJoin us for a unique opportunity to gain a
  9 Albatross\nBell 47D\nHiller FH-1100\n\nUpcoming Dates\nSaturday December
   26\, 2026\n\nSponsored by\n\nGet your tickets\n\nThis Event is included 
  with museum admission.\nMuseum…\n\nAges: All ages\nSource: https://www.h
- iller.org/event/open-cockpit/\nLast synced: 2026-10-27 11:34 PDT
+ iller.org/event/open-cockpit/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/open-cockpit/
 END:VEVENT
@@ -1211,7 +1190,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Robot Roundup
 DTSTART;TZID=America/Los_Angeles:20261227T110000
 DTEND;TZID=America/Los_Angeles:20261227T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-10017540@local-events
 DESCRIPTION:Line Tracing Robots\n\nExplore screen-free coding with line tr
  acing Ozobot Robots!\n\nWith Ozobot Color Code Magnets\, the magnet pieces
@@ -1225,7 +1204,7 @@ DESCRIPTION:Line Tracing Robots\n\nExplore screen-free coding with line tr
  recognition\, and logical reasoning. By arranging the magnets in different
   sequences\, they create coded tracks that instruct Ozobot how to move\, c
  hange speed\,…\n\nAges: All ages\nSource: https://www.hiller.org/event/r
- obot-roundup-2/2026-12-27/\nLast synced: 2026-10-27 11:34 PDT
+ obot-roundup-2/2026-12-27/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/robot-roundup-2/2026-12-27/
 END:VEVENT
@@ -1233,7 +1212,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Air Power Adventure
 DTSTART;TZID=America/Los_Angeles:20261228T110000
 DTEND;TZID=America/Los_Angeles:20261228T113000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-293800@local-events
 DESCRIPTION:Air Power Adventure\n\nExperience the amazing power of Earth
  ’s atmosphere in a spectacular science demonstration!\n\nAir may be invi
@@ -1246,7 +1225,7 @@ DESCRIPTION:Air Power Adventure\n\nExperience the amazing power of Earth
  \nFriday December 26\, 2025\n\nGet your tickets\n\nThis Event is included
   with museum admission.\nMuseum Members are Free. Just show your membershi
  p at the door.\n\nAges: Family / kids\nSource: https://www.hiller.org/even
- t/air-power-adventure-2-2-3/\nLast synced: 2026-10-27 11:34 PDT
+ t/air-power-adventure-2-2-3/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/air-power-adventure-2-2-3/
 END:VEVENT
@@ -1254,7 +1233,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] U-2 & T-38 Pilot
 DTSTART;TZID=America/Los_Angeles:20261229T110000
 DTEND;TZID=America/Los_Angeles:20261229T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-293802@local-events
 DESCRIPTION:U-2 & T-38 Pilot \nJohn “Huggy” Huggins\nPresentation\nTu
  esday December 29\, 11AM\n\nAfter retiring from active duty in 2014\, Jon 
@@ -1266,7 +1245,7 @@ DESCRIPTION:U-2 & T-38 Pilot \nJohn “Huggy” Huggins\nPresentation\nTu
  popular air show announcer\, known for sharing his passion for aviation wi
  th audiences of all ages.\n\nPresentation is included with Museum admissio
  n.\n\nAges: Family / kids\nSource: https://www.hiller.org/event/u2-t38-pil
- ot/\nLast synced: 2026-10-27 11:34 PDT
+ ot/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/u2-t38-pilot/
 END:VEVENT
@@ -1274,7 +1253,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Happy Birds
 DTSTART;TZID=America/Los_Angeles:20261230T110000
 DTEND;TZID=America/Los_Angeles:20261230T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-291009@local-events
 DESCRIPTION:Happy Birds\n\nThis elite team of parrots\, macaws\, and cocka
  toos takes wing for a dazzling performance featuring a mix of wild and tra
@@ -1288,7 +1267,7 @@ DESCRIPTION:Happy Birds\n\nThis elite team of parrots\, macaws\, and cocka
   included with Museum admission. Free for Museum members. 🌺🦜✈️\n
  \nUpcoming Dates\nWednesday December 30\, 2026 at 11 AM\n\nGet your ticket
  s\n\nThis Event is included with…\n\nAges: All ages\nSource: https://ww
- w.hiller.org/event/happy-birds/\nLast synced: 2026-10-27 11:34 PDT
+ w.hiller.org/event/happy-birds/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/happy-birds/
 END:VEVENT
@@ -1296,7 +1275,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Noon Year’s Eve
 DTSTART;TZID=America/Los_Angeles:20261231T100000
 DTEND;TZID=America/Los_Angeles:20261231T130000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-283207@local-events
 DESCRIPTION:Noon Year’s Eve Celebration!\n\nThursday\, December 31\n10:0
  0 am – 1:00 pm\n\nKids and parents\, come celebrate the New Year with mu
@@ -1311,7 +1290,7 @@ DESCRIPTION:Noon Year’s Eve Celebration!\n\nThursday\, December 31\n10:0
  to ID at the Express Member Entry Door.\n\nFREE! Children (3 and under) (w
  ith Paid Adult)\nNo passes or other…\n\nAges: Family / kids\nSource: htt
  ps://www.hiller.org/event/noon-years-eve-a-fun-event-kids/\nLast synced: 2
- 026-10-27 11:34 PDT
+ 026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/noon-years-eve-a-fun-event-kids/
 END:VEVENT
@@ -1319,7 +1298,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Starlight Nights
 DTSTART;TZID=America/Los_Angeles:20270115T170000
 DTEND;TZID=America/Los_Angeles:20270115T190000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-10017579@local-events
 DESCRIPTION:Starlight Nights\n\nFall and winter evenings come alive at the
   Hiller Aviation Museum’s Starlight Nights!  The museum and gift shop r
@@ -1333,7 +1312,7 @@ DESCRIPTION:Starlight Nights\n\nFall and winter evenings come alive at the
  \nFriday February 12\, 2027\n\nGet your tickets\n\nThis Event is included
   with museum admission.\nMuseum Members are Free. Just show your membershi
  p at the door.\n\nAges: All ages\nSource: https://www.hiller.org/event/sta
- rlight-nights/2027-01-15/\nLast synced: 2026-10-27 11:34 PDT
+ rlight-nights/2027-01-15/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/starlight-nights/2027-01-15/
 END:VEVENT
@@ -1341,7 +1320,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Scout Day
 DTSTART;TZID=America/Los_Angeles:20270117T100000
 DTEND;TZID=America/Los_Angeles:20270117T170000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-10017549@local-events
 DESCRIPTION:Scout Day\n\nThe Hiller Aviation Museum provides complimentary
   admission to all BSA Scouts and Girl Scouts in uniform on Scout Days!  V
@@ -1355,7 +1334,7 @@ DESCRIPTION:Scout Day\n\nThe Hiller Aviation Museum provides complimentary
   aviation discovery.  Adult leaders in uniform or with Scout ID are also 
  admitted at no charge.  Standard admission fees apply for parents and sib
  lings (no charge…\n\nAges: All ages\nSource: https://www.hiller.org/even
- t/scout-day/2027-01-17/\nLast synced: 2026-10-27 11:34 PDT
+ t/scout-day/2027-01-17/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/scout-day/2027-01-17/
 END:VEVENT
@@ -1363,7 +1342,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Aero Design Challenge (ADC)
 DTSTART;TZID=America/Los_Angeles:20270207T133000
 DTEND;TZID=America/Los_Angeles:20270207T160000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-289528@local-events
 DESCRIPTION:Aero Design Challenge\nGrades 4-8\n\nAero Design Challenge is 
  an exploration into design and engineering. Each 2.5-hour program explores
@@ -1377,7 +1356,7 @@ DESCRIPTION:Aero Design Challenge\nGrades 4-8\n\nAero Design Challenge is
  um School Group Size of 30 Students Required\n\nFULLY BOOKED FOR 2024-2025
  .\nCheck back in September for the 2025-2026 school year theme and…\n\nA
  ges: All ages\nSource: https://www.hiller.org/event/adc/\nLast synced: 202
- 6-10-27 11:34 PDT
+ 6-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/adc/
 END:VEVENT
@@ -1385,7 +1364,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Starlight Nights
 DTSTART;TZID=America/Los_Angeles:20270212T170000
 DTEND;TZID=America/Los_Angeles:20270212T190000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiller-10017544@local-events
 DESCRIPTION:Starlight Nights\n\nFall and winter evenings come alive at the
   Hiller Aviation Museum’s Starlight Nights!  The museum and gift shop r
@@ -1399,7 +1378,7 @@ DESCRIPTION:Starlight Nights\n\nFall and winter evenings come alive at the
  \nFriday February 12\, 2027\n\nGet your tickets\n\nThis Event is included
   with museum admission.\nMuseum Members are Free. Just show your membershi
  p at the door.\n\nAges: All ages\nSource: https://www.hiller.org/event/sta
- rlight-nights/2027-02-12/\nLast synced: 2026-10-27 11:34 PDT
+ rlight-nights/2027-02-12/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/starlight-nights/2027-02-12/
 END:VEVENT
@@ -1407,13 +1386,13 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Archery – Halloween Edition
 DTSTART;TZID=America/Los_Angeles:20261031T110000
 DTEND;TZID=America/Los_Angeles:20261031T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-563-202610311100@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/563-archery-halloween-edition/region-HV/\n\nAges: Family /
   all ages\nRegistration: required\nSource: https://www.hiddenvilla.org/pro
  grams/catalog/563-archery-halloween-edition/region-HV/\nLast synced: 2026-
- 10-27 11:34 PDT
+ 10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/563-archery-halloween-edi
  tion/region-HV/
@@ -1422,13 +1401,13 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Archery – Halloween Edition
 DTSTART;TZID=America/Los_Angeles:20261031T130000
 DTEND;TZID=America/Los_Angeles:20261031T140000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-563-202610311300@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/563-archery-halloween-edition/region-HV/\n\nAges: Family /
   all ages\nRegistration: required\nSource: https://www.hiddenvilla.org/pro
  grams/catalog/563-archery-halloween-edition/region-HV/\nLast synced: 2026-
- 10-27 11:34 PDT
+ 10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/563-archery-halloween-edi
  tion/region-HV/
@@ -1437,13 +1416,13 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Block Printing Workshop: Mini Greeting Cards
 DTSTART;TZID=America/Los_Angeles:20261101T130000
 DTEND;TZID=America/Los_Angeles:20261101T160000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-547-202611011300@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/547-block-printing-workshop-mini-greeting-cards/region-HV/
  \n\nAges: Family / all ages\nRegistration: required\nSource: https://www.h
  iddenvilla.org/programs/catalog/547-block-printing-workshop-mini-greeting-
- cards/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ cards/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/547-block-printing-worksh
  op-mini-greeting-cards/region-HV/
@@ -1452,12 +1431,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Weekend Farm Tour
 DTSTART;TZID=America/Los_Angeles:20261108T100000
 DTEND;TZID=America/Los_Angeles:20261108T113000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-372-202611081000@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/372-weekend-farm-tour/region-HV/\n\nAges: Family / all age
  s\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/ca
- talog/372-weekend-farm-tour/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ talog/372-weekend-farm-tour/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/372-weekend-farm-tour/reg
  ion-HV/
@@ -1466,12 +1445,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Weekend Farm Tour
 DTSTART;TZID=America/Los_Angeles:20261115T130000
 DTEND;TZID=America/Los_Angeles:20261115T143000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-372-202611151300@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/372-weekend-farm-tour/region-HV/\n\nAges: Family / all age
  s\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/ca
- talog/372-weekend-farm-tour/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ talog/372-weekend-farm-tour/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/372-weekend-farm-tour/reg
  ion-HV/
@@ -1480,12 +1459,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Weekend Farm Tour
 DTSTART;TZID=America/Los_Angeles:20261121T100000
 DTEND;TZID=America/Los_Angeles:20261121T113000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-372-202611211000@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/372-weekend-farm-tour/region-HV/\n\nAges: Family / all age
  s\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/ca
- talog/372-weekend-farm-tour/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ talog/372-weekend-farm-tour/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/372-weekend-farm-tour/reg
  ion-HV/
@@ -1494,12 +1473,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Weekend Farm Tour
 DTSTART;TZID=America/Los_Angeles:20261212T100000
 DTEND;TZID=America/Los_Angeles:20261212T113000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-372-202612121000@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/372-weekend-farm-tour/region-HV/\n\nAges: Family / all age
  s\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/ca
- talog/372-weekend-farm-tour/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ talog/372-weekend-farm-tour/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/372-weekend-farm-tour/reg
  ion-HV/
@@ -1508,12 +1487,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Weekend Farm Tour
 DTSTART;TZID=America/Los_Angeles:20261212T130000
 DTEND;TZID=America/Los_Angeles:20261212T143000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-372-202612121300@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/372-weekend-farm-tour/region-HV/\n\nAges: Family / all age
  s\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/ca
- talog/372-weekend-farm-tour/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ talog/372-weekend-farm-tour/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/372-weekend-farm-tour/reg
  ion-HV/
@@ -1522,13 +1501,13 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Beginner Watercolor Live Instruction
 DTSTART;TZID=America/Los_Angeles:20261114T100000
 DTEND;TZID=America/Los_Angeles:20261114T123000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-564-202611141000@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/564-beginner-watercolor-live-instruction/region-HV/\n\nAge
  s: Family / all ages\nRegistration: required\nSource: https://www.hiddenvi
  lla.org/programs/catalog/564-beginner-watercolor-live-instruction/region-H
- V/\nLast synced: 2026-10-27 11:34 PDT
+ V/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/564-beginner-watercolor-l
  ive-instruction/region-HV/
@@ -1537,12 +1516,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Hoshigaki Workshop
 DTSTART;TZID=America/Los_Angeles:20261114T100000
 DTEND;TZID=America/Los_Angeles:20261114T110000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-566-202611141000@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/566-hoshigaki-workshop/region-HV/\n\nAges: Family / all ag
  es\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/c
- atalog/566-hoshigaki-workshop/region-HV/\nLast synced: 2026-10-27 11:34 PD
+ atalog/566-hoshigaki-workshop/region-HV/\nLast synced: 2026-10-28 11:42 PD
  T
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/566-hoshigaki-workshop/re
@@ -1552,12 +1531,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Hoshigaki Workshop
 DTSTART;TZID=America/Los_Angeles:20261114T130000
 DTEND;TZID=America/Los_Angeles:20261114T140000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-566-202611141300@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/566-hoshigaki-workshop/region-HV/\n\nAges: Family / all ag
  es\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/c
- atalog/566-hoshigaki-workshop/region-HV/\nLast synced: 2026-10-27 11:34 PD
+ atalog/566-hoshigaki-workshop/region-HV/\nLast synced: 2026-10-28 11:42 PD
  T
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/566-hoshigaki-workshop/re
@@ -1567,12 +1546,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Archery
 DTSTART;TZID=America/Los_Angeles:20261114T110000
 DTEND;TZID=America/Los_Angeles:20261114T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-460-202611141100@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/460-archery/region-HV/\n\nAges: Family / all ages\nRegistr
  ation: required\nSource: https://www.hiddenvilla.org/programs/catalog/460-
- archery/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ archery/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/460-archery/region-HV/
 END:VEVENT
@@ -1580,12 +1559,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Archery
 DTSTART;TZID=America/Los_Angeles:20261114T130000
 DTEND;TZID=America/Los_Angeles:20261114T140000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-460-202611141300@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/460-archery/region-HV/\n\nAges: Family / all ages\nRegistr
  ation: required\nSource: https://www.hiddenvilla.org/programs/catalog/460-
- archery/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ archery/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/460-archery/region-HV/
 END:VEVENT
@@ -1593,12 +1572,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Archery
 DTSTART;TZID=America/Los_Angeles:20261121T110000
 DTEND;TZID=America/Los_Angeles:20261121T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-460-202611211100@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/460-archery/region-HV/\n\nAges: Family / all ages\nRegistr
  ation: required\nSource: https://www.hiddenvilla.org/programs/catalog/460-
- archery/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ archery/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/460-archery/region-HV/
 END:VEVENT
@@ -1606,12 +1585,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Archery
 DTSTART;TZID=America/Los_Angeles:20261121T130000
 DTEND;TZID=America/Los_Angeles:20261121T140000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-460-202611211300@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/460-archery/region-HV/\n\nAges: Family / all ages\nRegistr
  ation: required\nSource: https://www.hiddenvilla.org/programs/catalog/460-
- archery/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ archery/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/460-archery/region-HV/
 END:VEVENT
@@ -1619,12 +1598,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Archery
 DTSTART;TZID=America/Los_Angeles:20261205T110000
 DTEND;TZID=America/Los_Angeles:20261205T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-460-202612051100@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/460-archery/region-HV/\n\nAges: Family / all ages\nRegistr
  ation: required\nSource: https://www.hiddenvilla.org/programs/catalog/460-
- archery/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ archery/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/460-archery/region-HV/
 END:VEVENT
@@ -1632,12 +1611,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Archery
 DTSTART;TZID=America/Los_Angeles:20261205T130000
 DTEND;TZID=America/Los_Angeles:20261205T140000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-460-202612051300@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/460-archery/region-HV/\n\nAges: Family / all ages\nRegistr
  ation: required\nSource: https://www.hiddenvilla.org/programs/catalog/460-
- archery/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ archery/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/460-archery/region-HV/
 END:VEVENT
@@ -1645,12 +1624,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Archery
 DTSTART;TZID=America/Los_Angeles:20261219T110000
 DTEND;TZID=America/Los_Angeles:20261219T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-460-202612191100@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/460-archery/region-HV/\n\nAges: Family / all ages\nRegistr
  ation: required\nSource: https://www.hiddenvilla.org/programs/catalog/460-
- archery/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ archery/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/460-archery/region-HV/
 END:VEVENT
@@ -1658,12 +1637,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Archery
 DTSTART;TZID=America/Los_Angeles:20261219T130000
 DTEND;TZID=America/Los_Angeles:20261219T140000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-460-202612191300@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/460-archery/region-HV/\n\nAges: Family / all ages\nRegistr
  ation: required\nSource: https://www.hiddenvilla.org/programs/catalog/460-
- archery/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ archery/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/460-archery/region-HV/
 END:VEVENT
@@ -1671,13 +1650,13 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Behind-the-Scenes with the Farmer
 DTSTART;TZID=America/Los_Angeles:20261115T083000
 DTEND;TZID=America/Los_Angeles:20261115T100000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-565-202611150830@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/565-behind-the-scenes-with-the-farmer/region-HV/\n\nAges: 
  Family / all ages\nRegistration: required\nSource: https://www.hiddenvilla
  .org/programs/catalog/565-behind-the-scenes-with-the-farmer/region-HV/\nLa
- st synced: 2026-10-27 11:34 PDT
+ st synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/565-behind-the-scenes-wit
  h-the-farmer/region-HV/
@@ -1686,13 +1665,13 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Behind-the-Scenes with the Farmer
 DTSTART;TZID=America/Los_Angeles:20261206T150000
 DTEND;TZID=America/Los_Angeles:20261206T163000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-565-202612061500@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/565-behind-the-scenes-with-the-farmer/region-HV/\n\nAges: 
  Family / all ages\nRegistration: required\nSource: https://www.hiddenvilla
  .org/programs/catalog/565-behind-the-scenes-with-the-farmer/region-HV/\nLa
- st synced: 2026-10-27 11:34 PDT
+ st synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/565-behind-the-scenes-wit
  h-the-farmer/region-HV/
@@ -1701,13 +1680,13 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Umoja Pranayama: Breathwork Fundamentals
 DTSTART;TZID=America/Los_Angeles:20261115T130000
 DTEND;TZID=America/Los_Angeles:20261115T143000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-515-202611151300@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/515-umoja-pranayama-breathwork-fundamentals/region-HV/\n\n
  Ages: Family / all ages\nRegistration: required\nSource: https://www.hidde
  nvilla.org/programs/catalog/515-umoja-pranayama-breathwork-fundamentals/re
- gion-HV/\nLast synced: 2026-10-27 11:34 PDT
+ gion-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/515-umoja-pranayama-breat
  hwork-fundamentals/region-HV/
@@ -1716,13 +1695,13 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Umoja Pranayama: Breathwork Fundamentals
 DTSTART;TZID=America/Los_Angeles:20261220T130000
 DTEND;TZID=America/Los_Angeles:20261220T143000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-515-202612201300@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/515-umoja-pranayama-breathwork-fundamentals/region-HV/\n\n
  Ages: Family / all ages\nRegistration: required\nSource: https://www.hidde
  nvilla.org/programs/catalog/515-umoja-pranayama-breathwork-fundamentals/re
- gion-HV/\nLast synced: 2026-10-27 11:34 PDT
+ gion-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/515-umoja-pranayama-breat
  hwork-fundamentals/region-HV/
@@ -1731,13 +1710,13 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Wreath Making Workshop
 DTSTART;TZID=America/Los_Angeles:20261128T130000
 DTEND;TZID=America/Los_Angeles:20261128T143000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-533-202611281300@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/533-wreath-making-workshop/region-HV/\n\nAges: Family / al
  l ages\nRegistration: required\nSource: https://www.hiddenvilla.org/progra
- ms/catalog/533-wreath-making-workshop/region-HV/\nLast synced: 2026-10-27 
- 11:34 PDT
+ ms/catalog/533-wreath-making-workshop/region-HV/\nLast synced: 2026-10-28 
+ 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/533-wreath-making-worksho
  p/region-HV/
@@ -1746,13 +1725,13 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Wreath Making Workshop
 DTSTART;TZID=America/Los_Angeles:20261205T100000
 DTEND;TZID=America/Los_Angeles:20261205T113000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-533-202612051000@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/533-wreath-making-workshop/region-HV/\n\nAges: Family / al
  l ages\nRegistration: required\nSource: https://www.hiddenvilla.org/progra
- ms/catalog/533-wreath-making-workshop/region-HV/\nLast synced: 2026-10-27 
- 11:34 PDT
+ ms/catalog/533-wreath-making-workshop/region-HV/\nLast synced: 2026-10-28 
+ 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/533-wreath-making-worksho
  p/region-HV/
@@ -1761,13 +1740,13 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Watercolor Holiday Cards
 DTSTART;TZID=America/Los_Angeles:20261205T100000
 DTEND;TZID=America/Los_Angeles:20261205T123000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-567-202612051000@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/567-watercolor-holiday-cards/region-HV/\n\nAges: Family / 
  all ages\nRegistration: required\nSource: https://www.hiddenvilla.org/prog
  rams/catalog/567-watercolor-holiday-cards/region-HV/\nLast synced: 2026-10
- -27 11:34 PDT
+ -28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/567-watercolor-holiday-ca
  rds/region-HV/
@@ -1776,12 +1755,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Star Party
 DTSTART;TZID=America/Los_Angeles:20261211T180000
 DTEND;TZID=America/Los_Angeles:20261211T200000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-555-202612111800@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/555-star-party/region-HV/\n\nAges: Family / all ages\nRegi
  stration: required\nSource: https://www.hiddenvilla.org/programs/catalog/5
- 55-star-party/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ 55-star-party/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/555-star-party/region-HV/
 END:VEVENT
@@ -1789,12 +1768,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Fungus Fundamentals
 DTSTART;TZID=America/Los_Angeles:20270116T100000
 DTEND;TZID=America/Los_Angeles:20270116T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-477-202701161000@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/477-fungus-fundamentals/region-HV/\n\nAges: Family / all a
  ges\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/
- catalog/477-fungus-fundamentals/region-HV/\nLast synced: 2026-10-27 11:34 
+ catalog/477-fungus-fundamentals/region-HV/\nLast synced: 2026-10-28 11:42 
  PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/477-fungus-fundamentals/r
@@ -1804,12 +1783,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Fungus Fundamentals
 DTSTART;TZID=America/Los_Angeles:20270213T100000
 DTEND;TZID=America/Los_Angeles:20270213T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-477-202702131000@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/477-fungus-fundamentals/region-HV/\n\nAges: Family / all a
  ges\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/
- catalog/477-fungus-fundamentals/region-HV/\nLast synced: 2026-10-27 11:34 
+ catalog/477-fungus-fundamentals/region-HV/\nLast synced: 2026-10-28 11:42 
  PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/477-fungus-fundamentals/r
@@ -1819,12 +1798,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Fungus Walks
 DTSTART;TZID=America/Los_Angeles:20270130T100000
 DTEND;TZID=America/Los_Angeles:20270130T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-478-202701301000@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/478-fungus-walks/region-HV/\n\nAges: Family / all ages\nRe
  gistration: required\nSource: https://www.hiddenvilla.org/programs/catalog
- /478-fungus-walks/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ /478-fungus-walks/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/478-fungus-walks/region-H
  V/
@@ -1833,12 +1812,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Fungus Walks
 DTSTART;TZID=America/Los_Angeles:20270227T100000
 DTEND;TZID=America/Los_Angeles:20270227T120000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-478-202702271000@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/478-fungus-walks/region-HV/\n\nAges: Family / all ages\nRe
  gistration: required\nSource: https://www.hiddenvilla.org/programs/catalog
- /478-fungus-walks/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ /478-fungus-walks/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/478-fungus-walks/region-H
  V/
@@ -1847,12 +1826,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Lamb Yoga
 DTSTART;TZID=America/Los_Angeles:20270131T100000
 DTEND;TZID=America/Los_Angeles:20270131T111500
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-40-202701311000@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/40-lamb-yoga/region-HV/\n\nAges: Family / all ages\nRegist
  ration: required\nSource: https://www.hiddenvilla.org/programs/catalog/40-
- lamb-yoga/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ lamb-yoga/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/40-lamb-yoga/region-HV/
 END:VEVENT
@@ -1860,12 +1839,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Lamb Yoga
 DTSTART;TZID=America/Los_Angeles:20270228T100000
 DTEND;TZID=America/Los_Angeles:20270228T111500
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-40-202702281000@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/40-lamb-yoga/region-HV/\n\nAges: Family / all ages\nRegist
  ration: required\nSource: https://www.hiddenvilla.org/programs/catalog/40-
- lamb-yoga/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ lamb-yoga/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/40-lamb-yoga/region-HV/
 END:VEVENT
@@ -1873,12 +1852,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Lamb Yoga
 DTSTART;TZID=America/Los_Angeles:20270328T100000
 DTEND;TZID=America/Los_Angeles:20270328T111500
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-40-202703281000@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/40-lamb-yoga/region-HV/\n\nAges: Family / all ages\nRegist
  ration: required\nSource: https://www.hiddenvilla.org/programs/catalog/40-
- lamb-yoga/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ lamb-yoga/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/40-lamb-yoga/region-HV/
 END:VEVENT
@@ -1886,12 +1865,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Lamb Yoga
 DTSTART;TZID=America/Los_Angeles:20270425T100000
 DTEND;TZID=America/Los_Angeles:20270425T111500
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:hiddenvilla-40-202704251000@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/40-lamb-yoga/region-HV/\n\nAges: Family / all ages\nRegist
  ration: required\nSource: https://www.hiddenvilla.org/programs/catalog/40-
- lamb-yoga/region-HV/\nLast synced: 2026-10-27 11:34 PDT
+ lamb-yoga/region-HV/\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/40-lamb-yoga/region-HV/
 END:VEVENT
@@ -1899,7 +1878,7 @@ BEGIN:VEVENT
 SUMMARY:[RWC] YogaRok with Astrid
 DTSTART;TZID=America/Los_Angeles:20261104T180000
 DTEND;TZID=America/Los_Angeles:20261104T190000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:littlegreen-lg-yogarok-with-astrid-20261104@local-events
 DESCRIPTION:YogaRok with Astrid Join Astrid and friends of the shop for an
   upbeat yoga vinyassa flow in our beautiful space! This is a 45min session
@@ -1909,7 +1888,7 @@ DESCRIPTION:YogaRok with Astrid Join Astrid and friends of the shop for an
  e to check back often to see what’s coming! October 7th\, October 21st\,
   November 4th\, November 18th - 6pm Recommended donation of $15. Proceeds 
  donated to Little Green.\n\nAges: All ages\nSource: https://www.littlegree
- naplantbar.com/classes\nLast synced: 2026-10-27 11:34 PDT
+ naplantbar.com/classes\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Little Green a Plant Bar\, 1101 Main St\, Redwood City\, CA 94063
 URL:https://www.littlegreenaplantbar.com/classes
 END:VEVENT
@@ -1917,7 +1896,7 @@ BEGIN:VEVENT
 SUMMARY:[RWC] YogaRok with Astrid
 DTSTART;TZID=America/Los_Angeles:20261118T180000
 DTEND;TZID=America/Los_Angeles:20261118T190000
-DTSTAMP:20261027T183442Z
+DTSTAMP:20261028T184231Z
 UID:littlegreen-lg-yogarok-with-astrid-20261118@local-events
 DESCRIPTION:YogaRok with Astrid Join Astrid and friends of the shop for an
   upbeat yoga vinyassa flow in our beautiful space! This is a 45min session
@@ -1927,8 +1906,1471 @@ DESCRIPTION:YogaRok with Astrid Join Astrid and friends of the shop for an
  e to check back often to see what’s coming! October 7th\, October 21st\,
   November 4th\, November 18th - 6pm Recommended donation of $15. Proceeds 
  donated to Little Green.\n\nAges: All ages\nSource: https://www.littlegree
- naplantbar.com/classes\nLast synced: 2026-10-27 11:34 PDT
+ naplantbar.com/classes\nLast synced: 2026-10-28 11:42 PDT
 LOCATION:Little Green a Plant Bar\, 1101 Main St\, Redwood City\, CA 94063
 URL:https://www.littlegreenaplantbar.com/classes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Magical Music & Motion: Shadow Puppet Theater
+DTSTART;TZID=America/Los_Angeles:20261101T110000
+DTEND;TZID=America/Los_Angeles:20261101T120000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-101417@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/101417/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/101417/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/101417/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261106T183000
+DTEND;TZID=America/Los_Angeles:20261106T193000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100922@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100922/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100922/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100922/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261107T120000
+DTEND;TZID=America/Los_Angeles:20261107T130000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100933@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100933/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100933/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100933/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Free Art Project at Magical Bridge Playground
+DTSTART;TZID=America/Los_Angeles:20261107T140000
+DTEND;TZID=America/Los_Angeles:20261107T150000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-101028@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/101028/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/101028/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Magical Bridge Playground\, Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/101028/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261107T150000
+DTEND;TZID=America/Los_Angeles:20261107T160000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100935@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100935/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100935/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100935/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261107T190000
+DTEND;TZID=America/Los_Angeles:20261107T200000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100957@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100957/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100957/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100957/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Magical Music & Motion: Woodside Cheer
+DTSTART;TZID=America/Los_Angeles:20261108T110000
+DTEND;TZID=America/Los_Angeles:20261108T120000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-93991@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/93991/2569?widgetId=50\n\nAges: All ages\nSource: https://www
+ .redwoodcity.org/Home/Components/Calendar/Event/93991/2569?widgetId=50\nLa
+ st synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/93991/2569?
+ widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261108T120000
+DTEND;TZID=America/Los_Angeles:20261108T130000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100944@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100944/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100944/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100944/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261108T150000
+DTEND;TZID=America/Los_Angeles:20261108T160000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100997@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100997/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100997/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100997/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Dia de los Muertos
+DTSTART;TZID=America/Los_Angeles:20261108T153000
+DTEND;TZID=America/Los_Angeles:20261108T163000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-101107@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/101107/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/101107/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/101107/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261108T180000
+DTEND;TZID=America/Los_Angeles:20261108T190000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100946@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100946/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100946/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100946/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261111T120000
+DTEND;TZID=America/Los_Angeles:20261111T130000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100982@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100982/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100982/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100982/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261111T160000
+DTEND;TZID=America/Los_Angeles:20261111T170000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100969@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100969/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100969/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100969/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261112T183000
+DTEND;TZID=America/Los_Angeles:20261112T193000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100932@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100932/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100932/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100932/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261113T160000
+DTEND;TZID=America/Los_Angeles:20261113T170000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100971@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100971/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100971/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100971/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261113T190000
+DTEND;TZID=America/Los_Angeles:20261113T200000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100979@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100979/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100979/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100979/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Science Fun Fest
+DTSTART;TZID=America/Los_Angeles:20261114T100000
+DTEND;TZID=America/Los_Angeles:20261114T110000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-98876@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98876/2569?widgetId=50\n\nAges: All ages\nSource: https://www
+ .redwoodcity.org/Home/Components/Calendar/Event/98876/2569?widgetId=50\nLa
+ st synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98876/2569?
+ widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261114T120000
+DTEND;TZID=America/Los_Angeles:20261114T130000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100990@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100990/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100990/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100990/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261114T150000
+DTEND;TZID=America/Los_Angeles:20261114T160000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100996@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100996/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100996/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100996/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261114T190000
+DTEND;TZID=America/Los_Angeles:20261114T200000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100978@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100978/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100978/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100978/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261115T120000
+DTEND;TZID=America/Los_Angeles:20261115T130000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100989@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100989/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100989/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100989/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261115T150000
+DTEND;TZID=America/Los_Angeles:20261115T160000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100995@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100995/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100995/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100995/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261115T180000
+DTEND;TZID=America/Los_Angeles:20261115T190000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100981@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100981/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100981/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100981/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261118T183000
+DTEND;TZID=America/Los_Angeles:20261118T193000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-101001@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/101001/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/101001/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/101001/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261119T183000
+DTEND;TZID=America/Los_Angeles:20261119T193000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-101000@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/101000/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/101000/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/101000/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261120T160000
+DTEND;TZID=America/Los_Angeles:20261120T170000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100973@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100973/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100973/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100973/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261120T190000
+DTEND;TZID=America/Los_Angeles:20261120T200000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100977@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100977/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100977/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100977/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261121T120000
+DTEND;TZID=America/Los_Angeles:20261121T130000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100987@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100987/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100987/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100987/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Free Art Project at Magical Bridge Playground
+DTSTART;TZID=America/Los_Angeles:20261121T140000
+DTEND;TZID=America/Los_Angeles:20261121T150000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-101027@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/101027/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/101027/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Magical Bridge Playground\, Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/101027/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261121T150000
+DTEND;TZID=America/Los_Angeles:20261121T160000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100994@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100994/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100994/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100994/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261121T190000
+DTEND;TZID=America/Los_Angeles:20261121T200000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100976@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100976/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100976/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100976/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261122T120000
+DTEND;TZID=America/Los_Angeles:20261122T130000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100986@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100986/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100986/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100986/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261122T150000
+DTEND;TZID=America/Los_Angeles:20261122T160000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100993@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100993/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100993/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100993/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261122T180000
+DTEND;TZID=America/Los_Angeles:20261122T190000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100980@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100980/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100980/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100980/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261124T183000
+DTEND;TZID=America/Los_Angeles:20261124T193000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100999@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100999/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100999/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100999/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261125T183000
+DTEND;TZID=America/Los_Angeles:20261125T193000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100998@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100998/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100998/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100998/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261127T120000
+DTEND;TZID=America/Los_Angeles:20261127T130000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100985@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100985/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100985/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100985/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261127T150000
+DTEND;TZID=America/Los_Angeles:20261127T160000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100967@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100967/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100967/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100967/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261127T190000
+DTEND;TZID=America/Los_Angeles:20261127T200000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100975@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100975/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100975/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100975/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261128T120000
+DTEND;TZID=America/Los_Angeles:20261128T130000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100984@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100984/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100984/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100984/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261128T150000
+DTEND;TZID=America/Los_Angeles:20261128T160000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100992@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100992/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100992/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100992/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261128T190000
+DTEND;TZID=America/Los_Angeles:20261128T200000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100974@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100974/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100974/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100974/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261129T120000
+DTEND;TZID=America/Los_Angeles:20261129T130000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100983@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100983/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100983/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100983/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Zoppé Italian Family Circus
+DTSTART;TZID=America/Los_Angeles:20261129T150000
+DTEND;TZID=America/Los_Angeles:20261129T160000
+DTSTAMP:20261028T184231Z
+UID:rwc-event-100991@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100991/2569?widgetId=50\n\nAges: All ages\nSource: https://ww
+ w.redwoodcity.org/Home/Components/Calendar/Event/100991/2569?widgetId=50\n
+ Last synced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100991/2569
+ ?widgetId=50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Open Makers At Night
+DTSTART;TZID=America/Los_Angeles:20261028T180000
+DTEND;TZID=America/Los_Angeles:20261028T190000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-100544@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100544/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d10%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/100544/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d10%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100544/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d10%26cury%3d2026&widg
+ etId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Open Makers
+DTSTART;TZID=America/Los_Angeles:20261030T143000
+DTEND;TZID=America/Los_Angeles:20261030T153000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-99433@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/99433/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d10%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/99433/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d10%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/99433/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d10%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Halloween at the Library
+DTSTART;TZID=America/Los_Angeles:20261031T100000
+DTEND;TZID=America/Los_Angeles:20261031T110000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-101084@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/101084/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d10%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/101084/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d10%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/101084/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d10%26cury%3d2026&widg
+ etId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Kid Makers: LEGO Robotics League
+DTSTART;TZID=America/Los_Angeles:20261101T123000
+DTEND;TZID=America/Los_Angeles:20261101T133000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98719@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98719/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98719/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98719/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Kid Makers: Coding Club
+DTSTART;TZID=America/Los_Angeles:20261101T140000
+DTEND;TZID=America/Los_Angeles:20261101T150000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98704@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98704/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98704/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98704/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Cuentos y Cantos
+DTSTART;TZID=America/Los_Angeles:20261102T103000
+DTEND;TZID=America/Los_Angeles:20261102T113000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-100417@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100417/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/100417/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100417/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widg
+ etId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Creative Tuesdays
+DTSTART;TZID=America/Los_Angeles:20261103T153000
+DTEND;TZID=America/Los_Angeles:20261103T163000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98988@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98988/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98988/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98988/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Drop In LEGO Robotics @ Schaberg
+DTSTART;TZID=America/Los_Angeles:20261103T153000
+DTEND;TZID=America/Los_Angeles:20261103T163000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-101175@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/101175/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/101175/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/101175/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widg
+ etId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] ESL Conversation Group
+DTSTART;TZID=America/Los_Angeles:20261103T170000
+DTEND;TZID=America/Los_Angeles:20261103T180000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98814@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98814/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98814/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98814/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Hearts and Paws Storytime with I.V. Mateo
+DTSTART;TZID=America/Los_Angeles:20261104T103000
+DTEND;TZID=America/Los_Angeles:20261104T113000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-100372@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100372/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/100372/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100372/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widg
+ etId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Essentrics® Stretch Workout @ Redwood Shores
+DTSTART;TZID=America/Los_Angeles:20261104T110000
+DTEND;TZID=America/Los_Angeles:20261104T120000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-97887@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/97887/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/97887/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/97887/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Stories Under the Big Top
+DTSTART;TZID=America/Los_Angeles:20261105T160000
+DTEND;TZID=America/Los_Angeles:20261105T170000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-101166@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/101166/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/101166/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/101166/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widg
+ etId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Open Makers
+DTSTART;TZID=America/Los_Angeles:20261106T143000
+DTEND;TZID=America/Los_Angeles:20261106T153000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-101245@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/101245/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/101245/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/101245/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widg
+ etId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Library@ The Farmers Market
+DTSTART;TZID=America/Los_Angeles:20261107T090000
+DTEND;TZID=America/Los_Angeles:20261107T100000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-99147@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/99147/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/99147/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/99147/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Kid Makers @ Redwood Shores
+DTSTART;TZID=America/Los_Angeles:20261107T110000
+DTEND;TZID=America/Los_Angeles:20261107T120000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98653@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98653/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98653/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98653/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Kid Makers
+DTSTART;TZID=America/Los_Angeles:20261107T140000
+DTEND;TZID=America/Los_Angeles:20261107T150000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98665@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98665/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98665/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98665/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Kid Makers: LEGO Robotics League
+DTSTART;TZID=America/Los_Angeles:20261108T123000
+DTEND;TZID=America/Los_Angeles:20261108T133000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98718@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98718/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98718/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98718/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Kid Makers: Coding Club
+DTSTART;TZID=America/Los_Angeles:20261108T140000
+DTEND;TZID=America/Los_Angeles:20261108T150000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98703@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98703/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98703/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98703/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Cuentos y Cantos
+DTSTART;TZID=America/Los_Angeles:20261109T103000
+DTEND;TZID=America/Los_Angeles:20261109T113000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-100421@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100421/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/100421/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100421/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widg
+ etId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Creative Tuesdays
+DTSTART;TZID=America/Los_Angeles:20261110T153000
+DTEND;TZID=America/Los_Angeles:20261110T163000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98987@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98987/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98987/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98987/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Drop In LEGO Robotics @ Schaberg
+DTSTART;TZID=America/Los_Angeles:20261110T153000
+DTEND;TZID=America/Los_Angeles:20261110T163000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-101181@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/101181/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/101181/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/101181/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widg
+ etId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] ESL Conversation Group
+DTSTART;TZID=America/Los_Angeles:20261110T170000
+DTEND;TZID=America/Los_Angeles:20261110T180000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98813@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98813/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98813/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98813/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Open Makers
+DTSTART;TZID=America/Los_Angeles:20261113T143000
+DTEND;TZID=America/Los_Angeles:20261113T153000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-101244@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/101244/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/101244/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/101244/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widg
+ etId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Dinosaur Day with Jurassic Jabber
+DTSTART;TZID=America/Los_Angeles:20261114T130000
+DTEND;TZID=America/Los_Angeles:20261114T140000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-100534@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100534/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/100534/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100534/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widg
+ etId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Kid Makers: LEGO Robotics League
+DTSTART;TZID=America/Los_Angeles:20261115T123000
+DTEND;TZID=America/Los_Angeles:20261115T133000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98717@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98717/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98717/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98717/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Kid Makers: Coding Club
+DTSTART;TZID=America/Los_Angeles:20261115T140000
+DTEND;TZID=America/Los_Angeles:20261115T150000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98702@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98702/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98702/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98702/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Cuentos y Cantos
+DTSTART;TZID=America/Los_Angeles:20261116T103000
+DTEND;TZID=America/Los_Angeles:20261116T113000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-100420@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100420/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/100420/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100420/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widg
+ etId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Creative Tuesdays
+DTSTART;TZID=America/Los_Angeles:20261117T153000
+DTEND;TZID=America/Los_Angeles:20261117T163000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98986@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98986/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98986/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98986/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Drop In LEGO Robotics @ Schaberg
+DTSTART;TZID=America/Los_Angeles:20261117T153000
+DTEND;TZID=America/Los_Angeles:20261117T163000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-101180@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/101180/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/101180/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/101180/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widg
+ etId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] ESL Conversation Group
+DTSTART;TZID=America/Los_Angeles:20261117T170000
+DTEND;TZID=America/Los_Angeles:20261117T180000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98812@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98812/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98812/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98812/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Native American Puppetry: The Three Sisters @ Redwood Shores
+DTSTART;TZID=America/Los_Angeles:20261117T180000
+DTEND;TZID=America/Los_Angeles:20261117T190000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-100702@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100702/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/100702/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100702/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widg
+ etId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Essentrics® Stretch Workout @ Redwood Shores
+DTSTART;TZID=America/Los_Angeles:20261118T110000
+DTEND;TZID=America/Los_Angeles:20261118T120000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-97886@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/97886/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/97886/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/97886/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Meet the Recruiters with Phase2Careers
+DTSTART;TZID=America/Los_Angeles:20261119T100000
+DTEND;TZID=America/Los_Angeles:20261119T110000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-99431@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/99431/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/99431/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/99431/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Third Thursday Book Club
+DTSTART;TZID=America/Los_Angeles:20261119T180000
+DTEND;TZID=America/Los_Angeles:20261119T190000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-101086@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/101086/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/101086/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/101086/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widg
+ etId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Open Makers
+DTSTART;TZID=America/Los_Angeles:20261120T143000
+DTEND;TZID=America/Los_Angeles:20261120T153000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-101243@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/101243/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/101243/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/101243/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widg
+ etId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Library@ The Farmers Market
+DTSTART;TZID=America/Los_Angeles:20261121T090000
+DTEND;TZID=America/Los_Angeles:20261121T100000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-99146@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/99146/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/99146/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/99146/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Habitat Gardening - Preparing for Winter!
+DTSTART;TZID=America/Los_Angeles:20261121T103000
+DTEND;TZID=America/Los_Angeles:20261121T113000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-101279@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/101279/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/101279/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/101279/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widg
+ etId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Seaside Story Hour with Marine Science Institute @ Redwood S
+ hores
+DTSTART;TZID=America/Los_Angeles:20261121T110000
+DTEND;TZID=America/Los_Angeles:20261121T120000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-97347@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/97347/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/97347/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/97347/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Kid Makers @ Schaberg
+DTSTART;TZID=America/Los_Angeles:20261121T110000
+DTEND;TZID=America/Los_Angeles:20261121T120000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98656@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98656/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98656/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98656/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Kid Makers: LEGO Robotics League
+DTSTART;TZID=America/Los_Angeles:20261122T123000
+DTEND;TZID=America/Los_Angeles:20261122T133000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98716@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98716/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98716/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98716/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Kid Makers: Coding Club
+DTSTART;TZID=America/Los_Angeles:20261122T140000
+DTEND;TZID=America/Los_Angeles:20261122T150000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98701@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98701/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98701/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98701/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Stories in the Park - Magical Bridge
+DTSTART;TZID=America/Los_Angeles:20261124T100000
+DTEND;TZID=America/Los_Angeles:20261124T110000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98408@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98408/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98408/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98408/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Creative Tuesdays
+DTSTART;TZID=America/Los_Angeles:20261124T153000
+DTEND;TZID=America/Los_Angeles:20261124T163000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98985@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98985/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98985/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98985/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Drop In LEGO Robotics @ Schaberg
+DTSTART;TZID=America/Los_Angeles:20261124T153000
+DTEND;TZID=America/Los_Angeles:20261124T163000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-101179@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/101179/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/101179/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/101179/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widg
+ etId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Kid Makers: LEGO Robotics League
+DTSTART;TZID=America/Los_Angeles:20261129T123000
+DTEND;TZID=America/Los_Angeles:20261129T133000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98715@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98715/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98715/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98715/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Kid Makers: Coding Club
+DTSTART;TZID=America/Los_Angeles:20261129T140000
+DTEND;TZID=America/Los_Angeles:20261129T150000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-98700@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/98700/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.re
+ dwoodcity.org/Home/Components/Calendar/Event/98700/2638?backlist=%2fdepart
+ ments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast syn
+ ced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/98700/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[RWC] Cuentos y Cantos
+DTSTART;TZID=America/Los_Angeles:20261130T103000
+DTEND;TZID=America/Los_Angeles:20261130T113000
+DTSTAMP:20261028T184231Z
+UID:rwc_library-rwclib-event-100418@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/100418/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm
+ %3d11%26cury%3d2026&widgetId=3987\n\nAges: All ages\nSource: https://www.r
+ edwoodcity.org/Home/Components/Calendar/Event/100418/2638?backlist=%2fdepa
+ rtments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast s
+ ynced: 2026-10-28 11:42 PDT
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/100418/2638
+ ?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widg
+ etId=3987
 END:VEVENT
 END:VCALENDAR
