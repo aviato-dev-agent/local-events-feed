@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] VolunTEEN Hour
 DTSTART;TZID=America/Los_Angeles:20261228T180000
 DTEND;TZID=America/Los_Angeles:20261228T190000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:smcl-6a6d088e0d65ac360043966e@local-events
 DESCRIPTION:Need some volunteer hours but don’t have a lot of time to co
  mmit? High school students can drop in to our library to help us with task
@@ -21,7 +21,7 @@ DESCRIPTION:Need some volunteer hours but don’t have a lot of time to co
   volunteer task every last Monday of the month between 6-7 PM. We’ll vou
  ch for your time well spent!\n\nAges: 12-18\nRegistration: none\nSource: h
  ttps://smcl.bibliocommons.com/events/6a6d088e0d65ac360043966e\nLast synced
- : 2026-11-13 12:20 PST
+ : 2026-11-14 10:40 PST
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6a6d088e0d65ac360043966e
 END:VEVENT
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:[ATH] VolunTEEN Hour
 DTSTART;TZID=America/Los_Angeles:20261130T180000
 DTEND;TZID=America/Los_Angeles:20261130T190000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:smcl-6a6d088e0d65ac360043966d@local-events
 DESCRIPTION:Need some volunteer hours but don’t have a lot of time to co
  mmit? High school students can drop in to our library to help us with task
@@ -39,7 +39,7 @@ DESCRIPTION:Need some volunteer hours but don’t have a lot of time to co
   volunteer task every last Monday of the month between 6-7 PM. We’ll vou
  ch for your time well spent!\n\nAges: 12-18\nRegistration: none\nSource: h
  ttps://smcl.bibliocommons.com/events/6a6d088e0d65ac360043966d\nLast synced
- : 2026-11-13 12:20 PST
+ : 2026-11-14 10:40 PST
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6a6d088e0d65ac360043966d
 END:VEVENT
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:[SC] Airport Runway Run
 DTSTART;TZID=America/Los_Angeles:20270404T070000
 DTEND;TZID=America/Los_Angeles:20270404T100000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:hiller-284148@local-events
 DESCRIPTION:11th Annual \nAirport Runway Run\n\nat San Carlos Airport\n\nR
  un • Jog • Walk\n\nTHIS EVENT HAS SOLD OUT \n\nNo delays on this tarm
@@ -62,7 +62,7 @@ DESCRIPTION:11th Annual \nAirport Runway Run\n\nat San Carlos Airport\n\nR
  ENT HAS \nSOLD OUT \n\nView Registration Fees\n \n\nVolunteers Get Compl
  imentary Donuts & T-shirt!\n\nView Sponsor Levels…\n\nAges: Family / kid
  s\nSource: https://www.hiller.org/event/airport-runway-run/\nLast synced: 
- 2026-11-13 12:20 PST
+ 2026-11-14 10:40 PST
 LOCATION:Hiller Aviation Museum\, 601 Skyway Rd.\, San Carlos
 URL:https://www.hiller.org/event/airport-runway-run/
 END:VEVENT
@@ -70,12 +70,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Trails Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20261117T090000
 DTEND;TZID=America/Los_Angeles:20261117T120000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:hiddenvilla-489-202611170900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/489-trails-volunteer-day/region-HV/\n\nAges: Family / all 
  ages\nRegistration: required\nSource: https://www.hiddenvilla.org/programs
- /catalog/489-trails-volunteer-day/region-HV/\nLast synced: 2026-11-13 12:2
+ /catalog/489-trails-volunteer-day/region-HV/\nLast synced: 2026-11-14 10:4
  0 PST
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/489-trails-volunteer-day/
@@ -85,12 +85,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Trails Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20261124T090000
 DTEND;TZID=America/Los_Angeles:20261124T120000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:hiddenvilla-489-202611240900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/489-trails-volunteer-day/region-HV/\n\nAges: Family / all 
  ages\nRegistration: required\nSource: https://www.hiddenvilla.org/programs
- /catalog/489-trails-volunteer-day/region-HV/\nLast synced: 2026-11-13 12:2
+ /catalog/489-trails-volunteer-day/region-HV/\nLast synced: 2026-11-14 10:4
  0 PST
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/489-trails-volunteer-day/
@@ -100,12 +100,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Trails Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20261201T090000
 DTEND;TZID=America/Los_Angeles:20261201T120000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:hiddenvilla-489-202612010900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/489-trails-volunteer-day/region-HV/\n\nAges: Family / all 
  ages\nRegistration: required\nSource: https://www.hiddenvilla.org/programs
- /catalog/489-trails-volunteer-day/region-HV/\nLast synced: 2026-11-13 12:2
+ /catalog/489-trails-volunteer-day/region-HV/\nLast synced: 2026-11-14 10:4
  0 PST
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/489-trails-volunteer-day/
@@ -115,12 +115,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Trails Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20261208T090000
 DTEND;TZID=America/Los_Angeles:20261208T120000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:hiddenvilla-489-202612080900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/489-trails-volunteer-day/region-HV/\n\nAges: Family / all 
  ages\nRegistration: required\nSource: https://www.hiddenvilla.org/programs
- /catalog/489-trails-volunteer-day/region-HV/\nLast synced: 2026-11-13 12:2
+ /catalog/489-trails-volunteer-day/region-HV/\nLast synced: 2026-11-14 10:4
  0 PST
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/489-trails-volunteer-day/
@@ -130,12 +130,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Trails Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20261215T090000
 DTEND;TZID=America/Los_Angeles:20261215T120000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:hiddenvilla-489-202612150900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/489-trails-volunteer-day/region-HV/\n\nAges: Family / all 
  ages\nRegistration: required\nSource: https://www.hiddenvilla.org/programs
- /catalog/489-trails-volunteer-day/region-HV/\nLast synced: 2026-11-13 12:2
+ /catalog/489-trails-volunteer-day/region-HV/\nLast synced: 2026-11-14 10:4
  0 PST
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/489-trails-volunteer-day/
@@ -145,12 +145,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Trails Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20261222T090000
 DTEND;TZID=America/Los_Angeles:20261222T120000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:hiddenvilla-489-202612220900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/489-trails-volunteer-day/region-HV/\n\nAges: Family / all 
  ages\nRegistration: required\nSource: https://www.hiddenvilla.org/programs
- /catalog/489-trails-volunteer-day/region-HV/\nLast synced: 2026-11-13 12:2
+ /catalog/489-trails-volunteer-day/region-HV/\nLast synced: 2026-11-14 10:4
  0 PST
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/489-trails-volunteer-day/
@@ -160,12 +160,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Farm Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20261118T090000
 DTEND;TZID=America/Los_Angeles:20261118T120000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:hiddenvilla-468-202611180900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/468-farm-volunteer-day/region-HV/\n\nAges: Family / all ag
  es\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/c
- atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-11-13 12:20 PS
+ atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-11-14 10:40 PS
  T
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/468-farm-volunteer-day/re
@@ -175,12 +175,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Farm Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20261121T090000
 DTEND;TZID=America/Los_Angeles:20261121T120000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:hiddenvilla-468-202611210900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/468-farm-volunteer-day/region-HV/\n\nAges: Family / all ag
  es\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/c
- atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-11-13 12:20 PS
+ atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-11-14 10:40 PS
  T
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/468-farm-volunteer-day/re
@@ -190,12 +190,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Farm Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20261125T090000
 DTEND;TZID=America/Los_Angeles:20261125T120000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:hiddenvilla-468-202611250900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/468-farm-volunteer-day/region-HV/\n\nAges: Family / all ag
  es\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/c
- atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-11-13 12:20 PS
+ atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-11-14 10:40 PS
  T
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/468-farm-volunteer-day/re
@@ -205,12 +205,12 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Farm Volunteer Day
 DTSTART;TZID=America/Los_Angeles:20261128T090000
 DTEND;TZID=America/Los_Angeles:20261128T120000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:hiddenvilla-468-202611280900@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/468-farm-volunteer-day/region-HV/\n\nAges: Family / all ag
  es\nRegistration: required\nSource: https://www.hiddenvilla.org/programs/c
- atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-11-13 12:20 PS
+ atalog/468-farm-volunteer-day/region-HV/\nLast synced: 2026-11-14 10:40 PS
  T
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/468-farm-volunteer-day/re
@@ -220,59 +220,22 @@ BEGIN:VEVENT
 SUMMARY:[LAH] Weekend Volunteer Training
 DTSTART;TZID=America/Los_Angeles:20270123T100000
 DTEND;TZID=America/Los_Angeles:20270123T143000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:hiddenvilla-534-202701231000@local-events
 DESCRIPTION:Hidden Villa program.\n\nSource: https://www.hiddenvilla.org/p
  rograms/catalog/534-weekend-volunteer-training/region-HV/\n\nAges: Family 
  / all ages\nRegistration: required\nSource: https://www.hiddenvilla.org/pr
  ograms/catalog/534-weekend-volunteer-training/region-HV/\nLast synced: 202
- 6-11-13 12:20 PST
+ 6-11-14 10:40 PST
 LOCATION:Hidden Villa\, 26870 Moody Road\, Los Altos Hills\, CA 94022
 URL:https://www.hiddenvilla.org/programs/catalog/534-weekend-volunteer-tra
  ining/region-HV/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[PA] Volunteer Outdoors in Palo Alto at Pearson-Arastradero Preser
- ve
-DTSTART;TZID=America/Los_Angeles:20261114T083000
-DTEND;TZID=America/Los_Angeles:20261114T113000
-DTSTAMP:20261113T202054Z
-UID:grassrootsecology-volunteer-at-pearson-arastradero-preserve@local-even
- ts
-DESCRIPTION:Restore biodiversity in a critical wildlife corridor!\n\nGrass
- roots Ecology has no minimum age\; children under 13 must be accompanied b
- y an adult and a minor waiver is required. Tools and gloves provided.\n\nA
- ges: All ages (under-13 with adult\, minor waiver required)\nRegistration:
-  required\nSource: https://www.grassrootsecology.org/event-calendar/2026/1
- 1/14/volunteer-at-pearson-arastradero-preserve\nLast synced: 2026-11-13 12
- :20 PST
-LOCATION:Pearson-Arastradero Preserve (map)
-URL:https://www.grassrootsecology.org/event-calendar/2026/11/14/volunteer-
- at-pearson-arastradero-preserve
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[PA] Volunteer Outdoors in Palo Alto: Bioretention Area Maintenanc
- e at Southgate
-DTSTART;TZID=America/Los_Angeles:20261114T090000
-DTEND;TZID=America/Los_Angeles:20261114T120000
-DTSTAMP:20261113T202054Z
-UID:grassrootsecology-volunteer-at-southgate@local-events
-DESCRIPTION:Join us to help maintain the bioretention area at Southgate in
-  Palo Alto.\n\nGrassroots Ecology has no minimum age\; children under 13 m
- ust be accompanied by an adult and a minor waiver is required. Tools and g
- loves provided.\n\nAges: All ages (under-13 with adult\, minor waiver requ
- ired)\nRegistration: required\nSource: https://www.grassrootsecology.org/e
- vent-calendar/2026/11/14/volunteer-at-southgate\nLast synced: 2026-11-13 1
- 2:20 PST
-LOCATION:Southgate Neighborhood (map)
-URL:https://www.grassrootsecology.org/event-calendar/2026/11/14/volunteer-
- at-southgate
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[LA] Plant at Byrne Preserve in Los Altos Hills
 DTSTART;TZID=America/Los_Angeles:20261115T090000
 DTEND;TZID=America/Los_Angeles:20261115T120000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:grassrootsecology-volunteer-at-byrne-preserve@local-events
 DESCRIPTION:Volunteer to install native plants to increase biodiversity at
   Byrne Preserve!\n\nGrassroots Ecology has no minimum age\; children under
@@ -280,7 +243,7 @@ DESCRIPTION:Volunteer to install native plants to increase biodiversity at
  and gloves provided.\n\nAges: All ages (under-13 with adult\, minor waiver
   required)\nRegistration: required\nSource: https://www.grassrootsecology.
  org/event-calendar/2026/11/15/volunteer-at-byrne-preserve\nLast synced: 20
- 26-11-13 12:20 PST
+ 26-11-14 10:40 PST
 LOCATION:Byrne Preserve (map)
 URL:https://www.grassrootsecology.org/event-calendar/2026/11/15/volunteer-
  at-byrne-preserve
@@ -289,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Volunteer Outside at Bear Creek Redwoods Preserve
 DTSTART;TZID=America/Los_Angeles:20261115T133000
 DTEND;TZID=America/Los_Angeles:20261115T163000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:grassrootsecology-volunteer-outdoors-bear-creek-redwoods-preserve@loca
  l-events
 DESCRIPTION:Remove invasive French broom in the Santa Cruz Mountains!\n\nG
@@ -298,7 +261,7 @@ DESCRIPTION:Remove invasive French broom in the Santa Cruz Mountains!\n\nG
  \n\nAges: All ages (under-13 with adult\, minor waiver required)\nRegistra
  tion: required\nSource: https://www.grassrootsecology.org/event-calendar/2
  026/11/15/volunteer-outdoors-bear-creek-redwoods-preserve\nLast synced: 20
- 26-11-13 12:20 PST
+ 26-11-14 10:40 PST
 LOCATION:Bear Creek Redwoods Preserve (PLEASE SEE EVENT DESCRIPTION FOR LO
  CATION) (map)
 URL:https://www.grassrootsecology.org/event-calendar/2026/11/15/volunteer-
@@ -309,7 +272,7 @@ SUMMARY:[PA] Seniors 65+: Volunteer Outdoors in Cupertino at McClellan Ran
  ch Preserve
 DTSTART;TZID=America/Los_Angeles:20261118T100000
 DTEND;TZID=America/Los_Angeles:20261118T120000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:grassrootsecology-seniors-volunteer-at-mcclellan-ranch-preserve-in-cup
  ertino@local-events
 DESCRIPTION:Help prune native plants and pull weeds in our meadow!\n\nGras
@@ -318,7 +281,7 @@ DESCRIPTION:Help prune native plants and pull weeds in our meadow!\n\nGras
  Ages: All ages (under-13 with adult\, minor waiver required)\nRegistration
  : required\nSource: https://www.grassrootsecology.org/event-calendar/2026/
  11/18/seniors-volunteer-at-mcclellan-ranch-preserve-in-cupertino\nLast syn
- ced: 2026-11-13 12:20 PST
+ ced: 2026-11-14 10:40 PST
 LOCATION:McClellan Ranch Preserve (map)
 URL:https://www.grassrootsecology.org/event-calendar/2026/11/18/seniors-vo
  lunteer-at-mcclellan-ranch-preserve-in-cupertino
@@ -327,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:[LA] Volunteer Outdoors at Redwood Grove in Los Altos
 DTSTART;TZID=America/Los_Angeles:20261120T090000
 DTEND;TZID=America/Los_Angeles:20261120T120000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:grassrootsecology-volunteer-outdoors-redwood-grove@local-events
 DESCRIPTION:Volunteer your time to help increase biodiversity in Los Altos
   at Redwood Grove Nature Preserve!\n\nGrassroots Ecology has no minimum ag
@@ -335,7 +298,7 @@ DESCRIPTION:Volunteer your time to help increase biodiversity in Los Altos
  s required. Tools and gloves provided.\n\nAges: All ages (under-13 with ad
  ult\, minor waiver required)\nRegistration: required\nSource: https://www.
  grassrootsecology.org/event-calendar/2026/11/20/volunteer-outdoors-redwood
- -grove\nLast synced: 2026-11-13 12:20 PST
+ -grove\nLast synced: 2026-11-14 10:40 PST
 LOCATION:Redwood Grove Nature Preserve (map)
 URL:https://www.grassrootsecology.org/event-calendar/2026/11/20/volunteer-
  outdoors-redwood-grove
@@ -344,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Volunteer Outside at McClellan Ranch Preserve in Cupertino
 DTSTART;TZID=America/Los_Angeles:20261120T090000
 DTEND;TZID=America/Los_Angeles:20261120T120000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:grassrootsecology-volunteer-at-mcclellan-ranch-preserve-in-cupertino@l
  ocal-events
 DESCRIPTION:Volunteer with Grassroots Ecology to steward a meadow ecosyste
@@ -353,7 +316,7 @@ DESCRIPTION:Volunteer with Grassroots Ecology to steward a meadow ecosyste
  vided.\n\nAges: All ages (under-13 with adult\, minor waiver required)\nRe
  gistration: required\nSource: https://www.grassrootsecology.org/event-cale
  ndar/2026/11/20/volunteer-at-mcclellan-ranch-preserve-in-cupertino\nLast s
- ynced: 2026-11-13 12:20 PST
+ ynced: 2026-11-14 10:40 PST
 LOCATION:McClellan Ranch Preserve (map)
 URL:https://www.grassrootsecology.org/event-calendar/2026/11/20/volunteer-
  at-mcclellan-ranch-preserve-in-cupertino
@@ -363,7 +326,7 @@ SUMMARY:[PA] Volunteer Outdoors in Alviso at the Burrowing Owl Project (18
  +)
 DTSTART;TZID=America/Los_Angeles:20261120T090000
 DTEND;TZID=America/Los_Angeles:20261120T120000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:grassrootsecology-alviso-san-jose-burrowing-owl-project@local-events
 DESCRIPTION:Improve habitat for the threatened South Bay burrowing owl pop
  ulation. This opportunity is for those aged 18+.\n\nGrassroots Ecology has
@@ -371,7 +334,7 @@ DESCRIPTION:Improve habitat for the threatened South Bay burrowing owl pop
  minor waiver is required. Tools and gloves provided.\n\nAges: All ages (un
  der-13 with adult\, minor waiver required)\nRegistration: required\nSource
  : https://www.grassrootsecology.org/event-calendar/2026/11/20/alviso-san-j
- ose-burrowing-owl-project\nLast synced: 2026-11-13 12:20 PST
+ ose-burrowing-owl-project\nLast synced: 2026-11-14 10:40 PST
 LOCATION:Burrowing Owl Project (map)
 URL:https://www.grassrootsecology.org/event-calendar/2026/11/20/alviso-san
  -jose-burrowing-owl-project
@@ -380,7 +343,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Volunteer Outdoors in MV Shoreline Marsh Habitat Restoration
 DTSTART;TZID=America/Los_Angeles:20261121T090000
 DTEND;TZID=America/Los_Angeles:20261121T120000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:grassrootsecology-volunteer-outdoors-in-mountain-view-shoreline@local-
  events
 DESCRIPTION:Volunteer your time with Grassroots Ecology to help increase b
@@ -389,7 +352,7 @@ DESCRIPTION:Volunteer your time with Grassroots Ecology to help increase b
  uired. Tools and gloves provided.\n\nAges: All ages (under-13 with adult\,
   minor waiver required)\nRegistration: required\nSource: https://www.grass
  rootsecology.org/event-calendar/2026/11/21/volunteer-outdoors-in-mountain-
- view-shoreline\nLast synced: 2026-11-13 12:20 PST
+ view-shoreline\nLast synced: 2026-11-14 10:40 PST
 LOCATION:PARKING LOCATION\, SEE DESCRIPTION FOR EVENT LOCATION (map)
 URL:https://www.grassrootsecology.org/event-calendar/2026/11/21/volunteer-
  outdoors-in-mountain-view-shoreline
@@ -399,7 +362,7 @@ SUMMARY:[PA] Morning Planting Party at Foothills Nature Preserve in Palo A
  lto
 DTSTART;TZID=America/Los_Angeles:20261123T090000
 DTEND;TZID=America/Los_Angeles:20261123T140000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:grassrootsecology-volunteer-outdoors-foothills-nature-preserve@local-e
  vents
 DESCRIPTION:Volunteer your time to increase biodiversity at Foothills Natu
@@ -408,7 +371,7 @@ DESCRIPTION:Volunteer your time to increase biodiversity at Foothills Natu
  d. Tools and gloves provided.\n\nAges: All ages (under-13 with adult\, min
  or waiver required)\nRegistration: required\nSource: https://www.grassroot
  secology.org/event-calendar/2026/11/23/volunteer-outdoors-foothills-nature
- -preserve\nLast synced: 2026-11-13 12:20 PST
+ -preserve\nLast synced: 2026-11-14 10:40 PST
 LOCATION:Foothills Nature Preserve Interpretive Center (map)
 URL:https://www.grassrootsecology.org/event-calendar/2026/11/23/volunteer-
  outdoors-foothills-nature-preserve
@@ -418,7 +381,7 @@ SUMMARY:[PA] Afternoon Planting Party at Foothills Nature Preserve in Palo
   Alto
 DTSTART;TZID=America/Los_Angeles:20261123T133000
 DTEND;TZID=America/Los_Angeles:20261123T163000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:grassrootsecology-volunteer-outdoors-foothills-nature-preserve-pm@loca
  l-events
 DESCRIPTION:Volunteer your time to increase biodiversity at Foothills Natu
@@ -427,7 +390,7 @@ DESCRIPTION:Volunteer your time to increase biodiversity at Foothills Natu
  d. Tools and gloves provided.\n\nAges: All ages (under-13 with adult\, min
  or waiver required)\nRegistration: required\nSource: https://www.grassroot
  secology.org/event-calendar/2026/11/23/volunteer-outdoors-foothills-nature
- -preserve-pm\nLast synced: 2026-11-13 12:20 PST
+ -preserve-pm\nLast synced: 2026-11-14 10:40 PST
 LOCATION:Foothills Nature Preserve Interpretive Center (map)
 URL:https://www.grassrootsecology.org/event-calendar/2026/11/23/volunteer-
  outdoors-foothills-nature-preserve-pm
@@ -436,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] Native Planting at Palo Alto Baylands!
 DTSTART;TZID=America/Los_Angeles:20261212T100000
 DTEND;TZID=America/Los_Angeles:20261212T130000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:savethebay-1406021@local-events
 DESCRIPTION:It is planting season! All the work we’ve done throughout th
  e year collecting seed\, growing and caring for our precious native plants
@@ -454,7 +417,7 @@ DESCRIPTION:It is planting season! All the work we’ve done throughout th
  vent — confirm with STB before registering.\n\nAges: 8+ recommended (6+ 
  with parent\, per-event confirmation)\nRegistration: required\nSource: htt
  ps://savesfbay.org/event/native-planting-at-palo-alto-baylands-ssnvyaw/\nL
- ast synced: 2026-11-13 12:20 PST
+ ast synced: 2026-11-14 10:40 PST
 LOCATION:San Francisco Bay Area
 URL:https://savesfbay.org/event/native-planting-at-palo-alto-baylands-ssnv
  yaw/
@@ -463,14 +426,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Esplanade Beach Cleanup\, Pacifica
 DTSTART;TZID=America/Los_Angeles:20261121T090000
 DTEND;TZID=America/Los_Angeles:20261121T110000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:pacificbeach-next-esplanade-beach-cleanup-2026-11-21@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-esplanade-beach-cleanup/\nL
- ast synced: 2026-11-13 12:20 PST
+ ast synced: 2026-11-14 10:40 PST
 LOCATION:Pacifica
 URL:https://www.pacificbeachcoalition.org/next-esplanade-beach-cleanup/
 END:VEVENT
@@ -478,14 +441,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Esplanade Beach Cleanup\, Pacifica
 DTSTART;TZID=America/Los_Angeles:20261220T090000
 DTEND;TZID=America/Los_Angeles:20261220T110000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:pacificbeach-next-esplanade-beach-cleanup-2026-12-20@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-esplanade-beach-cleanup/\nL
- ast synced: 2026-11-13 12:20 PST
+ ast synced: 2026-11-14 10:40 PST
 LOCATION:Pacifica
 URL:https://www.pacificbeachcoalition.org/next-esplanade-beach-cleanup/
 END:VEVENT
@@ -493,14 +456,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Linda Mar Beach Cleanup\, Pacifica
 DTSTART;TZID=America/Los_Angeles:20261121T090000
 DTEND;TZID=America/Los_Angeles:20261121T110000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:pacificbeach-next-beach-cleanup-linda-mar-2026-11-21@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-beach-cleanup-linda-mar/\nL
- ast synced: 2026-11-13 12:20 PST
+ ast synced: 2026-11-14 10:40 PST
 LOCATION:Pacifica
 URL:https://www.pacificbeachcoalition.org/next-beach-cleanup-linda-mar/
 END:VEVENT
@@ -508,14 +471,14 @@ BEGIN:VEVENT
 SUMMARY:[PAC] Linda Mar Beach Cleanup\, Pacifica
 DTSTART;TZID=America/Los_Angeles:20261219T090000
 DTEND;TZID=America/Los_Angeles:20261219T110000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:pacificbeach-next-beach-cleanup-linda-mar-2026-12-19@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-beach-cleanup-linda-mar/\nL
- ast synced: 2026-11-13 12:20 PST
+ ast synced: 2026-11-14 10:40 PST
 LOCATION:Pacifica
 URL:https://www.pacificbeachcoalition.org/next-beach-cleanup-linda-mar/
 END:VEVENT
@@ -523,14 +486,14 @@ BEGIN:VEVENT
 SUMMARY:[FC] Foster City Cleanup
 DTSTART;TZID=America/Los_Angeles:20261115T090000
 DTEND;TZID=America/Los_Angeles:20261115T110000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:pacificbeach-next-cleanup-foster-city-2026-11-15@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-cleanup-foster-city/\nLast 
- synced: 2026-11-13 12:20 PST
+ synced: 2026-11-14 10:40 PST
 LOCATION:Pacifica\, CA
 URL:https://www.pacificbeachcoalition.org/next-cleanup-foster-city/
 END:VEVENT
@@ -538,44 +501,29 @@ BEGIN:VEVENT
 SUMMARY:[FC] Foster City Cleanup
 DTSTART;TZID=America/Los_Angeles:20261220T090000
 DTEND;TZID=America/Los_Angeles:20261220T110000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:pacificbeach-next-cleanup-foster-city-2026-12-20@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-cleanup-foster-city/\nLast 
- synced: 2026-11-13 12:20 PST
+ synced: 2026-11-14 10:40 PST
 LOCATION:Pacifica\, CA
 URL:https://www.pacificbeachcoalition.org/next-cleanup-foster-city/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[HMB] Montara Beach Cleanup
-DTSTART;TZID=America/Los_Angeles:20261114T090000
-DTEND;TZID=America/Los_Angeles:20261114T110000
-DTSTAMP:20261113T202054Z
-UID:pacificbeach-next-beach-cleanup-montara-2026-11-14@local-events
-DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
- oalition cleanups are family-friendly\; under-14 must be adult-supervised.
-  Gloves and buckets available on-site — bring your own reusable ones if 
- you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
- ce: https://www.pacificbeachcoalition.org/next-beach-cleanup-montara/\nLas
- t synced: 2026-11-13 12:20 PST
-LOCATION:Pacifica\, CA
-URL:https://www.pacificbeachcoalition.org/next-beach-cleanup-montara/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[HMB] Montara Beach Cleanup
 DTSTART;TZID=America/Los_Angeles:20261212T090000
 DTEND;TZID=America/Los_Angeles:20261212T110000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:pacificbeach-next-beach-cleanup-montara-2026-12-12@local-events
 DESCRIPTION:Monthly Adopt-A-Beach cleanup (9am–11am).\n\nPacific Beach C
  oalition cleanups are family-friendly\; under-14 must be adult-supervised.
   Gloves and buckets available on-site — bring your own reusable ones if 
  you can.\n\nAges: All ages (under-14 with adult)\nRegistration: none\nSour
  ce: https://www.pacificbeachcoalition.org/next-beach-cleanup-montara/\nLas
- t synced: 2026-11-13 12:20 PST
+ t synced: 2026-11-14 10:40 PST
 LOCATION:Pacifica\, CA
 URL:https://www.pacificbeachcoalition.org/next-beach-cleanup-montara/
 END:VEVENT
@@ -583,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20261114T100000
 DTEND;TZID=America/Los_Angeles:20261114T150000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:static_recurring-bikex-2026-11-14@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -592,7 +540,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-11-13 12:20 PST
+ ps://bikex.org/\nLast synced: 2026-11-14 10:40 PST
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -601,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20261128T100000
 DTEND;TZID=America/Los_Angeles:20261128T150000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:static_recurring-bikex-2026-11-28@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -610,7 +558,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-11-13 12:20 PST
+ ps://bikex.org/\nLast synced: 2026-11-14 10:40 PST
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -619,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20261212T100000
 DTEND;TZID=America/Los_Angeles:20261212T150000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:static_recurring-bikex-2026-12-12@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -628,7 +576,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-11-13 12:20 PST
+ ps://bikex.org/\nLast synced: 2026-11-14 10:40 PST
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -637,7 +585,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20261226T100000
 DTEND;TZID=America/Los_Angeles:20261226T150000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:static_recurring-bikex-2026-12-26@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -646,7 +594,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-11-13 12:20 PST
+ ps://bikex.org/\nLast synced: 2026-11-14 10:40 PST
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -655,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20270109T100000
 DTEND;TZID=America/Los_Angeles:20270109T150000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:static_recurring-bikex-2027-01-09@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -664,7 +612,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-11-13 12:20 PST
+ ps://bikex.org/\nLast synced: 2026-11-14 10:40 PST
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -673,7 +621,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20270123T100000
 DTEND;TZID=America/Los_Angeles:20270123T150000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:static_recurring-bikex-2027-01-23@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -682,7 +630,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-11-13 12:20 PST
+ ps://bikex.org/\nLast synced: 2026-11-14 10:40 PST
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -691,7 +639,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20270213T100000
 DTEND;TZID=America/Los_Angeles:20270213T150000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:static_recurring-bikex-2027-02-13@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -700,7 +648,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-11-13 12:20 PST
+ ps://bikex.org/\nLast synced: 2026-11-14 10:40 PST
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -709,7 +657,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20270227T100000
 DTEND;TZID=America/Los_Angeles:20270227T150000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:static_recurring-bikex-2027-02-27@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -718,7 +666,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-11-13 12:20 PST
+ ps://bikex.org/\nLast synced: 2026-11-14 10:40 PST
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -727,7 +675,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20270313T100000
 DTEND;TZID=America/Los_Angeles:20270313T150000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:static_recurring-bikex-2027-03-13@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -736,7 +684,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-11-13 12:20 PST
+ ps://bikex.org/\nLast synced: 2026-11-14 10:40 PST
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -745,7 +693,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20270327T100000
 DTEND;TZID=America/Los_Angeles:20270327T150000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:static_recurring-bikex-2027-03-27@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -754,7 +702,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-11-13 12:20 PST
+ ps://bikex.org/\nLast synced: 2026-11-14 10:40 PST
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -763,7 +711,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20270410T100000
 DTEND;TZID=America/Los_Angeles:20270410T150000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:static_recurring-bikex-2027-04-10@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -772,7 +720,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-11-13 12:20 PST
+ ps://bikex.org/\nLast synced: 2026-11-14 10:40 PST
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -781,7 +729,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20270424T100000
 DTEND;TZID=America/Los_Angeles:20270424T150000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:static_recurring-bikex-2027-04-24@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -790,7 +738,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-11-13 12:20 PST
+ ps://bikex.org/\nLast synced: 2026-11-14 10:40 PST
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -799,7 +747,7 @@ BEGIN:VEVENT
 SUMMARY:[PA] SV Bicycle Exchange Open Workshop Day
 DTSTART;TZID=America/Los_Angeles:20270508T100000
 DTEND;TZID=America/Los_Angeles:20270508T150000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:static_recurring-bikex-2027-05-08@local-events
 DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  rs wipe down donated bikes\, fix flats\, and adjust brakes/derailleurs und
@@ -808,7 +756,7 @@ DESCRIPTION:Open workshop day at Silicon Valley Bicycle Exchange. Voluntee
  . No prior mechanical experience needed. Bikex mission: reduce transportat
  ion barriers by putting affordable bikes in the hands of people who need t
  hem.\n\nAges: All ages (kids with parent)\nRegistration: none\nSource: htt
- ps://bikex.org/\nLast synced: 2026-11-13 12:20 PST
+ ps://bikex.org/\nLast synced: 2026-11-14 10:40 PST
 LOCATION:Silicon Valley Bicycle Exchange\, 3961 E Bayshore Rd\, Palo Alto
  \, CA 94303
 URL:https://bikex.org/
@@ -818,7 +766,7 @@ SUMMARY:[O'Donohue Family Stanford Educational Farm] Volunteering at Stanf
  ord Educational Farm
 DTSTART;TZID=America/Los_Angeles:20261114T093000
 DTEND;TZID=America/Los_Angeles:20261114T113000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:stanford_campus-localist-47557682677329-51288078611417@local-events
 DESCRIPTION:Volunteers help keep the farm running. Volunteer tasks vary fr
  om week to week. Farm tasks may include keeping our fields free of weeds a
@@ -828,7 +776,7 @@ DESCRIPTION:Volunteers help keep the farm running. Volunteer tasks vary fr
  s you don't mind getting dirty! We have gloves and tools for all.\n\nWe we
  lcome volunteers 10 years old and older. Those between 10 and 14 years old
   a\n\nAges: All ages\nSource: https://farm.stanford.edu/volunteering\nLast
-  synced: 2026-11-13 12:20 PST
+  synced: 2026-11-14 10:40 PST
 LOCATION:O'Donohue Educational Farm
 URL:https://farm.stanford.edu/volunteering
 END:VEVENT
@@ -836,7 +784,7 @@ BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Public Tour | A Closer Look
 DTSTART;TZID=America/Los_Angeles:20261114T130000
 DTEND;TZID=America/Los_Angeles:20261114T140000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:stanford_campus-localist-53737430719656-53737430748353@local-events
 DESCRIPTION:Discover new details\, perspectives\, and connections with Can
  tor’s “A Closer Look” tours. Led by a Stanford Student Guide or volu
@@ -846,7 +794,7 @@ DESCRIPTION:Discover new details\, perspectives\, and connections with Can
  t require a reservation and are free of charge. The tour will last between
   45 minutes and an hour\, depending on the flow of conversation! Please ch
  eck in a\n\nAges: All ages\nSource: https://museum.stanford.edu/\nLast syn
- ced: 2026-11-13 12:20 PST
+ ced: 2026-11-14 10:40 PST
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/
 END:VEVENT
@@ -854,7 +802,7 @@ BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Public Tour | A Closer Look
 DTSTART;TZID=America/Los_Angeles:20261114T150000
 DTEND;TZID=America/Los_Angeles:20261114T160000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:stanford_campus-localist-53737452675144-53737452707937@local-events
 DESCRIPTION:Discover new details\, perspectives\, and connections with Can
  tor’s “A Closer Look” tours. Led by a Stanford Student Guide or volu
@@ -864,7 +812,7 @@ DESCRIPTION:Discover new details\, perspectives\, and connections with Can
  t require a reservation and are free of charge. The tour will last between
   45 minutes and an hour\, depending on the flow of conversation! Please ch
  eck in a\n\nAges: All ages\nSource: https://museum.stanford.edu/\nLast syn
- ced: 2026-11-13 12:20 PST
+ ced: 2026-11-14 10:40 PST
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/
 END:VEVENT
@@ -872,7 +820,7 @@ BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Public Tour | A Closer Look
 DTSTART;TZID=America/Los_Angeles:20261115T130000
 DTEND;TZID=America/Los_Angeles:20261115T140000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:stanford_campus-localist-53737430719656-53737430749378@local-events
 DESCRIPTION:Discover new details\, perspectives\, and connections with Can
  tor’s “A Closer Look” tours. Led by a Stanford Student Guide or volu
@@ -882,7 +830,7 @@ DESCRIPTION:Discover new details\, perspectives\, and connections with Can
  t require a reservation and are free of charge. The tour will last between
   45 minutes and an hour\, depending on the flow of conversation! Please ch
  eck in a\n\nAges: All ages\nSource: https://museum.stanford.edu/\nLast syn
- ced: 2026-11-13 12:20 PST
+ ced: 2026-11-14 10:40 PST
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/
 END:VEVENT
@@ -890,7 +838,7 @@ BEGIN:VEVENT
 SUMMARY:[Cantor Arts] Public Tour | A Closer Look
 DTSTART;TZID=America/Los_Angeles:20261115T150000
 DTEND;TZID=America/Los_Angeles:20261115T160000
-DTSTAMP:20261113T202054Z
+DTSTAMP:20261114T184029Z
 UID:stanford_campus-localist-53737452675144-53737452709986@local-events
 DESCRIPTION:Discover new details\, perspectives\, and connections with Can
  tor’s “A Closer Look” tours. Led by a Stanford Student Guide or volu
@@ -900,8 +848,28 @@ DESCRIPTION:Discover new details\, perspectives\, and connections with Can
  t require a reservation and are free of charge. The tour will last between
   45 minutes and an hour\, depending on the flow of conversation! Please ch
  eck in a\n\nAges: All ages\nSource: https://museum.stanford.edu/\nLast syn
- ced: 2026-11-13 12:20 PST
+ ced: 2026-11-14 10:40 PST
 LOCATION:Cantor Arts Center
 URL:https://museum.stanford.edu/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Center for Social Innovation] An Extreme Event: 🌿 Community-Le
+ d Social Innovation in Times of Crisis in Nepal
+DTSTART;TZID=America/Los_Angeles:20261116T170000
+DTEND;TZID=America/Los_Angeles:20261116T181500
+DTSTAMP:20261114T184029Z
+UID:stanford_campus-localist-54435822985780-54435822986805@local-events
+DESCRIPTION:About this Event\n\n​When devastating floods recently swept 
+ through Nepal\, the first line of defense wasn't distant aid organizations
+ —it was local communities leveraging decades of grassroots social innova
+ tion. Grounded in trusted relationships\, deep local knowledge\, and commu
+ nity-owned infrastructure\, local leaders and volunteers mobilized instant
+ ly to shelter displaced families\, deliver urgent care\, and close critica
+ l gaps that institutional relief often overlooks.\n\n​What does this tea
+ ch us abou\n\nAges: All ages\nSource: https://luma.com/68otwqbd\nLast sync
+ ed: 2026-11-14 10:40 PST
+LOCATION:Stanford Graduate School of Business\, 643 Jane Stanford Way\, St
+ anford\, CA. 94305
+URL:https://luma.com/68otwqbd
 END:VEVENT
 END:VCALENDAR
