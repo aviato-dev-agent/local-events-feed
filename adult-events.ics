@@ -8,10 +8,31 @@ X-WR-CALNAME:Adult Events
 X-PUBLISHED-TTL:PT1H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
+SUMMARY:[ATH] Winter Music Festival: Rob Hart Trio
+DTSTART;TZID=America/Los_Angeles:20261217T180000
+DTEND;TZID=America/Los_Angeles:20261217T190000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ad7d69a9dbc2b002c8fed8d@local-events
+DESCRIPTION:The Rob Hart Trio delivers a genre-blending jazz experience th
+ at’s as adventurous as it is intimate. Rooted in organic traditional jaz
+ z and energized by fusion\, funk\, Latin grooves\, and textural experiment
+ ation\, the trio creates high-powered\, on-the-edge improvisations that ke
+ ep audiences engaged from the first note to the last. Since the early 1990
+ s\, the group has evolved through multiple instrumental lineups\, constant
+ ly exploring new musical pathways. Between songs\, Rob brings listeners in
+ side the music with behind-the-scenes stories and inspiration\, turning ev
+ ery performance into a personal\, immersive journey."\n\nAges: Adult progr
+ am (kids welcome to tag along\, not designed for them)\nRegistration: none
+ \nSource: https://smcl.bibliocommons.com/events/6ad7d69a9dbc2b002c8fed8d\n
+ Last synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ad7d69a9dbc2b002c8fed8d
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[ATH] Open Sewing
 DTSTART;TZID=America/Los_Angeles:20261123T130000
 DTEND;TZID=America/Los_Angeles:20261123T143000
-DTSTAMP:20261120T205912Z
+DTSTAMP:20261121T195825Z
 UID:smcl-6a97468d341bb11431ee6a2c@local-events
 DESCRIPTION:Join us for open time to use the library’s sewing machines. 
  Bring your own project or pick from previous library sewing projects. Need
@@ -22,103 +43,78 @@ DESCRIPTION:Join us for open time to use the library’s sewing machines.
  registration required\, as time and space permit.\n\nAges: Adult program (
  kids welcome to tag along\, not designed for them)\nRegistration: none\nSo
  urce: https://smcl.bibliocommons.com/events/6a97468d341bb11431ee6a2c\nLast
-  synced: 2026-11-20 12:59 PST
+  synced: 2026-11-21 11:58 PST
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6a97468d341bb11431ee6a2c
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ATH] Creative Tools Exploration
-DTSTART;TZID=America/Los_Angeles:20261202T110000
-DTEND;TZID=America/Los_Angeles:20261202T120000
-DTSTAMP:20261120T205912Z
-UID:smcl-6acfbe56fee2d21deb233b8a@local-events
-DESCRIPTION:Need access to Adobe Creative Cloud or help with an Adobe Proj
- ect? Adobe Exploration is a drop in space where you can explore Adobe Crea
- tive Cloud and Makerspace Laptops. Bring your own project and work at your
-  own pace using Photoshop\, Illustrator\, Premiere Pro\, InDesign\, Acroba
- t\, and more. \n\nStaff are available to help you get started and answer q
- uestions.\n\nAges: Adult program (kids welcome to tag along\, not designed
-  for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/eve
- nts/6acfbe56fee2d21deb233b8a\nLast synced: 2026-11-20 12:59 PST
+SUMMARY:[ATH] Seasonal Tai Chi: Winter Session
+DTSTART;TZID=America/Los_Angeles:20270217T103000
+DTEND;TZID=America/Los_Angeles:20270217T113000
+DTSTAMP:20261121T195825Z
+UID:smcl-6aa31b1e8cf597003f92f2b4@local-events
+DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
+ ncestor of all other styles of Taijiquan. This class will introduce the Ch
+ en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
+ -style Taijiquan form is soft and graceful with strong rooted stands that 
+ will help students to develop strength\, balance\, coordination and an und
+ erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
+ of spiral movements that promote muscle relaxation and flexibility by redu
+ cing physical tension and strain. Wuji Qigong (standing meditation) will h
+ elp students to cultivate internal energy (qi) with proper body alignment 
+ for better internal energy flow\, which will enhance their immune systems 
+ and reduce physical and mental stress.\n\nPlease use the following form to
+  signup for email updates and an last-minute schedule changes. Registratio
+ n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
+ come to tag along\, not designed for them)\nRegistration: none\nSource: ht
+ tps://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b4\nLast synced:
+  2026-11-21 11:58 PST
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6acfbe56fee2d21deb233b8a
+URL:https://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ATH] Scrap: Cozy Winter Felting
-DTSTART;TZID=America/Los_Angeles:20261202T113000
-DTEND;TZID=America/Los_Angeles:20261202T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6aea216b377296003a50b78b@local-events
-DESCRIPTION:Learn to felt cozy and cute small ornaments - perfect for the 
- holiday season and to brighten up darkening days. This program is led by i
- nstructors from SCRAP SF. Space is limited\, and registration is required.
-  Due to high demand\, we ask that community members sign up for a single o
- ccurrence of this series so that as many community members as possible can
-  participate in this experience.\n\nRegistration is required\, and it will
-  open on Wednesday\, November 11 at 6:00pm.\n\nAges: Adult program (kids w
- elcome to tag along\, not designed for them)\nRegistration: required\nSour
- ce: https://smcl.bibliocommons.com/events/6aea216b377296003a50b78b\nLast s
- ynced: 2026-11-20 12:59 PST
+SUMMARY:[ATH] Open Sewing
+DTSTART;TZID=America/Los_Angeles:20261221T130000
+DTEND;TZID=America/Los_Angeles:20261221T143000
+DTSTAMP:20261121T195825Z
+UID:smcl-6a97468d341bb11431ee6a2e@local-events
+DESCRIPTION:Join us for open time to use the library’s sewing machines. 
+ Bring your own project or pick from previous library sewing projects. Need
+ les\, thread\, iron\, and cutting tools are provided for use in the librar
+ y. No fabric is provided except for scraps. This program is intended for i
+ ndividuals who can use the sewing machines independently. There will be n
+ o formal instruction.\n\n\nThis program is open only to adults 18+.\n\nNo 
+ registration required\, as time and space permit.\n\nAges: Adult program (
+ kids welcome to tag along\, not designed for them)\nRegistration: none\nSo
+ urce: https://smcl.bibliocommons.com/events/6a97468d341bb11431ee6a2e\nLast
+  synced: 2026-11-21 11:58 PST
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6aea216b377296003a50b78b
+URL:https://smcl.bibliocommons.com/events/6a97468d341bb11431ee6a2e
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ATH] Step Into Wellness: Walking Club
-DTSTART;TZID=America/Los_Angeles:20261204T094500
-DTEND;TZID=America/Los_Angeles:20261204T104500
-DTSTAMP:20261120T205912Z
-UID:smcl-695848ade3e3999b5c057d47@local-events
-DESCRIPTION:Looking for a fun and healthy way to connect with others? Join
-  the \nAtherton Library's  Walking Club and explore the scenic beauty of H
- olbrook Palmer Park\n while enjoying the fresh air and good company. Walki
- ng regularly offers\n numerous health benefits\, including improved cardio
- vascular health\, \nstronger bones\, better balance\, enhanced mood\, and 
- increased energy \nlevels.\n\nThis group is a great way to stay active\, m
- eet new friends\, and \ndiscover the joy of walking together. Routes withi
- n the park are \naccessible and paced to accommodate all fitness levels. C
- omfortable \nshoes and a sense of adventure are all you need to participat
- e!\n\nSpecial Walks – Every Third Friday! \n\n\nWe’re excited to intro
- duce\nSpecial Walks on the third Friday of every month! These outings will
-  take us to scenic locations just a 15-minute drive from\nthe Atherton Lib
- rary\, offering new trails and beautiful views.\n\n\n\nVisit our Walking C
- lub Hub for more information and updates!\n\n\nThe walking club will meet 
- at the Jennings Pavilion at Holbrook Palmer Park. Let’s step into wellne
- ss together!\n\nAges: Adult program (kids welcome to tag along\, not desig
- ned for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/
- events/695848ade3e3999b5c057d47\nLast synced: 2026-11-20 12:59 PST
+SUMMARY:[ATH] Cookbook Book Club
+DTSTART;TZID=America/Los_Angeles:20270114T180000
+DTEND;TZID=America/Los_Angeles:20270114T190000
+DTSTAMP:20261121T195825Z
+UID:smcl-6a6d051d88e9bf280034ac83@local-events
+DESCRIPTION:Do you love food and cooking? Join us for the Cookbook Book Cl
+ ub\,\n where each month we explore a new cookbook\, try out recipes\, and 
+ share \nour experiences. The featured cookbook will be available for check
+ out at the\n meeting. \n\n*NOTE: for this month\, the Cookbook Club will t
+ ake place on the first Thursday of the month.\n\n\nVisit our Cookbook Book
+  Club Info Hub      to find out more! \n\nNo registration is required at t
+ his time. This book club is for adults ages 18+.\n\nAges: Adult program (k
+ ids welcome to tag along\, not designed for them)\nRegistration: none\nSou
+ rce: https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac83\nLast 
+ synced: 2026-11-21 11:58 PST
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/695848ade3e3999b5c057d47
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Winter Music Festival: Dan Ashley - News Anchor and Rock Sta
- r!
-DTSTART;TZID=America/Los_Angeles:20261209T120000
-DTEND;TZID=America/Los_Angeles:20261209T130000
-DTSTAMP:20261120T205912Z
-UID:smcl-6ad7d66a9dbc2b002c8fed66@local-events
-DESCRIPTION:Dan Ashley\, the longtime ABC7 evening news anchor/reporter\, 
- is also a Rock Star! Dan looks forward to returning to several San Mateo C
- ounty Libraries since last year and is excited to add performances at new 
- ones. He has spent many hours in both public and university libraries and 
- is honored to bring his storytelling\, through his original\, remarkable s
- ongs\, to everyone at the county libraries. Dan is a recording artist and 
- will sing accompanied by his amazing guitarist\, Jeff Tamelier\, who was t
- he longtime touring guitarist for Tower of Power and Starship. Together\, 
- they will bring an unforgettable acoustic performance of contemporary Coun
- try/Americana Rock music\, including originals heard online and on the rad
- io\, as well as familiar covers. Come join us\, sing along\, clap your han
- ds\, stomp your feet\, bob your heads\, and get ready to Rock!\n\nAges: Ad
- ult program (kids welcome to tag along\, not designed for them)\nRegistrat
- ion: none\nSource: https://smcl.bibliocommons.com/events/6ad7d66a9dbc2b002
- c8fed66\nLast synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6ad7d66a9dbc2b002c8fed66
+URL:https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac83
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ATH] Cookbook Book Club
 DTSTART;TZID=America/Los_Angeles:20261210T180000
 DTEND;TZID=America/Los_Angeles:20261210T190000
-DTSTAMP:20261120T205912Z
+DTSTAMP:20261121T195825Z
 UID:smcl-6a6d051d88e9bf280034ac82@local-events
 DESCRIPTION:Do you love food and cooking? Join us for the Cookbook Book Cl
  ub\,\n where each month we explore a new cookbook\, try out recipes\, and 
@@ -129,34 +125,87 @@ DESCRIPTION:Do you love food and cooking? Join us for the Cookbook Book Cl
  his time. This book club is for adults ages 18+.\n\nAges: Adult program (k
  ids welcome to tag along\, not designed for them)\nRegistration: none\nSou
  rce: https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac82\nLast 
- synced: 2026-11-20 12:59 PST
+ synced: 2026-11-21 11:58 PST
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac82
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ATH] Winter Restorative Yoga and Sound Healing
-DTSTART;TZID=America/Los_Angeles:20261210T183000
-DTEND;TZID=America/Los_Angeles:20261210T200000
-DTSTAMP:20261120T205912Z
-UID:smcl-6aeb673d3c35b95bcb29a918@local-events
-DESCRIPTION:We are entering a time of celebration\, sharing and gift givin
- g. How often in the hectic holiday season do we gift our self a reprieve f
- rom the hustle and bustle ? Here is your chance to gift your self a time o
- f rest\, rejuvenation\, and refocus. Whether it is ending the year or star
- ting the year\, gift your self this time. Come join us for restorative yog
- a and sound healing at the Library!\n\nRegistration will open on November 
- 19 @ 6:00 PM. Space is limited.\n\nAges: Adult program (kids welcome to ta
- g along\, not designed for them)\nRegistration: required\nSource: https://
- smcl.bibliocommons.com/events/6aeb673d3c35b95bcb29a918\nLast synced: 2026-
- 11-20 12:59 PST
+SUMMARY:[ATH] Cookbook Book Club
+DTSTART;TZID=America/Los_Angeles:20270211T180000
+DTEND;TZID=America/Los_Angeles:20270211T190000
+DTSTAMP:20261121T195825Z
+UID:smcl-6a6d051d88e9bf280034ac84@local-events
+DESCRIPTION:Do you love food and cooking? Join us for the Cookbook Book Cl
+ ub\,\n where each month we explore a new cookbook\, try out recipes\, and 
+ share \nour experiences. The featured cookbook will be available for check
+ out at the\n meeting. \n\n*NOTE: for this month\, the Cookbook Club will t
+ ake place on the first Thursday of the month.\n\n\nVisit our Cookbook Book
+  Club Info Hub      to find out more! \n\nNo registration is required at t
+ his time. This book club is for adults ages 18+.\n\nAges: Adult program (k
+ ids welcome to tag along\, not designed for them)\nRegistration: none\nSou
+ rce: https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac84\nLast 
+ synced: 2026-11-21 11:58 PST
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6aeb673d3c35b95bcb29a918
+URL:https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac84
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Cookbook Book Club
+DTSTART;TZID=America/Los_Angeles:20270311T180000
+DTEND;TZID=America/Los_Angeles:20270311T190000
+DTSTAMP:20261121T195825Z
+UID:smcl-6a6d051d88e9bf280034ac85@local-events
+DESCRIPTION:Do you love food and cooking? Join us for the Cookbook Book Cl
+ ub\,\n where each month we explore a new cookbook\, try out recipes\, and 
+ share \nour experiences. The featured cookbook will be available for check
+ out at the\n meeting. \n\n*NOTE: for this month\, the Cookbook Club will t
+ ake place on the first Thursday of the month.\n\n\nVisit our Cookbook Book
+  Club Info Hub      to find out more! \n\nNo registration is required at t
+ his time. This book club is for adults ages 18+.\n\nAges: Adult program (k
+ ids welcome to tag along\, not designed for them)\nRegistration: none\nSou
+ rce: https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac85\nLast 
+ synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac85
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Atherton Book Club
+DTSTART;TZID=America/Los_Angeles:20270127T110000
+DTEND;TZID=America/Los_Angeles:20270127T120000
+DTSTAMP:20261121T195825Z
+UID:smcl-696aab8eb0595799c096cda6@local-events
+DESCRIPTION:Join us for the Atherton Book Club every fourth Wednesday of t
+ he month from 11:00 AM - 12:00 PM. We will be engaging in fun and lively d
+ iscussions about books each month. We want to create a safe environment wh
+ ere everyone feels welcome and heard. All book club participants can nomin
+ ate book selections\, and we vote on the selection as a group. Please join
+  us!\n\nAges: Adult program (kids welcome to tag along\, not designed for 
+ them)\nRegistration: required\nSource: https://smcl.bibliocommons.com/even
+ ts/696aab8eb0595799c096cda6\nLast synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/696aab8eb0595799c096cda6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Atherton Book Club
+DTSTART;TZID=America/Los_Angeles:20261223T110000
+DTEND;TZID=America/Los_Angeles:20261223T120000
+DTSTAMP:20261121T195825Z
+UID:smcl-696aab8eb0595799c096cda5@local-events
+DESCRIPTION:Join us for the Atherton Book Club every fourth Wednesday of t
+ he month from 11:00 AM - 12:00 PM. We will be engaging in fun and lively d
+ iscussions about books each month. We want to create a safe environment wh
+ ere everyone feels welcome and heard. All book club participants can nomin
+ ate book selections\, and we vote on the selection as a group. Please join
+  us!\n\nAges: Adult program (kids welcome to tag along\, not designed for 
+ them)\nRegistration: required\nSource: https://smcl.bibliocommons.com/even
+ ts/696aab8eb0595799c096cda5\nLast synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/696aab8eb0595799c096cda5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ATH] Step Into Wellness: Walking Club
 DTSTART;TZID=America/Los_Angeles:20261211T094500
 DTEND;TZID=America/Los_Angeles:20261211T104500
-DTSTAMP:20261120T205912Z
+DTSTAMP:20261121T195825Z
 UID:smcl-695848ade3e3999b5c057d48@local-events
 DESCRIPTION:Looking for a fun and healthy way to connect with others? Join
   the \nAtherton Library's  Walking Club and explore the scenic beauty of H
@@ -175,15 +224,103 @@ DESCRIPTION:Looking for a fun and healthy way to connect with others? Join
  at the Jennings Pavilion at Holbrook Palmer Park. Let’s step into wellne
  ss together!\n\nAges: Adult program (kids welcome to tag along\, not desig
  ned for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/
- events/695848ade3e3999b5c057d48\nLast synced: 2026-11-20 12:59 PST
+ events/695848ade3e3999b5c057d48\nLast synced: 2026-11-21 11:58 PST
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/695848ade3e3999b5c057d48
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Step Into Wellness: Walking Club
+DTSTART;TZID=America/Los_Angeles:20261204T094500
+DTEND;TZID=America/Los_Angeles:20261204T104500
+DTSTAMP:20261121T195825Z
+UID:smcl-695848ade3e3999b5c057d47@local-events
+DESCRIPTION:Looking for a fun and healthy way to connect with others? Join
+  the \nAtherton Library's  Walking Club and explore the scenic beauty of H
+ olbrook Palmer Park\n while enjoying the fresh air and good company. Walki
+ ng regularly offers\n numerous health benefits\, including improved cardio
+ vascular health\, \nstronger bones\, better balance\, enhanced mood\, and 
+ increased energy \nlevels.\n\nThis group is a great way to stay active\, m
+ eet new friends\, and \ndiscover the joy of walking together. Routes withi
+ n the park are \naccessible and paced to accommodate all fitness levels. C
+ omfortable \nshoes and a sense of adventure are all you need to participat
+ e!\n\nSpecial Walks – Every Third Friday! \n\n\nWe’re excited to intro
+ duce\nSpecial Walks on the third Friday of every month! These outings will
+  take us to scenic locations just a 15-minute drive from\nthe Atherton Lib
+ rary\, offering new trails and beautiful views.\n\n\n\nVisit our Walking C
+ lub Hub for more information and updates!\n\n\nThe walking club will meet 
+ at the Jennings Pavilion at Holbrook Palmer Park. Let’s step into wellne
+ ss together!\n\nAges: Adult program (kids welcome to tag along\, not desig
+ ned for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/
+ events/695848ade3e3999b5c057d47\nLast synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/695848ade3e3999b5c057d47
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Cookbook Book Club
+DTSTART;TZID=America/Los_Angeles:20270513T180000
+DTEND;TZID=America/Los_Angeles:20270513T190000
+DTSTAMP:20261121T195825Z
+UID:smcl-6a6d051d88e9bf280034ac87@local-events
+DESCRIPTION:Do you love food and cooking? Join us for the Cookbook Book Cl
+ ub\,\n where each month we explore a new cookbook\, try out recipes\, and 
+ share \nour experiences. The featured cookbook will be available for check
+ out at the\n meeting. \n\n*NOTE: for this month\, the Cookbook Club will t
+ ake place on the first Thursday of the month.\n\n\nVisit our Cookbook Book
+  Club Info Hub      to find out more! \n\nNo registration is required at t
+ his time. This book club is for adults ages 18+.\n\nAges: Adult program (k
+ ids welcome to tag along\, not designed for them)\nRegistration: none\nSou
+ rce: https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac87\nLast 
+ synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac87
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] 1:1 Genealogy Session
+DTSTART;TZID=America/Los_Angeles:20270204T143000
+DTEND;TZID=America/Los_Angeles:20270204T163000
+DTSTAMP:20261121T195825Z
+UID:smcl-6af7b190899b6100331387dd@local-events
+DESCRIPTION:Are\n you ready to uncover the fascinating stories of your anc
+ estors? Join us\n for personalized 30-minute genealogy sessions that will 
+ ignite your \npassion for family history!  \n\n\n\nWhat Awaits You:  \nAnc
+ estry Library Edition: Unlock billions of records and start weaving your f
+ amily tree! HeritageHub: Dive into captivating tales about your ancestors 
+ and your local history. HeritageQuest: Discover hidden gems like census re
+ cords\, military documents\, and so much more!My China Roots: Explore you
+ r family history with My China Roots\, a Chinese genealogy website and dat
+ abase.\nYour Journey Starts Here! Your\n suggested appointment date & time
+  are all TENTATIVE until you \nreceive an email confirmation. Whether you'
+ re a beginner or a seasoned \nresearcher\, our sessions are designed to he
+ lp you uncover your unique \nstory. Reserve your spot now and embark on th
+ e adventure of discovering \nyour roots! \n\n \nREGISTER HERE\n\nAges: Adu
+ lt program (kids welcome to tag along\, not designed for them)\nRegistrati
+ on: none\nSource: https://smcl.bibliocommons.com/events/6af7b190899b610033
+ 1387dd\nLast synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6af7b190899b6100331387dd
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Creative Tools Exploration
+DTSTART;TZID=America/Los_Angeles:20270317T110000
+DTEND;TZID=America/Los_Angeles:20270317T120000
+DTSTAMP:20261121T195825Z
+UID:smcl-6acfbe56fee2d21deb233b91@local-events
+DESCRIPTION:Need access to Adobe Creative Cloud or help with an Adobe Proj
+ ect? Adobe Exploration is a drop in space where you can explore Adobe Crea
+ tive Cloud and Makerspace Laptops. Bring your own project and work at your
+  own pace using Photoshop\, Illustrator\, Premiere Pro\, InDesign\, Acroba
+ t\, and more. \n\nStaff are available to help you get started and answer q
+ uestions.\n\nAges: Adult program (kids welcome to tag along\, not designed
+  for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/eve
+ nts/6acfbe56fee2d21deb233b91\nLast synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6acfbe56fee2d21deb233b91
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ATH] Creative Tools Exploration
 DTSTART;TZID=America/Los_Angeles:20261216T110000
 DTEND;TZID=America/Los_Angeles:20261216T120000
-DTSTAMP:20261120T205912Z
+DTSTAMP:20261121T195825Z
 UID:smcl-6acfbe56fee2d21deb233b8b@local-events
 DESCRIPTION:Need access to Adobe Creative Cloud or help with an Adobe Proj
  ect? Adobe Exploration is a drop in space where you can explore Adobe Crea
@@ -192,36 +329,997 @@ DESCRIPTION:Need access to Adobe Creative Cloud or help with an Adobe Proj
  t\, and more. \n\nStaff are available to help you get started and answer q
  uestions.\n\nAges: Adult program (kids welcome to tag along\, not designed
   for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/eve
- nts/6acfbe56fee2d21deb233b8b\nLast synced: 2026-11-20 12:59 PST
+ nts/6acfbe56fee2d21deb233b8b\nLast synced: 2026-11-21 11:58 PST
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6acfbe56fee2d21deb233b8b
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ATH] Winter Music Festival: Rob Hart Trio
-DTSTART;TZID=America/Los_Angeles:20261217T180000
-DTEND;TZID=America/Los_Angeles:20261217T190000
-DTSTAMP:20261120T205912Z
-UID:smcl-6ad7d69a9dbc2b002c8fed8d@local-events
-DESCRIPTION:The Rob Hart Trio delivers a genre-blending jazz experience th
- at’s as adventurous as it is intimate. Rooted in organic traditional jaz
- z and energized by fusion\, funk\, Latin grooves\, and textural experiment
- ation\, the trio creates high-powered\, on-the-edge improvisations that ke
- ep audiences engaged from the first note to the last. Since the early 1990
- s\, the group has evolved through multiple instrumental lineups\, constant
- ly exploring new musical pathways. Between songs\, Rob brings listeners in
- side the music with behind-the-scenes stories and inspiration\, turning ev
- ery performance into a personal\, immersive journey."\n\nAges: Adult progr
- am (kids welcome to tag along\, not designed for them)\nRegistration: none
- \nSource: https://smcl.bibliocommons.com/events/6ad7d69a9dbc2b002c8fed8d\n
- Last synced: 2026-11-20 12:59 PST
+SUMMARY:[ATH] Creative Tools Exploration
+DTSTART;TZID=America/Los_Angeles:20261202T110000
+DTEND;TZID=America/Los_Angeles:20261202T120000
+DTSTAMP:20261121T195825Z
+UID:smcl-6acfbe56fee2d21deb233b8a@local-events
+DESCRIPTION:Need access to Adobe Creative Cloud or help with an Adobe Proj
+ ect? Adobe Exploration is a drop in space where you can explore Adobe Crea
+ tive Cloud and Makerspace Laptops. Bring your own project and work at your
+  own pace using Photoshop\, Illustrator\, Premiere Pro\, InDesign\, Acroba
+ t\, and more. \n\nStaff are available to help you get started and answer q
+ uestions.\n\nAges: Adult program (kids welcome to tag along\, not designed
+  for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/eve
+ nts/6acfbe56fee2d21deb233b8a\nLast synced: 2026-11-21 11:58 PST
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6ad7d69a9dbc2b002c8fed8d
+URL:https://smcl.bibliocommons.com/events/6acfbe56fee2d21deb233b8a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Creative Tools Exploration
+DTSTART;TZID=America/Los_Angeles:20270303T110000
+DTEND;TZID=America/Los_Angeles:20270303T120000
+DTSTAMP:20261121T195825Z
+UID:smcl-6acfbe56fee2d21deb233b90@local-events
+DESCRIPTION:Need access to Adobe Creative Cloud or help with an Adobe Proj
+ ect? Adobe Exploration is a drop in space where you can explore Adobe Crea
+ tive Cloud and Makerspace Laptops. Bring your own project and work at your
+  own pace using Photoshop\, Illustrator\, Premiere Pro\, InDesign\, Acroba
+ t\, and more. \n\nStaff are available to help you get started and answer q
+ uestions.\n\nAges: Adult program (kids welcome to tag along\, not designed
+  for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/eve
+ nts/6acfbe56fee2d21deb233b90\nLast synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6acfbe56fee2d21deb233b90
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Creative Tools Exploration
+DTSTART;TZID=America/Los_Angeles:20270120T110000
+DTEND;TZID=America/Los_Angeles:20270120T120000
+DTSTAMP:20261121T195825Z
+UID:smcl-6acfbe56fee2d21deb233b8d@local-events
+DESCRIPTION:Need access to Adobe Creative Cloud or help with an Adobe Proj
+ ect? Adobe Exploration is a drop in space where you can explore Adobe Crea
+ tive Cloud and Makerspace Laptops. Bring your own project and work at your
+  own pace using Photoshop\, Illustrator\, Premiere Pro\, InDesign\, Acroba
+ t\, and more. \n\nStaff are available to help you get started and answer q
+ uestions.\n\nAges: Adult program (kids welcome to tag along\, not designed
+  for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/eve
+ nts/6acfbe56fee2d21deb233b8d\nLast synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6acfbe56fee2d21deb233b8d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Creative Tools Exploration
+DTSTART;TZID=America/Los_Angeles:20270106T110000
+DTEND;TZID=America/Los_Angeles:20270106T120000
+DTSTAMP:20261121T195825Z
+UID:smcl-6acfbe56fee2d21deb233b8c@local-events
+DESCRIPTION:Need access to Adobe Creative Cloud or help with an Adobe Proj
+ ect? Adobe Exploration is a drop in space where you can explore Adobe Crea
+ tive Cloud and Makerspace Laptops. Bring your own project and work at your
+  own pace using Photoshop\, Illustrator\, Premiere Pro\, InDesign\, Acroba
+ t\, and more. \n\nStaff are available to help you get started and answer q
+ uestions.\n\nAges: Adult program (kids welcome to tag along\, not designed
+  for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/eve
+ nts/6acfbe56fee2d21deb233b8c\nLast synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6acfbe56fee2d21deb233b8c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Creative Tools Exploration
+DTSTART;TZID=America/Los_Angeles:20270217T110000
+DTEND;TZID=America/Los_Angeles:20270217T120000
+DTSTAMP:20261121T195825Z
+UID:smcl-6acfbe56fee2d21deb233b8f@local-events
+DESCRIPTION:Need access to Adobe Creative Cloud or help with an Adobe Proj
+ ect? Adobe Exploration is a drop in space where you can explore Adobe Crea
+ tive Cloud and Makerspace Laptops. Bring your own project and work at your
+  own pace using Photoshop\, Illustrator\, Premiere Pro\, InDesign\, Acroba
+ t\, and more. \n\nStaff are available to help you get started and answer q
+ uestions.\n\nAges: Adult program (kids welcome to tag along\, not designed
+  for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/eve
+ nts/6acfbe56fee2d21deb233b8f\nLast synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6acfbe56fee2d21deb233b8f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Creative Tools Exploration
+DTSTART;TZID=America/Los_Angeles:20270203T110000
+DTEND;TZID=America/Los_Angeles:20270203T120000
+DTSTAMP:20261121T195825Z
+UID:smcl-6acfbe56fee2d21deb233b8e@local-events
+DESCRIPTION:Need access to Adobe Creative Cloud or help with an Adobe Proj
+ ect? Adobe Exploration is a drop in space where you can explore Adobe Crea
+ tive Cloud and Makerspace Laptops. Bring your own project and work at your
+  own pace using Photoshop\, Illustrator\, Premiere Pro\, InDesign\, Acroba
+ t\, and more. \n\nStaff are available to help you get started and answer q
+ uestions.\n\nAges: Adult program (kids welcome to tag along\, not designed
+  for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/eve
+ nts/6acfbe56fee2d21deb233b8e\nLast synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6acfbe56fee2d21deb233b8e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Scrap: Cozy Winter Felting
+DTSTART;TZID=America/Los_Angeles:20261202T113000
+DTEND;TZID=America/Los_Angeles:20261202T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6aea216b377296003a50b78b@local-events
+DESCRIPTION:Learn to felt cozy and cute small ornaments - perfect for the 
+ holiday season and to brighten up darkening days. This program is led by i
+ nstructors from SCRAP SF. Space is limited\, and registration is required.
+  Due to high demand\, we ask that community members sign up for a single o
+ ccurrence of this series so that as many community members as possible can
+  participate in this experience.\n\nRegistration is required\, and it will
+  open on Wednesday\, November 11 at 6:00pm.\n\nAges: Adult program (kids w
+ elcome to tag along\, not designed for them)\nRegistration: required\nSour
+ ce: https://smcl.bibliocommons.com/events/6aea216b377296003a50b78b\nLast s
+ ynced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6aea216b377296003a50b78b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Tai Chi: Winter Session
+DTSTART;TZID=America/Los_Angeles:20270120T103000
+DTEND;TZID=America/Los_Angeles:20270120T113000
+DTSTAMP:20261121T195825Z
+UID:smcl-6aa31b1e8cf597003f92f2b0@local-events
+DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
+ ncestor of all other styles of Taijiquan. This class will introduce the Ch
+ en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
+ -style Taijiquan form is soft and graceful with strong rooted stands that 
+ will help students to develop strength\, balance\, coordination and an und
+ erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
+ of spiral movements that promote muscle relaxation and flexibility by redu
+ cing physical tension and strain. Wuji Qigong (standing meditation) will h
+ elp students to cultivate internal energy (qi) with proper body alignment 
+ for better internal energy flow\, which will enhance their immune systems 
+ and reduce physical and mental stress.\n\nPlease use the following form to
+  signup for email updates and an last-minute schedule changes. Registratio
+ n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
+ come to tag along\, not designed for them)\nRegistration: none\nSource: ht
+ tps://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b0\nLast synced:
+  2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Cookbook Book Club
+DTSTART;TZID=America/Los_Angeles:20270408T180000
+DTEND;TZID=America/Los_Angeles:20270408T190000
+DTSTAMP:20261121T195825Z
+UID:smcl-6a6d051d88e9bf280034ac86@local-events
+DESCRIPTION:Do you love food and cooking? Join us for the Cookbook Book Cl
+ ub\,\n where each month we explore a new cookbook\, try out recipes\, and 
+ share \nour experiences. The featured cookbook will be available for check
+ out at the\n meeting. \n\n*NOTE: for this month\, the Cookbook Club will t
+ ake place on the first Thursday of the month.\n\n\nVisit our Cookbook Book
+  Club Info Hub      to find out more! \n\nNo registration is required at t
+ his time. This book club is for adults ages 18+.\n\nAges: Adult program (k
+ ids welcome to tag along\, not designed for them)\nRegistration: none\nSou
+ rce: https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac86\nLast 
+ synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac86
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Spring
+DTSTART;TZID=America/Los_Angeles:20270401T113000
+DTEND;TZID=America/Los_Angeles:20270401T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ab472a608693b0f7374350d@local-events
+DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
+ the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
+ Wellness combines movement\, meditation and breathing exercises to tune in
+ to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
+ s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watkin
+ s Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup fo
+ r email updates and an last-minute schedule changes. Registration is encou
+ raged\, but it is not required.\n\nAges: Adult program (kids welcome to ta
+ g along\, not designed for them)\nRegistration: required\nSource: https://
+ smcl.bibliocommons.com/events/6ab472a608693b0f7374350d\nLast synced: 2026-
+ 11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ab472a608693b0f7374350d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Tai Chi: Winter Session
+DTSTART;TZID=America/Los_Angeles:20270210T103000
+DTEND;TZID=America/Los_Angeles:20270210T113000
+DTSTAMP:20261121T195825Z
+UID:smcl-6aa31b1e8cf597003f92f2b3@local-events
+DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
+ ncestor of all other styles of Taijiquan. This class will introduce the Ch
+ en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
+ -style Taijiquan form is soft and graceful with strong rooted stands that 
+ will help students to develop strength\, balance\, coordination and an und
+ erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
+ of spiral movements that promote muscle relaxation and flexibility by redu
+ cing physical tension and strain. Wuji Qigong (standing meditation) will h
+ elp students to cultivate internal energy (qi) with proper body alignment 
+ for better internal energy flow\, which will enhance their immune systems 
+ and reduce physical and mental stress.\n\nPlease use the following form to
+  signup for email updates and an last-minute schedule changes. Registratio
+ n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
+ come to tag along\, not designed for them)\nRegistration: none\nSource: ht
+ tps://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b3\nLast synced:
+  2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
+DTSTART;TZID=America/Los_Angeles:20270107T113000
+DTEND;TZID=America/Los_Angeles:20270107T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ab4727c08693b0f73743501@local-events
+DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
+ the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
+ Wellness combines movement\, meditation and breathing exercises to tune in
+ to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
+ s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
+ ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
+ or email updates and an last-minute schedule changes. Registration is enco
+ uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
+ ag along\, not designed for them)\nRegistration: required\nSource: https:/
+ /smcl.bibliocommons.com/events/6ab4727c08693b0f73743501\nLast synced: 2026
+ -11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f73743501
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Tai Chi: Spring Session
+DTSTART;TZID=America/Los_Angeles:20270414T113000
+DTEND;TZID=America/Los_Angeles:20270414T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6aa31b29a5dbde002aa3a68a@local-events
+DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
+ ncestor of all other styles of Taijiquan. This class will introduce the Ch
+ en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
+ -style Taijiquan form is soft and graceful with strong rooted stands that 
+ will help students to develop strength\, balance\, coordination and an und
+ erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
+ of spiral movements that promote muscle relaxation and flexibility by redu
+ cing physical tension and strain. Wuji Qigong (standing meditation) will h
+ elp students to cultivate internal energy (qi) with proper body alignment 
+ for better internal energy flow\, which will enhance their immune systems 
+ and reduce physical and mental stress.\n\nPlease use the following form to
+  signup for email updates and an last-minute schedule changes. Registratio
+ n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
+ come to tag along\, not designed for them)\nRegistration: none\nSource: ht
+ tps://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68a\nLast synced:
+  2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
+DTSTART;TZID=America/Los_Angeles:20270114T113000
+DTEND;TZID=America/Los_Angeles:20270114T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ab4727c08693b0f73743502@local-events
+DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
+ the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
+ Wellness combines movement\, meditation and breathing exercises to tune in
+ to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
+ s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
+ ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
+ or email updates and an last-minute schedule changes. Registration is enco
+ uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
+ ag along\, not designed for them)\nRegistration: required\nSource: https:/
+ /smcl.bibliocommons.com/events/6ab4727c08693b0f73743502\nLast synced: 2026
+ -11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f73743502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
+DTSTART;TZID=America/Los_Angeles:20270304T113000
+DTEND;TZID=America/Los_Angeles:20270304T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ab4727c08693b0f73743508@local-events
+DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
+ the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
+ Wellness combines movement\, meditation and breathing exercises to tune in
+ to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
+ s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
+ ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
+ or email updates and an last-minute schedule changes. Registration is enco
+ uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
+ ag along\, not designed for them)\nRegistration: required\nSource: https:/
+ /smcl.bibliocommons.com/events/6ab4727c08693b0f73743508\nLast synced: 2026
+ -11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f73743508
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Tai Chi: Spring Session
+DTSTART;TZID=America/Los_Angeles:20270512T113000
+DTEND;TZID=America/Los_Angeles:20270512T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6aa31b29a5dbde002aa3a68e@local-events
+DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
+ ncestor of all other styles of Taijiquan. This class will introduce the Ch
+ en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
+ -style Taijiquan form is soft and graceful with strong rooted stands that 
+ will help students to develop strength\, balance\, coordination and an und
+ erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
+ of spiral movements that promote muscle relaxation and flexibility by redu
+ cing physical tension and strain. Wuji Qigong (standing meditation) will h
+ elp students to cultivate internal energy (qi) with proper body alignment 
+ for better internal energy flow\, which will enhance their immune systems 
+ and reduce physical and mental stress.\n\nPlease use the following form to
+  signup for email updates and an last-minute schedule changes. Registratio
+ n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
+ come to tag along\, not designed for them)\nRegistration: none\nSource: ht
+ tps://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68e\nLast synced:
+  2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
+DTSTART;TZID=America/Los_Angeles:20270218T113000
+DTEND;TZID=America/Los_Angeles:20270218T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ab4727c08693b0f73743506@local-events
+DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
+ the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
+ Wellness combines movement\, meditation and breathing exercises to tune in
+ to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
+ s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
+ ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
+ or email updates and an last-minute schedule changes. Registration is enco
+ uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
+ ag along\, not designed for them)\nRegistration: required\nSource: https:/
+ /smcl.bibliocommons.com/events/6ab4727c08693b0f73743506\nLast synced: 2026
+ -11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f73743506
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Tai Chi: Winter Session
+DTSTART;TZID=America/Los_Angeles:20270127T103000
+DTEND;TZID=America/Los_Angeles:20270127T113000
+DTSTAMP:20261121T195825Z
+UID:smcl-6aa31b1e8cf597003f92f2b1@local-events
+DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
+ ncestor of all other styles of Taijiquan. This class will introduce the Ch
+ en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
+ -style Taijiquan form is soft and graceful with strong rooted stands that 
+ will help students to develop strength\, balance\, coordination and an und
+ erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
+ of spiral movements that promote muscle relaxation and flexibility by redu
+ cing physical tension and strain. Wuji Qigong (standing meditation) will h
+ elp students to cultivate internal energy (qi) with proper body alignment 
+ for better internal energy flow\, which will enhance their immune systems 
+ and reduce physical and mental stress.\n\nPlease use the following form to
+  signup for email updates and an last-minute schedule changes. Registratio
+ n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
+ come to tag along\, not designed for them)\nRegistration: none\nSource: ht
+ tps://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b1\nLast synced:
+  2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Tai Chi: Winter Session
+DTSTART;TZID=America/Los_Angeles:20270106T103000
+DTEND;TZID=America/Los_Angeles:20270106T113000
+DTSTAMP:20261121T195825Z
+UID:smcl-6aa31b1e8cf597003f92f2ae@local-events
+DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
+ ncestor of all other styles of Taijiquan. This class will introduce the Ch
+ en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
+ -style Taijiquan form is soft and graceful with strong rooted stands that 
+ will help students to develop strength\, balance\, coordination and an und
+ erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
+ of spiral movements that promote muscle relaxation and flexibility by redu
+ cing physical tension and strain. Wuji Qigong (standing meditation) will h
+ elp students to cultivate internal energy (qi) with proper body alignment 
+ for better internal energy flow\, which will enhance their immune systems 
+ and reduce physical and mental stress.\n\nPlease use the following form to
+  signup for email updates and an last-minute schedule changes. Registratio
+ n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
+ come to tag along\, not designed for them)\nRegistration: none\nSource: ht
+ tps://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2ae\nLast synced:
+  2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2ae
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
+DTSTART;TZID=America/Los_Angeles:20270121T113000
+DTEND;TZID=America/Los_Angeles:20270121T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ab4727c08693b0f73743503@local-events
+DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
+ the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
+ Wellness combines movement\, meditation and breathing exercises to tune in
+ to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
+ s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
+ ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
+ or email updates and an last-minute schedule changes. Registration is enco
+ uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
+ ag along\, not designed for them)\nRegistration: required\nSource: https:/
+ /smcl.bibliocommons.com/events/6ab4727c08693b0f73743503\nLast synced: 2026
+ -11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f73743503
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Spring
+DTSTART;TZID=America/Los_Angeles:20270415T113000
+DTEND;TZID=America/Los_Angeles:20270415T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ab472a608693b0f7374350f@local-events
+DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
+ the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
+ Wellness combines movement\, meditation and breathing exercises to tune in
+ to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
+ s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watkin
+ s Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup fo
+ r email updates and an last-minute schedule changes. Registration is encou
+ raged\, but it is not required.\n\nAges: Adult program (kids welcome to ta
+ g along\, not designed for them)\nRegistration: required\nSource: https://
+ smcl.bibliocommons.com/events/6ab472a608693b0f7374350f\nLast synced: 2026-
+ 11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ab472a608693b0f7374350f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] 1:1 Genealogy Session
+DTSTART;TZID=America/Los_Angeles:20270506T143000
+DTEND;TZID=America/Los_Angeles:20270506T163000
+DTSTAMP:20261121T195825Z
+UID:smcl-6af7b190899b6100331387e0@local-events
+DESCRIPTION:Are\n you ready to uncover the fascinating stories of your anc
+ estors? Join us\n for personalized 30-minute genealogy sessions that will 
+ ignite your \npassion for family history!  \n\n\n\nWhat Awaits You:  \nAnc
+ estry Library Edition: Unlock billions of records and start weaving your f
+ amily tree! HeritageHub: Dive into captivating tales about your ancestors 
+ and your local history. HeritageQuest: Discover hidden gems like census re
+ cords\, military documents\, and so much more!My China Roots: Explore you
+ r family history with My China Roots\, a Chinese genealogy website and dat
+ abase.\nYour Journey Starts Here! Your\n suggested appointment date & time
+  are all TENTATIVE until you \nreceive an email confirmation. Whether you'
+ re a beginner or a seasoned \nresearcher\, our sessions are designed to he
+ lp you uncover your unique \nstory. Reserve your spot now and embark on th
+ e adventure of discovering \nyour roots! \n\n \nREGISTER HERE\n\nAges: Adu
+ lt program (kids welcome to tag along\, not designed for them)\nRegistrati
+ on: none\nSource: https://smcl.bibliocommons.com/events/6af7b190899b610033
+ 1387e0\nLast synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6af7b190899b6100331387e0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
+DTSTART;TZID=America/Los_Angeles:20270225T113000
+DTEND;TZID=America/Los_Angeles:20270225T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ab4727c08693b0f73743507@local-events
+DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
+ the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
+ Wellness combines movement\, meditation and breathing exercises to tune in
+ to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
+ s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
+ ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
+ or email updates and an last-minute schedule changes. Registration is enco
+ uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
+ ag along\, not designed for them)\nRegistration: required\nSource: https:/
+ /smcl.bibliocommons.com/events/6ab4727c08693b0f73743507\nLast synced: 2026
+ -11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f73743507
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Tai Chi: Spring Session
+DTSTART;TZID=America/Los_Angeles:20270421T113000
+DTEND;TZID=America/Los_Angeles:20270421T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6aa31b29a5dbde002aa3a68b@local-events
+DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
+ ncestor of all other styles of Taijiquan. This class will introduce the Ch
+ en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
+ -style Taijiquan form is soft and graceful with strong rooted stands that 
+ will help students to develop strength\, balance\, coordination and an und
+ erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
+ of spiral movements that promote muscle relaxation and flexibility by redu
+ cing physical tension and strain. Wuji Qigong (standing meditation) will h
+ elp students to cultivate internal energy (qi) with proper body alignment 
+ for better internal energy flow\, which will enhance their immune systems 
+ and reduce physical and mental stress.\n\nPlease use the following form to
+  signup for email updates and an last-minute schedule changes. Registratio
+ n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
+ come to tag along\, not designed for them)\nRegistration: none\nSource: ht
+ tps://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68b\nLast synced:
+  2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68b
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Tai Chi: Winter Session
+DTSTART;TZID=America/Los_Angeles:20270224T103000
+DTEND;TZID=America/Los_Angeles:20270224T113000
+DTSTAMP:20261121T195825Z
+UID:smcl-6aa31b1e8cf597003f92f2b5@local-events
+DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
+ ncestor of all other styles of Taijiquan. This class will introduce the Ch
+ en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
+ -style Taijiquan form is soft and graceful with strong rooted stands that 
+ will help students to develop strength\, balance\, coordination and an und
+ erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
+ of spiral movements that promote muscle relaxation and flexibility by redu
+ cing physical tension and strain. Wuji Qigong (standing meditation) will h
+ elp students to cultivate internal energy (qi) with proper body alignment 
+ for better internal energy flow\, which will enhance their immune systems 
+ and reduce physical and mental stress.\n\nPlease use the following form to
+  signup for email updates and an last-minute schedule changes. Registratio
+ n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
+ come to tag along\, not designed for them)\nRegistration: none\nSource: ht
+ tps://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b5\nLast synced:
+  2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Tai Chi: Spring Session
+DTSTART;TZID=America/Los_Angeles:20270505T113000
+DTEND;TZID=America/Los_Angeles:20270505T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6aa31b29a5dbde002aa3a68d@local-events
+DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
+ ncestor of all other styles of Taijiquan. This class will introduce the Ch
+ en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
+ -style Taijiquan form is soft and graceful with strong rooted stands that 
+ will help students to develop strength\, balance\, coordination and an und
+ erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
+ of spiral movements that promote muscle relaxation and flexibility by redu
+ cing physical tension and strain. Wuji Qigong (standing meditation) will h
+ elp students to cultivate internal energy (qi) with proper body alignment 
+ for better internal energy flow\, which will enhance their immune systems 
+ and reduce physical and mental stress.\n\nPlease use the following form to
+  signup for email updates and an last-minute schedule changes. Registratio
+ n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
+ come to tag along\, not designed for them)\nRegistration: none\nSource: ht
+ tps://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68d\nLast synced:
+  2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68d
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Spring
+DTSTART;TZID=America/Los_Angeles:20270506T113000
+DTEND;TZID=America/Los_Angeles:20270506T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ab472a608693b0f73743511@local-events
+DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
+ the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
+ Wellness combines movement\, meditation and breathing exercises to tune in
+ to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
+ s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watkin
+ s Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup fo
+ r email updates and an last-minute schedule changes. Registration is encou
+ raged\, but it is not required.\n\nAges: Adult program (kids welcome to ta
+ g along\, not designed for them)\nRegistration: required\nSource: https://
+ smcl.bibliocommons.com/events/6ab472a608693b0f73743511\nLast synced: 2026-
+ 11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ab472a608693b0f73743511
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Tai Chi: Spring Session
+DTSTART;TZID=America/Los_Angeles:20270519T113000
+DTEND;TZID=America/Los_Angeles:20270519T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6aa31b29a5dbde002aa3a68f@local-events
+DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
+ ncestor of all other styles of Taijiquan. This class will introduce the Ch
+ en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
+ -style Taijiquan form is soft and graceful with strong rooted stands that 
+ will help students to develop strength\, balance\, coordination and an und
+ erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
+ of spiral movements that promote muscle relaxation and flexibility by redu
+ cing physical tension and strain. Wuji Qigong (standing meditation) will h
+ elp students to cultivate internal energy (qi) with proper body alignment 
+ for better internal energy flow\, which will enhance their immune systems 
+ and reduce physical and mental stress.\n\nPlease use the following form to
+  signup for email updates and an last-minute schedule changes. Registratio
+ n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
+ come to tag along\, not designed for them)\nRegistration: none\nSource: ht
+ tps://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68f\nLast synced:
+  2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
+DTSTART;TZID=America/Los_Angeles:20270204T113000
+DTEND;TZID=America/Los_Angeles:20270204T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ab4727c08693b0f73743505@local-events
+DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
+ the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
+ Wellness combines movement\, meditation and breathing exercises to tune in
+ to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
+ s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
+ ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
+ or email updates and an last-minute schedule changes. Registration is enco
+ uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
+ ag along\, not designed for them)\nRegistration: required\nSource: https:/
+ /smcl.bibliocommons.com/events/6ab4727c08693b0f73743505\nLast synced: 2026
+ -11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f73743505
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Tai Chi: Spring Session
+DTSTART;TZID=America/Los_Angeles:20270407T113000
+DTEND;TZID=America/Los_Angeles:20270407T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6aa31b29a5dbde002aa3a689@local-events
+DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
+ ncestor of all other styles of Taijiquan. This class will introduce the Ch
+ en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
+ -style Taijiquan form is soft and graceful with strong rooted stands that 
+ will help students to develop strength\, balance\, coordination and an und
+ erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
+ of spiral movements that promote muscle relaxation and flexibility by redu
+ cing physical tension and strain. Wuji Qigong (standing meditation) will h
+ elp students to cultivate internal energy (qi) with proper body alignment 
+ for better internal energy flow\, which will enhance their immune systems 
+ and reduce physical and mental stress.\n\nPlease use the following form to
+  signup for email updates and an last-minute schedule changes. Registratio
+ n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
+ come to tag along\, not designed for them)\nRegistration: none\nSource: ht
+ tps://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a689\nLast synced:
+  2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a689
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Spring
+DTSTART;TZID=America/Los_Angeles:20270520T113000
+DTEND;TZID=America/Los_Angeles:20270520T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ab472a608693b0f73743513@local-events
+DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
+ the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
+ Wellness combines movement\, meditation and breathing exercises to tune in
+ to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
+ s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watkin
+ s Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup fo
+ r email updates and an last-minute schedule changes. Registration is encou
+ raged\, but it is not required.\n\nAges: Adult program (kids welcome to ta
+ g along\, not designed for them)\nRegistration: required\nSource: https://
+ smcl.bibliocommons.com/events/6ab472a608693b0f73743513\nLast synced: 2026-
+ 11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ab472a608693b0f73743513
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
+DTSTART;TZID=America/Los_Angeles:20270325T113000
+DTEND;TZID=America/Los_Angeles:20270325T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ab4727c08693b0f7374350a@local-events
+DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
+ the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
+ Wellness combines movement\, meditation and breathing exercises to tune in
+ to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
+ s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
+ ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
+ or email updates and an last-minute schedule changes. Registration is enco
+ uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
+ ag along\, not designed for them)\nRegistration: required\nSource: https:/
+ /smcl.bibliocommons.com/events/6ab4727c08693b0f7374350a\nLast synced: 2026
+ -11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f7374350a
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Spring
+DTSTART;TZID=America/Los_Angeles:20270422T113000
+DTEND;TZID=America/Los_Angeles:20270422T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ab472a608693b0f73743510@local-events
+DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
+ the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
+ Wellness combines movement\, meditation and breathing exercises to tune in
+ to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
+ s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watkin
+ s Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup fo
+ r email updates and an last-minute schedule changes. Registration is encou
+ raged\, but it is not required.\n\nAges: Adult program (kids welcome to ta
+ g along\, not designed for them)\nRegistration: required\nSource: https://
+ smcl.bibliocommons.com/events/6ab472a608693b0f73743510\nLast synced: 2026-
+ 11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ab472a608693b0f73743510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Tai Chi: Winter Session
+DTSTART;TZID=America/Los_Angeles:20270203T103000
+DTEND;TZID=America/Los_Angeles:20270203T113000
+DTSTAMP:20261121T195825Z
+UID:smcl-6aa31b1e8cf597003f92f2b2@local-events
+DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
+ ncestor of all other styles of Taijiquan. This class will introduce the Ch
+ en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
+ -style Taijiquan form is soft and graceful with strong rooted stands that 
+ will help students to develop strength\, balance\, coordination and an und
+ erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
+ of spiral movements that promote muscle relaxation and flexibility by redu
+ cing physical tension and strain. Wuji Qigong (standing meditation) will h
+ elp students to cultivate internal energy (qi) with proper body alignment 
+ for better internal energy flow\, which will enhance their immune systems 
+ and reduce physical and mental stress.\n\nPlease use the following form to
+  signup for email updates and an last-minute schedule changes. Registratio
+ n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
+ come to tag along\, not designed for them)\nRegistration: none\nSource: ht
+ tps://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b2\nLast synced:
+  2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Tai Chi: Winter Session
+DTSTART;TZID=America/Los_Angeles:20270113T103000
+DTEND;TZID=America/Los_Angeles:20270113T113000
+DTSTAMP:20261121T195825Z
+UID:smcl-6aa31b1e8cf597003f92f2af@local-events
+DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
+ ncestor of all other styles of Taijiquan. This class will introduce the Ch
+ en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
+ -style Taijiquan form is soft and graceful with strong rooted stands that 
+ will help students to develop strength\, balance\, coordination and an und
+ erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
+ of spiral movements that promote muscle relaxation and flexibility by redu
+ cing physical tension and strain. Wuji Qigong (standing meditation) will h
+ elp students to cultivate internal energy (qi) with proper body alignment 
+ for better internal energy flow\, which will enhance their immune systems 
+ and reduce physical and mental stress.\n\nPlease use the following form to
+  signup for email updates and an last-minute schedule changes. Registratio
+ n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
+ come to tag along\, not designed for them)\nRegistration: none\nSource: ht
+ tps://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2af\nLast synced:
+  2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2af
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Tai Chi: Spring Session
+DTSTART;TZID=America/Los_Angeles:20270428T113000
+DTEND;TZID=America/Los_Angeles:20270428T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6aa31b29a5dbde002aa3a68c@local-events
+DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
+ ncestor of all other styles of Taijiquan. This class will introduce the Ch
+ en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
+ -style Taijiquan form is soft and graceful with strong rooted stands that 
+ will help students to develop strength\, balance\, coordination and an und
+ erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
+ of spiral movements that promote muscle relaxation and flexibility by redu
+ cing physical tension and strain. Wuji Qigong (standing meditation) will h
+ elp students to cultivate internal energy (qi) with proper body alignment 
+ for better internal energy flow\, which will enhance their immune systems 
+ and reduce physical and mental stress.\n\nPlease use the following form to
+  signup for email updates and an last-minute schedule changes. Registratio
+ n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
+ come to tag along\, not designed for them)\nRegistration: none\nSource: ht
+ tps://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68c\nLast synced:
+  2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68c
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] 1:1 Genealogy Session
+DTSTART;TZID=America/Los_Angeles:20270401T143000
+DTEND;TZID=America/Los_Angeles:20270401T163000
+DTSTAMP:20261121T195825Z
+UID:smcl-6af7b190899b6100331387df@local-events
+DESCRIPTION:Are\n you ready to uncover the fascinating stories of your anc
+ estors? Join us\n for personalized 30-minute genealogy sessions that will 
+ ignite your \npassion for family history!  \n\n\n\nWhat Awaits You:  \nAnc
+ estry Library Edition: Unlock billions of records and start weaving your f
+ amily tree! HeritageHub: Dive into captivating tales about your ancestors 
+ and your local history. HeritageQuest: Discover hidden gems like census re
+ cords\, military documents\, and so much more!My China Roots: Explore you
+ r family history with My China Roots\, a Chinese genealogy website and dat
+ abase.\nYour Journey Starts Here! Your\n suggested appointment date & time
+  are all TENTATIVE until you \nreceive an email confirmation. Whether you'
+ re a beginner or a seasoned \nresearcher\, our sessions are designed to he
+ lp you uncover your unique \nstory. Reserve your spot now and embark on th
+ e adventure of discovering \nyour roots! \n\n \nREGISTER HERE\n\nAges: Adu
+ lt program (kids welcome to tag along\, not designed for them)\nRegistrati
+ on: none\nSource: https://smcl.bibliocommons.com/events/6af7b190899b610033
+ 1387df\nLast synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6af7b190899b6100331387df
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] 1:1 Genealogy Session
+DTSTART;TZID=America/Los_Angeles:20270304T143000
+DTEND;TZID=America/Los_Angeles:20270304T163000
+DTSTAMP:20261121T195825Z
+UID:smcl-6af7b190899b6100331387de@local-events
+DESCRIPTION:Are\n you ready to uncover the fascinating stories of your anc
+ estors? Join us\n for personalized 30-minute genealogy sessions that will 
+ ignite your \npassion for family history!  \n\n\n\nWhat Awaits You:  \nAnc
+ estry Library Edition: Unlock billions of records and start weaving your f
+ amily tree! HeritageHub: Dive into captivating tales about your ancestors 
+ and your local history. HeritageQuest: Discover hidden gems like census re
+ cords\, military documents\, and so much more!My China Roots: Explore you
+ r family history with My China Roots\, a Chinese genealogy website and dat
+ abase.\nYour Journey Starts Here! Your\n suggested appointment date & time
+  are all TENTATIVE until you \nreceive an email confirmation. Whether you'
+ re a beginner or a seasoned \nresearcher\, our sessions are designed to he
+ lp you uncover your unique \nstory. Reserve your spot now and embark on th
+ e adventure of discovering \nyour roots! \n\n \nREGISTER HERE\n\nAges: Adu
+ lt program (kids welcome to tag along\, not designed for them)\nRegistrati
+ on: none\nSource: https://smcl.bibliocommons.com/events/6af7b190899b610033
+ 1387de\nLast synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6af7b190899b6100331387de
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Winter Music Festival: Dan Ashley - News Anchor and Rock Sta
+ r!
+DTSTART;TZID=America/Los_Angeles:20261209T120000
+DTEND;TZID=America/Los_Angeles:20261209T130000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ad7d66a9dbc2b002c8fed66@local-events
+DESCRIPTION:Dan Ashley\, the longtime ABC7 evening news anchor/reporter\, 
+ is also a Rock Star! Dan looks forward to returning to several San Mateo C
+ ounty Libraries since last year and is excited to add performances at new 
+ ones. He has spent many hours in both public and university libraries and 
+ is honored to bring his storytelling\, through his original\, remarkable s
+ ongs\, to everyone at the county libraries. Dan is a recording artist and 
+ will sing accompanied by his amazing guitarist\, Jeff Tamelier\, who was t
+ he longtime touring guitarist for Tower of Power and Starship. Together\, 
+ they will bring an unforgettable acoustic performance of contemporary Coun
+ try/Americana Rock music\, including originals heard online and on the rad
+ io\, as well as familiar covers. Come join us\, sing along\, clap your han
+ ds\, stomp your feet\, bob your heads\, and get ready to Rock!\n\nAges: Ad
+ ult program (kids welcome to tag along\, not designed for them)\nRegistrat
+ ion: none\nSource: https://smcl.bibliocommons.com/events/6ad7d66a9dbc2b002
+ c8fed66\nLast synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ad7d66a9dbc2b002c8fed66
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] 1:1 Genealogy Session
+DTSTART;TZID=America/Los_Angeles:20270107T143000
+DTEND;TZID=America/Los_Angeles:20270107T163000
+DTSTAMP:20261121T195825Z
+UID:smcl-6af7b190899b6100331387dc@local-events
+DESCRIPTION:Are\n you ready to uncover the fascinating stories of your anc
+ estors? Join us\n for personalized 30-minute genealogy sessions that will 
+ ignite your \npassion for family history!  \n\n\n\nWhat Awaits You:  \nAnc
+ estry Library Edition: Unlock billions of records and start weaving your f
+ amily tree! HeritageHub: Dive into captivating tales about your ancestors 
+ and your local history. HeritageQuest: Discover hidden gems like census re
+ cords\, military documents\, and so much more!My China Roots: Explore you
+ r family history with My China Roots\, a Chinese genealogy website and dat
+ abase.\nYour Journey Starts Here! Your\n suggested appointment date & time
+  are all TENTATIVE until you \nreceive an email confirmation. Whether you'
+ re a beginner or a seasoned \nresearcher\, our sessions are designed to he
+ lp you uncover your unique \nstory. Reserve your spot now and embark on th
+ e adventure of discovering \nyour roots! \n\n \nREGISTER HERE\n\nAges: Adu
+ lt program (kids welcome to tag along\, not designed for them)\nRegistrati
+ on: none\nSource: https://smcl.bibliocommons.com/events/6af7b190899b610033
+ 1387dc\nLast synced: 2026-11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6af7b190899b6100331387dc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
+DTSTART;TZID=America/Los_Angeles:20270128T113000
+DTEND;TZID=America/Los_Angeles:20270128T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ab4727c08693b0f73743504@local-events
+DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
+ the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
+ Wellness combines movement\, meditation and breathing exercises to tune in
+ to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
+ s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
+ ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
+ or email updates and an last-minute schedule changes. Registration is enco
+ uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
+ ag along\, not designed for them)\nRegistration: required\nSource: https:/
+ /smcl.bibliocommons.com/events/6ab4727c08693b0f73743504\nLast synced: 2026
+ -11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f73743504
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Bamboo\, Blooms & Blessings: A Year of the Goat Calligraphy
+DTSTART;TZID=America/Los_Angeles:20270124T153000
+DTEND;TZID=America/Los_Angeles:20270124T163000
+DTSTAMP:20261121T195825Z
+UID:smcl-6abadb1c29c3d600332c40f8@local-events
+DESCRIPTION:Celebrate the arrival of the Year of the Goat through Chinese 
+ culture\, calligraphy\, and hands-on creativity! Participants will learn a
+ bout traditional Lunar New Year customs\, including the tradition of decor
+ ating the home with flowers to welcome the new year. \n\nStep-by-step\, pa
+ rticipants will create a unique hanging decoration by arranging faux flowe
+ rs into traditional Chinese bamboo strips\, inspired by bamboo weaving\, a
+ n important part of Chinese craft heritage. They will also learn to write 
+ auspicious New Year phrases and draw adorable little goats to personalize 
+ their artwork. Each participant will take home a one-of-a-kind handmade de
+ coration\, perfect for hanging at home to welcome the Year of the Goat wit
+ h flowers\, blessings\, and creativity!\n\nDue to high demand\, we ask tha
+ t community members signup for a single occurrence of this series to so th
+ at as many community members can participate in this experience as possibl
+ e. Registration is required to attend\, and registration opens on Sunday
+ \, January 3 at 6:00pm.\n\nAges: Adult program (kids welcome to tag along
+ \, not designed for them)\nRegistration: required\nSource: https://smcl.bi
+ bliocommons.com/events/6abadb1c29c3d600332c40f8\nLast synced: 2026-11-21 1
+ 1:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6abadb1c29c3d600332c40f8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Spring
+DTSTART;TZID=America/Los_Angeles:20270513T113000
+DTEND;TZID=America/Los_Angeles:20270513T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ab472a608693b0f73743512@local-events
+DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
+ the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
+ Wellness combines movement\, meditation and breathing exercises to tune in
+ to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
+ s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watkin
+ s Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup fo
+ r email updates and an last-minute schedule changes. Registration is encou
+ raged\, but it is not required.\n\nAges: Adult program (kids welcome to ta
+ g along\, not designed for them)\nRegistration: required\nSource: https://
+ smcl.bibliocommons.com/events/6ab472a608693b0f73743512\nLast synced: 2026-
+ 11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ab472a608693b0f73743512
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Spring
+DTSTART;TZID=America/Los_Angeles:20270408T113000
+DTEND;TZID=America/Los_Angeles:20270408T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ab472a608693b0f7374350e@local-events
+DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
+ the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
+ Wellness combines movement\, meditation and breathing exercises to tune in
+ to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
+ s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watkin
+ s Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup fo
+ r email updates and an last-minute schedule changes. Registration is encou
+ raged\, but it is not required.\n\nAges: Adult program (kids welcome to ta
+ g along\, not designed for them)\nRegistration: required\nSource: https://
+ smcl.bibliocommons.com/events/6ab472a608693b0f7374350e\nLast synced: 2026-
+ 11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ab472a608693b0f7374350e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
+DTSTART;TZID=America/Los_Angeles:20270318T113000
+DTEND;TZID=America/Los_Angeles:20270318T123000
+DTSTAMP:20261121T195825Z
+UID:smcl-6ab4727c08693b0f73743509@local-events
+DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
+ the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
+ Wellness combines movement\, meditation and breathing exercises to tune in
+ to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
+ s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
+ ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
+ or email updates and an last-minute schedule changes. Registration is enco
+ uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
+ ag along\, not designed for them)\nRegistration: required\nSource: https:/
+ /smcl.bibliocommons.com/events/6ab4727c08693b0f73743509\nLast synced: 2026
+ -11-21 11:58 PST
+LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
+URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f73743509
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ATH] Step Into Wellness: Walking Club
 DTSTART;TZID=America/Los_Angeles:20261218T094500
 DTEND;TZID=America/Los_Angeles:20261218T104500
-DTSTAMP:20261120T205912Z
+DTSTAMP:20261121T195825Z
 UID:smcl-6b000af8d164f314d93cee0d@local-events
 DESCRIPTION:Looking for a fun and healthy way to connect with others? Join
   the \nAtherton Library's  Walking Club and explore the scenic beauty of H
@@ -240,485 +1338,35 @@ DESCRIPTION:Looking for a fun and healthy way to connect with others? Join
  at the Jennings Pavilion at Holbrook Palmer Park. Let’s step into wellne
  ss together!\n\nAges: Adult program (kids welcome to tag along\, not desig
  ned for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/
- events/6b000af8d164f314d93cee0d\nLast synced: 2026-11-20 12:59 PST
+ events/6b000af8d164f314d93cee0d\nLast synced: 2026-11-21 11:58 PST
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6b000af8d164f314d93cee0d
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ATH] Open Sewing
-DTSTART;TZID=America/Los_Angeles:20261221T130000
-DTEND;TZID=America/Los_Angeles:20261221T143000
-DTSTAMP:20261120T205912Z
-UID:smcl-6a97468d341bb11431ee6a2e@local-events
-DESCRIPTION:Join us for open time to use the library’s sewing machines. 
- Bring your own project or pick from previous library sewing projects. Need
- les\, thread\, iron\, and cutting tools are provided for use in the librar
- y. No fabric is provided except for scraps. This program is intended for i
- ndividuals who can use the sewing machines independently. There will be n
- o formal instruction.\n\n\nThis program is open only to adults 18+.\n\nNo 
- registration required\, as time and space permit.\n\nAges: Adult program (
- kids welcome to tag along\, not designed for them)\nRegistration: none\nSo
- urce: https://smcl.bibliocommons.com/events/6a97468d341bb11431ee6a2e\nLast
-  synced: 2026-11-20 12:59 PST
+SUMMARY:[ATH] Winter Restorative Yoga and Sound Healing
+DTSTART;TZID=America/Los_Angeles:20261210T183000
+DTEND;TZID=America/Los_Angeles:20261210T200000
+DTSTAMP:20261121T195825Z
+UID:smcl-6aeb673d3c35b95bcb29a918@local-events
+DESCRIPTION:We are entering a time of celebration\, sharing and gift givin
+ g. How often in the hectic holiday season do we gift our self a reprieve f
+ rom the hustle and bustle ? Here is your chance to gift your self a time o
+ f rest\, rejuvenation\, and refocus. Whether it is ending the year or star
+ ting the year\, gift your self this time. Come join us for restorative yog
+ a and sound healing at the Library!\n\nRegistration will open on November 
+ 19 @ 6:00 PM. Space is limited.\n\nAges: Adult program (kids welcome to ta
+ g along\, not designed for them)\nRegistration: required\nSource: https://
+ smcl.bibliocommons.com/events/6aeb673d3c35b95bcb29a918\nLast synced: 2026-
+ 11-21 11:58 PST
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6a97468d341bb11431ee6a2e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Atherton Book Club
-DTSTART;TZID=America/Los_Angeles:20261223T110000
-DTEND;TZID=America/Los_Angeles:20261223T120000
-DTSTAMP:20261120T205912Z
-UID:smcl-696aab8eb0595799c096cda5@local-events
-DESCRIPTION:Join us for the Atherton Book Club every fourth Wednesday of t
- he month from 11:00 AM - 12:00 PM. We will be engaging in fun and lively d
- iscussions about books each month. We want to create a safe environment wh
- ere everyone feels welcome and heard. All book club participants can nomin
- ate book selections\, and we vote on the selection as a group. Please join
-  us!\n\nAges: Adult program (kids welcome to tag along\, not designed for 
- them)\nRegistration: required\nSource: https://smcl.bibliocommons.com/even
- ts/696aab8eb0595799c096cda5\nLast synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/696aab8eb0595799c096cda5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Tai Chi: Winter Session
-DTSTART;TZID=America/Los_Angeles:20270106T103000
-DTEND;TZID=America/Los_Angeles:20270106T113000
-DTSTAMP:20261120T205912Z
-UID:smcl-6aa31b1e8cf597003f92f2ae@local-events
-DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
- ncestor of all other styles of Taijiquan. This class will introduce the Ch
- en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
- -style Taijiquan form is soft and graceful with strong rooted stands that 
- will help students to develop strength\, balance\, coordination and an und
- erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
- of spiral movements that promote muscle relaxation and flexibility by redu
- cing physical tension and strain. Wuji Qigong (standing meditation) will h
- elp students to cultivate internal energy (qi) with proper body alignment 
- for better internal energy flow\, which will enhance their immune systems 
- and reduce physical and mental stress.\n\nPlease use the following form to
-  signup for email updates and an last-minute schedule changes. Registratio
- n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
- come to tag along\, not designed for them)\nRegistration: none\nSource: ht
- tps://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2ae\nLast synced:
-  2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2ae
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Creative Tools Exploration
-DTSTART;TZID=America/Los_Angeles:20270106T110000
-DTEND;TZID=America/Los_Angeles:20270106T120000
-DTSTAMP:20261120T205912Z
-UID:smcl-6acfbe56fee2d21deb233b8c@local-events
-DESCRIPTION:Need access to Adobe Creative Cloud or help with an Adobe Proj
- ect? Adobe Exploration is a drop in space where you can explore Adobe Crea
- tive Cloud and Makerspace Laptops. Bring your own project and work at your
-  own pace using Photoshop\, Illustrator\, Premiere Pro\, InDesign\, Acroba
- t\, and more. \n\nStaff are available to help you get started and answer q
- uestions.\n\nAges: Adult program (kids welcome to tag along\, not designed
-  for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/eve
- nts/6acfbe56fee2d21deb233b8c\nLast synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6acfbe56fee2d21deb233b8c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
-DTSTART;TZID=America/Los_Angeles:20270107T113000
-DTEND;TZID=America/Los_Angeles:20270107T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6ab4727c08693b0f73743501@local-events
-DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
- the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
- Wellness combines movement\, meditation and breathing exercises to tune in
- to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
- s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
- ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
- or email updates and an last-minute schedule changes. Registration is enco
- uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
- ag along\, not designed for them)\nRegistration: required\nSource: https:/
- /smcl.bibliocommons.com/events/6ab4727c08693b0f73743501\nLast synced: 2026
- -11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f73743501
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] 1:1 Genealogy Session
-DTSTART;TZID=America/Los_Angeles:20270107T143000
-DTEND;TZID=America/Los_Angeles:20270107T163000
-DTSTAMP:20261120T205912Z
-UID:smcl-6af7b190899b6100331387dc@local-events
-DESCRIPTION:Are\n you ready to uncover the fascinating stories of your anc
- estors? Join us\n for personalized 30-minute genealogy sessions that will 
- ignite your \npassion for family history!  \n\n\n\nWhat Awaits You:  \nAnc
- estry Library Edition: Unlock billions of records and start weaving your f
- amily tree! HeritageHub: Dive into captivating tales about your ancestors 
- and your local history. HeritageQuest: Discover hidden gems like census re
- cords\, military documents\, and so much more!My China Roots: Explore you
- r family history with My China Roots\, a Chinese genealogy website and dat
- abase.\nYour Journey Starts Here! Your\n suggested appointment date & time
-  are all TENTATIVE until you \nreceive an email confirmation. Whether you'
- re a beginner or a seasoned \nresearcher\, our sessions are designed to he
- lp you uncover your unique \nstory. Reserve your spot now and embark on th
- e adventure of discovering \nyour roots! \n\n \nREGISTER HERE\n\nAges: Adu
- lt program (kids welcome to tag along\, not designed for them)\nRegistrati
- on: none\nSource: https://smcl.bibliocommons.com/events/6af7b190899b610033
- 1387dc\nLast synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6af7b190899b6100331387dc
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Tai Chi: Winter Session
-DTSTART;TZID=America/Los_Angeles:20270113T103000
-DTEND;TZID=America/Los_Angeles:20270113T113000
-DTSTAMP:20261120T205912Z
-UID:smcl-6aa31b1e8cf597003f92f2af@local-events
-DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
- ncestor of all other styles of Taijiquan. This class will introduce the Ch
- en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
- -style Taijiquan form is soft and graceful with strong rooted stands that 
- will help students to develop strength\, balance\, coordination and an und
- erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
- of spiral movements that promote muscle relaxation and flexibility by redu
- cing physical tension and strain. Wuji Qigong (standing meditation) will h
- elp students to cultivate internal energy (qi) with proper body alignment 
- for better internal energy flow\, which will enhance their immune systems 
- and reduce physical and mental stress.\n\nPlease use the following form to
-  signup for email updates and an last-minute schedule changes. Registratio
- n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
- come to tag along\, not designed for them)\nRegistration: none\nSource: ht
- tps://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2af\nLast synced:
-  2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2af
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
-DTSTART;TZID=America/Los_Angeles:20270114T113000
-DTEND;TZID=America/Los_Angeles:20270114T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6ab4727c08693b0f73743502@local-events
-DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
- the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
- Wellness combines movement\, meditation and breathing exercises to tune in
- to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
- s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
- ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
- or email updates and an last-minute schedule changes. Registration is enco
- uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
- ag along\, not designed for them)\nRegistration: required\nSource: https:/
- /smcl.bibliocommons.com/events/6ab4727c08693b0f73743502\nLast synced: 2026
- -11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f73743502
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Cookbook Book Club
-DTSTART;TZID=America/Los_Angeles:20270114T180000
-DTEND;TZID=America/Los_Angeles:20270114T190000
-DTSTAMP:20261120T205912Z
-UID:smcl-6a6d051d88e9bf280034ac83@local-events
-DESCRIPTION:Do you love food and cooking? Join us for the Cookbook Book Cl
- ub\,\n where each month we explore a new cookbook\, try out recipes\, and 
- share \nour experiences. The featured cookbook will be available for check
- out at the\n meeting. \n\n*NOTE: for this month\, the Cookbook Club will t
- ake place on the first Thursday of the month.\n\n\nVisit our Cookbook Book
-  Club Info Hub      to find out more! \n\nNo registration is required at t
- his time. This book club is for adults ages 18+.\n\nAges: Adult program (k
- ids welcome to tag along\, not designed for them)\nRegistration: none\nSou
- rce: https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac83\nLast 
- synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac83
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Tai Chi: Winter Session
-DTSTART;TZID=America/Los_Angeles:20270120T103000
-DTEND;TZID=America/Los_Angeles:20270120T113000
-DTSTAMP:20261120T205912Z
-UID:smcl-6aa31b1e8cf597003f92f2b0@local-events
-DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
- ncestor of all other styles of Taijiquan. This class will introduce the Ch
- en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
- -style Taijiquan form is soft and graceful with strong rooted stands that 
- will help students to develop strength\, balance\, coordination and an und
- erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
- of spiral movements that promote muscle relaxation and flexibility by redu
- cing physical tension and strain. Wuji Qigong (standing meditation) will h
- elp students to cultivate internal energy (qi) with proper body alignment 
- for better internal energy flow\, which will enhance their immune systems 
- and reduce physical and mental stress.\n\nPlease use the following form to
-  signup for email updates and an last-minute schedule changes. Registratio
- n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
- come to tag along\, not designed for them)\nRegistration: none\nSource: ht
- tps://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b0\nLast synced:
-  2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Creative Tools Exploration
-DTSTART;TZID=America/Los_Angeles:20270120T110000
-DTEND;TZID=America/Los_Angeles:20270120T120000
-DTSTAMP:20261120T205912Z
-UID:smcl-6acfbe56fee2d21deb233b8d@local-events
-DESCRIPTION:Need access to Adobe Creative Cloud or help with an Adobe Proj
- ect? Adobe Exploration is a drop in space where you can explore Adobe Crea
- tive Cloud and Makerspace Laptops. Bring your own project and work at your
-  own pace using Photoshop\, Illustrator\, Premiere Pro\, InDesign\, Acroba
- t\, and more. \n\nStaff are available to help you get started and answer q
- uestions.\n\nAges: Adult program (kids welcome to tag along\, not designed
-  for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/eve
- nts/6acfbe56fee2d21deb233b8d\nLast synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6acfbe56fee2d21deb233b8d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
-DTSTART;TZID=America/Los_Angeles:20270121T113000
-DTEND;TZID=America/Los_Angeles:20270121T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6ab4727c08693b0f73743503@local-events
-DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
- the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
- Wellness combines movement\, meditation and breathing exercises to tune in
- to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
- s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
- ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
- or email updates and an last-minute schedule changes. Registration is enco
- uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
- ag along\, not designed for them)\nRegistration: required\nSource: https:/
- /smcl.bibliocommons.com/events/6ab4727c08693b0f73743503\nLast synced: 2026
- -11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f73743503
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Bamboo\, Blooms & Blessings: A Year of the Goat Calligraphy
-DTSTART;TZID=America/Los_Angeles:20270124T153000
-DTEND;TZID=America/Los_Angeles:20270124T163000
-DTSTAMP:20261120T205912Z
-UID:smcl-6abadb1c29c3d600332c40f8@local-events
-DESCRIPTION:Celebrate the arrival of the Year of the Goat through Chinese 
- culture\, calligraphy\, and hands-on creativity! Participants will learn a
- bout traditional Lunar New Year customs\, including the tradition of decor
- ating the home with flowers to welcome the new year. \n\nStep-by-step\, pa
- rticipants will create a unique hanging decoration by arranging faux flowe
- rs into traditional Chinese bamboo strips\, inspired by bamboo weaving\, a
- n important part of Chinese craft heritage. They will also learn to write 
- auspicious New Year phrases and draw adorable little goats to personalize 
- their artwork. Each participant will take home a one-of-a-kind handmade de
- coration\, perfect for hanging at home to welcome the Year of the Goat wit
- h flowers\, blessings\, and creativity!\n\nDue to high demand\, we ask tha
- t community members signup for a single occurrence of this series to so th
- at as many community members can participate in this experience as possibl
- e. Registration is required to attend\, and registration opens on Sunday
- \, January 3 at 6:00pm.\n\nAges: Adult program (kids welcome to tag along
- \, not designed for them)\nRegistration: required\nSource: https://smcl.bi
- bliocommons.com/events/6abadb1c29c3d600332c40f8\nLast synced: 2026-11-20 1
- 2:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6abadb1c29c3d600332c40f8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Tai Chi: Winter Session
-DTSTART;TZID=America/Los_Angeles:20270127T103000
-DTEND;TZID=America/Los_Angeles:20270127T113000
-DTSTAMP:20261120T205912Z
-UID:smcl-6aa31b1e8cf597003f92f2b1@local-events
-DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
- ncestor of all other styles of Taijiquan. This class will introduce the Ch
- en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
- -style Taijiquan form is soft and graceful with strong rooted stands that 
- will help students to develop strength\, balance\, coordination and an und
- erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
- of spiral movements that promote muscle relaxation and flexibility by redu
- cing physical tension and strain. Wuji Qigong (standing meditation) will h
- elp students to cultivate internal energy (qi) with proper body alignment 
- for better internal energy flow\, which will enhance their immune systems 
- and reduce physical and mental stress.\n\nPlease use the following form to
-  signup for email updates and an last-minute schedule changes. Registratio
- n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
- come to tag along\, not designed for them)\nRegistration: none\nSource: ht
- tps://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b1\nLast synced:
-  2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Atherton Book Club
-DTSTART;TZID=America/Los_Angeles:20270127T110000
-DTEND;TZID=America/Los_Angeles:20270127T120000
-DTSTAMP:20261120T205912Z
-UID:smcl-696aab8eb0595799c096cda6@local-events
-DESCRIPTION:Join us for the Atherton Book Club every fourth Wednesday of t
- he month from 11:00 AM - 12:00 PM. We will be engaging in fun and lively d
- iscussions about books each month. We want to create a safe environment wh
- ere everyone feels welcome and heard. All book club participants can nomin
- ate book selections\, and we vote on the selection as a group. Please join
-  us!\n\nAges: Adult program (kids welcome to tag along\, not designed for 
- them)\nRegistration: required\nSource: https://smcl.bibliocommons.com/even
- ts/696aab8eb0595799c096cda6\nLast synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/696aab8eb0595799c096cda6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
-DTSTART;TZID=America/Los_Angeles:20270128T113000
-DTEND;TZID=America/Los_Angeles:20270128T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6ab4727c08693b0f73743504@local-events
-DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
- the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
- Wellness combines movement\, meditation and breathing exercises to tune in
- to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
- s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
- ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
- or email updates and an last-minute schedule changes. Registration is enco
- uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
- ag along\, not designed for them)\nRegistration: required\nSource: https:/
- /smcl.bibliocommons.com/events/6ab4727c08693b0f73743504\nLast synced: 2026
- -11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f73743504
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Tai Chi: Winter Session
-DTSTART;TZID=America/Los_Angeles:20270203T103000
-DTEND;TZID=America/Los_Angeles:20270203T113000
-DTSTAMP:20261120T205912Z
-UID:smcl-6aa31b1e8cf597003f92f2b2@local-events
-DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
- ncestor of all other styles of Taijiquan. This class will introduce the Ch
- en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
- -style Taijiquan form is soft and graceful with strong rooted stands that 
- will help students to develop strength\, balance\, coordination and an und
- erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
- of spiral movements that promote muscle relaxation and flexibility by redu
- cing physical tension and strain. Wuji Qigong (standing meditation) will h
- elp students to cultivate internal energy (qi) with proper body alignment 
- for better internal energy flow\, which will enhance their immune systems 
- and reduce physical and mental stress.\n\nPlease use the following form to
-  signup for email updates and an last-minute schedule changes. Registratio
- n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
- come to tag along\, not designed for them)\nRegistration: none\nSource: ht
- tps://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b2\nLast synced:
-  2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Creative Tools Exploration
-DTSTART;TZID=America/Los_Angeles:20270203T110000
-DTEND;TZID=America/Los_Angeles:20270203T120000
-DTSTAMP:20261120T205912Z
-UID:smcl-6acfbe56fee2d21deb233b8e@local-events
-DESCRIPTION:Need access to Adobe Creative Cloud or help with an Adobe Proj
- ect? Adobe Exploration is a drop in space where you can explore Adobe Crea
- tive Cloud and Makerspace Laptops. Bring your own project and work at your
-  own pace using Photoshop\, Illustrator\, Premiere Pro\, InDesign\, Acroba
- t\, and more. \n\nStaff are available to help you get started and answer q
- uestions.\n\nAges: Adult program (kids welcome to tag along\, not designed
-  for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/eve
- nts/6acfbe56fee2d21deb233b8e\nLast synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6acfbe56fee2d21deb233b8e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
-DTSTART;TZID=America/Los_Angeles:20270204T113000
-DTEND;TZID=America/Los_Angeles:20270204T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6ab4727c08693b0f73743505@local-events
-DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
- the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
- Wellness combines movement\, meditation and breathing exercises to tune in
- to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
- s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
- ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
- or email updates and an last-minute schedule changes. Registration is enco
- uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
- ag along\, not designed for them)\nRegistration: required\nSource: https:/
- /smcl.bibliocommons.com/events/6ab4727c08693b0f73743505\nLast synced: 2026
- -11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f73743505
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] 1:1 Genealogy Session
-DTSTART;TZID=America/Los_Angeles:20270204T143000
-DTEND;TZID=America/Los_Angeles:20270204T163000
-DTSTAMP:20261120T205912Z
-UID:smcl-6af7b190899b6100331387dd@local-events
-DESCRIPTION:Are\n you ready to uncover the fascinating stories of your anc
- estors? Join us\n for personalized 30-minute genealogy sessions that will 
- ignite your \npassion for family history!  \n\n\n\nWhat Awaits You:  \nAnc
- estry Library Edition: Unlock billions of records and start weaving your f
- amily tree! HeritageHub: Dive into captivating tales about your ancestors 
- and your local history. HeritageQuest: Discover hidden gems like census re
- cords\, military documents\, and so much more!My China Roots: Explore you
- r family history with My China Roots\, a Chinese genealogy website and dat
- abase.\nYour Journey Starts Here! Your\n suggested appointment date & time
-  are all TENTATIVE until you \nreceive an email confirmation. Whether you'
- re a beginner or a seasoned \nresearcher\, our sessions are designed to he
- lp you uncover your unique \nstory. Reserve your spot now and embark on th
- e adventure of discovering \nyour roots! \n\n \nREGISTER HERE\n\nAges: Adu
- lt program (kids welcome to tag along\, not designed for them)\nRegistrati
- on: none\nSource: https://smcl.bibliocommons.com/events/6af7b190899b610033
- 1387dd\nLast synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6af7b190899b6100331387dd
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Tai Chi: Winter Session
-DTSTART;TZID=America/Los_Angeles:20270210T103000
-DTEND;TZID=America/Los_Angeles:20270210T113000
-DTSTAMP:20261120T205912Z
-UID:smcl-6aa31b1e8cf597003f92f2b3@local-events
-DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
- ncestor of all other styles of Taijiquan. This class will introduce the Ch
- en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
- -style Taijiquan form is soft and graceful with strong rooted stands that 
- will help students to develop strength\, balance\, coordination and an und
- erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
- of spiral movements that promote muscle relaxation and flexibility by redu
- cing physical tension and strain. Wuji Qigong (standing meditation) will h
- elp students to cultivate internal energy (qi) with proper body alignment 
- for better internal energy flow\, which will enhance their immune systems 
- and reduce physical and mental stress.\n\nPlease use the following form to
-  signup for email updates and an last-minute schedule changes. Registratio
- n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
- come to tag along\, not designed for them)\nRegistration: none\nSource: ht
- tps://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b3\nLast synced:
-  2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Cookbook Book Club
-DTSTART;TZID=America/Los_Angeles:20270211T180000
-DTEND;TZID=America/Los_Angeles:20270211T190000
-DTSTAMP:20261120T205912Z
-UID:smcl-6a6d051d88e9bf280034ac84@local-events
-DESCRIPTION:Do you love food and cooking? Join us for the Cookbook Book Cl
- ub\,\n where each month we explore a new cookbook\, try out recipes\, and 
- share \nour experiences. The featured cookbook will be available for check
- out at the\n meeting. \n\n*NOTE: for this month\, the Cookbook Club will t
- ake place on the first Thursday of the month.\n\n\nVisit our Cookbook Book
-  Club Info Hub      to find out more! \n\nNo registration is required at t
- his time. This book club is for adults ages 18+.\n\nAges: Adult program (k
- ids welcome to tag along\, not designed for them)\nRegistration: none\nSou
- rce: https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac84\nLast 
- synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac84
+URL:https://smcl.bibliocommons.com/events/6aeb673d3c35b95bcb29a918
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ATH] Financial Literacy Workshop: Future Planning & Wealth Preser
  vation
 DTSTART;TZID=America/Los_Angeles:20270212T113000
 DTEND;TZID=America/Los_Angeles:20270212T133000
-DTSTAMP:20261120T205912Z
+DTSTAMP:20261121T195825Z
 UID:smcl-6b00108ad164f314d93ceed7@local-events
 DESCRIPTION:Planning for the future involves preparing for major financial
   milestones while protecting the resources accumulated throughout life. Th
@@ -732,636 +1380,103 @@ DESCRIPTION:Planning for the future involves preparing for major financial
  egistration is encouraged but not required.\n\nAges: Adult program (kids w
  elcome to tag along\, not designed for them)\nRegistration: required\nSour
  ce: https://smcl.bibliocommons.com/events/6b00108ad164f314d93ceed7\nLast s
- ynced: 2026-11-20 12:59 PST
+ ynced: 2026-11-21 11:58 PST
 LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
 URL:https://smcl.bibliocommons.com/events/6b00108ad164f314d93ceed7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Tai Chi: Winter Session
-DTSTART;TZID=America/Los_Angeles:20270217T103000
-DTEND;TZID=America/Los_Angeles:20270217T113000
-DTSTAMP:20261120T205912Z
-UID:smcl-6aa31b1e8cf597003f92f2b4@local-events
-DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
- ncestor of all other styles of Taijiquan. This class will introduce the Ch
- en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
- -style Taijiquan form is soft and graceful with strong rooted stands that 
- will help students to develop strength\, balance\, coordination and an und
- erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
- of spiral movements that promote muscle relaxation and flexibility by redu
- cing physical tension and strain. Wuji Qigong (standing meditation) will h
- elp students to cultivate internal energy (qi) with proper body alignment 
- for better internal energy flow\, which will enhance their immune systems 
- and reduce physical and mental stress.\n\nPlease use the following form to
-  signup for email updates and an last-minute schedule changes. Registratio
- n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
- come to tag along\, not designed for them)\nRegistration: none\nSource: ht
- tps://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b4\nLast synced:
-  2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b4
+SUMMARY:[RWC] Let's Play: Board Games for Grown-ups @ Redwood Shores
+DTSTART;TZID=America/Los_Angeles:20261123T110000
+DTEND;TZID=America/Los_Angeles:20261123T120000
+DTSTAMP:20261121T195825Z
+UID:rwc_library-rwclib-event-95129@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/95129/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d11%26cury%3d2026&widgetId=3987\n\nAges: Adult program (kids welcome to t
+ ag along\, not designed for them)\nSource: https://www.redwoodcity.org/Hom
+ e/Components/Calendar/Event/95129/2638?backlist=%2fdepartments%2flibrary%2
+ fevents%3fcurm%3d11%26cury%3d2026&widgetId=3987\nLast synced: 2026-11-21 1
+ 1:58 PST
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/95129/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d11%26cury%3d2026&widge
+ tId=3987
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ATH] Creative Tools Exploration
-DTSTART;TZID=America/Los_Angeles:20270217T110000
-DTEND;TZID=America/Los_Angeles:20270217T120000
-DTSTAMP:20261120T205912Z
-UID:smcl-6acfbe56fee2d21deb233b8f@local-events
-DESCRIPTION:Need access to Adobe Creative Cloud or help with an Adobe Proj
- ect? Adobe Exploration is a drop in space where you can explore Adobe Crea
- tive Cloud and Makerspace Laptops. Bring your own project and work at your
-  own pace using Photoshop\, Illustrator\, Premiere Pro\, InDesign\, Acroba
- t\, and more. \n\nStaff are available to help you get started and answer q
- uestions.\n\nAges: Adult program (kids welcome to tag along\, not designed
-  for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/eve
- nts/6acfbe56fee2d21deb233b8f\nLast synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6acfbe56fee2d21deb233b8f
+SUMMARY:[RWC] Open Sewing
+DTSTART;TZID=America/Los_Angeles:20261201T103000
+DTEND;TZID=America/Los_Angeles:20261201T113000
+DTSTAMP:20261121T195825Z
+UID:rwc_library-rwclib-event-99077@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/99077/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d12%26cury%3d2026&widgetId=3987\n\nAges: Adult program (kids welcome to t
+ ag along\, not designed for them)\nSource: https://www.redwoodcity.org/Hom
+ e/Components/Calendar/Event/99077/2638?backlist=%2fdepartments%2flibrary%2
+ fevents%3fcurm%3d12%26cury%3d2026&widgetId=3987\nLast synced: 2026-11-21 1
+ 1:58 PST
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/99077/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d12%26cury%3d2026&widge
+ tId=3987
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
-DTSTART;TZID=America/Los_Angeles:20270218T113000
-DTEND;TZID=America/Los_Angeles:20270218T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6ab4727c08693b0f73743506@local-events
-DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
- the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
- Wellness combines movement\, meditation and breathing exercises to tune in
- to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
- s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
- ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
- or email updates and an last-minute schedule changes. Registration is enco
- uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
- ag along\, not designed for them)\nRegistration: required\nSource: https:/
- /smcl.bibliocommons.com/events/6ab4727c08693b0f73743506\nLast synced: 2026
- -11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f73743506
+SUMMARY:[RWC] Open Sewing
+DTSTART;TZID=America/Los_Angeles:20261208T103000
+DTEND;TZID=America/Los_Angeles:20261208T113000
+DTSTAMP:20261121T195825Z
+UID:rwc_library-rwclib-event-99076@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/99076/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d12%26cury%3d2026&widgetId=3987\n\nAges: Adult program (kids welcome to t
+ ag along\, not designed for them)\nSource: https://www.redwoodcity.org/Hom
+ e/Components/Calendar/Event/99076/2638?backlist=%2fdepartments%2flibrary%2
+ fevents%3fcurm%3d12%26cury%3d2026&widgetId=3987\nLast synced: 2026-11-21 1
+ 1:58 PST
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/99076/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d12%26cury%3d2026&widge
+ tId=3987
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Tai Chi: Winter Session
-DTSTART;TZID=America/Los_Angeles:20270224T103000
-DTEND;TZID=America/Los_Angeles:20270224T113000
-DTSTAMP:20261120T205912Z
-UID:smcl-6aa31b1e8cf597003f92f2b5@local-events
-DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
- ncestor of all other styles of Taijiquan. This class will introduce the Ch
- en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
- -style Taijiquan form is soft and graceful with strong rooted stands that 
- will help students to develop strength\, balance\, coordination and an und
- erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
- of spiral movements that promote muscle relaxation and flexibility by redu
- cing physical tension and strain. Wuji Qigong (standing meditation) will h
- elp students to cultivate internal energy (qi) with proper body alignment 
- for better internal energy flow\, which will enhance their immune systems 
- and reduce physical and mental stress.\n\nPlease use the following form to
-  signup for email updates and an last-minute schedule changes. Registratio
- n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
- come to tag along\, not designed for them)\nRegistration: none\nSource: ht
- tps://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b5\nLast synced:
-  2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6aa31b1e8cf597003f92f2b5
+SUMMARY:[RWC] Let's Play: Board Games for Grown-ups @ Redwood Shores
+DTSTART;TZID=America/Los_Angeles:20261214T110000
+DTEND;TZID=America/Los_Angeles:20261214T120000
+DTSTAMP:20261121T195825Z
+UID:rwc_library-rwclib-event-95128@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/95128/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d12%26cury%3d2026&widgetId=3987\n\nAges: Adult program (kids welcome to t
+ ag along\, not designed for them)\nSource: https://www.redwoodcity.org/Hom
+ e/Components/Calendar/Event/95128/2638?backlist=%2fdepartments%2flibrary%2
+ fevents%3fcurm%3d12%26cury%3d2026&widgetId=3987\nLast synced: 2026-11-21 1
+ 1:58 PST
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/95128/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d12%26cury%3d2026&widge
+ tId=3987
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
-DTSTART;TZID=America/Los_Angeles:20270225T113000
-DTEND;TZID=America/Los_Angeles:20270225T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6ab4727c08693b0f73743507@local-events
-DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
- the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
- Wellness combines movement\, meditation and breathing exercises to tune in
- to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
- s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
- ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
- or email updates and an last-minute schedule changes. Registration is enco
- uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
- ag along\, not designed for them)\nRegistration: required\nSource: https:/
- /smcl.bibliocommons.com/events/6ab4727c08693b0f73743507\nLast synced: 2026
- -11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f73743507
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Creative Tools Exploration
-DTSTART;TZID=America/Los_Angeles:20270303T110000
-DTEND;TZID=America/Los_Angeles:20270303T120000
-DTSTAMP:20261120T205912Z
-UID:smcl-6acfbe56fee2d21deb233b90@local-events
-DESCRIPTION:Need access to Adobe Creative Cloud or help with an Adobe Proj
- ect? Adobe Exploration is a drop in space where you can explore Adobe Crea
- tive Cloud and Makerspace Laptops. Bring your own project and work at your
-  own pace using Photoshop\, Illustrator\, Premiere Pro\, InDesign\, Acroba
- t\, and more. \n\nStaff are available to help you get started and answer q
- uestions.\n\nAges: Adult program (kids welcome to tag along\, not designed
-  for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/eve
- nts/6acfbe56fee2d21deb233b90\nLast synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6acfbe56fee2d21deb233b90
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
-DTSTART;TZID=America/Los_Angeles:20270304T113000
-DTEND;TZID=America/Los_Angeles:20270304T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6ab4727c08693b0f73743508@local-events
-DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
- the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
- Wellness combines movement\, meditation and breathing exercises to tune in
- to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
- s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
- ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
- or email updates and an last-minute schedule changes. Registration is enco
- uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
- ag along\, not designed for them)\nRegistration: required\nSource: https:/
- /smcl.bibliocommons.com/events/6ab4727c08693b0f73743508\nLast synced: 2026
- -11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f73743508
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] 1:1 Genealogy Session
-DTSTART;TZID=America/Los_Angeles:20270304T143000
-DTEND;TZID=America/Los_Angeles:20270304T163000
-DTSTAMP:20261120T205912Z
-UID:smcl-6af7b190899b6100331387de@local-events
-DESCRIPTION:Are\n you ready to uncover the fascinating stories of your anc
- estors? Join us\n for personalized 30-minute genealogy sessions that will 
- ignite your \npassion for family history!  \n\n\n\nWhat Awaits You:  \nAnc
- estry Library Edition: Unlock billions of records and start weaving your f
- amily tree! HeritageHub: Dive into captivating tales about your ancestors 
- and your local history. HeritageQuest: Discover hidden gems like census re
- cords\, military documents\, and so much more!My China Roots: Explore you
- r family history with My China Roots\, a Chinese genealogy website and dat
- abase.\nYour Journey Starts Here! Your\n suggested appointment date & time
-  are all TENTATIVE until you \nreceive an email confirmation. Whether you'
- re a beginner or a seasoned \nresearcher\, our sessions are designed to he
- lp you uncover your unique \nstory. Reserve your spot now and embark on th
- e adventure of discovering \nyour roots! \n\n \nREGISTER HERE\n\nAges: Adu
- lt program (kids welcome to tag along\, not designed for them)\nRegistrati
- on: none\nSource: https://smcl.bibliocommons.com/events/6af7b190899b610033
- 1387de\nLast synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6af7b190899b6100331387de
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Cookbook Book Club
-DTSTART;TZID=America/Los_Angeles:20270311T180000
-DTEND;TZID=America/Los_Angeles:20270311T190000
-DTSTAMP:20261120T205912Z
-UID:smcl-6a6d051d88e9bf280034ac85@local-events
-DESCRIPTION:Do you love food and cooking? Join us for the Cookbook Book Cl
- ub\,\n where each month we explore a new cookbook\, try out recipes\, and 
- share \nour experiences. The featured cookbook will be available for check
- out at the\n meeting. \n\n*NOTE: for this month\, the Cookbook Club will t
- ake place on the first Thursday of the month.\n\n\nVisit our Cookbook Book
-  Club Info Hub      to find out more! \n\nNo registration is required at t
- his time. This book club is for adults ages 18+.\n\nAges: Adult program (k
- ids welcome to tag along\, not designed for them)\nRegistration: none\nSou
- rce: https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac85\nLast 
- synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac85
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Creative Tools Exploration
-DTSTART;TZID=America/Los_Angeles:20270317T110000
-DTEND;TZID=America/Los_Angeles:20270317T120000
-DTSTAMP:20261120T205912Z
-UID:smcl-6acfbe56fee2d21deb233b91@local-events
-DESCRIPTION:Need access to Adobe Creative Cloud or help with an Adobe Proj
- ect? Adobe Exploration is a drop in space where you can explore Adobe Crea
- tive Cloud and Makerspace Laptops. Bring your own project and work at your
-  own pace using Photoshop\, Illustrator\, Premiere Pro\, InDesign\, Acroba
- t\, and more. \n\nStaff are available to help you get started and answer q
- uestions.\n\nAges: Adult program (kids welcome to tag along\, not designed
-  for them)\nRegistration: none\nSource: https://smcl.bibliocommons.com/eve
- nts/6acfbe56fee2d21deb233b91\nLast synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6acfbe56fee2d21deb233b91
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
-DTSTART;TZID=America/Los_Angeles:20270318T113000
-DTEND;TZID=America/Los_Angeles:20270318T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6ab4727c08693b0f73743509@local-events
-DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
- the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
- Wellness combines movement\, meditation and breathing exercises to tune in
- to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
- s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
- ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
- or email updates and an last-minute schedule changes. Registration is enco
- uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
- ag along\, not designed for them)\nRegistration: required\nSource: https:/
- /smcl.bibliocommons.com/events/6ab4727c08693b0f73743509\nLast synced: 2026
- -11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f73743509
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Winter
-DTSTART;TZID=America/Los_Angeles:20270325T113000
-DTEND;TZID=America/Los_Angeles:20270325T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6ab4727c08693b0f7374350a@local-events
-DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
- the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
- Wellness combines movement\, meditation and breathing exercises to tune in
- to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
- s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watki
- ns Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup f
- or email updates and an last-minute schedule changes. Registration is enco
- uraged\, but it is not required.\n\nAges: Adult program (kids welcome to t
- ag along\, not designed for them)\nRegistration: required\nSource: https:/
- /smcl.bibliocommons.com/events/6ab4727c08693b0f7374350a\nLast synced: 2026
- -11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6ab4727c08693b0f7374350a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Spring
-DTSTART;TZID=America/Los_Angeles:20270401T113000
-DTEND;TZID=America/Los_Angeles:20270401T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6ab472a608693b0f7374350d@local-events
-DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
- the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
- Wellness combines movement\, meditation and breathing exercises to tune in
- to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
- s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watkin
- s Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup fo
- r email updates and an last-minute schedule changes. Registration is encou
- raged\, but it is not required.\n\nAges: Adult program (kids welcome to ta
- g along\, not designed for them)\nRegistration: required\nSource: https://
- smcl.bibliocommons.com/events/6ab472a608693b0f7374350d\nLast synced: 2026-
- 11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6ab472a608693b0f7374350d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] 1:1 Genealogy Session
-DTSTART;TZID=America/Los_Angeles:20270401T143000
-DTEND;TZID=America/Los_Angeles:20270401T163000
-DTSTAMP:20261120T205912Z
-UID:smcl-6af7b190899b6100331387df@local-events
-DESCRIPTION:Are\n you ready to uncover the fascinating stories of your anc
- estors? Join us\n for personalized 30-minute genealogy sessions that will 
- ignite your \npassion for family history!  \n\n\n\nWhat Awaits You:  \nAnc
- estry Library Edition: Unlock billions of records and start weaving your f
- amily tree! HeritageHub: Dive into captivating tales about your ancestors 
- and your local history. HeritageQuest: Discover hidden gems like census re
- cords\, military documents\, and so much more!My China Roots: Explore you
- r family history with My China Roots\, a Chinese genealogy website and dat
- abase.\nYour Journey Starts Here! Your\n suggested appointment date & time
-  are all TENTATIVE until you \nreceive an email confirmation. Whether you'
- re a beginner or a seasoned \nresearcher\, our sessions are designed to he
- lp you uncover your unique \nstory. Reserve your spot now and embark on th
- e adventure of discovering \nyour roots! \n\n \nREGISTER HERE\n\nAges: Adu
- lt program (kids welcome to tag along\, not designed for them)\nRegistrati
- on: none\nSource: https://smcl.bibliocommons.com/events/6af7b190899b610033
- 1387df\nLast synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6af7b190899b6100331387df
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Tai Chi: Spring Session
-DTSTART;TZID=America/Los_Angeles:20270407T113000
-DTEND;TZID=America/Los_Angeles:20270407T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6aa31b29a5dbde002aa3a689@local-events
-DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
- ncestor of all other styles of Taijiquan. This class will introduce the Ch
- en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
- -style Taijiquan form is soft and graceful with strong rooted stands that 
- will help students to develop strength\, balance\, coordination and an und
- erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
- of spiral movements that promote muscle relaxation and flexibility by redu
- cing physical tension and strain. Wuji Qigong (standing meditation) will h
- elp students to cultivate internal energy (qi) with proper body alignment 
- for better internal energy flow\, which will enhance their immune systems 
- and reduce physical and mental stress.\n\nPlease use the following form to
-  signup for email updates and an last-minute schedule changes. Registratio
- n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
- come to tag along\, not designed for them)\nRegistration: none\nSource: ht
- tps://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a689\nLast synced:
-  2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a689
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Spring
-DTSTART;TZID=America/Los_Angeles:20270408T113000
-DTEND;TZID=America/Los_Angeles:20270408T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6ab472a608693b0f7374350e@local-events
-DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
- the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
- Wellness combines movement\, meditation and breathing exercises to tune in
- to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
- s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watkin
- s Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup fo
- r email updates and an last-minute schedule changes. Registration is encou
- raged\, but it is not required.\n\nAges: Adult program (kids welcome to ta
- g along\, not designed for them)\nRegistration: required\nSource: https://
- smcl.bibliocommons.com/events/6ab472a608693b0f7374350e\nLast synced: 2026-
- 11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6ab472a608693b0f7374350e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Cookbook Book Club
-DTSTART;TZID=America/Los_Angeles:20270408T180000
-DTEND;TZID=America/Los_Angeles:20270408T190000
-DTSTAMP:20261120T205912Z
-UID:smcl-6a6d051d88e9bf280034ac86@local-events
-DESCRIPTION:Do you love food and cooking? Join us for the Cookbook Book Cl
- ub\,\n where each month we explore a new cookbook\, try out recipes\, and 
- share \nour experiences. The featured cookbook will be available for check
- out at the\n meeting. \n\n*NOTE: for this month\, the Cookbook Club will t
- ake place on the first Thursday of the month.\n\n\nVisit our Cookbook Book
-  Club Info Hub      to find out more! \n\nNo registration is required at t
- his time. This book club is for adults ages 18+.\n\nAges: Adult program (k
- ids welcome to tag along\, not designed for them)\nRegistration: none\nSou
- rce: https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac86\nLast 
- synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac86
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Tai Chi: Spring Session
-DTSTART;TZID=America/Los_Angeles:20270414T113000
-DTEND;TZID=America/Los_Angeles:20270414T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6aa31b29a5dbde002aa3a68a@local-events
-DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
- ncestor of all other styles of Taijiquan. This class will introduce the Ch
- en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
- -style Taijiquan form is soft and graceful with strong rooted stands that 
- will help students to develop strength\, balance\, coordination and an und
- erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
- of spiral movements that promote muscle relaxation and flexibility by redu
- cing physical tension and strain. Wuji Qigong (standing meditation) will h
- elp students to cultivate internal energy (qi) with proper body alignment 
- for better internal energy flow\, which will enhance their immune systems 
- and reduce physical and mental stress.\n\nPlease use the following form to
-  signup for email updates and an last-minute schedule changes. Registratio
- n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
- come to tag along\, not designed for them)\nRegistration: none\nSource: ht
- tps://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68a\nLast synced:
-  2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Spring
-DTSTART;TZID=America/Los_Angeles:20270415T113000
-DTEND;TZID=America/Los_Angeles:20270415T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6ab472a608693b0f7374350f@local-events
-DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
- the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
- Wellness combines movement\, meditation and breathing exercises to tune in
- to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
- s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watkin
- s Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup fo
- r email updates and an last-minute schedule changes. Registration is encou
- raged\, but it is not required.\n\nAges: Adult program (kids welcome to ta
- g along\, not designed for them)\nRegistration: required\nSource: https://
- smcl.bibliocommons.com/events/6ab472a608693b0f7374350f\nLast synced: 2026-
- 11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6ab472a608693b0f7374350f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Tai Chi: Spring Session
-DTSTART;TZID=America/Los_Angeles:20270421T113000
-DTEND;TZID=America/Los_Angeles:20270421T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6aa31b29a5dbde002aa3a68b@local-events
-DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
- ncestor of all other styles of Taijiquan. This class will introduce the Ch
- en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
- -style Taijiquan form is soft and graceful with strong rooted stands that 
- will help students to develop strength\, balance\, coordination and an und
- erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
- of spiral movements that promote muscle relaxation and flexibility by redu
- cing physical tension and strain. Wuji Qigong (standing meditation) will h
- elp students to cultivate internal energy (qi) with proper body alignment 
- for better internal energy flow\, which will enhance their immune systems 
- and reduce physical and mental stress.\n\nPlease use the following form to
-  signup for email updates and an last-minute schedule changes. Registratio
- n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
- come to tag along\, not designed for them)\nRegistration: none\nSource: ht
- tps://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68b\nLast synced:
-  2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Spring
-DTSTART;TZID=America/Los_Angeles:20270422T113000
-DTEND;TZID=America/Los_Angeles:20270422T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6ab472a608693b0f73743510@local-events
-DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
- the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
- Wellness combines movement\, meditation and breathing exercises to tune in
- to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
- s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watkin
- s Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup fo
- r email updates and an last-minute schedule changes. Registration is encou
- raged\, but it is not required.\n\nAges: Adult program (kids welcome to ta
- g along\, not designed for them)\nRegistration: required\nSource: https://
- smcl.bibliocommons.com/events/6ab472a608693b0f73743510\nLast synced: 2026-
- 11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6ab472a608693b0f73743510
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Tai Chi: Spring Session
-DTSTART;TZID=America/Los_Angeles:20270428T113000
-DTEND;TZID=America/Los_Angeles:20270428T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6aa31b29a5dbde002aa3a68c@local-events
-DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
- ncestor of all other styles of Taijiquan. This class will introduce the Ch
- en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
- -style Taijiquan form is soft and graceful with strong rooted stands that 
- will help students to develop strength\, balance\, coordination and an und
- erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
- of spiral movements that promote muscle relaxation and flexibility by redu
- cing physical tension and strain. Wuji Qigong (standing meditation) will h
- elp students to cultivate internal energy (qi) with proper body alignment 
- for better internal energy flow\, which will enhance their immune systems 
- and reduce physical and mental stress.\n\nPlease use the following form to
-  signup for email updates and an last-minute schedule changes. Registratio
- n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
- come to tag along\, not designed for them)\nRegistration: none\nSource: ht
- tps://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68c\nLast synced:
-  2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Tai Chi: Spring Session
-DTSTART;TZID=America/Los_Angeles:20270505T113000
-DTEND;TZID=America/Los_Angeles:20270505T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6aa31b29a5dbde002aa3a68d@local-events
-DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
- ncestor of all other styles of Taijiquan. This class will introduce the Ch
- en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
- -style Taijiquan form is soft and graceful with strong rooted stands that 
- will help students to develop strength\, balance\, coordination and an und
- erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
- of spiral movements that promote muscle relaxation and flexibility by redu
- cing physical tension and strain. Wuji Qigong (standing meditation) will h
- elp students to cultivate internal energy (qi) with proper body alignment 
- for better internal energy flow\, which will enhance their immune systems 
- and reduce physical and mental stress.\n\nPlease use the following form to
-  signup for email updates and an last-minute schedule changes. Registratio
- n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
- come to tag along\, not designed for them)\nRegistration: none\nSource: ht
- tps://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68d\nLast synced:
-  2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Spring
-DTSTART;TZID=America/Los_Angeles:20270506T113000
-DTEND;TZID=America/Los_Angeles:20270506T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6ab472a608693b0f73743511@local-events
-DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
- the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
- Wellness combines movement\, meditation and breathing exercises to tune in
- to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
- s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watkin
- s Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup fo
- r email updates and an last-minute schedule changes. Registration is encou
- raged\, but it is not required.\n\nAges: Adult program (kids welcome to ta
- g along\, not designed for them)\nRegistration: required\nSource: https://
- smcl.bibliocommons.com/events/6ab472a608693b0f73743511\nLast synced: 2026-
- 11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6ab472a608693b0f73743511
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] 1:1 Genealogy Session
-DTSTART;TZID=America/Los_Angeles:20270506T143000
-DTEND;TZID=America/Los_Angeles:20270506T163000
-DTSTAMP:20261120T205912Z
-UID:smcl-6af7b190899b6100331387e0@local-events
-DESCRIPTION:Are\n you ready to uncover the fascinating stories of your anc
- estors? Join us\n for personalized 30-minute genealogy sessions that will 
- ignite your \npassion for family history!  \n\n\n\nWhat Awaits You:  \nAnc
- estry Library Edition: Unlock billions of records and start weaving your f
- amily tree! HeritageHub: Dive into captivating tales about your ancestors 
- and your local history. HeritageQuest: Discover hidden gems like census re
- cords\, military documents\, and so much more!My China Roots: Explore you
- r family history with My China Roots\, a Chinese genealogy website and dat
- abase.\nYour Journey Starts Here! Your\n suggested appointment date & time
-  are all TENTATIVE until you \nreceive an email confirmation. Whether you'
- re a beginner or a seasoned \nresearcher\, our sessions are designed to he
- lp you uncover your unique \nstory. Reserve your spot now and embark on th
- e adventure of discovering \nyour roots! \n\n \nREGISTER HERE\n\nAges: Adu
- lt program (kids welcome to tag along\, not designed for them)\nRegistrati
- on: none\nSource: https://smcl.bibliocommons.com/events/6af7b190899b610033
- 1387e0\nLast synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6af7b190899b6100331387e0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Tai Chi: Spring Session
-DTSTART;TZID=America/Los_Angeles:20270512T113000
-DTEND;TZID=America/Los_Angeles:20270512T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6aa31b29a5dbde002aa3a68e@local-events
-DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
- ncestor of all other styles of Taijiquan. This class will introduce the Ch
- en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
- -style Taijiquan form is soft and graceful with strong rooted stands that 
- will help students to develop strength\, balance\, coordination and an und
- erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
- of spiral movements that promote muscle relaxation and flexibility by redu
- cing physical tension and strain. Wuji Qigong (standing meditation) will h
- elp students to cultivate internal energy (qi) with proper body alignment 
- for better internal energy flow\, which will enhance their immune systems 
- and reduce physical and mental stress.\n\nPlease use the following form to
-  signup for email updates and an last-minute schedule changes. Registratio
- n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
- come to tag along\, not designed for them)\nRegistration: none\nSource: ht
- tps://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68e\nLast synced:
-  2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68e
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Yoga at Holbrook-Palmer Park: Spring
-DTSTART;TZID=America/Los_Angeles:20270513T113000
-DTEND;TZID=America/Los_Angeles:20270513T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6ab472a608693b0f73743512@local-events
-DESCRIPTION:Join us as we welcome Krystle Sarkissian Yoga and Wellness to 
- the Atherton Library for a Gentle Yoga class. Krystle Sarkissian Yoga and 
- Wellness combines movement\, meditation and breathing exercises to tune in
- to your mind-body connection. Please bring your own yoga mat.\n\nThis clas
- s will be located in Jennings Pavilion at Holbrook-Palmer Park (150 Watkin
- s Ave\, Atherton\, CA 94027)\n\nPlease use the following form to signup fo
- r email updates and an last-minute schedule changes. Registration is encou
- raged\, but it is not required.\n\nAges: Adult program (kids welcome to ta
- g along\, not designed for them)\nRegistration: required\nSource: https://
- smcl.bibliocommons.com/events/6ab472a608693b0f73743512\nLast synced: 2026-
- 11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6ab472a608693b0f73743512
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Cookbook Book Club
-DTSTART;TZID=America/Los_Angeles:20270513T180000
-DTEND;TZID=America/Los_Angeles:20270513T190000
-DTSTAMP:20261120T205912Z
-UID:smcl-6a6d051d88e9bf280034ac87@local-events
-DESCRIPTION:Do you love food and cooking? Join us for the Cookbook Book Cl
- ub\,\n where each month we explore a new cookbook\, try out recipes\, and 
- share \nour experiences. The featured cookbook will be available for check
- out at the\n meeting. \n\n*NOTE: for this month\, the Cookbook Club will t
- ake place on the first Thursday of the month.\n\n\nVisit our Cookbook Book
-  Club Info Hub      to find out more! \n\nNo registration is required at t
- his time. This book club is for adults ages 18+.\n\nAges: Adult program (k
- ids welcome to tag along\, not designed for them)\nRegistration: none\nSou
- rce: https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac87\nLast 
- synced: 2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6a6d051d88e9bf280034ac87
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ATH] Seasonal Tai Chi: Spring Session
-DTSTART;TZID=America/Los_Angeles:20270519T113000
-DTEND;TZID=America/Los_Angeles:20270519T123000
-DTSTAMP:20261120T205912Z
-UID:smcl-6aa31b29a5dbde002aa3a68f@local-events
-DESCRIPTION:Chen-style Taijiquan (Tai Chi) is widely acknowledged as the a
- ncestor of all other styles of Taijiquan. This class will introduce the Ch
- en-style Taijiquan form\, Silk-reeling Exercises and Wuji Qigong. The Chen
- -style Taijiquan form is soft and graceful with strong rooted stands that 
- will help students to develop strength\, balance\, coordination and an und
- erstanding of basic Taiji principles. Silk-reeling Exercises are a series 
- of spiral movements that promote muscle relaxation and flexibility by redu
- cing physical tension and strain. Wuji Qigong (standing meditation) will h
- elp students to cultivate internal energy (qi) with proper body alignment 
- for better internal energy flow\, which will enhance their immune systems 
- and reduce physical and mental stress.\n\nPlease use the following form to
-  signup for email updates and an last-minute schedule changes. Registratio
- n is encouraged\, but it is not required.\n\nAges: Adult program (kids wel
- come to tag along\, not designed for them)\nRegistration: none\nSource: ht
- tps://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68f\nLast synced:
-  2026-11-20 12:59 PST
-LOCATION:Atherton Library\, 2 Dinkelspiel Station Ln\, Atherton\, CA 94027
-URL:https://smcl.bibliocommons.com/events/6aa31b29a5dbde002aa3a68f
+SUMMARY:[RWC] Open Sewing
+DTSTART;TZID=America/Los_Angeles:20261215T103000
+DTEND;TZID=America/Los_Angeles:20261215T113000
+DTSTAMP:20261121T195825Z
+UID:rwc_library-rwclib-event-99075@local-events
+DESCRIPTION:See event page: https://www.redwoodcity.org/Home/Components/Ca
+ lendar/Event/99075/2638?backlist=%2fdepartments%2flibrary%2fevents%3fcurm%
+ 3d12%26cury%3d2026&widgetId=3987\n\nAges: Adult program (kids welcome to t
+ ag along\, not designed for them)\nSource: https://www.redwoodcity.org/Hom
+ e/Components/Calendar/Event/99075/2638?backlist=%2fdepartments%2flibrary%2
+ fevents%3fcurm%3d12%26cury%3d2026&widgetId=3987\nLast synced: 2026-11-21 1
+ 1:58 PST
+LOCATION:Redwood City Public Library\, 1044 Middlefield Rd\, Redwood City
+ \, CA 94063
+URL:https://www.redwoodcity.org/Home/Components/Calendar/Event/99075/2638?
+ backlist=%2fdepartments%2flibrary%2fevents%3fcurm%3d12%26cury%3d2026&widge
+ tId=3987
 END:VEVENT
 END:VCALENDAR
